@@ -17,33 +17,34 @@ const nextConfig: NextConfig = {
       { protocol: "https", hostname: "images.unsplash.com" },
       { protocol: "https", hostname: "source.unsplash.com" },
 
-      // --- EdSurge --------------------------------------------------------
-      { protocol: "https", hostname: "**.edsurge.com" },
-      { protocol: "https", hostname: "edsurge.imgix.net" },
-      { protocol: "https", hostname: "**.imgix.net" },
+      // --- Greater Good Magazine (UC Berkeley) ----------------------------
+      { protocol: "https", hostname: "greatergood.berkeley.edu" },
+      { protocol: "https", hostname: "**.berkeley.edu" },
+
+      // --- Edutopia (Lucas Education Research) ----------------------------
+      { protocol: "https", hostname: "edutopia.org" },
+      { protocol: "https", hostname: "**.edutopia.org" },
+
+      // --- The Conversation -----------------------------------------------
+      { protocol: "https", hostname: "theconversation.com" },
+      { protocol: "https", hostname: "**.theconversation.com" },
+      { protocol: "https", hostname: "images.theconversation.com" },
+
+      // --- Psyche (Aeon) --------------------------------------------------
+      { protocol: "https", hostname: "psyche.co" },
+      { protocol: "https", hostname: "**.psyche.co" },
+      { protocol: "https", hostname: "**.aeon.co" },
 
       // --- Hechinger Report (WordPress) -----------------------------------
       { protocol: "https", hostname: "hechingerreport.org" },
       { protocol: "https", hostname: "**.hechingerreport.org" },
 
-      // --- Times Higher Education -----------------------------------------
-      { protocol: "https", hostname: "**.timeshighereducation.com" },
-      { protocol: "https", hostname: "**.tesglobal.com" },
-
-      // --- Inside Higher Ed -----------------------------------------------
-      { protocol: "https", hostname: "**.insidehighered.com" },
-
-      // --- Brookings ------------------------------------------------------
-      { protocol: "https", hostname: "**.brookings.edu" },
-
       // --- MIT Technology Review ------------------------------------------
       { protocol: "https", hostname: "**.technologyreview.com" },
       { protocol: "https", hostname: "wp.technologyreview.com" },
 
-      // --- Forbes ---------------------------------------------------------
-      { protocol: "https", hostname: "**.forbes.com" },
-      { protocol: "https", hostname: "imageio.forbes.com" },
-      { protocol: "https", hostname: "**.forbesimg.com" },
+      // --- arXiv (rare to surface, but kept for safety) -------------------
+      { protocol: "https", hostname: "**.arxiv.org" },
 
       // --- WordPress-VIP CDN (used by many education publishers) ----------
       { protocol: "https", hostname: "**.wp.com" },

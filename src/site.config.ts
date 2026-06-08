@@ -447,44 +447,56 @@ export const siteConfig = {
 
     sources: [
       {
-        name: "EdSurge",
-        url: "https://www.edsurge.com/news/rss",
+        name: "Greater Good Magazine",
+        url: "https://greatergood.berkeley.edu/article/feed",
         parse: "rss",
-        category: "ai-edu",
+        category: "methods",
         framing:
-          "(EdSurge — US edtech trade publication; covers AI tutoring, classroom technology, district-level edtech adoption. Treat vendor announcements skeptically; isolate what actually changes for a learner or a teacher)"
+          "(Greater Good Magazine — UC Berkeley's science-of-well-being publication; family / parenting / education / child-development research translated into practical guidance. The natural sweet spot for WORLD STUDY TOKYO — read every dispatch for what changes a Tokyo family's routine, not just what the study tested)"
+      },
+      {
+        name: "Edutopia",
+        url: "https://www.edutopia.org/rss.xml",
+        parse: "rss",
+        category: "methods",
+        framing:
+          "(Edutopia — George Lucas Educational Foundation; K-12 teaching trends with applicability to parents and home learning. Skip the US-classroom-only operational posts; surface the underlying learning idea a Tokyo parent can recognise across the international school / 国内私立 / 公立 landscape)"
+      },
+      {
+        name: "The Conversation — Family",
+        url: "https://theconversation.com/topics/family-7/articles.atom",
+        parse: "atom",
+        category: "early-childhood",
+        framing:
+          "(The Conversation Family topic — academic experts writing for general parents. Globally framed parenting research and early-childhood findings; ideal for the 'trend a parent in any city would care about' lane)"
+      },
+      {
+        name: "The Conversation — Education",
+        url: "https://theconversation.com/topics/education-71/articles.atom",
+        parse: "atom",
+        category: "methods",
+        framing:
+          "(The Conversation Education topic — global education research and trend writing by academics. Choose the pieces with applicability beyond their local context — study habits, learning techniques, admissions trend writing — not the country-specific policy briefs)"
+      },
+      {
+        name: "Psyche",
+        url: "https://psyche.co/feed",
+        parse: "rss",
+        category: "early-childhood",
+        filter:
+          /\b(child|childhood|kid|parent\w*|famil\w*|baby|infant|toddler|teen\w*|adolescen\w*|school|student|learn\w*|educat\w*|develop\w*|literacy|reading|play|sleep|mind|brain|cognit\w*|emotion\w*|attachment)\b/i,
+        framing:
+          "(Psyche — Aeon's essays on the human mind; filter to family / parenting / learning / development pieces. When relevant, the writing is psychology-grounded and beautifully argued — gold for the 'Tokyo Editor's Note' framing)"
       },
       {
         name: "The Hechinger Report",
         url: "https://hechingerreport.org/feed/",
         parse: "rss",
         category: "methods",
+        filter:
+          /\b(parent\w*|famil\w*|child|kid|early[- ]childhood|preschool|kindergarten|home[- ]learning|study habit\w*|tutor\w*|read\w*|literacy|numeracy|math fluency|sleep|screen[- ]time|teen\w*|adolescen\w*|colleg\w* admission|college access|test-optional|sat\b|act\b)\b/i,
         framing:
-          "(The Hechinger Report — US nonprofit education newsroom; investigative, data-driven coverage of K-12 and higher ed equity, methods, and policy. The reporting is careful — treat the findings as primary evidence, not commentary)"
-      },
-      {
-        name: "Times Higher Education",
-        url: "https://www.timeshighereducation.com/news/rss",
-        parse: "rss",
-        category: "admissions",
-        framing:
-          "(Times Higher Education — UK-based; global higher-ed news, university rankings debates, admissions reform, international student flows. Especially useful for Tokyo families weighing Oxbridge / Russell Group / EU university routes)"
-      },
-      {
-        name: "Inside Higher Ed",
-        url: "https://www.insidehighered.com/rss.xml",
-        parse: "rss",
-        category: "admissions",
-        framing:
-          "(Inside Higher Ed — US higher-education trade publication; admissions reform, the test-optional debate, financial aid changes, faculty news. Useful for families weighing US university routes from Japan)"
-      },
-      {
-        name: "Brookings Education",
-        url: "https://www.brookings.edu/topic/education/feed/",
-        parse: "rss",
-        category: "research",
-        framing:
-          "(Brookings — US think tank; rigorous policy research with implications often relevant to Japan's MEXT / 中央教育審議会 debates. Translate the policy finding into something a Tokyo parent can act on or watch for)"
+          "(The Hechinger Report — US education newsroom; FILTERED to parent / family / study-habit / admissions-trend pieces only. The unfiltered feed is heavy with US-specific policy and district politics that don't translate; the filter keeps the genuinely portable parenting / learning trend stories)"
       },
       {
         name: "MIT Technology Review",
@@ -492,27 +504,19 @@ export const siteConfig = {
         parse: "rss",
         category: "ai-edu",
         filter:
-          /\b(educat\w*|school|student|teacher|classroom|curriculum|learn\w*|literacy|tutor\w*|college|universit\w*|edtech|AI tutor|skill\w*|kids|children|child)\b/i,
+          /\b(educat\w*|school|student|teacher|classroom|curriculum|learn\w*|literacy|tutor\w*|college|universit\w*|edtech|AI tutor|kids|children|child|family|parent|early[- ]childhood)\b/i,
         framing:
-          "(MIT Tech Review — broad tech publication; filter to education-tagged stories only. When AI / robotics / cognitive-science pieces apply to learning, the depth is excellent)"
-      },
-      {
-        name: "Forbes Education",
-        url: "https://www.forbes.com/education/feed/",
-        parse: "rss",
-        category: "admissions",
-        framing:
-          "(Forbes Education — US business-magazine education vertical; covers admissions, costs, ROI of universities, business-school news. Useful for households weighing the financial and career angle of education investment)"
+          "(MIT Tech Review — broad tech publication; filtered to education / learning / family-applicable AI stories. When AI tutors, edtech platforms, or cognitive-science pieces apply to home learning, the depth is excellent)"
       },
       {
         name: "arXiv cs.CY",
         url:
-          "https://export.arxiv.org/api/query?search_query=cat:cs.CY+AND+(abs:education+OR+abs:learning+OR+abs:tutor+OR+abs:classroom+OR+abs:student)" +
+          "https://export.arxiv.org/api/query?search_query=cat:cs.CY+AND+(abs:tutor+OR+abs:%22early+childhood%22+OR+abs:%22language+acquisition%22+OR+abs:%22reading+development%22+OR+abs:%22study+habit%22+OR+abs:%22AI+tutor%22)" +
           "&sortBy=submittedDate&sortOrder=descending&max_results=20",
         parse: "atom",
         category: "research",
         framing:
-          "(arXiv Computers and Society — preprints. Filtered to education-adjacent papers (abstract mentions education / learning / tutor / classroom / student). Translate the methodology into its lived implication for a parent or learner)"
+          "(arXiv Computers and Society — preprints. Narrowly filtered to tutor / early-childhood / language acquisition / reading development / study-habit / AI-tutor papers — the slice with practical implication for a learner or a family, not the broader AI-policy abstractions)"
       }
     ] as SourceDef[],
 
@@ -523,33 +527,34 @@ export const siteConfig = {
       "images.unsplash.com",
       "source.unsplash.com",
 
-      // --- EdSurge ---
-      "**.edsurge.com",
-      "edsurge.imgix.net",
-      "**.imgix.net",
+      // --- Greater Good Magazine (UC Berkeley) ---
+      "greatergood.berkeley.edu",
+      "**.berkeley.edu",
+
+      // --- Edutopia ---
+      "edutopia.org",
+      "**.edutopia.org",
+
+      // --- The Conversation ---
+      "theconversation.com",
+      "**.theconversation.com",
+      "images.theconversation.com",
+
+      // --- Psyche / Aeon ---
+      "psyche.co",
+      "**.psyche.co",
+      "**.aeon.co",
 
       // --- Hechinger Report (WordPress) ---
       "hechingerreport.org",
       "**.hechingerreport.org",
 
-      // --- Times Higher Education ---
-      "**.timeshighereducation.com",
-      "**.tesglobal.com",
-
-      // --- Inside Higher Ed ---
-      "**.insidehighered.com",
-
-      // --- Brookings ---
-      "**.brookings.edu",
-
       // --- MIT Technology Review ---
       "**.technologyreview.com",
       "wp.technologyreview.com",
 
-      // --- Forbes ---
-      "**.forbes.com",
-      "imageio.forbes.com",
-      "**.forbesimg.com",
+      // --- arXiv ---
+      "**.arxiv.org",
 
       // --- WordPress-VIP CDN (used by many education publishers) ---
       "**.wp.com",
@@ -593,9 +598,9 @@ export const siteConfig = {
       toneOfVoice:
         "Warm, plain, and intelligent — the register of a thoughtful senior editor at a top Japanese parenting and education publication, writing for Tokyo parents who care about their child's learning but are not education researchers themselves. Treat the reader as informed and curious; never talk down. Never pad with empty praise.\n- No exclamation marks. No 'revolutionary' / 'groundbreaking' / 'transformative' verbs.\n- Short declarative sentences, with the occasional longer reflective line for warmth. Earn the line; don't perform it.\n- Specialist terminology (cognitive load, retrieval practice, holistic admissions, formative assessment, executive function, IB / AP, total-selection / 総合型選抜) must be glossed in plain language the first time it appears. The reader is curious but does not have an EdD.\n- Prefer warm, emotionally resonant phrasing over dry recitation of facts. Numbers matter, but a paragraph that lists three numbers in a row without explaining what they FEEL like in a household has missed the mark.\n- It is acceptable — encouraged — to say 'this finding is interesting but unlikely to change how Japan's MEXT designs 共通テスト', 'this AI tutor is a thin wrapper around ChatGPT', 'the Finnish early-childhood result probably doesn't translate to Tokyo's 保育園 system', when it is true.\n- NO gender-coded language about the reader. Never write 'this is easy enough for mothers to understand'. The reader is a Tokyo parent — that is the only descriptor required.\n- Cliché block-list (EN): 'unlock your child's potential', 'every child can shine', 'the future of learning', 'reimagine education', 'paradigm shift', 'cutting-edge', 'next-generation', 'AI-powered', 'leveraging'.\n- Cliché block-list (JA): 「お子さまの可能性を引き出す」「これからの教育」「教育の未来」「次世代の学び」「革新的」「DX で変わる学び」「グローバル人材」「探究」を中身がないまま連呼する 等.",
       framingQuestion:
-        '"What does this global education story actually mean for a Tokyo family — and how should they read it against the juku, international school, and university admissions reality they live in?"',
+        '"What does this global trend in parenting, child development, or learning mean for a Tokyo family today — read against the juku, international school, and university admissions reality they live in?"',
       framingExpansion:
-        "Not 'this is an interesting study'. Specifically: what concretely changes for a Tokyo parent — a parent of a 3-year-old considering preschools in Hiroo or Setagaya; a parent of a 9-year-old preparing for 中学受験; a parent weighing an international school against a 国内私立; a parent of a high-schooler considering 海外大学 versus 国内難関 — after reading this and acting on it? Does it change what they enrol the child in next month? Does it change how they read this year's juku 模試? Does it open a university route they hadn't considered? Or — if the honest answer is 'interesting research, but the Japan reality is different because of MEXT / 受験 structure / cultural context' — say that plainly.\n\nThe story is not interesting because education research is involved. It is interesting only if a Tokyo family is meaningfully better informed or better equipped after reading it.",
+        "WORLD STUDY TOKYO is a CONSUMER PARENTING & LEARNING TREND publication, NOT an education policy journal. The reader is a parent in Tokyo who has 5 minutes over coffee, not an EdD researcher and not a MEXT bureaucrat. The story is interesting only if it answers, in plain language, the question 'should this change something about how I parent or how my child learns?'.\n\nPRIORITISE topics that resonate with parents anywhere in the world:\n  - Parenting trend shifts (sleep, screen time, play, social-emotional learning, after-school activities)\n  - Child-development science with practical takeaways (language acquisition, reading, executive function, emotional regulation)\n  - Study-habit / learning techniques that actually move outcomes (retrieval practice, spaced repetition, deep work for teens)\n  - Family routine / well-being research (mealtimes, gratitude, sibling dynamics, parental burnout)\n  - International edtech trends and AI tools families are using at home\n  - Admissions-trend writing relevant to families considering overseas universities or international schools\n  - Adolescence research (mental health, social media, friendships)\n\nDE-PRIORITISE — REFUSE if the piece is ONLY about one of these:\n  - US local school-district politics, board meetings, faculty senate dramas\n  - US-specific legislation, state-level curriculum fights, regional union disputes\n  - Single-country higher-ed governance debates that don't generalise\n  - Pure academic abstractions without practical takeaway\n  - Op-eds on US partisan culture-war topics\n  - Stories where the entire premise is 'how a US state did X' without a globally interesting underlying finding\n\nSpecific Tokyo readers to keep in mind: a parent of a 3-year-old comparing Montessori and academic preschools, a parent of a 9-year-old preparing for 中学受験, a parent weighing an international school against a 国内私立, a parent of a high-schooler considering 海外大学 vs 国内難関. If the story can't be told in a way that any of those families find genuinely useful, DON'T tell it.\n\nWhen in doubt: refuse off-topic via the RELEVANCE GATE rather than stretch a US-policy piece into a 'family trend'.",
       compositionRules:
         "ABSOLUTE REQUIREMENT — The body must be FULLY READABLE WITHOUT CLICKING THE SOURCE. A Tokyo parent who never visits the source link should finish the article understanding (a) WHAT was found / announced, (b) WHO did the work (researcher, institution, country), (c) WHEN, (d) WHY it matters for a learner, (e) HOW the finding actually works — the mechanism, the method, the data, (f) the open questions that remain. The source link exists for verification, never to fill in basic gaps the article leaves open.\n\n- Length: 5–8 substantial paragraphs in each language. Target ~450–650 words in English, ~900–1300 full-width characters in Japanese. Short paragraphs (2–3 sentences) are fine for rhythm.\n\n- STRUCTURE (recommended, not rigid):\n  · Paragraph 1: State WHAT happened in one clear sentence, name WHO did the work, and WHEN. Do not paraphrase the headline — get into substance.\n  · Paragraph 2: WHY this matters for a learner or a family. Name the mechanism, the study design, the population studied. Cite concrete numbers (sample size, effect size, country, age range) when they appear in the source.\n  · Middle paragraphs: HOW it works in practice. The classroom routine, the home practice, the curriculum change, the admissions criterion. Name specific tools, methods, institutions when the source does.\n  · Optional '## subheading' line for navigation.\n  · Optional '> pull-quote' line drawn from the source dispatch.\n  · A WHAT'S NEXT paragraph: open questions, what to watch, the policy or institutional moves that would amplify or undercut the finding.\n\n- TERMINOLOGY: Every specialist term gets a parenthetical gloss the first time it appears. Examples: 'retrieval practice (定期的に思い出す学習法 — テストではなく、学んだ内容を時間を置いて自分で取り出す練習)'; 'holistic admissions (学力試験の点数だけでなく、課外活動・推薦書・面接・エッセイなど人物全体で評価する入試方式)'; '共通テスト (大学入学共通テスト — 大学入試センター試験の後継として 2021 年から始まった大学入試の共通試験)'.\n\n- TONE: Information density matters, but warmth matters too. A paragraph that lists three statistics without naming the felt implication for a household has failed. Pair facts with their lived meaning.\n\n- Do NOT fabricate sample sizes, effect numbers, researcher names, institution names, dates, or study outcomes. If a fact is not in the source, omit it. Better quiet than wrong.\n- Do NOT repeat the article title verbatim as the first body paragraph.\n- PRESERVE EMBEDDED MEDIA — When the source article references specific external resources (the underlying study PDF, an institution's official page, a YouTube explainer, an OECD report, a Brookings working paper), INCLUDE THOSE URLs INLINE in the body using markdown link syntax: [descriptive label](URL). Do NOT invent URLs — only include links that actually appear in the source dispatch.\n\n- The 4 STRUCTURED FIELDS (tagline / whoForWhat / vsJapanContext / tokyoNote) and the long-form TOKYO NOTE block are emitted IN ADDITION to a fully-fleshed body — they are value layered on top of a complete, self-sufficient article, NEVER a replacement for it.",
       japaneseRules:
