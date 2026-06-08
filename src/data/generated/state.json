@@ -1,1 +1,13 @@
-{"seen":[],"lastRunAt":null,"lastSuccessAt":null,"totalRuns":0}
+{
+  "seen": [
+    "urn:id:8725",
+    "tag:theconversation.com,2011:article/282571",
+    "http://arxiv.org/abs/2606.04155v1",
+    "https://hechingerreport.org/?p=116632",
+    "urn:id:8909",
+    "tag:theconversation.com,2011:article/284069"
+  ],
+  "lastRunAt": "2026-06-08T03:53:16.781Z",
+  "lastSuccessAt": "2026-06-08T03:53:16.781Z",
+  "totalRuns": 1
+}
