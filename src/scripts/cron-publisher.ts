@@ -352,11 +352,17 @@ function extractItemImage(rawItem: string): string | undefined {
 async function fetchOgImage(url: string): Promise<string | undefined> {
   try {
     const controller = new AbortController();
-    const timer = setTimeout(() => controller.abort(), 5000);
+    const timer = setTimeout(() => controller.abort(), 8000);
     const res = await fetch(url, {
       headers: {
-        "User-Agent": `${siteConfig.brand.name.replace(/\s+/g, "-").toUpperCase()}-CronPublisher/1.0 (+${siteConfig.brand.siteUrl})`,
-        Accept: "text/html, */*"
+        // Use a real-browser User-Agent here — some publishers (Psyche / Aeon
+        // among them) gate or minimise their HTML response when they detect
+        // a bot. We're only reading the head meta tags, not crawling deeply,
+        // so this is benign. The RSS fetch still uses the site's own UA.
+        "User-Agent":
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        Accept: "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        "Accept-Language": "en-US,en;q=0.9,ja;q=0.8"
       },
       signal: controller.signal,
       redirect: "follow"

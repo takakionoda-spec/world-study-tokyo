@@ -489,6 +489,22 @@ export const siteConfig = {
           "(Psyche — Aeon's essays on the human mind; filter to family / parenting / learning / development pieces. When relevant, the writing is psychology-grounded and beautifully argued — gold for the 'Tokyo Editor's Note' framing)"
       },
       {
+        name: "ScienceDaily — Child Development",
+        url: "https://www.sciencedaily.com/rss/mind_brain/child_development.xml",
+        parse: "rss",
+        category: "early-childhood",
+        framing:
+          "(ScienceDaily Child Development feed — university press releases about new research in early childhood, cognition, learning, parenting. The studies are real; treat the framing as press-release language and isolate what's actually new and what it would mean for a Tokyo family)"
+      },
+      {
+        name: "ScienceDaily — Educational Psychology",
+        url: "https://www.sciencedaily.com/rss/mind_brain/educational_psychology.xml",
+        parse: "rss",
+        category: "methods",
+        framing:
+          "(ScienceDaily Educational Psychology feed — university press releases on learning research, study techniques, classroom interventions, teacher-student dynamics. Filter for findings with practical home-learning takeaway)"
+      },
+      {
         name: "The Hechinger Report",
         url: "https://hechingerreport.org/feed/",
         parse: "rss",
@@ -544,6 +560,13 @@ export const siteConfig = {
       "psyche.co",
       "**.psyche.co",
       "**.aeon.co",
+      "images.aeon.co",
+      "media.aeon.co",
+
+      // --- ScienceDaily ---
+      "sciencedaily.com",
+      "**.sciencedaily.com",
+      "**.scidaily.com",
 
       // --- Hechinger Report (WordPress) ---
       "hechingerreport.org",

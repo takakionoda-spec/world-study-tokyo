@@ -34,6 +34,12 @@ const nextConfig: NextConfig = {
       { protocol: "https", hostname: "psyche.co" },
       { protocol: "https", hostname: "**.psyche.co" },
       { protocol: "https", hostname: "**.aeon.co" },
+      { protocol: "https", hostname: "images.aeon.co" },
+      { protocol: "https", hostname: "media.aeon.co" },
+
+      // --- ScienceDaily ---------------------------------------------------
+      { protocol: "https", hostname: "sciencedaily.com" },
+      { protocol: "https", hostname: "**.sciencedaily.com" },
 
       // --- Hechinger Report (WordPress) -----------------------------------
       { protocol: "https", hostname: "hechingerreport.org" },
