@@ -1,1 +1,10 @@
-{"seen":[],"lastRunAt":null,"lastSuccessAt":null,"totalRuns":0}
+{
+  "seen": [
+    "https://hechingerreport.org/?p=116719",
+    "https://hechingerreport.org/?p=116632",
+    "tag:theconversation.com,2011:article/284069"
+  ],
+  "lastRunAt": "2026-06-08T03:31:55.767Z",
+  "lastSuccessAt": "2026-06-08T03:31:55.767Z",
+  "totalRuns": 1
+}
