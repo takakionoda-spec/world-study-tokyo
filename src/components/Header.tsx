@@ -67,7 +67,7 @@ export default function Header() {
 
       {/* Masthead — CELINE-style wordmark. Hairline glow rule above and below. */}
       <div className="relative">
-        <div className="absolute inset-x-0 top-0 h-px bg-gradient-to-r from-transparent via-white/15 to-transparent" />
+        <div className="absolute inset-x-0 top-0 h-px bg-gradient-to-r from-transparent via-[var(--color-ink-200)] to-transparent" />
         <div className="flex flex-col items-center md:flex-row md:items-center md:justify-between gap-3 px-6 lg:px-10 py-6 lg:py-8">
           <Link href="/" aria-label={`${brand.name} — home`} className="block group">
             <span className="logo-celine logo-celine--xl block text-center md:text-left text-[1.5rem] md:text-[1.9rem] lg:text-[2.1rem]">
@@ -86,7 +86,7 @@ export default function Header() {
             </span>
           </div>
         </div>
-        <div className="absolute inset-x-0 bottom-0 h-px bg-gradient-to-r from-transparent via-white/10 to-transparent" />
+        <div className="absolute inset-x-0 bottom-0 h-px bg-gradient-to-r from-transparent via-[var(--color-ink-200)] to-transparent" />
       </div>
 
       {/* Section nav */}

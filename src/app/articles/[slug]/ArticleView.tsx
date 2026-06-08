@@ -212,47 +212,47 @@ export default function ArticleView({ slug }: { slug: string }) {
             <p className="eyebrow">
               <Link
                 href={`/category/${article.category}`}
-                className="editorial-link text-neutral-200 hover:text-white"
+                className="editorial-link text-[var(--color-ink-700)] hover:text-[var(--color-ink-900)]"
               >
                 {categoryLabel}
               </Link>
-              <span className="mx-3 text-neutral-600">|</span>
-              <span className="text-neutral-200">
+              <span className="mx-3 text-[var(--color-ink-400)]">|</span>
+              <span className="text-[var(--color-ink-700)]">
                 {dict.ui.issue} {currentIssueNumber()}
               </span>
             </p>
-            <h1 className="mt-6 font-sans font-semibold text-[clamp(2.25rem,5vw,4.5rem)] leading-[1.02] tracking-[-0.022em] text-white">
+            <h1 className="mt-6 font-sans font-semibold text-[clamp(2.25rem,5vw,4.5rem)] leading-[1.02] tracking-[-0.022em] text-[var(--color-ink-900)]">
               {title}
             </h1>
-            <p className="mt-6 max-w-3xl text-lg lg:text-xl text-neutral-200 leading-relaxed">
+            <p className="mt-6 max-w-3xl text-lg lg:text-xl text-[var(--color-ink-700)] leading-relaxed">
               {dek}
             </p>
           </div>
-          <div className="lg:col-span-3 lg:border-l lg:border-white/15 lg:pl-6">
+          <div className="lg:col-span-3 lg:border-l lg:border-[var(--color-ink-200)] lg:pl-6">
             <dl className="grid grid-cols-2 lg:grid-cols-1 gap-y-4 text-[0.6875rem] tracking-[0.18em] uppercase">
               <div>
-                <dt className="text-neutral-400 font-mono">{dict.ui.by}</dt>
-                <dd className="mt-1 text-white">{author}</dd>
+                <dt className="text-[var(--color-ink-500)] font-mono">{dict.ui.by}</dt>
+                <dd className="mt-1 text-[var(--color-ink-900)]">{author}</dd>
               </div>
               <div>
-                <dt className="text-neutral-400 font-mono">Dateline</dt>
-                <dd className="mt-1 text-white">{location}</dd>
+                <dt className="text-[var(--color-ink-500)] font-mono">Dateline</dt>
+                <dd className="mt-1 text-[var(--color-ink-900)]">{location}</dd>
               </div>
               <div>
-                <dt className="text-neutral-400 font-mono">Date</dt>
-                <dd className="mt-1 text-white">
+                <dt className="text-[var(--color-ink-500)] font-mono">Date</dt>
+                <dd className="mt-1 text-[var(--color-ink-900)]">
                   {dateFormatter.format(new Date(article.publishedAt))}
                 </dd>
               </div>
               <div>
-                <dt className="text-neutral-400 font-mono">Time</dt>
-                <dd className="mt-1 text-white">
+                <dt className="text-[var(--color-ink-500)] font-mono">Time</dt>
+                <dd className="mt-1 text-[var(--color-ink-900)]">
                   {article.readingMinutes} {dict.ui.minRead}
                 </dd>
               </div>
             </dl>
             {article.source ? (
-              <div className="mt-6 pt-6 border-t border-white/15">
+              <div className="mt-6 pt-6 border-t border-[var(--color-ink-200)]">
                 <SourceCredit source={article.source} variant="block" />
               </div>
             ) : null}
@@ -272,12 +272,12 @@ export default function ArticleView({ slug }: { slug: string }) {
           <aside className="lg:col-span-3 order-2 lg:order-1">
             <div className="lg:sticky lg:top-32 space-y-6">
               <div>
-                <p className="eyebrow text-white">Tags</p>
+                <p className="eyebrow text-[var(--color-ink-900)]">Tags</p>
                 <ul className="mt-4 flex flex-wrap gap-x-2 gap-y-2 text-[0.6875rem] tracking-[0.16em] uppercase">
                   {tags.map((tag) => (
                     <li
                       key={tag[lang]}
-                      className="border border-neon-cyan/40 px-2 py-1 text-neutral-200 hover:border-neon-cyan hover:text-white transition-colors"
+                      className="border border-neon-cyan/40 px-2 py-1 text-[var(--color-ink-700)] hover:border-neon-cyan hover:text-[var(--color-ink-900)] transition-colors"
                     >
                       {tag[lang]}
                     </li>
@@ -285,8 +285,8 @@ export default function ArticleView({ slug }: { slug: string }) {
                 </ul>
               </div>
               <div className="silver-rule" />
-              <p className="byline text-neutral-300">
-                {dict.ui.by} <span className="text-white">{author}</span>
+              <p className="byline text-[var(--color-ink-600)]">
+                {dict.ui.by} <span className="text-[var(--color-ink-900)]">{author}</span>
               </p>
               {article.source ? (
                 <>
@@ -306,7 +306,7 @@ export default function ArticleView({ slug }: { slug: string }) {
             {HAS_STRUCTURED_FIELDS && article.structured ? (
               <section
                 aria-label="Spec Sheet"
-                className="mb-12 lg:mb-14 grid grid-cols-1 sm:grid-cols-2 gap-x-8 gap-y-7 border-t border-b border-white/15 py-8 lg:py-10"
+                className="mb-12 lg:mb-14 grid grid-cols-1 sm:grid-cols-2 gap-x-8 gap-y-7 border-t border-b border-[var(--color-ink-200)] py-8 lg:py-10"
               >
                 {STRUCTURED_FIELDS.filter((f) => f.display.onDetail).map((f) => {
                   const v = article.structured?.[f.key]?.[lang];
@@ -321,7 +321,7 @@ export default function ArticleView({ slug }: { slug: string }) {
                         className={
                           f.display.role === "headline"
                             ? "eyebrow text-neon-cyan"
-                            : "eyebrow text-white"
+                            : "eyebrow text-[var(--color-ink-900)]"
                         }
                       >
                         {f.label[lang]}
@@ -329,8 +329,8 @@ export default function ArticleView({ slug }: { slug: string }) {
                       <p
                         className={
                           f.display.role === "headline"
-                            ? "mt-3 font-sans font-medium text-2xl lg:text-3xl tracking-[-0.012em] leading-tight text-white whitespace-pre-line"
-                            : "mt-3 text-base lg:text-[1.0625rem] text-neutral-100 leading-relaxed whitespace-pre-line"
+                            ? "mt-3 font-sans font-medium text-2xl lg:text-3xl tracking-[-0.012em] leading-tight text-[var(--color-ink-900)] whitespace-pre-line"
+                            : "mt-3 text-base lg:text-[1.0625rem] text-[var(--color-ink-700)] leading-relaxed whitespace-pre-line"
                         }
                       >
                         {text}
@@ -359,12 +359,12 @@ export default function ArticleView({ slug }: { slug: string }) {
             {article.tokyoView && (article.tokyoView[lang]?.length ?? 0) > 0 ? (
               <aside
                 aria-label={`${siteConfig.brand.name} Editorial Commentary`}
-                className="mt-16 lg:mt-20 border-t border-b border-white/20 py-10 lg:py-12"
+                className="mt-16 lg:mt-20 border-t border-b border-[var(--color-ink-200)] py-10 lg:py-12"
               >
                 <p className="eyebrow text-neon-cyan">
                   {siteConfig.pipeline.voice.closingBlock.title[lang]}
                 </p>
-                <h2 className="mt-4 font-sans font-semibold text-2xl lg:text-3xl tracking-[-0.012em] leading-tight text-white">
+                <h2 className="mt-4 font-sans font-semibold text-2xl lg:text-3xl tracking-[-0.012em] leading-tight text-[var(--color-ink-900)]">
                   {siteConfig.pipeline.voice.closingBlock.subheading[lang]}
                 </h2>
                 <div className="silver-rule mt-6 max-w-xs" />
@@ -373,7 +373,7 @@ export default function ArticleView({ slug }: { slug: string }) {
                     <ParagraphBlock key={`tv-${i}`} raw={block} />
                   ))}
                 </div>
-                <p className="mt-8 font-mono text-[0.6875rem] tracking-[0.22em] uppercase text-neutral-400">
+                <p className="mt-8 font-mono text-[0.6875rem] tracking-[0.22em] uppercase text-[var(--color-ink-500)]">
                   {lang === "ja"
                     ? `編集：${siteConfig.brand.name} 編集部`
                     : `Editorial: ${siteConfig.brand.name} Editors`}
@@ -402,7 +402,7 @@ export default function ArticleView({ slug }: { slug: string }) {
       <Container className="pb-section">
         <Link
           href="/"
-          className="editorial-link text-[0.6875rem] tracking-[0.22em] uppercase text-neutral-200 hover:text-white"
+          className="editorial-link text-[0.6875rem] tracking-[0.22em] uppercase text-[var(--color-ink-700)] hover:text-[var(--color-ink-900)]"
         >
           ← {dict.ui.backToHome}
         </Link>

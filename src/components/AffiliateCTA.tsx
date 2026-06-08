@@ -46,7 +46,7 @@ const BADGE_CLASS: Record<AffiliateNetwork, string> = {
   amazon: "border-amber-400/40 text-amber-200",
   partner: "border-neon-cyan/40 text-neon-cyan",
   asp: "border-neon-magenta/40 text-neon-magenta",
-  other: "border-white/30 text-ink-700"
+  other: "border-[var(--color-ink-200)] text-ink-700"
 };
 
 export default function AffiliateCTA({ links, variant = "card" }: Props) {
@@ -74,7 +74,7 @@ export default function AffiliateCTA({ links, variant = "card" }: Props) {
     const badge = getAffiliateNetworkLabel(primary.network)[lang];
 
     return (
-      <div className="mt-4 pt-4 border-t border-white/8">
+      <div className="mt-4 pt-4 border-t border-[var(--color-ink-200)]">
         <a
           href={primary.url}
           target="_blank"
@@ -104,9 +104,9 @@ export default function AffiliateCTA({ links, variant = "card" }: Props) {
   return (
     <section
       aria-label={lang === "ja" ? "関連リンク（PR を含む）" : "Related links (sponsored)"}
-      className="mt-12 lg:mt-14 border-t border-b border-white/15 py-8 lg:py-10"
+      className="mt-12 lg:mt-14 border-t border-b border-[var(--color-ink-200)] py-8 lg:py-10"
     >
-      <p className="eyebrow text-white">
+      <p className="eyebrow text-[var(--color-ink-900)]">
         {lang === "ja" ? "関連リンク" : "Related links"}
       </p>
       <div className="mt-5 flex flex-col gap-4">

@@ -23,7 +23,7 @@ export default function LanguageToggle({ className = "" }: { className?: string 
       >
         EN
       </span>
-      <span aria-hidden className="h-3 w-px bg-white/15" />
+      <span aria-hidden className="h-3 w-px bg-[var(--color-ink-200)]" />
       <span
         aria-hidden
         className={lang === "ja"

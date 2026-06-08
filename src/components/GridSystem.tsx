@@ -14,7 +14,7 @@ export function SectionRule({ label, action }: { label: string; action?: ReactNo
       {/* Hairline gradient rule, not a solid line — matches Header/Footer. */}
       <span
         aria-hidden
-        className="absolute inset-x-0 top-0 h-px bg-gradient-to-r from-transparent via-white/15 to-transparent"
+        className="absolute inset-x-0 top-0 h-px bg-gradient-to-r from-transparent via-[var(--color-ink-200)] to-transparent"
       />
       <h2 className="eyebrow text-ink">{label}</h2>
       {action ? (

@@ -18,7 +18,7 @@ export default function Footer() {
   return (
     <footer className="mt-section relative">
       {/* Hairline gradient rule on top — mirrors the masthead. */}
-      <div className="absolute inset-x-0 top-0 h-px bg-gradient-to-r from-transparent via-white/15 to-transparent" />
+      <div className="absolute inset-x-0 top-0 h-px bg-gradient-to-r from-transparent via-[var(--color-ink-200)] to-transparent" />
 
       <div className="px-6 lg:px-10 py-14 lg:py-20 grid grid-cols-1 md:grid-cols-12 gap-10">
         <div className="md:col-span-6">
@@ -86,7 +86,7 @@ export default function Footer() {
           titles without affiliate stay visually identical. */}
       {disclosureShort ? (
         <div className="relative">
-          <div className="absolute inset-x-0 top-0 h-px bg-gradient-to-r from-transparent via-white/8 to-transparent" />
+          <div className="absolute inset-x-0 top-0 h-px bg-gradient-to-r from-transparent via-[var(--color-ink-100)] to-transparent" />
           <div className="px-6 lg:px-10 py-4 max-w-[88ch]">
             <p className="text-[0.6875rem] leading-relaxed text-ink-600">
               {disclosureShort}{" "}
@@ -103,7 +103,7 @@ export default function Footer() {
 
       {/* Hairline gradient rule above the strapline */}
       <div className="relative">
-        <div className="absolute inset-x-0 top-0 h-px bg-gradient-to-r from-transparent via-white/10 to-transparent" />
+        <div className="absolute inset-x-0 top-0 h-px bg-gradient-to-r from-transparent via-[var(--color-ink-200)] to-transparent" />
         <div className="px-6 lg:px-10 py-6 flex flex-col md:flex-row items-start md:items-center justify-between gap-3 font-mono text-[0.625rem] tracking-[0.22em] uppercase text-ink-600">
           <span>{dict.brand.legal}</span>
           <span className="text-ink-600">{siteConfig.chrome.footer.strapline}</span>

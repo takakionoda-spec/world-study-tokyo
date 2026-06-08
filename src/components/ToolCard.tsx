@@ -151,7 +151,7 @@ export default function ToolCard({ article, priority = false }: Props) {
             </div>
           )}
           {/* Inner gradient sheen for both modes */}
-          <div className="pointer-events-none absolute inset-0 bg-gradient-to-tr from-transparent via-transparent to-white/5" />
+          <div className="pointer-events-none absolute inset-0 bg-gradient-to-tr from-transparent via-transparent to-[var(--color-ink-100)]" />
         </div>
 
         <div className={`p-5 lg:p-6 ${hasAffiliate ? "pb-3 lg:pb-4" : ""}`}>
@@ -181,7 +181,7 @@ export default function ToolCard({ article, priority = false }: Props) {
             }
             if (f.display.role === "verdict") {
               return (
-                <div key={f.key} className="mt-4 pt-4 border-t border-white/8">
+                <div key={f.key} className="mt-4 pt-4 border-t border-[var(--color-ink-200)]">
                   <span className="font-mono text-[0.625rem] tracking-[0.22em] uppercase text-neon-cyan">
                     {f.label[lang]}
                   </span>

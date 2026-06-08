@@ -192,7 +192,7 @@ export default function Newsletter() {
                 <button
                   type="submit"
                   disabled={isLoading || !email.trim()}
-                  className="btn-neon disabled:opacity-50 disabled:cursor-not-allowed disabled:hover:border-white/18 disabled:hover:text-ink disabled:hover:shadow-none"
+                  className="btn-neon disabled:opacity-50 disabled:cursor-not-allowed disabled:hover:border-[var(--color-ink-200)] disabled:hover:text-ink disabled:hover:shadow-none"
                 >
                   {isLoading ? t.loading : dict.ui.newsletter.cta}
                 </button>
