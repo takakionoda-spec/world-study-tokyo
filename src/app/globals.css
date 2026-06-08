@@ -1,0 +1,481 @@
+/* Google Fonts must be imported BEFORE Tailwind to satisfy the CSS spec
+   that @import statements precede all other rules.
+   - Lora (display / serif — warm humanist editorial)
+   - Inter (UI body sans)
+   - JetBrains Mono (numerics / source-name tags)
+   - Noto Serif JP (Japanese serif — warm editorial)
+   - Noto Sans JP (Japanese UI sans)
+*/
+@import url("https://fonts.googleapis.com/css2?family=Lora:wght@400;500;600;700&family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@300;400;500;600&family=Noto+Serif+JP:wght@400;500;600;700;800&family=Noto+Sans+JP:wght@300;400;500;600;700&display=swap");
+
+@import "tailwindcss";
+
+/* =============================================================================
+   WORLD STUDY TOKYO — Editorial Education Design System
+   -----------------------------------------------------------------------------
+   A warm, paper-white aesthetic with sky-blue and nuance-pink accents. The
+   register is "thoughtful family bookshelf + senior parenting magazine" —
+   warm enough to read on a Saturday morning, intelligent enough to take
+   seriously. Replaces ADVERTISE's deep-navy palette while keeping every
+   component class name (.logo-celine, .glass, .glow-aurora, .pill--neon-*)
+   so JSX compiles unchanged.
+   ========================================================================== */
+@theme {
+  /* ---- Surface — paper-white palette ------------------------------------- */
+  --color-paper:       #ffffff;   /* primary surface — white paper */
+  --color-paper-soft:  #fafbfd;   /* lifted card / panel fill — barely off-white */
+  --color-void:        #f5f8fb;   /* page background — palest cool grey */
+
+  /* ---- Ink scale — deep slate with the slightest warm tint to feel paperish,
+     not clinical. Higher number = DARKER (inverted from the dark-mode siblings
+     so existing component class usage still maps intuitively).               */
+  --color-ink:        #1b2538;   /* deep slate-navy — primary text */
+  --color-ink-900:    #243042;   /* heading-primary */
+  --color-ink-800:    #344056;   /* heading-secondary */
+  --color-ink-700:    #4d5772;   /* prominent body */
+  --color-ink-600:    #6e7689;   /* default body / metadata */
+  --color-ink-500:    #8b92a4;   /* metadata-dim */
+  --color-ink-400:    #a8aeb9;   /* tertiary / dim byline */
+  --color-ink-300:    #c8ccd4;   /* subtle separator */
+  --color-ink-200:    #dde0e7;   /* hairline border */
+  --color-ink-100:    #ecedf2;   /* background tint */
+  --color-ink-50:     #f5f8fb;   /* near-bg, dimmest */
+  --color-silver:     #4d5772;   /* legacy alias — used in `.silver-rule`-tinted UI */
+
+  /* ---- Primary & secondary accents -------------------------------------- */
+  --color-accent:        #6ec1e4;   /* soft sky blue — primary accent (links, eyebrows, focus) */
+  --color-accent-deep:   #4ea7cd;   /* slightly deeper sky blue — hover state */
+  --color-accent-pink:   #f4a6b5;   /* nuance pink — secondary accent (verdict, CTA hover) */
+  --color-accent-pink-deep: #e08b9d; /* hover state for pink */
+
+  /* ---- Education category accents ---------------------------------------
+     The token names `neon-*` are retained for back-compat with components
+     that already reference them. The values are now warm education tones:
+        neon-acid    → pink   (early-childhood)
+        neon-cyan    → sky    (admissions)
+        neon-magenta → peach  (methods)
+        neon-amber   → laven  (research)
+        neon-violet  → mint   (ai-edu)
+  */
+  --color-neon-acid:    #f4a6b5;   /* nuance pink — early-childhood */
+  --color-neon-cyan:    #6ec1e4;   /* sky blue — admissions */
+  --color-neon-magenta: #e8b89a;   /* peach — methods */
+  --color-neon-amber:   #b5a8d8;   /* lavender — research */
+  --color-neon-violet:  #8cc9a5;   /* mint — ai-edu */
+
+  /* ---- Type families — Lora display (warm humanist serif), Inter sans, JA
+     serif Noto Serif JP. The combination feels like a thoughtful parenting
+     publication, not a tech blog. */
+  --font-display: "Lora", "Noto Serif JP", Georgia, "Times New Roman", serif;
+  --font-serif:   "Lora", "Noto Serif JP", Georgia, "Times New Roman", serif;
+  --font-sans:    "Inter", "Helvetica Neue", Helvetica, Arial, "Noto Sans JP", system-ui, sans-serif;
+  --font-mincho:  "Noto Serif JP", "Lora", Georgia, serif;
+  --font-mono:    "JetBrains Mono", ui-monospace, SFMono-Regular, monospace;
+
+  /* ---- Tracking ---------------------------------------------------------- */
+  --tracking-widest: 0.22em;
+  --tracking-ultra:  0.30em;
+  --tracking-celine: 0.04em;     /* tight, gentle — wordmark is a serif now */
+
+  /* ---- Container max-width ---------------------------------------------- */
+  --breakpoint-2xl: 1440px;
+}
+
+/* =============================================================================
+   Base — body, color-scheme, font smoothing
+   ========================================================================== */
+:root {
+  --color-line: rgba(27, 37, 56, 0.10);   /* deep slate at low alpha — hairline */
+  color-scheme: light;
+}
+
+* {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+html,
+body {
+  background: var(--color-paper);
+  color: var(--color-ink);
+  font-family: var(--font-sans);
+  font-weight: 400;
+  line-height: 1.65;
+  text-rendering: optimizeLegibility;
+  position: relative;
+  min-height: 100vh;
+}
+
+/* Soft watercolour wash — gives the page corners a hand-printed depth
+   instead of a single flat white. Sits below all content via `body::before`. */
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  z-index: 0;
+  background:
+    radial-gradient(ellipse at 12% 8%, rgba(110, 193, 228, 0.08), transparent 55%),
+    radial-gradient(ellipse at 88% 92%, rgba(244, 166, 181, 0.07), transparent 60%),
+    linear-gradient(180deg, var(--color-paper) 0%, var(--color-void) 100%);
+}
+
+body[data-lang="ja"] {
+  font-family: "Noto Sans JP", "Inter", system-ui, sans-serif;
+}
+
+::selection {
+  background-color: var(--color-accent);
+  color: #ffffff;
+}
+
+/* =============================================================================
+   PageAura — retired; the watercolour wash above replaces it. Class kept
+   for forward-compat so JSX referencing it compiles. */
+.page-aura {
+  display: none;
+}
+
+/* No film-grain overlay on the white palette — keep the paper clean. */
+
+/* Above-mesh stacking */
+header, main, footer {
+  position: relative;
+  z-index: 1;
+}
+
+/* =============================================================================
+   Wordmark / masthead logo — Lora (warm editorial serif)
+   -----------------------------------------------------------------------------
+   The class name `.logo-celine` is retained for cross-template back-compat;
+   the styling is a Lora serif wordmark with subtle tracking, appropriate to
+   an education publication.
+   ========================================================================== */
+.logo-celine {
+  font-family: var(--font-display);
+  font-weight: 600;
+  letter-spacing: var(--tracking-celine);
+  text-transform: uppercase;
+  padding-left: 0;
+  color: var(--color-ink);
+  font-feature-settings: "ss01" on, "cv01" on;
+  -webkit-font-smoothing: antialiased;
+}
+
+.logo-celine--xl {
+  font-weight: 700;
+  letter-spacing: 0.03em;
+}
+
+/* =============================================================================
+   Typographic primitives — class names preserved for cross-template back-compat
+   ========================================================================== */
+.font-display {
+  font-family: var(--font-display);
+  font-weight: 600;
+  letter-spacing: -0.005em;
+}
+
+.font-display-ja {
+  font-family: "Noto Serif JP", var(--font-display);
+  font-weight: 600;
+  letter-spacing: 0;
+}
+
+.eyebrow {
+  font-family: var(--font-sans);
+  font-size: 0.6875rem;
+  font-weight: 600;
+  letter-spacing: var(--tracking-widest);
+  text-transform: uppercase;
+  color: var(--color-accent-deep);          /* deeper sky — clear hierarchy on white */
+}
+
+.byline {
+  font-family: var(--font-mono);
+  font-size: 0.75rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--color-ink-500);
+}
+
+.editorial-rule {
+  height: 1px;
+  background: var(--color-line);
+  width: 100%;
+}
+
+/* Sky-to-pink fade rule — replaces the ADVERTISE gold fade */
+.silver-rule {
+  height: 1px;
+  background: linear-gradient(
+    to right,
+    transparent,
+    rgba(110, 193, 228, 0.55) 30%,
+    rgba(244, 166, 181, 0.55) 70%,
+    transparent
+  );
+}
+
+/* Editorial body — used on /articles/[slug] pages. */
+.prose-editorial {
+  font-family: var(--font-sans);
+  font-weight: 400;
+  font-size: 1.0625rem;
+  line-height: 1.9;
+  color: var(--color-ink-800);
+  max-width: 68ch;
+  margin-inline: auto;
+}
+
+.prose-editorial p {
+  margin: 1.4em 0;
+  color: var(--color-ink-800);
+}
+
+/* No drop-caps in minimal mode. */
+.prose-editorial p:first-of-type::first-letter {
+  font-family: inherit;
+  font-weight: 600;
+  font-size: 1em;
+  line-height: inherit;
+  padding: 0;
+  color: inherit;
+  float: none;
+}
+
+.prose-editorial h2 {
+  font-family: var(--font-display);
+  font-weight: 600;
+  font-size: 1.6rem;
+  letter-spacing: -0.005em;
+  margin: 2.4em 0 0.7em;
+  line-height: 1.3;
+  color: var(--color-ink-900);
+}
+
+.prose-editorial blockquote {
+  font-family: var(--font-display);
+  font-style: italic;
+  font-weight: 500;
+  font-size: 1.25rem;
+  line-height: 1.6;
+  margin: 2em 0;
+  padding: 1rem 0 1rem 1.25rem;
+  border-left: 3px solid var(--color-accent);
+  color: var(--color-ink-700);
+  background: transparent;
+}
+
+.prose-editorial a {
+  color: var(--color-accent-deep);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  text-decoration-thickness: 1px;
+  transition: color 200ms ease, text-decoration-color 200ms ease;
+}
+
+.prose-editorial a:hover {
+  color: var(--color-accent-pink-deep);
+  text-decoration-color: var(--color-accent-pink);
+}
+
+/* =============================================================================
+   GLASS PANEL — flat paper card with hairline slate border
+   -----------------------------------------------------------------------------
+   The class name `.glass` is preserved for cross-template back-compat. The
+   implementation flips from a navy-on-warm-white glass to a paper-white card
+   with a soft slate hairline border, appropriate to a parenting publication.
+   ========================================================================== */
+.glass {
+  background: var(--color-paper);
+  border: 1px solid var(--color-ink-200);
+  border-radius: 6px;
+}
+
+.glass-strong {
+  background: var(--color-paper-soft);
+  border: 1px solid var(--color-ink-200);
+  border-radius: 6px;
+}
+
+.glass-flat {
+  background: var(--color-paper);
+  border: 1px solid var(--color-ink-100);
+  border-radius: 6px;
+}
+
+/* =============================================================================
+   GLOW — soft sky-blue lift on hover; replaces ADVERTISE's gold glow
+   ========================================================================== */
+.glow-aurora {
+  box-shadow:
+    0 1px 2px rgba(27, 37, 56, 0.04),
+    0 4px 12px -4px rgba(27, 37, 56, 0.06);
+  transition: box-shadow 360ms ease, transform 360ms ease,
+              border-color 360ms ease;
+}
+
+.glow-aurora:hover {
+  box-shadow:
+    0 4px 8px rgba(27, 37, 56, 0.06),
+    0 16px 32px -8px rgba(110, 193, 228, 0.18),
+    inset 0 0 0 1px rgba(110, 193, 228, 0.20);
+  border-color: rgba(110, 193, 228, 0.40);
+  transform: translateY(-2px);
+}
+
+.glow-cyan {
+  box-shadow: 0 0 0 1px rgba(110, 193, 228, 0.30),
+              0 8px 24px -8px rgba(110, 193, 228, 0.25);
+}
+
+.glow-magenta {
+  box-shadow: 0 0 0 1px rgba(244, 166, 181, 0.30),
+              0 8px 24px -8px rgba(244, 166, 181, 0.25);
+}
+
+/* =============================================================================
+   PILL — category & verdict chips, in the education accent palette
+   ========================================================================== */
+.pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  padding: 0.3rem 0.75rem;
+  font-family: var(--font-sans);
+  font-size: 0.625rem;
+  font-weight: 600;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  border-radius: 999px;                              /* fully rounded — softer feel */
+  background: var(--color-ink-100);
+  color: var(--color-ink-700);
+  border: 1px solid var(--color-ink-200);
+}
+
+.pill--neon-cyan    { color: #2c7a9d;                /* sky deep — admissions */
+                      background: rgba(110, 193, 228, 0.16);
+                      border-color: rgba(110, 193, 228, 0.40); }
+.pill--neon-magenta { color: #a86d50;                /* peach deep — methods */
+                      background: rgba(232, 184, 154, 0.20);
+                      border-color: rgba(232, 184, 154, 0.45); }
+.pill--neon-acid    { color: #c25b73;                /* pink deep — early-childhood */
+                      background: rgba(244, 166, 181, 0.18);
+                      border-color: rgba(244, 166, 181, 0.45); }
+.pill--neon-amber   { color: #6c5fa3;                /* lavender deep — research */
+                      background: rgba(181, 168, 216, 0.18);
+                      border-color: rgba(181, 168, 216, 0.45); }
+.pill--neon-violet  { color: #3d8a5d;                /* mint deep — ai-edu */
+                      background: rgba(140, 201, 165, 0.18);
+                      border-color: rgba(140, 201, 165, 0.45); }
+
+/* =============================================================================
+   BUTTONS — soft sky-outline primary CTA, parenting-magazine vibe
+   ========================================================================== */
+.btn-neon {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.9rem 1.5rem;
+  font-family: var(--font-sans);
+  font-size: 0.75rem;
+  font-weight: 600;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--color-accent-deep);
+  background: var(--color-paper);
+  border: 1px solid var(--color-accent);
+  border-radius: 999px;
+  transition: all 300ms ease;
+  cursor: pointer;
+}
+
+.btn-neon:hover {
+  color: #ffffff;
+  background: var(--color-accent);
+  border-color: var(--color-accent-deep);
+  box-shadow: 0 8px 24px -8px rgba(110, 193, 228, 0.45);
+}
+
+.btn-neon--magenta {
+  color: var(--color-accent-pink-deep);
+  border-color: var(--color-accent-pink);
+}
+.btn-neon--magenta:hover {
+  color: #ffffff;
+  background: var(--color-accent-pink);
+  border-color: var(--color-accent-pink-deep);
+  box-shadow: 0 8px 24px -8px rgba(244, 166, 181, 0.50);
+}
+
+/* =============================================================================
+   Links — underline in sky blue, hover transitions to pink
+   ========================================================================== */
+.editorial-link {
+  position: relative;
+  display: inline-block;
+  transition: color 200ms ease;
+}
+
+.editorial-link::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: -2px;
+  height: 1px;
+  background: var(--color-accent);
+  transform: scaleX(0);
+  transform-origin: left;
+  transition: transform 320ms ease, background-color 320ms ease;
+}
+
+.editorial-link:hover {
+  color: var(--color-accent-deep);
+}
+.editorial-link:hover::after {
+  transform: scaleX(1);
+}
+
+/* =============================================================================
+   Focus rings — sky blue
+   ========================================================================== */
+:focus-visible {
+  outline: 2px solid var(--color-accent);
+  outline-offset: 3px;
+}
+
+/* =============================================================================
+   Scrollbar — slim, sky on hover
+   ========================================================================== */
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+::-webkit-scrollbar-thumb {
+  background: var(--color-ink-200);
+  border-radius: 999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--color-accent);
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+/* =============================================================================
+   Section spacing utilities — unchanged
+   ========================================================================== */
+.mt-section { margin-top: clamp(3rem, 8vw, 6rem); }
+.pb-section { padding-bottom: clamp(3rem, 8vw, 6rem); }
+.py-section { padding-block: clamp(3rem, 8vw, 6rem); }
+.my-section { margin-block: clamp(3rem, 8vw, 6rem); }
+
+/* =============================================================================
+   Reduce motion
+   ========================================================================== */
+@media (prefers-reduced-motion: reduce) {
+  .page-aura { animation: none; }
+  .glow-aurora { transition: none; }
+}
