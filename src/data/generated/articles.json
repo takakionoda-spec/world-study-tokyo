@@ -1,5 +1,213 @@
 [
   {
+    "slug": "ais-unexpected-challenge-sustained-attention-in-complex-tasks",
+    "category": "ai-edu",
+    "issue": "Vol. 01",
+    "publishedAt": "2026-06-10T10:52:17.000Z",
+    "readingMinutes": 5,
+    "feature": true,
+    "cover": {
+      "src": "https://www.sciencedaily.com/images/1920/humanoid-artificial-intelligence-robot-confused.webp",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "AI's Unexpected Challenge: Sustained Attention in Complex Tasks",
+      "ja": "AIの意外な弱点：複雑な課題における持続的注意力の限界"
+    },
+    "dek": {
+      "en": "A recent study reveals leading AI models struggle with classic psychological attention tests as tasks become longer and more intricate, raising questions about their reliability in complex learning environments.",
+      "ja": "最新の研究により、主要なAIモデルが古典的な心理学の注意テストで、課題が複雑になるにつれて著しくパフォーマンスを落とすことが判明。複雑な学習環境でのAIの信頼性に疑問を投げかけます。"
+    },
+    "author": {
+      "en": "WORLD STUDY TOKYO Editors",
+      "ja": "WORLD STUDY TOKYO 編集部"
+    },
+    "location": {
+      "en": "June 10, 2026",
+      "ja": "2026年6月10日"
+    },
+    "tags": [
+      {
+        "en": "AI in Education",
+        "ja": "教育AI"
+      },
+      {
+        "en": "Cognitive Science",
+        "ja": "認知科学"
+      },
+      {
+        "en": "Learning Technology",
+        "ja": "学習テクノロジー"
+      },
+      {
+        "en": "Attention",
+        "ja": "注意力"
+      }
+    ],
+    "body": {
+      "en": [
+        "In a recent study, researchers presented top artificial intelligence (AI) models with a classic attention test, a cognitive challenge commonly used in psychology to assess human focus and processing. The findings, published on June 10, 2026, exposed a significant limitation in current AI systems: while they performed admirably on simple, short tasks, their accuracy plummeted dramatically when the complexity and length of the tasks increased.",
+        "This research highlights a fundamental difference between human and artificial intelligence. Humans, despite their own limits, can often maintain context and attention over extended, intricate sequences. For AI, however, the ability to sustain focus appears to degrade sharply, raising questions about its reliability in scenarios that demand prolonged, nuanced understanding, such as complex problem-solving or detailed textual analysis in educational settings.",
+        "The test involved tasks similar to those that require identifying specific information while ignoring distractions. For instance, models were asked to name colors in short lists. Initially, the AI systems achieved over 90% accuracy. However, as the lists grew longer and the cognitive load —つまり、一度に処理すべき情報の量や複雑さ— became higher, some leading AI systems moved from near-perfect performance to almost complete failure.",
+        "> While the models could correctly name colors in short lists, their performance deteriorated sharply as the task became longer and more complex.",
+        "This decline suggests that current AI models may lack the robust \"working memory\" or sustained attentional mechanisms that are critical for human learning. Unlike humans who can strategically filter information and maintain an internal representation of a task over time, AI models appear to struggle with managing an increasing volume of related, but potentially distracting, data.",
+        "The implications extend beyond simple cognitive tests. As AI tools are increasingly integrated into education — from personalized learning platforms to AI tutors assisting with homework and essay writing — understanding these limitations becomes crucial. If an AI struggles to maintain context in a long conversation or a multi-step problem, its utility as a learning companion could be severely compromised. Future AI development will need to address these issues of sustained attention and cognitive load management to truly replicate or augment human-like intelligence in learning.",
+        "This finding does not diminish the impressive capabilities of AI in other domains, but rather refines our understanding of where its strengths and weaknesses truly lie. For educators and parents, it serves as a reminder that while AI offers powerful tools, it is not a direct substitute for the nuanced, sustained cognitive processes inherent in human learning and teaching."
+      ],
+      "ja": [
+        "2026年6月10日に発表された最新の研究で、研究者たちは主要なAIモデルに、人間の集中力や情報処理能力を評価するために心理学で用いられる古典的な注意テストを課しました。その結果、現在のAIシステムにおける重要な限界が明らかになりました。単純で短い課題では優れたパフォーマンスを示したものの、課題の複雑さと長さが増すにつれて、その精度は劇的に低下したのです。",
+        "この研究は、人間と人工知能（AI）の根本的な違いを浮き彫りにしています。人間は、自身の限界がありながらも、複雑で長時間の情報に対して文脈を維持し、注意を向け続けることができます。しかしAIの場合、持続的な集中力は著しく低下する傾向があるようです。これは、教育現場における複雑な問題解決や詳細な文章分析など、持続的で繊細な理解が求められるシナリオでのAIの信頼性について疑問を投げかけるものです。",
+        "このテストでは、注意散漫な情報の中から特定の情報を見つけるような課題が用いられました。例えば、モデルは短いリストの中から色を答えるよう求められました。当初、AIシステムは90%以上の精度を達成しましたが、リストが長くなり、認知負荷（一度に処理すべき情報の量や複雑さ）が高まるにつれて、一部の主要なAIシステムはほぼ完璧な性能から完全に機能不全に陥るほどにパフォーマンスを落としました。",
+        "「モデルは短いリストの色を正確に識別できましたが、課題が長く複雑になるにつれて、そのパフォーマンスは著しく低下しました。」",
+        "この性能の低下は、現在のAIモデルが、人間の学習に不可欠な「ワーキングメモリ（作業記憶）」や持続的な注意メカニズムを十分に備えていない可能性を示唆しています。情報を戦略的にフィルタリングし、時間の経過とともに課題の内部表現を維持できる人間とは異なり、AIモデルは関連性がありながらも注意を散漫にする可能性のある増大するデータ量を管理することに苦慮しているようです。",
+        "この影響は、単純な認知テストに留まりません。パーソナライズされた学習プラットフォームから、宿題や作文を支援するAIチューターまで、AIツールが教育にますます統合される中で、これらの限界を理解することは極めて重要です。もしAIが長い会話や多段階の問題において文脈を維持することに苦戦するなら、学習コンパニオンとしてのその有用性は著しく損なわれる可能性があります。将来のAI開発は、学習における人間のような知能を真に再現または強化するために、持続的注意と認知負荷管理の問題に対処する必要があるでしょう。",
+        "この発見は、AIの他の領域での目覚ましい能力を否定するものではなく、むしろその強みと弱みがどこにあるのかという理解を深めるものです。教育者や保護者にとって、AIが強力なツールである一方で、人間の学習と教育に内在する繊細で持続的な認知プロセスを直接代替するものではないということを再認識させるものとなります。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "This research offers a practical lens through which Tokyo families can evaluate the AI tools their children encounter. Think of it like a child trying to remember a short shopping list versus a complex set of instructions for a day trip involving multiple transfers and unexpected stops. The AI, much like a child with a short attention span, excels at the simple list but might get overwhelmed by the multi-layered plan.",
+        "For Tokyo families, this finding has plausible future impacts on how AI is integrated into daily learning. If a child uses an AI tutor for English practice, for instance, the AI might be excellent at short vocabulary drills but struggle to provide coherent, long-form feedback on an essay that requires understanding nuanced arguments over several pages. This could influence decisions on which AI apps to invest in, or when to prioritize human instruction for complex subjects.",
+        "This is not a distant future concern; it's already relevant today for many AI-powered learning apps and will become more apparent within the next 1-2 years. As AI models become more sophisticated, the focus will shift from simple task performance to sustained engagement and contextual understanding. Major Japanese edtech providers like Atama+ or Classi, which often rely on adaptive learning paths, will need to evolve their AI to handle increasingly complex, multi-modal, and long-form interactions.",
+        "In Japan, companies like Atama+ and すららネット are already leading in personalized learning through AI, particularly for subjects like math and English. While highly effective for structured problem sets, this research suggests that for more open-ended learning, such as creative writing or project-based learning, human teachers in juku or international schools still offer a critical edge in maintaining sustained, empathetic attention and adapting to evolving student needs over time. The gap highlights the irreplaceable value of human educators for complex, holistic development."
+      ],
+      "ja": [
+        "この研究は、東京の保護者がお子さんが触れるAIツールを評価する上で、実用的な視点を提供します。例えるなら、お子さんが短い買い物リストを覚えるのと、乗り換えや予期せぬ立ち寄りを伴う複雑な日帰り旅行の指示を覚えるようなものです。AIは、短い注意スパンのお子さんのように、単純なリストには優れていますが、多層的な計画には圧倒されてしまう可能性があります。",
+        "東京のご家庭にとって、この発見は、AIが日々の学習にどのように統合されるかについて、将来的に影響を与える可能性があります。例えば、お子さんが英語学習のためにAIチューターを使う場合、AIは短い単語練習には優れていても、数ページにわたる繊細な議論を理解し、一貫した長文のフィードバックを論文に与えることには苦労するかもしれません。これは、どのAIアプリに投資すべきか、あるいは複雑な科目で人間の指導を優先すべきかという決定に影響を与えるでしょう。",
+        "これは遠い未来の懸念ではありません。すでに多くのAI搭載学習アプリにとって今日から関連性があり、今後1〜2年でより顕著になるでしょう。AIモデルがより洗練されるにつれて、単純なタスクのパフォーマンスから、持続的な関与と文脈理解へと焦点が移ります。Atama+やすららネットのような日本の主要なエドテックプロバイダーは、アダプティブラーニング（個別最適化された学習）に多くを依存していますが、ますます複雑で多様な形式の、長文にわたるインタラクションを処理できるようにAIを進化させる必要があります。",
+        "日本では、Atama+やすららネットなどが、特に数学や英語といった科目でAIによる個別最適化学習を牽引しています。構造化された問題セットには非常に効果的ですが、この研究が示唆するのは、創造的な文章作成やプロジェクト型学習のようなより自由度の高い学習においては、塾やインターナショナルスクールの人間の先生が、持続的で共感的な注意を維持し、時間の経過とともに変化する生徒のニーズに適応する上で、依然として決定的な優位性を持っているということです。このギャップは、複雑で包括的な発達における人間の教育者の代替不可能な価値を浮き彫りにしています。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "AI struggles with complex, sustained attention tasks.",
+        "ja": "AIは複雑で持続的な注意課題に苦戦する。"
+      },
+      "whoForWhat": {
+        "en": "For a Tokyo family considering AI tutors or learning apps for their child, this highlights the current limitations of AI in handling complex, multi-step learning that requires sustained attention.",
+        "ja": "AIチューターや学習アプリを検討中の東京のご家庭にとって、AIが複雑で持続的な注意を要する多段階学習に対応する際の現在の限界を示唆します。"
+      },
+      "vsJapanContext": {
+        "en": "This contrasts with the human-centric, long-term guidance provided by juku teachers or international school educators, where sustained contextual understanding is paramount for complex subjects or exam preparation like 共通テスト essay sections.",
+        "ja": "これは、複雑な科目や共通テストの記述問題対策など、長期的な文脈理解が不可欠な塾やインターナショナルスクールの人間による指導と対照的です。"
+      },
+      "tokyoNote": {
+        "en": "While AI offers powerful tools, this research reminds Tokyo parents that for deep, nuanced learning, human educators still provide an irreplaceable capacity for sustained attention and adaptive support that current AI lacks. Consider the blend of AI for structured practice and human guidance for complex challenges.",
+        "ja": "AIは強力なツールですが、この研究は、深く繊細な学習においては、現在のAIにはない持続的な注意と適応的なサポート能力を人間の教育者が提供するということを、東京の保護者に再認識させます。構造化された練習にはAIを、複雑な課題には人間の指導を組み合わせる視点を持つことが重要です。"
+      }
+    },
+    "source": {
+      "name": "ScienceDaily — Child Development",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260610003049.htm"
+    },
+    "sourceGuid": "https://www.sciencedaily.com/releases/2026/06/260610003049.htm",
+    "status": "published"
+  },
+  {
+    "slug": "the-science-of-piano-touch-how-subtle-keywork-shapes-tone",
+    "category": "methods",
+    "issue": "Vol. 01",
+    "publishedAt": "2026-05-28T11:51:24.000Z",
+    "readingMinutes": 5,
+    "feature": true,
+    "cover": {
+      "src": "https://www.sciencedaily.com/images/1920/grand-concert-piano-male-pianist.webp",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "The Science of Piano Touch: How Subtle Keywork Shapes Tone",
+      "ja": "ピアノの音色はタッチで変わる：100年の謎を解き明かした科学"
+    },
+    "dek": {
+      "en": "New research confirms what master pianists have long claimed: the subtle manipulation of keys creates distinct tone colors audible even to untrained ears. This finding reshapes our understanding of musical expression and learning.",
+      "ja": "熟練のピアニストが長年語り継いできた「タッチによる音色の変化」が、最新の研究で科学的に証明されました。これは音楽表現と学習の理解を深める発見です。"
+    },
+    "author": {
+      "en": "WORLD STUDY TOKYO Editors",
+      "ja": "WORLD STUDY TOKYO 編集部"
+    },
+    "location": {
+      "en": "Tokyo, Japan — May 28, 2026",
+      "ja": "東京 — 2026年5月28日"
+    },
+    "tags": [
+      {
+        "en": "Music Education",
+        "ja": "音楽教育"
+      },
+      {
+        "en": "Piano",
+        "ja": "ピアノ"
+      },
+      {
+        "en": "Learning Methods",
+        "ja": "学習方法"
+      },
+      {
+        "en": "Skill Development",
+        "ja": "スキル開発"
+      }
+    ],
+    "body": {
+      "en": [
+        "For over a century, a central debate among pianists and music educators has revolved around whether a performer’s unique touch can genuinely alter a piano note’s tone color (音色 — the quality of a sound that distinguishes it from others of the same pitch and volume). Now, scientists have provided a definitive answer: yes, it can. Researchers, utilizing a sophisticated sensor system, confirmed that elite pianists possess the ability to subtly manipulate keys in ways that produce audibly distinct tonal qualities.",
+        "This finding, published recently, resolves a long-standing mystery and validates the intuitive understanding held by many master musicians. Previously, it was often argued that a piano's tone was solely determined by the initial velocity of the hammer striking the string, meaning only loudness could be controlled by touch. However, the new study reveals that skilled pianists employ far more nuanced control, influencing the sound in ways that transcend simple dynamics.",
+        "The breakthrough came through the use of an advanced sensor system capable of tracking piano key movements at an astonishing 1,000 frames per second. This high-precision data allowed researchers to observe minute, otherwise imperceptible actions by pianists. They discovered that beyond the initial impact, top performers make subtle adjustments to key pressure, duration, and release, creating micro-variations that contribute to the overall character of the sound.",
+        "> \"Elite pianists subtly manipulate keys in ways that listeners can genuinely hear, even if they’ve never played piano before.\"",
+        "These subtle manipulations are not merely academic; the research demonstrated that listeners, even those with no prior piano experience, could consistently discern the differences in tone color produced by varying touches. This suggests that the expressive power of a pianist is deeply rooted in their refined physical control and acute auditory perception, going beyond what standard pedagogical approaches often emphasize.",
+        "The implications for music education are significant. While traditional piano instruction often focuses on correct fingering, rhythm, and dynamics, this research underscores the importance of cultivating a sensitive and varied touch from an early stage. It suggests that teaching methods could evolve to incorporate exercises specifically designed to explore and develop a wider palette of tonal expressions through subtle key manipulation, rather than just brute force or speed.",
+        "Ultimately, this scientific validation of the pianist’s touch reinforces the artistry inherent in musical performance. It highlights that true mastery involves a profound connection between the performer's physical actions, their sonic intention, and the instrument's capacity for expressive nuance. For any learner pursuing a skill that demands fine motor control and artistic interpretation, the lesson is clear: mastery lies in the details of execution."
+      ],
+      "ja": [
+        "1世紀以上にわたり、ピアニストや音楽教育者の間で「演奏者のタッチ（鍵盤に触れる指の感覚や動作）が、ピアノの音色（音の高さや大きさ以外の、音の個性や質感）を本当に変えることができるのか」という議論が続いてきました。この長年の問いに対し、科学がついに明確な答えを出しました。最新のセンサーシステムを用いた研究により、一流のピアニストは鍵盤を微妙に操作することで、聴衆がはっきりと聞き分けられるような独特の音色を生み出していることが確認されたのです。",
+        "この研究成果は最近発表され、多くの熟練した音楽家が直感的に理解していたことを科学的に裏付けるものとなりました。これまでは、ピアノの音色はハンマーが弦を叩く最初の速さ、つまり音の大きさによってのみ決まると考えられることが多く、タッチが音色自体を変えることはないと主張する声もありました。しかし、今回の研究は、熟練のピアニストが単純な強弱を超えた、はるかに繊細なコントロールを行っていることを明らかにしています。",
+        "この画期的な発見は、1秒間に1,000フレームという驚異的な速さでピアノの鍵盤の動きを追跡できる高度なセンサーシステムによってもたらされました。この高精度なデータにより、研究者たちはピアニストが行う、肉眼では捉えられないほどの微細な動作を観察することができました。その結果、最高の演奏家たちは、鍵盤を叩く最初の衝撃だけでなく、その後の圧力のかけ方、鍵盤を押さえている時間、そして離し方にも微細な調整を加え、それが音全体の特性、すなわち音色に寄与していることが判明したのです。",
+        "> 「一流のピアニストは、たとえピアノを弾いたことがないリスナーであっても、明確に聞き取れる方法で鍵盤を微妙に操作しています。」",
+        "これらの微妙な操作は単なる学術的な興味にとどまりません。研究では、ピアノ経験のないリスナーでさえも、異なるタッチによって生み出される音色の違いを一貫して聞き分けることができると示されました。これは、ピアニストの表現力が、洗練された身体的なコントロールと鋭敏な聴覚に深く根ざしていることを示唆しており、従来の教育法が強調してきた範囲を超えたものです。",
+        "この発見は、音楽教育に大きな影響を与える可能性があります。従来のピアノ指導では、正確な運指、リズム、強弱が重視されることが多いですが、今回の研究は、初期段階から繊細で多様なタッチを育むことの重要性を強調しています。教育法は進化し、単なる力強さや速さだけでなく、鍵盤の微妙な操作を通じてより幅広い音色の表現を探求し、発展させるための練習を具体的に組み込むようになるかもしれません。",
+        "最終的に、ピアニストのタッチに対するこの科学的な裏付けは、音楽演奏に内在する芸術性を再確認させます。真の熟練とは、演奏者の身体的動作、音に対する意図、そして楽器が持つ表現のニュアンスの可能性との間の深い繋がりによって生まれることを示しています。微細な運動制御と芸術的解釈が求められるあらゆるスキルを学ぶ者にとって、この教訓は明確です。つまり、真の熟練は、実行の細部に宿るのです。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "This research offers a fascinating scientific validation for what many experienced music teachers in Tokyo and around the world have long taught intuitively: that the 'touch' on a piano key is not just about how hard you press, but how subtly and skillfully you engage with the instrument. For Tokyo families with children learning piano, this means moving beyond simply hitting the right notes or playing at the correct volume. It highlights the importance of listening deeply to the sound produced and experimenting with the nuanced ways fingers interact with the keys.",
+        "Looking ahead, this finding could plausibly influence how major music education institutions in Japan, such as the Yamaha Music Foundation or Kawai Music School, refine their pedagogical approaches. While these schools already emphasize comprehensive musicality, including expression, this research provides a scientific basis for introducing more specific exercises focused on developing 'tone color' through precise key manipulation from a younger age. It might also subtly shift how private piano instructors frame their lessons, focusing more on the 'quality' of sound rather than just the 'quantity' of notes.",
+        "We could see this impact manifesting within the next 3 to 5 years. The change would likely be gated by the curriculum development cycles of these large music schools and the gradual adoption of new insights by individual instructors. As scientific evidence becomes more widely disseminated, it provides a compelling reason for educators to integrate these findings into their teaching, especially for students aiming for advanced musical studies or competitive performances.",
+        "In Japan, institutions like the Yamaha Music Foundation and Kawai Music School already have highly structured and comprehensive music education programs that nurture musicality from early childhood. While they have always valued expression and beautiful tone, this research offers a scientific lens to refine the 'how' of achieving it through touch. Private classical piano lessons in Japan often emphasize a deep understanding of technique and artistry, and this new science provides empirical backing for the subtle physical training they already impart, potentially allowing for even more targeted and effective instruction."
+      ],
+      "ja": [
+        "今回の研究は、東京をはじめ世界中の経験豊富な音楽教師が長年直感的に教えてきたこと、すなわちピアノの「タッチ」が単に鍵盤を強く押すことではなく、いかに繊細かつ巧みに楽器と向き合うかにある、という点を科学的に裏付ける興味深いものです。東京でピアノを学ぶお子さんを持つご家庭にとって、これは単に正しい音を弾くことや適切な音量で演奏することを超え、生み出される音に深く耳を傾け、指と鍵盤の相互作用の微妙な違いを探求することの重要性を示唆しています。",
+        "今後、この発見は、ヤマハ音楽振興会やカワイ音楽教室といった日本の主要な音楽教育機関が、指導法をどのように洗練させていくかに影響を与える可能性があります。これらの教室はすでに包括的な音楽性を重視していますが、この研究は、より幼い頃から精密な鍵盤操作を通じて「音色」を開発するための、より具体的な練習を導入する科学的な根拠を提供します。また、個人のピアノ講師がレッスンを構成する際にも、単に音符の「量」だけでなく、音の「質」により焦点を当てるようになるかもしれません。",
+        "このような変化は、今後3年から5年以内に現れる可能性があります。主要な音楽教室のカリキュラム開発サイクルや、個々の講師による新しい知見の段階的な採用がその進展を左右するでしょう。科学的根拠が広く知られるようになるにつれて、特に高度な音楽学習やコンクールを目指す生徒にとって、教育者がこれらの発見を指導に統合する説得力のある理由となります。",
+        "日本では、ヤマハ音楽振興会やカワイ音楽教室のような機関が、幼児期から音楽性を育むための非常に体系的で包括的な音楽教育プログラムを提供しています。これらの教室は常に表現力や美しい音色を重視してきましたが、今回の研究は、タッチを通じてそれを実現する「方法」を洗練させる科学的な視点を提供します。日本の個人のクラシックピアノレッスンでは、技術と芸術性の深い理解がしばしば強調されており、この新しい科学は、彼らがすでに伝えている繊細な身体訓練に経験的な裏付けを与え、より的を絞った効果的な指導を可能にするかもしれません。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "Piano touch shapes tone color, a century-old mystery solved.",
+        "ja": "ピアノの音色はタッチで変わる。100年の謎が科学で解明。"
+      },
+      "whoForWhat": {
+        "en": "For Tokyo families with children learning piano, this research offers a scientific basis for understanding how subtle physical control impacts musical expression, guiding practice beyond basic notes and rhythms.",
+        "ja": "ピアノを学ぶお子さんを持つ東京のご家庭にとって、この研究は微妙な身体操作が音楽表現にどう影響するかを科学的に示し、基本的な音符やリズムを超えた練習の指針となります。"
+      },
+      "vsJapanContext": {
+        "en": "This finding aligns with the holistic music education philosophy of institutions like Yamaha Music Foundation and Kawai Music School, providing scientific backing for their emphasis on expressive touch and tone.",
+        "ja": "この発見は、ヤマハ音楽振興会やカワイ音楽教室のような日本の音楽教育機関が持つ包括的な指導哲学と合致し、表現豊かなタッチと音色への重視に科学的な裏付けを与えます。"
+      },
+      "tokyoNote": {
+        "en": "This research provides empirical support for what many dedicated Tokyo piano teachers already intuit. For parents, it underscores that investing in lessons that emphasize nuanced touch, rather than just speed or accuracy, can unlock deeper musicality in their children.",
+        "ja": "この研究は、東京の多くの熱心なピアノ教師がすでに直感的に教えていることに、経験的な裏付けを与えます。保護者の方々にとっては、速さや正確さだけでなく、繊細なタッチを重視するレッスンに投資することが、お子さんのより深い音楽性を開花させる鍵となり得ると示唆しています。"
+      }
+    },
+    "source": {
+      "name": "ScienceDaily — Educational Psychology",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260528073949.htm"
+    },
+    "sourceGuid": "https://www.sciencedaily.com/releases/2026/05/260528073949.htm",
+    "status": "published"
+  },
+  {
     "slug": "mind-wandering-as-a-compass-decoding-unmet-needs-for-better-focus",
     "category": "methods",
     "issue": "Vol. 01",
