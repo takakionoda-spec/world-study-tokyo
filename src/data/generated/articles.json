@@ -1,5 +1,311 @@
 [
   {
+    "slug": "childrens-eye-movements-may-signal-early-depression-risk",
+    "category": "early-childhood",
+    "issue": "Vol. 01",
+    "publishedAt": "2026-06-17T01:56:37.000Z",
+    "readingMinutes": 4,
+    "feature": true,
+    "cover": {
+      "src": "https://www.sciencedaily.com/images/1920/sad-serious-little-girl.webp",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "Children's Eye Movements May Signal Early Depression Risk",
+      "ja": "子どもの視線に隠されたうつ病の早期兆候：家族歴が影響する可能性"
+    },
+    "dek": {
+      "en": "New research suggests that how children visually process emotional faces, especially in relation to family history, could offer a subtle clue to depression risk.",
+      "ja": "新しい研究によると、子どもが顔の感情をどのように視覚的に処理するか、特に家族歴との関連が、うつ病リスクの微妙な手がかりになる可能性があります。"
+    },
+    "author": {
+      "en": "WORLD STUDY TOKYO Editors",
+      "ja": "WORLD STUDY TOKYO 編集部"
+    },
+    "location": {
+      "en": "June 17, 2026, via ScienceDaily",
+      "ja": "2026年6月17日、ScienceDaily より"
+    },
+    "tags": [
+      {
+        "en": "Child Development",
+        "ja": "子どもの発達"
+      },
+      {
+        "en": "Mental Health",
+        "ja": "メンタルヘルス"
+      },
+      {
+        "en": "Early Intervention",
+        "ja": "早期介入"
+      },
+      {
+        "en": "Eye-Tracking",
+        "ja": "視線追跡"
+      }
+    ],
+    "body": {
+      "en": [
+        "Scientists have recently identified a subtle indicator of depression risk in young children: how their eyes track faces. A study highlighted in ScienceDaily (derived from a university press release on June 17, 2026) suggests that the way children visually engage with emotional expressions can reveal early signs, particularly when combined with family history.",
+        "This finding is significant for parents and caregivers, as it points to a non-verbal cue that could help identify children at risk for depression before more overt symptoms appear. The research focused on eye-tracking technology, which measures where a person looks and for how long, to observe how children process facial emotions like happiness and sadness.",
+        "The study revealed a nuanced pattern: children with a higher inherited risk for depression (meaning a family history of the condition) tended to focus more intently on sad expressions. Conversely, children with a lower inherited risk showed a reduced natural attention to happy expressions. This suggests that the internal emotional landscape, influenced by genetic predisposition, shapes how children perceive and react to the emotional world around them.",
+        "> Depression appears to change what children notice in the faces around them, but the effect depends on family history.",
+        "This observation highlights that early emotional processing is not uniform and can be a silent marker. The study involved a group of children, whose ages were not specified in the summary but typically fall within early to middle childhood for such developmental studies, and tracked their gaze patterns while viewing various emotional faces.",
+        "While still in the research phase, these insights open avenues for early intervention strategies. Understanding these subtle shifts in attention could, in the future, help clinicians develop screening tools or targeted support programs that teach children to regulate their attention to emotional cues, potentially mitigating the development of depression. The challenge will be to translate these research findings into practical, accessible methods for families and healthcare providers."
+      ],
+      "ja": [
+        "子どもの目の動きに、うつ病のリスクを示す早期の手がかりが隠されている可能性が示唆されました。2026年6月17日に発表された ScienceDaily の記事（大学のプレスリリースに基づく）によると、子どもが顔の表情をどのように視覚的に捉えるかが、特に家族歴と合わせて、うつ病の初期兆候を示すことがあるという研究結果です。",
+        "この発見は、保護者や養育者にとって重要です。なぜなら、より明確な症状が現れる前に、うつ病のリスクがある子どもを特定するのに役立つ非言語的な手がかりを指摘しているからです。この研究は、視線追跡技術（アイトラッキング ── 人がどこを見て、どれくらいの時間見つめているかを測定する技術）を用いて、子どもが喜びや悲しみといった顔の表情をどのように処理するかを観察しました。",
+        "研究では、複雑なパターンが明らかになりました。うつ病の遺伝的リスクが高い（家族にうつ病の既往がある）子どもたちは、悲しい表情により強く注目する傾向がありました。対照的に、遺伝的リスクが低い子どもたちは、本来持っているはずの楽しい表情への自然な注意がいくらか失われていることが分かりました。これは、遺伝的素因に影響される内面的な感情の状態が、子どもが周囲の感情世界をどのように認識し、反応するかを形作っていることを示唆しています。",
+        "「うつ病は、子どもが周囲の顔から何に気づくかを変えるようですが、その影響は家族歴によって異なります。」",
+        "この観察は、初期の感情処理が一様ではなく、静かなマーカーとなり得ることを強調しています。この研究は、通常、発達研究では幼児期から学童期の子どもたちを対象とし、様々な感情の顔を見ている間の視線パターンを追跡しました。",
+        "まだ研究段階ではありますが、これらの知見は早期介入戦略の可能性を開きます。注意のこうした微妙な変化を理解することは、将来的に、臨床医がスクリーニングツールや、感情的な手がかりへの注意を調整する方法を子どもたちに教えるターゲットを絞った支援プログラムを開発するのに役立つかもしれません。この研究結果を、家族や医療従事者が利用できる実用的でアクセスしやすい方法に変換することが今後の課題となるでしょう。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "Imagine your child looking at picture books. This research suggests that how their eyes linger on happy or sad faces, especially if there's a family history of depression, might subtly indicate their emotional processing. It's like their gaze tells a story about how they're experiencing the world, even before they can articulate complex feelings. For children with a family history of depression, their eyes tended to fixate more on sad expressions. For others, a natural curiosity for happy faces seemed diminished. It's a quiet signal, not a diagnosis, but an early hint.",
+        "For Tokyo families, this research could eventually lead to more nuanced approaches to early childhood screening, beyond just physical health checkups. While not an immediate change, it raises awareness that emotional development is deeply intertwined with how children perceive their social environment. It might, in the long term, inform the design of early learning environments, perhaps encouraging more tailored emotional literacy programs in preschools or even in the way parents engage with their children's emotional expressions at home.",
+        "This kind of research typically requires 5-10 years for clinical validation and integration into practical tools. The gating factor would be further longitudinal studies confirming these eye-tracking patterns reliably predict later depression, followed by the development of standardized, non-invasive assessment tools. It would also require a shift in healthcare and educational policy to incorporate such screenings, which would be a significant undertaking.",
+        "While direct eye-tracking screenings for depression risk aren't yet common in Japan, institutions like the National Center for Child Health and Development (国立成育医療研究センター) and various university-affiliated child psychiatry departments are actively researching early indicators of mental health challenges. School counseling rooms (スクールカウンセリング) and child guidance centers (児童相談所) already provide support, but this research suggests a potential for even earlier, more objective detection methods that could complement existing services."
+      ],
+      "ja": [
+        "お子さんが絵本を見ている場面を想像してみてください。この研究は、お子さんの視線が楽しい顔や悲しい顔にどのくらい留まるか、特に家族にうつ病の既往がある場合に、その感情処理の仕方を微妙に示唆する可能性があると伝えています。まるで、複雑な感情を言葉にする前から、その視線が世界をどう体験しているかの物語を語っているかのようです。家族にうつ病の既往がある子どもは、悲しい表情により注目する傾向が見られました。そうでない子どもでは、楽しい顔への自然な好奇心が薄れているように見えました。これは診断ではなく、あくまでも早期の静かなサインです。",
+        "東京の家庭にとって、この研究は将来的に、身体的な健康診断だけでなく、より繊細な幼児期のスクリーニング手法につながる可能性があります。すぐさま変化が訪れるわけではありませんが、感情の発達が子どもが社会環境をどう認識するかと深く結びついているという認識を高めます。長期的には、幼児教育の環境設計に影響を与え、例えば、保育園や幼稚園でより個別化された感情リテラシープログラムが導入されたり、家庭で保護者が子どもの感情表現と関わる方法に新たな視点をもたらすかもしれません。",
+        "この種の研究が実用的なツールに統合され、臨床的に検証されるまでには、通常5年から10年かかります。主なボトルネックとなるのは、これらの視線追跡パターンが将来のうつ病を確実に予測することを確認するさらなる長期研究と、標準化された非侵襲的な評価ツールの開発です。また、このようなスクリーニングを組み込むためには、医療および教育政策の転換も必要となり、これは大きな課題となるでしょう。",
+        "日本では、うつ病リスクを直接的に視線追跡でスクリーニングする手法はまだ一般的ではありませんが、国立成育医療研究センターや各地の大学病院小児精神科などでは、子どものメンタルヘルスの早期指標に関する研究が活発に行われています。スクールカウンセリングや児童相談所は既に支援を提供していますが、この研究は、既存のサービスを補完する、より早期で客観的な発見方法の可能性を示唆しています。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "Eye-tracking offers a new lens on early emotional processing.",
+        "ja": "視線追跡が示す感情処理の初期サイン"
+      },
+      "whoForWhat": {
+        "en": "For Tokyo parents of young children concerned about developmental well-being, this research offers insights into potential early, non-verbal indicators of emotional health.",
+        "ja": "子どもの発達と心の健康に関心を持つ東京の保護者にとって、この研究は感情的な健康の潜在的な初期の非言語的指標についての洞察を提供します。"
+      },
+      "vsJapanContext": {
+        "en": "While not directly linked to specific MEXT policies, this research aligns with a growing global focus on early mental health support, resonating with efforts in Japanese schools to enhance counseling services.",
+        "ja": "文部科学省の特定の政策とは直接関係しませんが、この研究は世界の早期メンタルヘルス支援への関心の高まりと一致し、日本の学校におけるカウンセリングサービス強化の取り組みと共鳴します。"
+      },
+      "tokyoNote": {
+        "en": "This finding offers a new perspective for Tokyo families on child emotional development, highlighting how subtle cues like eye movements could someday inform early support, though clinical applications are still distant.",
+        "ja": "この発見は、子どもの感情発達について東京の家庭に新たな視点を提供します。視線のような微妙な手がかりが将来的に早期支援に役立つ可能性を示唆していますが、臨床応用はまだ先の話です。"
+      }
+    },
+    "source": {
+      "name": "ScienceDaily — Child Development",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260616102214.htm"
+    },
+    "sourceGuid": "https://www.sciencedaily.com/releases/2026/06/260616102214.htm",
+    "status": "published"
+  },
+  {
+    "slug": "childrens-eye-movements-may-signal-early-depression-risk-2",
+    "category": "early-childhood",
+    "issue": "Vol. 01",
+    "publishedAt": "2026-06-17T01:56:37.000Z",
+    "readingMinutes": 4,
+    "feature": true,
+    "cover": {
+      "src": "https://images.unsplash.com/photo-1485546246426-74dc88dec4d9?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#FFE0E5"
+    },
+    "title": {
+      "en": "Children's Eye Movements May Signal Early Depression Risk",
+      "ja": "子どもの視線に潜むうつ病の早期兆候：家族歴が影響"
+    },
+    "dek": {
+      "en": "New research suggests that how children visually process facial expressions, particularly emotions, could offer a subtle clue to their risk of developing depression, with patterns differing based on family history.",
+      "ja": "新たな研究によると、子どもが顔の表情、特に感情をどのように視覚的に処理するかは、うつ病発症リスクの微妙な手がかりとなる可能性があります。このパターンは家族歴によって異なることが示唆されています。"
+    },
+    "author": {
+      "en": "WORLD STUDY TOKYO Editors",
+      "ja": "WORLD STUDY TOKYO 編集部"
+    },
+    "location": {
+      "en": "Tokyo",
+      "ja": "東京"
+    },
+    "tags": [
+      {
+        "en": "Mental Health",
+        "ja": "心の健康"
+      },
+      {
+        "en": "Child Development",
+        "ja": "子どもの発達"
+      },
+      {
+        "en": "Emotional Regulation",
+        "ja": "感情調整"
+      },
+      {
+        "en": "Early Detection",
+        "ja": "早期発見"
+      }
+    ],
+    "body": {
+      "en": [
+        "A recent scientific inquiry has identified a subtle but significant indicator of depression risk in children: how their eyes focus on emotional cues in faces. This finding, published in mid-2026, suggests that early changes in visual attention to expressions like sadness or happiness could serve as an important, non-verbal clue, especially when considered alongside a child's family history of depression.",
+        "The research highlights that not all children at risk show the same patterns. For those with a higher inherited predisposition to depression, the visual system appears to become more attuned to sad expressions. Conversely, children with a lower inherited risk, but who may still be developing depression, tended to show a reduced natural attention to happy expressions.",
+        "This distinction is crucial because it points to different attentional biases (a tendency to selectively focus on certain information) at play, depending on the underlying vulnerability. Scientists employed eye-tracking technology, a method that precisely measures where and for how long a person looks at specific areas of an image, to observe these subtle shifts in children's visual processing.",
+        "The implications for families are significant. It suggests that depression, even in its early stages, may subtly alter a child's perception of their social environment, influencing what they instinctively notice or overlook in others' faces. This shift in attention could potentially feed into a cycle where emotional information is processed differently, affecting social interactions and mood over time.",
+        "> Depression appears to change what children notice in the faces around them, but the effect depends on family history.",
+        "Understanding these distinct visual patterns could pave the way for earlier identification of children who might benefit from support. Rather than waiting for overt symptoms, which can be challenging for children to articulate, observing these eye-movement patterns could offer a more objective and timely window into a child's emotional state and potential risk trajectory. Further research will likely explore how these findings can be integrated into practical screening tools or therapeutic interventions."
+      ],
+      "ja": [
+        "最近の科学研究により、子どものうつ病リスクを示す、ある繊細ながらも重要な指標が特定されました。それは、子どもが顔の表情に現れる感情のサインに、どのように視線を集中させるかという点です。2026年半ばに発表されたこの知見は、悲しみや喜びといった表情への視覚的注意の初期変化が、特にうつ病の家族歴と合わせて考慮された場合、重要な非言語的な手がかりとなりうると示唆しています。",
+        "この研究が強調するのは、リスクのある全ての子どもが同じパターンを示すわけではないという点です。うつ病に対して遺伝的な素因が高い子どもたちは、悲しい表情により注意を向ける傾向が見られました。一方で、遺伝的リスクは低いものの、うつ病を発症する可能性のある子どもたちは、楽しい表情への自然な注意が減少する傾向を示しました。",
+        "この違いは非常に重要です。それは、根底にある脆弱性に応じて、異なる注意バイアス（特定の情報に無意識に注意が向きやすくなる傾向）が働いていることを示唆しています。科学者たちは、アイトラッキング技術（人が画像の特定の領域をどこに、どれくらいの時間見ているかを正確に測定する手法）を用いて、子どもの視覚処理におけるこれらの微妙な変化を観察しました。",
+        "この発見が家庭にもたらす意味は大きいです。うつ病は、その初期段階でさえ、子どもの社会的環境に対する認識を微妙に変え、他者の顔から本能的に何を察知し、何を見過ごすかに影響を与えている可能性を示唆しています。このような注意のシフトは、感情的な情報の処理方法に違いを生み、やがて時間とともに社会的な交流や気分に影響を及ぼす悪循環につながることも考えられます。",
+        "「うつ病は、子どもが周囲の顔から何に気づくかを変えるように見えますが、その影響は家族歴によって異なります。」",
+        "これらの異なる視覚パターンを理解することは、サポートが必要な子どもたちをより早期に特定する道を開くかもしれません。子どもたちが言葉で表現するのが難しい具体的な症状を待つのではなく、視線の動きのパターンを観察することで、子どもの感情状態と潜在的なリスクの軌跡をより客観的かつタイムリーに把握できる窓を提供できる可能性があります。今後、これらの知見を実用的なスクリーニングツールや治療的介入にどのように組み込むかについて、さらなる研究が進められるでしょう。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "This research offers a fascinating glimpse into the subtle ways a child's brain processes emotions, long before overt symptoms of depression might appear. Think of it like a child learning a new song: some children might instinctively pick up on the melancholic notes, while others might simply tune out the cheerful melodies. This study suggests that these unconscious attentional biases could be an early warning sign, particularly when considering a family history of mental health conditions.",
+        "For Tokyo families, this finding could eventually influence how early childhood development specialists and school counselors approach mental wellness. Instead of solely relying on self-reporting or behavioral observations, which can be challenging for younger children, future approaches might incorporate more objective measures. This could lead to more nuanced conversations between parents and professionals about a child's emotional landscape, potentially encouraging proactive support.",
+        "The practical integration of such eye-tracking methods into general pediatric or school settings in Japan is likely 5-10 years away. It would be gated by the development of accessible, non-invasive screening tools, and importantly, by a shift in public and professional awareness regarding early mental health indicators. We would need to see domestic replication studies and clear guidelines from bodies like the Ministry of Health, Labour and Welfare (厚生労働省) or the Ministry of Education, Culture, Sports, Science and Technology (文部科学省).",
+        "While direct eye-tracking screening isn't widespread in Japan yet, institutions like the National Center for Child Health and Development (国立成育医療研究センター) are already conducting advanced research into child mental health. Furthermore, some international schools in Tokyo, with their emphasis on holistic child development and access to global research, might be quicker to explore and integrate such insights into their student support services. The challenge will be making these sophisticated insights accessible and actionable for all families, regardless of their access to specialized care."
+      ],
+      "ja": [
+        "この研究は、うつ病の明らかな症状が現れるずっと前から、子どもの脳が感情を処理する微妙な方法について興味深い洞察を与えてくれます。これは、子どもが新しい歌を覚える様子に似ています。ある子は本能的に憂鬱な音符に気づきやすいかもしれませんが、別の子は明るいメロディーに注意が向かないかもしれません。この研究は、このような無意識の注意バイアスが、特に家族に精神疾患の既往がある場合に、早期の警告サインとなりうる可能性を示唆しています。",
+        "東京で子育てをするご家庭にとって、この知見は将来的に、幼児教育の専門家やスクールカウンセラーが子どもの心の健康にどう向き合うかに影響を与える可能性があります。幼い子どもにとって自己申告や行動観察だけでは難しい場合があるため、将来的にはより客観的な測定方法が取り入れられるかもしれません。これにより、子どもの感情的な状態について、保護者と専門家の間でよりきめ細やかな対話が生まれ、予防的なサポートにつながることが期待されます。",
+        "このようなアイトラッキング手法が日本の一般的な小児科や学校環境に実用的に導入されるまでには、おそらく5年から10年かかるでしょう。この進展は、手軽で非侵襲的なスクリーニングツールの開発、そして何よりも早期の心の健康指標に対する一般市民と専門家の意識の変化によって左右されます。国内での追試研究や、厚生労働省や文部科学省のような機関からの明確なガイドラインが必要となるでしょう。",
+        "日本国内でアイトラッキングによる直接的なスクリーニングが広く普及しているわけではありませんが、国立成育医療研究センターのような機関は、すでに子どもの心の健康に関する先進的な研究を進めています。また、東京の一部のインターナショナルスクールは、ホリスティックな子どもの発達に重点を置き、グローバルな研究へのアクセスがあるため、このような知見を生徒サポートサービスにいち早く取り入れ、探求するかもしれません。課題は、これらの高度な知見を、専門的なケアへのアクセスに関わらず、すべての家庭にとって利用可能で実践的なものにすることです。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "Children's gaze patterns may offer early depression clues.",
+        "ja": "子どもの視線、うつ病の早期兆候に。"
+      },
+      "whoForWhat": {
+        "en": "For Tokyo parents of young children (ages 3-10) concerned about early mental health indicators or with a family history of depression, this research offers a new lens for understanding subtle emotional processing.",
+        "ja": "うつ病の家族歴がある、または子どもの心の健康の早期兆候が気になる東京の保護者（3〜10歳のお子さんをお持ちの方）にとって、この研究は感情処理の微妙な側面を理解する新たな視点を提供します。"
+      },
+      "vsJapanContext": {
+        "en": "While specific eye-tracking diagnostics are not yet common in Japan's pediatric or school health systems, this finding aligns with a growing emphasis by the Ministry of Health, Labour and Welfare on early mental health support for children.",
+        "ja": "日本の子ども向け医療や学校保健システムでは、特定のアイトラッキング診断はまだ一般的ではありませんが、この知見は、厚生労働省が重視する子どもの心の健康の早期支援の方向性と一致しています。"
+      },
+      "tokyoNote": {
+        "en": "This interesting research from abroad highlights how much we still have to learn about early mental health. For Tokyo families, the takeaway is less about immediate clinical application and more about fostering an environment where children feel safe to express a full range of emotions, and where parents are attuned to subtle, non-verbal cues. While advanced tools are distant, empathetic observation is always available.",
+        "ja": "海外からのこの興味深い研究は、子どもの心の健康についてまだ学ぶべきことが多いことを示しています。東京のご家庭にとっての示唆は、すぐに臨床応用されるというよりも、子どもが多様な感情を安心して表現できる環境を育み、保護者が微妙な非言語的なサインに気づくことの重要性です。高度なツールはまだ先ですが、共感的な観察は常に身近なところにあります。"
+      }
+    },
+    "source": {
+      "name": "ScienceDaily — Educational Psychology",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260616102214.htm"
+    },
+    "sourceGuid": "https://www.sciencedaily.com/releases/2026/06/260616102214.htm",
+    "status": "published"
+  },
+  {
+    "slug": "confidence-and-connection-how-motivation-shapes-learning-with-tutors-and-textboo",
+    "category": "methods",
+    "issue": "Vol. 01",
+    "publishedAt": "2026-06-16T03:29:49.000Z",
+    "readingMinutes": 5,
+    "feature": true,
+    "cover": {
+      "src": "https://images.unsplash.com/photo-1517431105194-aaf95f6f47f0?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#F0D2B7"
+    },
+    "title": {
+      "en": "Confidence and Connection: How Motivation Shapes Learning with Tutors and Textbooks",
+      "ja": "自信と親近感：学習意欲がチューターと紙学習の効果をどう変えるか"
+    },
+    "dek": {
+      "en": "New research suggests that a student's belief in their own ability (self-efficacy) and their favorability towards a learning method significantly influence how much they gain from both AI tutoring systems and traditional paper practice.",
+      "ja": "生徒の自己効力感（自分の能力への自信）と、学習形式への好意度が、AIチューターと従来の紙ベースの学習から得られる効果に大きく影響することが、最新の研究で示されました。"
+    },
+    "author": {
+      "en": "WORLD STUDY TOKYO Editors",
+      "ja": "WORLD STUDY TOKYO 編集部"
+    },
+    "location": {
+      "en": "Tokyo, June 2026",
+      "ja": "東京, 2026年6月"
+    },
+    "tags": [
+      {
+        "en": "Learning Methods",
+        "ja": "学習方法"
+      },
+      {
+        "en": "AI in Education",
+        "ja": "教育とAI"
+      },
+      {
+        "en": "Motivation",
+        "ja": "モチベーション"
+      },
+      {
+        "en": "Self-Efficacy",
+        "ja": "自己効力感"
+      }
+    ],
+    "body": {
+      "en": [
+        "A recent preprint from arXiv cs.CY, published in June 2026, highlights the critical role of motivational factors in student learning, particularly when comparing technology-supported environments with traditional methods. The research investigates how a student's self-efficacy—their belief in their own capacity to succeed—and their favorability towards a practice format influence learning outcomes.",
+        "The study employed a rigorous counterbalanced within-subject design with matched problem sets, allowing researchers to isolate the effect of practice format while also modeling individual differences in motivation. This approach revealed a significant finding: students who began with lower baseline self-efficacy consistently achieved greater learning gains, irrespective of whether they used paper-based practice or a system-based tutoring program. This suggests that structured practice, in any format, can be particularly impactful for learners who may initially doubt their own abilities.",
+        "Delving deeper, the researchers observed a nuanced interaction for students with lower baseline self-efficacy. For this group, a greater favorability towards the tutoring system was directly associated with more substantial learning gains during their practice sessions with the tutor. This indicates that for students who are less confident, liking the digital tool or feeling a positive connection to it can be a powerful catalyst for improvement. The pattern, interestingly, differed in paper-based practice, suggesting that the emotional connection to the tool itself might be more pronounced in technology-driven learning.",
+        "However, the study also provided a crucial insight regarding the impact on self-perception. Intelligent Tutoring System (ITS)-based practice did not significantly improve students' post-training self-efficacy when compared to traditional paper-based methods. While AI tutors can boost learning outcomes, they may not inherently build a student's confidence more effectively than focused work with a textbook or workbook.",
+        "> \"These findings underscore the potential value of tailoring practice format to students' motivational profiles, as the benefits of tutor- and paper-based practice varied with baseline self-efficacy and favorability.\"",
+        "The implications are clear: understanding a student's motivational profile—how confident they feel and how much they like a particular learning method—is key to optimizing their learning journey. This research lays the groundwork for future educational interventions that could more effectively align instructional formats with individual learners' motivational needs, moving beyond a one-size-fits-all approach to learning tools."
+      ],
+      "ja": [
+        "2026年6月に公開されたarXiv cs.CYのプレプリント論文は、生徒の学習においてモチベーションが果たす重要な役割に焦点を当てています。特に、テクノロジーを活用した学習環境と従来の学習方法を比較する中で、生徒が自身の能力を信じる気持ち（自己効力感）や、特定の学習形式への好意度が、学習成果にどう影響するかを詳細に調査しました。",
+        "この研究は、厳密な対照実験デザインを採用し、同じ難易度の問題セットを用いることで、学習形式の効果を分離しつつ、生徒個々のモチベーションの違いもモデル化しました。その結果、興味深い発見がありました。学習開始時に自己効力感が低かった生徒は、紙ベースの練習でもシステムベースのチューター学習でも、より大きな学習成果を上げていたのです。これは、自信が不足していると感じる生徒にとって、どのような形式であれ、構造化された学習機会が特に有効であることを示唆しています。",
+        "さらに詳細な分析では、自己効力感が低い生徒において、チューターシステムに対する好意度が高いほど、チューターでの学習セッションにおける学習成果が顕著に向上することが判明しました。このことは、自信がない生徒にとって、デジタルツールを好ましく感じたり、それに対してポジティブな感情を抱いたりすることが、学力向上への強力な後押しとなり得ることを示しています。興味深いことに、このパターンは紙ベースの練習では異なっており、ツールそのものへの感情的なつながりが、テクノロジーを活用した学習においてより顕著に現れる可能性を示唆しています。",
+        "しかし、この研究は自己認識への影響についても重要な洞察を提供しています。インテリジェント・チュータリング・システム（ITS）を用いた学習は、従来の紙ベースの学習方法と比較して、学習後の自己効力感を大きく向上させるには至りませんでした。AIチューターが学習成果を高める一方で、生徒の自信を根本的に高める効果は、集中して取り組む教科書や問題集と比べて、必ずしも優れているわけではないと言えるでしょう。",
+        "> 「これらの知見は、学習者のモチベーション特性に合わせて練習形式を調整することの潜在的な価値を強調しています。チューター学習と紙ベースの学習の利点は、初期の自己効力感と好意度によって異なっていたからです。」",
+        "この研究が示唆することは明確です。生徒のモチベーション特性、つまり彼らがどれだけ自信を感じているか、そして特定の学習方法をどれだけ好んでいるかを理解することが、学習を最適化するための鍵となります。この研究は、画一的な学習ツールのアプローチを超え、個々の学習者のモチベーションのニーズにより効果的に合致する指導形式を調整するための将来の教育的介入の基礎を築くものです。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "This research offers a nuanced perspective on how children learn, emphasizing that it is not just the 'what' or 'how' of learning, but also the 'how they feel' that truly matters. For a Tokyo family, this means thinking about whether your child genuinely enjoys a particular study method—be it a digital learning app or a traditional workbook. If a child lacks confidence in a subject, finding a learning tool they feel positively about, or even a tutor they connect with, could be more impactful than simply choosing the most academically rigorous option.",
+        "Looking ahead, these findings could influence how major juku (cram schools) and international schools in Tokyo design their supplementary learning programs. We might see an increased focus on user experience and 'favorability' in educational technology platforms like Atama+ or すららネット. For parents, this could mean prioritizing tools that offer engaging interfaces or personalized feedback, especially for subjects where their child struggles with confidence. It also highlights the enduring value of a positive relationship with a human tutor.",
+        "The impact could be felt within 2-3 years, particularly in the private education sector. Leading juku and international schools are often quick to integrate evidence-based practices that offer a competitive edge. If these findings are replicated in larger studies, we could see a shift in how edtech is marketed and implemented, moving beyond just 'efficiency' to include 'engagement' and 'emotional connection' as key metrics. However, broader MEXT (Ministry of Education, Culture, Sports, Science and Technology) curriculum changes would likely take 5-10 years, as they require extensive review and consensus.",
+        "In Japan, services like Atama+ (AI-powered adaptive learning) and traditional Kumon (paper-based, individualized practice) already offer structured learning. The key insight here is that for students with lower self-efficacy, their 'favorability' towards the system might be the differentiator. While Kumon emphasizes self-paced mastery, and Atama+ uses AI to personalize, neither explicitly centers the student's emotional connection to the *format itself* as a primary driver of learning gains in the way this research suggests. This opens a new avenue for these providers to consider in their design and pedagogical approach."
+      ],
+      "ja": [
+        "この研究は、子どもたちがどのように学ぶかについて、単に「何を」「どう学ぶか」だけでなく、「どう感じるか」が真に重要であるという繊細な視点を提供します。東京のご家庭にとって、これはお子さまがデジタル学習アプリであれ、従来の紙の問題集であれ、特定の学習方法を心から楽しんでいるかを考えることの重要性を示唆しています。もしお子さまが特定の教科で自信を失っているなら、単に学術的に最も厳格な選択肢を選ぶよりも、お子さまが好意的に感じられる学習ツールや、信頼できるチューターとの出会いが、より大きな効果をもたらすかもしれません。",
+        "今後、この知見は東京の大手学習塾やインターナショナルスクールが、補習プログラムをどのように設計するかに影響を与える可能性があります。Atama+やすららネットのような教育テクノロジーのプラットフォームでは、ユーザーエクスペリエンスや「好意度」への注目がより高まるかもしれません。保護者にとっては、お子さまが自信を持てない科目において、魅力的なインターフェースや個別化されたフィードバックを提供するツールを優先することの重要性を示唆しています。同時に、人間であるチューターとのポジティブな関係の根強い価値も浮き彫りにします。",
+        "この影響は、特に私立の教育部門においては2～3年以内に感じられる可能性があります。大手学習塾やインターナショナルスクールは、競争力を高めるエビデンスに基づいた実践を迅速に取り入れる傾向があるためです。もしこれらの知見がより大規模な研究で裏付けられれば、エドテック（教育テクノロジー）が「効率性」だけでなく、「エンゲージメント」や「感情的なつながり」を主要な指標として、どのように市場展開され、導入されるかに変化が見られるかもしれません。ただし、文部科学省のカリキュラム変更など、より広範な影響が出るには、広範な検討と合意形成が必要なため、5～10年かかるでしょう。",
+        "日本には、Atama+（AIを活用したアダプティブラーニング）や公文式（紙ベースの個別学習）のような構造化された学習サービスが既に存在します。ここでの重要な洞察は、自己効力感が低い生徒にとって、システムへの「好意度」が学習効果の決定要因となりうるという点です。公文式は自己ペースでの習熟を重視し、Atama+はAIで個別最適化を図りますが、今回の研究が示唆するように、学習成果の主要な推進力として「学習形式そのものへの生徒の感情的なつながり」を明示的に中心に据えているわけではありません。この研究は、これらのプロバイダーが設計や教育アプローチにおいて考慮すべき新たな道を開くものです。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "Liking your tutor matters for learning, especially if you doubt yourself.",
+        "ja": "自信がない子ほど、チューターを好きだと伸びる。"
+      },
+      "whoForWhat": {
+        "en": "For Tokyo families considering AI tutoring tools or traditional workbooks, especially for children who may lack confidence in a specific subject.",
+        "ja": "AIチューターか紙学習かを検討している東京のご家庭、特に特定の教科に自信がないお子さまを持つ方へ。"
+      },
+      "vsJapanContext": {
+        "en": "This research offers a new lens for parents evaluating the effectiveness of digital learning platforms like Atama+ or すららネット versus traditional Kumon-style paper drills, highlighting the role of student motivation.",
+        "ja": "この研究は、Atama+やすららネットのようなデジタル学習プラットフォームと、公文式のような紙ベースの学習法の効果を比較検討する保護者にとって、生徒のモチベーションの役割を浮き彫りにする新たな視点を提供します。"
+      },
+      "tokyoNote": {
+        "en": "Tokyo parents should note that while AI tools offer efficiency, fostering a positive emotional connection to the learning method itself can be crucial, particularly for less confident learners. This suggests that the 'feel' of a juku or learning app matters as much as its content, challenging the traditional focus solely on academic rigor.",
+        "ja": "東京の保護者は、AIツールが効率性を提供する一方で、学習方法そのものへのポジティブな感情的つながりを育むことが、特に自信のない学習者にとって非常に重要であることに注目すべきです。これは、学習塾や学習アプリの「感覚」が、そのコンテンツと同じくらい重要であり、学術的な厳格さのみに焦点を当てる従来の考え方に一石を投じます。"
+      }
+    },
+    "source": {
+      "name": "arXiv cs.CY",
+      "url": "http://arxiv.org/abs/2606.17470v1"
+    },
+    "sourceGuid": "http://arxiv.org/abs/2606.17470v1",
+    "status": "published"
+  },
+  {
     "slug": "beyond-conventional-advice-a-new-approach-to-sleep-onset",
     "category": "methods",
     "issue": "Vol. 01",
