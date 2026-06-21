@@ -1,5 +1,109 @@
 [
   {
+    "slug": "new-gut-brain-circuit-drives-protein-cravings-reshaping-appetite-understanding",
+    "category": "early-childhood",
+    "issue": "Vol. 01",
+    "publishedAt": "2026-05-28T04:35:19.000Z",
+    "readingMinutes": 6,
+    "feature": true,
+    "cover": {
+      "src": "https://www.sciencedaily.com/images/1920/brain-gut-connection.webp",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "New Gut-Brain Circuit Drives Protein Cravings, Reshaping Appetite Understanding",
+      "ja": "脳腸回路がタンパク質への欲求を司る：食欲の理解に新たな光"
+    },
+    "dek": {
+      "en": "Researchers identify a specific neural pathway from the gut to the brain that prioritizes protein intake over sugar when the body is deficient, potentially transforming approaches to nutrition and eating habits.",
+      "ja": "研究者たちが、体内のタンパク質不足を感知し、糖分よりもタンパク質摂取を優先させる脳腸回路を発見。栄養と食習慣へのアプローチを変える可能性を秘めています。"
+    },
+    "author": {
+      "en": "WORLD STUDY TOKYO Editors",
+      "ja": "WORLD STUDY TOKYO 編集部"
+    },
+    "location": {
+      "en": "NEW YORK",
+      "ja": "ニューヨーク"
+    },
+    "tags": [
+      {
+        "en": "nutrition",
+        "ja": "栄養"
+      },
+      {
+        "en": "child-development",
+        "ja": "子どもの発達"
+      },
+      {
+        "en": "eating-habits",
+        "ja": "食習慣"
+      },
+      {
+        "en": "brain-science",
+        "ja": "脳科学"
+      }
+    ],
+    "body": {
+      "en": [
+        "Scientists at the Howard Hughes Medical Institute (HHMI) and Columbia University announced new research in May 2026 identifying a previously unknown gut-brain circuit that specifically detects protein deficiency and triggers cravings for protein. This discovery sheds light on how the body prioritizes essential nutrients, suggesting a more sophisticated system than previously understood.",
+        "This research suggests that when protein intake is low, the gut doesn't just send general hunger signals. Instead, it activates a precise neural pathway that suppresses the desire for sugary foods and instead drives a strong preference for protein-rich options. The study, conducted on mice, involved genetically engineering neurons to observe their activity, revealing a direct communication line between the gut and the brainstem.",
+        "The researchers identified specific receptors in the gut that monitor amino acid levels, which are the fundamental building blocks of protein. When these levels drop, a signal is sent via the vagus nerve directly to the brainstem, bypassing the usual reward pathways associated with general hunger. This specialized circuit ensures that the body actively seeks out protein, even when other calorie sources are readily available.",
+        "> The gut sends powerful signals to the brain that reshape cravings and push animals to seek essential amino acids instead of sugar.",
+        "This mechanism explains why even highly palatable sugary foods become less appealing when the body is in acute need of protein. The brain essentially reconfigures its priorities, overriding pleasure signals for quick energy in favor of essential repair and growth materials. This could have significant implications for understanding children's picky eating habits or sudden changes in appetite, suggesting a biological rather than purely psychological basis for some food preferences.",
+        "The findings challenge conventional views of appetite regulation, which often focus on overall calorie intake or general hunger hormones. Understanding this dedicated protein-sensing pathway could open new avenues for addressing nutritional deficiencies, managing weight, and potentially influencing eating behaviors from an early age by focusing on the body's intrinsic needs.",
+        "While the initial research was conducted on animals, the fundamental biological pathways are often conserved across species. The next step will involve exploring if a similar mechanism exists and functions in humans, and how it might be influenced by factors such as dietary habits, the gut microbiome, and individual differences in metabolism. Such insights could lead to more tailored nutritional guidance in the future."
+      ],
+      "ja": [
+        "2026年5月、ハワード・ヒューズ医学研究所（HHMI）とコロンビア大学の研究者たちが、タンパク質不足を特異的に感知し、タンパク質への欲求を刺激する、これまで知られていなかった脳腸回路を発見したと発表しました。この発見は、体がどのようにして必須栄養素を優先するかについて新たな知見をもたらし、これまで考えられていたよりも洗練されたシステムを示唆しています。",
+        "この研究は、タンパク質摂取量が少ない場合、腸が単に一般的な空腹信号を送るだけでなく、砂糖を多く含む食品への欲求を抑制し、タンパク質が豊富な選択肢を強く求めるようにする正確な神経経路を活性化することを示唆しています。マウスを使った研究では、遺伝子操作されたニューロンの活動を観察し、腸と脳幹の間に直接的な通信経路があることを明らかにしました。",
+        "研究者たちは、アミノ酸（タンパク質の基本的な構成要素）のレベルを監視する腸内の特定の受容体を発見しました。これらのレベルが低下すると、迷走神経を介して脳幹に直接信号が送られ、通常の一般的な空腹感に関連する報酬経路とは異なる働きをします。この特殊な回路は、他のカロリー源が利用可能であっても、体が積極的にタンパク質を求めるように機能します。",
+        "「…腸が脳に強力な信号を送り、欲求を再形成し、動物を砂糖ではなく必須アミノ酸を求めるように促す。」",
+        "このメカニズムは、体がタンパク質を緊急に必要としているときに、非常に美味しいはずの甘い食べ物でさえ魅力が薄れる理由を説明します。脳は本質的にその優先順位を再構成し、迅速なエネルギーのための快感信号を、体の修復と成長に必要な材料の摂取に優先させます。これは、子どもの好き嫌いや突然の食欲の変化を理解する上で重要な意味を持つ可能性があり、一部の食べ物の好みが純粋な心理的要因だけでなく、生物学的な基盤を持つことを示唆しています。",
+        "この発見は、カロリー摂取量や一般的な空腹ホルモンに焦点を当てがちだった従来の食欲調節に関する見方に挑戦するものです。この専用のタンパク質感知経路を理解することは、栄養不足への対処、体重管理、そして幼少期からの食行動への影響について、体の本来のニーズに焦点を当てることで、新たな道を開く可能性があります。",
+        "この研究は動物で行われたものですが、基本的な生物学的経路は種を超えて保存されていることが多いです。次のステップは、ヒトにも同様のメカニズムが存在し機能するかどうか、そしてそれが食習慣、腸内細菌叢、個々の代謝の違いといった要因によってどのように影響されるかを調査することになるでしょう。このような知見は、将来的にさらに個別化された栄養指導につながる可能性があります。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "This research shows that our gut has a direct line to our brain, specifically to tell us when we need protein, overriding our desire for sugary treats. Think of it like a highly specialized internal alarm system: if your child's body needs building blocks for growth (protein), it might naturally make them less interested in candy, even if it's right in front of them. It's a powerful biological drive, not just a preference.",
+        "For Tokyo families, this finding could shift how we approach children's nutrition and even picky eating. Instead of focusing solely on calorie counting or general \"balanced meals,\" parents might consider the *quality* and *availability* of protein more deliberately. It could also influence the development of more targeted nutritional advice or even functional foods designed to activate or satisfy this specific craving pathway.",
+        "While the initial research is in animals, if replicated in humans, we might see practical applications within 5-10 years. This would be gated by further human studies and then by health and nutrition organizations (like Japan's Ministry of Health, Labour and Welfare) incorporating such findings into dietary guidelines, or by major food manufacturers developing new products that leverage this understanding.",
+        "In Japan, established nutrition education often emphasizes a balanced diet through concepts like「一汁三菜」(ichiju sansai – one soup, three dishes). This new research adds a layer of biological specificity to that general advice. While there isn't a direct \"protein-craving circuit\" program, existing services like Benesse's \"Kodomo Challenge\" or Gakken's food education materials could, in the future, incorporate this knowledge to provide more scientifically grounded advice on eating habits."
+      ],
+      "ja": [
+        "この研究は、私たちの腸が脳と直接つながり、特にタンパク質が不足しているときに、甘いものへの欲求を抑え、タンパク質を求める信号を送ることを示しています。これは、まるで体内に設置された非常に専門的なアラームシステムのようなものです。お子さんの体が成長に必要な「材料」（タンパク質）を求めているとき、目の前に大好きな甘いお菓子があっても、自然と興味を示さなくなる、という生物学的なメカニズムが働いているのかもしれません。",
+        "東京で子育てをするご家庭にとって、この発見は子どもの栄養摂取、さらには好き嫌いへのアプローチを変える可能性があります。単にカロリーや「バランスの取れた食事」だけでなく、タンパク質の「質」や「適切な摂取」をより意識するようになるかもしれません。将来的には、この特定の欲求経路を活性化したり満たしたりするために設計された、より的を絞った栄養アドバイスや機能性食品の開発にも影響を与える可能性を秘めています。",
+        "この初期研究は動物で行われたものですが、もしヒトでも同様のメカニズムが確認されれば、実用的な応用は5年から10年以内には見られるかもしれません。これは、さらなるヒトでの研究、そして厚生労働省などの保健機関がこの知見を食事ガイドラインに組み込むか、あるいは大手食品メーカーがこの理解を活用した新製品を開発するかによって左右されるでしょう。",
+        "日本では、「一汁三菜」のような伝統的な食文化を通じて、バランスの取れた食事が重視されてきました。この新しい研究は、その一般的な栄養アドバイスに生物学的な特異性という新たな視点を加えるものです。直接的に「タンパク質欲求回路」に特化したプログラムはまだありませんが、ベネッセの「こどもちゃれんじ」や学研の食育教材が、将来的にこの知見を組み込み、より科学的根拠に基づいた食習慣の提案を行う可能性はあります。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "The gut's hidden signal for protein overrides sugar cravings.",
+        "ja": "腸がタンパク質不足を脳に伝え、甘いものより優先させる。"
+      },
+      "whoForWhat": {
+        "en": "For Tokyo families with young children, this research offers a new lens on understanding children's natural food preferences and how to ensure balanced nutrition for healthy growth.",
+        "ja": "幼い子どもを持つ東京のご家庭にとって、子どもの自然な食の好みや、健全な成長のための栄養バランスをどう確保するかを理解する新たな視点を提供します。"
+      },
+      "vsJapanContext": {
+        "en": "This research adds a biological layer to Japan's traditional emphasis on balanced nutrition like \"ichiju sansai,\" suggesting a deeper mechanism behind dietary preferences than previously understood.",
+        "ja": "日本の「一汁三菜」に代表されるバランスの取れた食育に、生物学的な深みを加える研究であり、食の好みの背後にあるメカニズムに新たな光を当てます。"
+      },
+      "tokyoNote": {
+        "en": "Understanding this specific protein drive could help Tokyo parents navigate the challenge of ensuring adequate protein in busy households, especially when children might favor readily available sweet snacks.",
+        "ja": "このタンパク質への特定の欲求を理解することは、多忙な東京の家庭で、子どもが手軽な甘いお菓子を好む傾向がある中で、いかに十分なタンパク質を確保するかという課題に取り組む上で役立つかもしれません。"
+      }
+    },
+    "source": {
+      "name": "ScienceDaily — Child Development",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260527023202.htm"
+    },
+    "sourceGuid": "https://www.sciencedaily.com/releases/2026/05/260527023202.htm",
+    "status": "published"
+  },
+  {
     "slug": "early-life-gut-microbiome-a-hidden-partner-in-neurodevelopment",
     "category": "early-childhood",
     "issue": "Vol. 01",
