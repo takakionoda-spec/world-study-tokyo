@@ -1,5 +1,209 @@
 [
   {
+    "slug": "the-enduring-power-of-literacy-a-historical-perspective",
+    "category": "methods",
+    "issue": "Vol. 01",
+    "publishedAt": "2026-06-22T10:00:00.000Z",
+    "readingMinutes": 5,
+    "feature": true,
+    "cover": {
+      "src": "https://images.unsplash.com/photo-1453738773917-9c3eff1db985?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#F5DDC3"
+    },
+    "title": {
+      "en": "The Enduring Power of Literacy: A Historical Perspective",
+      "ja": "読み書きの力、その普遍的な贈り物：歴史が語る学びの意義"
+    },
+    "dek": {
+      "en": "A reflection on the historical fight for literacy reminds us of its foundational role in education and empowerment, a lesson that transcends time and place.",
+      "ja": "識字を巡る歴史的な闘いは、教育と自己実現の基盤としての読み書きの力を再認識させます。その教訓は時代や場所を超えて響きます。"
+    },
+    "author": {
+      "en": "WORLD STUDY TOKYO Editors",
+      "ja": "WORLD STUDY TOKYO 編集部"
+    },
+    "location": {
+      "en": "TOKYO",
+      "ja": "東京"
+    },
+    "tags": [
+      {
+        "en": "literacy",
+        "ja": "識字"
+      },
+      {
+        "en": "foundational skills",
+        "ja": "基礎学力"
+      },
+      {
+        "en": "reading",
+        "ja": "読書"
+      },
+      {
+        "en": "education history",
+        "ja": "教育史"
+      }
+    ],
+    "body": {
+      "en": [
+        "Psyche recently published an essay reflecting on the profound historical significance of literacy, particularly for communities where access to education was deliberately restricted. The piece highlights how the act of teaching and learning to read and write became a powerful form of resistance and an enduring gift passed down through generations.",
+        "For many, the ability to read and write was not merely an academic skill but a gateway to freedom, knowledge, and self-determination. In contexts where books were denied or education was forbidden, literacy represented the power to understand the world, communicate beyond immediate surroundings, and preserve cultural heritage. It was a tool for empowerment, enabling individuals to articulate their experiences and advocate for change.",
+        "The essay underscores the immense courage and dedication of those who, despite severe repression, found ways to share the gift of literacy. Whether through clandestine lessons, community-led initiatives, or the sheer will of individuals determined to learn, these efforts ensured that the flame of knowledge was kept alive, often at great personal risk.",
+        "> \"The act of teaching, and learning, to read and write became a profound assertion of human dignity and a radical act of hope.\"",
+        "This historical perspective reminds us that literacy is far more than decoding text; it is about cultivating critical thinking, fostering empathy, and enabling full participation in society. The legacy of these struggles emphasizes the fundamental human right to education and the transformative potential of foundational skills.",
+        "Even in societies with high literacy rates, the essay's message resonates. It prompts a re-evaluation of how we value and teach reading and writing, urging educators and families to consider literacy not just as a skill to be acquired, but as a vital pathway to agency and a lifelong journey of discovery. The ongoing challenge is to ensure that every child, regardless of background, receives the support needed to fully embrace this invaluable gift."
+      ],
+      "ja": [
+        "学術誌Psycheに掲載されたエッセイは、識字が持つ歴史的な重み、特に教育へのアクセスが意図的に制限されてきたコミュニティにおいて、その意義がどれほど深かったかを考察しています。この記事は、読み書きを教え、学ぶという行為がいかに強力な抵抗の形であり、世代を超えて受け継がれる普遍的な贈り物であったかを浮き彫りにしています。",
+        "多くの人々にとって、読み書きの能力は単なる学術的なスキルではなく、自由、知識、そして自己決定への扉でした。本が奪われ、教育が禁じられた状況下で、識字は世界を理解し、身近な環境を超えてコミュニケーションを取り、文化遺産を保存する力を象徴していました。それは自己を表現し、変革を求めるためのエンパワーメントの道具だったのです。",
+        "エッセイは、厳しい抑圧にもかかわらず、識字の贈り物を分かち合う方法を見つけた人々の計り知れない勇気と献身を強調しています。秘密裏の授業、コミュニティ主導の取り組み、あるいは学ぶことへの個人の純粋な意志を通して、これらの努力は、多くの場合、大きな個人的リスクを伴いながらも、知識の炎を灯し続けました。",
+        "> 「読み書きを教え、学ぶという行為は、人間の尊厳を力強く主張し、希望を育む根源的な行為でした。」",
+        "この歴史的な視点は、識字が単に文字を解読する以上の意味を持つことを私たちに思い出させます。それは批判的思考を育み、共感を育み、社会への完全な参加を可能にするものです。これらの闘いの遺産は、教育を受ける基本的な人権と、基礎的なスキルが持つ変革の可能性を強調しています。",
+        "高い識字率を誇る社会においても、このエッセイのメッセージは響きます。読み書きの価値と教え方を再評価するよう促し、教育者や家庭に対し、識字を単に習得すべきスキルとしてではなく、自己決定への不可欠な道筋であり、生涯にわたる発見の旅として捉えることを推奨しています。背景にかかわらず、すべての子どもがこのかけがえのない贈り物を受け入れるために必要な支援を得られるようにすることが、現在の課題です。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "This historical reflection on literacy offers Tokyo families a chance to pause and consider the foundational role of reading and writing in their children's development. While Japan boasts one of the highest literacy rates globally, the essay reminds us that true literacy goes beyond decoding characters; it's about critical engagement with information and the power of self-expression.",
+        "For families navigating early childhood education, this perspective highlights the profound importance of fostering a genuine love for reading and writing from a young age. It suggests that the emphasis should not solely be on rote memorization or exam preparation, but on cultivating a deep understanding and the ability to use language as a tool for thought and communication. This can influence choices between academic-focused preschools and those prioritizing broader developmental play.",
+        "This emphasis on literacy as empowerment is relevant today, particularly as children approach junior high and high school entrance exams (中学受験・高校受験). Success in these competitive environments increasingly demands not just factual recall, but strong reading comprehension, analytical writing skills, and the ability to articulate complex ideas — competencies that stem from a robust foundation in literacy.",
+        "In Japan, institutions like 公文式 (KUMON) and Z会 have long emphasized foundational skills in language and mathematics, often with a focus on mastery through repetition. While effective for skill acquisition, the essay encourages us to also consider the deeper purpose: how these skills empower a child to think independently and engage with the world critically. The challenge is to integrate both the systematic mastery of basics and the cultivation of a broader, empowering literacy."
+      ],
+      "ja": [
+        "識字を巡るこの歴史的な考察は、東京で子育てをするご家庭に、読み書きが子どもの成長において果たす基礎的な役割を改めて考える機会を与えてくれます。日本は世界でも有数の識字率を誇りますが、この記事は、真の識字が単なる文字の解読を超え、情報との批判的な関わりや自己表現の力にあることを教えてくれます。",
+        "幼児教育の段階にあるご家庭にとって、この視点は幼い頃から読書や書くことへの純粋な愛情を育むことの重要性を浮き彫りにします。単なる暗記や試験対策に終始するのではなく、深い理解力と、言語を思考やコミュニケーションの道具として使いこなす能力を培うことに重点を置くべきだと示唆しています。これは、アカデミック志向のプリスクールと、より広範な発達を重視する幼稚園との選択にも影響を与えるでしょう。",
+        "識字をエンパワーメントと捉えるこの考え方は、特に中学受験や高校受験を控える子どもたちにとって、今日的な意味を持ちます。これらの競争の激しい環境での成功には、単なる知識の記憶だけでなく、強力な読解力、分析的な記述力、そして複雑なアイデアを明確に表現する能力がますます求められます。これらは、強固な識字の基盤から生まれる能力です。",
+        "日本では、公文式やZ会といった教育機関が、言語や数学の基礎スキルを、反復による習得に重点を置いて長年強調してきました。スキル習得には効果的ですが、この記事は、これらのスキルが子どもをいかに独立して考え、世界と批判的に関わる力を与えるかという、より深い目的に目を向けるよう促します。体系的な基礎の習得と、より広範でエンパワーメントにつながる識字の育成の両方を統合することが、今後の課題となるでしょう。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "The historical fight for literacy as a timeless lesson.",
+        "ja": "識字を巡る歴史は、学びの普遍的価値を伝える。"
+      },
+      "whoForWhat": {
+        "en": "For Tokyo families with children of all ages, this piece highlights the foundational importance of literacy, offering a perspective on how to foster deep reading and writing skills beyond rote learning, especially relevant when considering early childhood education or preparing for competitive entrance exams.",
+        "ja": "東京で子育てをする全年齢のご家庭に、読み書きの基礎がいかに重要であるかを伝える記事です。暗記学習を超えて深い読解力と記述力を育む視点を提供し、幼児教育の選択や競争の激しい受験準備に役立ちます。"
+      },
+      "vsJapanContext": {
+        "en": "While Japan boasts high literacy rates, this article encourages families to consider literacy not just as a given skill, but as a dynamic tool for empowerment, contrasting with traditional cramming methods by emphasizing critical engagement and self-expression, a perspective relevant to 共通テスト's evolving demands and 総合型選抜.",
+        "ja": "高い識字率を誇る日本において、この記事は識字を単なる既得スキルではなく、エンパワーメントのための動的なツールとして捉えることを促します。従来の詰め込み学習とは異なり、批判的思考と自己表現を重視する視点は、共通テストの変遷や総合型選抜の評価基準にも通じるものです。"
+      },
+      "tokyoNote": {
+        "en": "Tokyo parents will find this a powerful reminder that true literacy is about more than test scores; it's about unlocking a child's agency. This perspective is crucial as families weigh academic rigor against holistic development in both domestic and international school pathways, underscoring the enduring value of deep reading and critical writing skills in any admissions context.",
+        "ja": "東京の保護者にとって、この記事は真の識字がテストの点数以上の意味を持ち、子どもの主体性を引き出す力となることを強く示唆します。国内私立校とインターナショナルスクールのどちらを選ぶかを検討する際、学力だけでなく総合的な発達を重視する上で不可欠な視点であり、あらゆる入試において深い読解力と批判的記述力の永続的な価値を再認識させてくれます。"
+      }
+    },
+    "source": {
+      "name": "Psyche",
+      "url": "https://psyche.co/ideas/mary-mcleod-bethune-reminds-us-education-must-be-fought-for"
+    },
+    "sourceGuid": "urn:id:8845",
+    "status": "published"
+  },
+  {
+    "slug": "beyond-enrollment-the-overlooked-crisis-of-college-completion",
+    "category": "admissions",
+    "issue": "Vol. 01",
+    "publishedAt": "2026-06-22T05:00:00.000Z",
+    "readingMinutes": 4,
+    "feature": true,
+    "cover": {
+      "src": "https://i0.wp.com/hechingerreport.org/wp-content/uploads/2026/06/407b3fcd-c1d3-40b0-9253-62988180e11a.jpg?fit=1024%2C724&amp;ssl=1",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "Beyond Enrollment: The Overlooked Crisis of College Completion",
+      "ja": "入学率の先に：見過ごされがちな大学の「修了」という課題"
+    },
+    "dek": {
+      "en": "A new perspective suggests that higher education's real challenge isn't getting students in, but ensuring they graduate, especially for first-generation students balancing academics with life's demands.",
+      "ja": "高等教育の真の課題は、学生を入学させることではなく、卒業まで導くことにあるという新たな視点が提示されています。特に、学業と生活のバランスを取る家庭で初めての大学生にとって重要です。"
+    },
+    "author": {
+      "en": "WORLD STUDY TOKYO Editors",
+      "ja": "WORLD STUDY TOKYO 編集部"
+    },
+    "location": {
+      "en": "June 22, 2026, The Hechinger Report",
+      "ja": "2026年6月22日、ヘチンジャー・レポート"
+    },
+    "tags": [
+      {
+        "en": "higher education",
+        "ja": "高等教育"
+      },
+      {
+        "en": "college completion",
+        "ja": "大学修了"
+      },
+      {
+        "en": "student support",
+        "ja": "学生支援"
+      },
+      {
+        "en": "first-generation students",
+        "ja": "初世代大学生"
+      }
+    ],
+    "body": {
+      "en": [
+        "The Hechinger Report, an independent US education newsroom, recently published an opinion piece on June 22, 2026, arguing that the true crisis in higher education is not enrollment numbers, but rather the low rates of college completion. The article highlights that many students who begin their university journey, often with significant promise and effort, do not ultimately earn their degrees. This perspective challenges the common focus on admissions figures, redirecting attention to the systemic barriers that prevent capable students from crossing the finish line.",
+        "This completion gap matters deeply for students and their families, particularly for those who are the first in their family to attend a four-year institution. These students often arrive with credits already completed through programs like dual enrollment (高校在学中に大学の単位を取得できる制度), demonstrating strong motivation and academic capability. However, their journey is frequently complicated by financial strain, the need to work part-time to support their families, and a lack of familiar support networks that more privileged students might take for granted. The article underscores that these are not merely individual failings but reflections of an educational system that may not adequately support diverse student needs beyond initial admission.",
+        "> \"Imagine a student... Focused. Capable. Working part-time to help support things at home.\"",
+        "The challenges extend beyond financial pressures to include mental health issues, a sense of isolation, and difficulties navigating complex university bureaucracies without prior guidance. While universities often invest heavily in recruitment and initial support programs, the sustained, holistic support required to see students through to graduation is often insufficient. This is particularly true for students balancing academic demands with external responsibilities, who may struggle to access resources or feel a sense of belonging.",
+        "Addressing this completion crisis requires a shift in institutional mindset, moving from an enrollment-centric view to a completion-centric one. This means re-evaluating support services, academic advising, and financial aid structures to ensure they are accessible and responsive to the real-world pressures students face. It also calls for a greater focus on creating inclusive campus environments where all students, regardless of their background, feel supported and empowered to succeed. The goal is not just to open the door to higher education but to ensure a clear and supported path through it.",
+        "Looking ahead, the discussion around college completion points to a broader need for higher education institutions globally to consider their role in student success holistically. It prompts questions about how universities can better integrate academic, financial, and personal support systems to foster an environment where starting a degree truly leads to earning one. For families, this conversation highlights the importance of researching not just admission rates, but also graduation rates and the support structures available at prospective institutions."
+      ],
+      "ja": [
+        "米国の教育専門ニュースメディアであるヘチンジャー・レポートは、2026年6月22日付の論説で、高等教育における真の危機は入学率ではなく、むしろ卒業・修了率の低さにあると指摘しました。この記事は、多くの学生が大きな可能性と努力を抱えて大学に入学するにもかかわらず、最終的に学位を取得できない現状を浮き彫りにしています。この視点は、一般的に入学実績に偏りがちな注目を、有能な学生が学業を完遂するのを妨げる構造的な障壁へと向け直すものです。",
+        "この「修了のギャップ」は、学生とその家族、特に家庭で初めて四年制大学に進学する学生にとって、深く重要な意味を持ちます。こうした学生の多くは、デュアル・エンロールメント・プログラム（高校在学中に大学の単位を先行して取得できる制度）などを通じて、既に単位を取得した状態で大学に入学し、高い意欲と学力を示しています。しかし、彼らの学業は、経済的な負担、家計を支えるためのアルバイト、そしてより恵まれた学生が当然享受するような家族からのサポートネットワークの欠如によって、しばしば複雑になります。記事は、これらが単なる個人の問題ではなく、入学後の多様な学生ニーズに十分に対応できていない教育システムの反映であると強調しています。",
+        "「高校に在学中に大学の授業を受け始める学生を想像してください。彼らは、集中力があり、有能で、家計を支えるためにアルバイトをしています。」",
+        "課題は経済的圧力にとどまらず、精神的な健康問題、孤立感、そして事前の指導がない中で複雑な大学の事務手続きを乗り越える困難なども含まれます。大学はしばしば学生の募集や初期のサポートプログラムに多額の投資を行いますが、学生が卒業に至るまで必要とする持続的かつ包括的なサポートは、しばしば不十分です。これは、学業と外部の責任とのバランスを取りながら学ぶ学生にとって特に顕著であり、リソースへのアクセスに苦労したり、所属感を抱きにくかったりする場合があります。",
+        "この修了危機に対処するには、大学の考え方を「入学中心」から「修了中心」へと転換する必要があります。これは、学生が直面する現実世界のプレッシャーに対応できるよう、サポートサービス、アカデミック・アドバイジング、財政援助の構造を見直し、アクセスしやすく、実情に即したものにすることを意味します。また、出身に関わらずすべての学生がサポートされ、成功する力を得られるような、包摂的なキャンパス環境を創出することにも、より一層焦点を当てる必要があります。目標は、高等教育への扉を開くだけでなく、その道筋を明確に支援することです。",
+        "今後、大学の修了率に関する議論は、世界の高等教育機関が学生の成功に対してより包括的な役割を果たす必要性を示唆しています。これは、大学が学業、経済、個人のサポートシステムをどのように統合し、学位取得に向けて学生を真に導く環境を育むことができるかという問いを投げかけます。家族にとっては、この議論は、単に入学率だけでなく、卒業率や、入学を検討している大学が提供するサポート体制についても調査することの重要性を浮き彫りにします。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "Imagine your child working incredibly hard to get into a top university, maybe even taking extra classes in high school to get a head start. This report suggests that getting in is just the first hurdle. The real challenge, especially for students who might be juggling part-time jobs or supporting their families, is making it all the way through to graduation. It’s like training for a marathon: qualifying for the race is one thing, but finishing it requires sustained support, proper nutrition, and dealing with unexpected challenges along the way, not just a strong start.",
+        "For Tokyo families, this perspective might shift how they evaluate universities, both domestic and international. Beyond focusing solely on entrance difficulty or reputation, parents might start asking about a university's graduation rates, the availability of comprehensive student support services—including financial aid, mental health counseling, and career guidance—and how well these services cater to students with diverse backgrounds or responsibilities. This could influence decisions between a university known for tough admissions but perhaps less robust ongoing support, versus one with a strong track record of student success through graduation.",
+        "While this discussion is prominent in the US, its influence on Japanese university practices might be more gradual, likely within 3-5 years. The gating factor would be a shift in MEXT (文部科学省) guidelines or a stronger push from private universities to differentiate themselves through student success metrics beyond entrance figures. Some international schools in Tokyo, which often align with global higher education trends, may already be advising students and parents to consider these factors when applying overseas.",
+        "In Japan, while the focus on entrance exams remains strong, some institutions are beginning to address student retention and support. For example, universities like Waseda University (早稲田大学) and Keio University (慶應義塾大学) have robust career centers and counseling services, and some national universities are enhancing first-year experience programs. However, a comprehensive, system-wide focus on \"completion rates\" as a primary metric, particularly for students with significant external responsibilities, is not yet as central as in the US discussion. Programs like N高等学校 (N High School) and S高等学校 (S High School) with their flexible learning models might offer insights into supporting diverse student paths, though their focus is K-12."
+      ],
+      "ja": [
+        "お子さまが難関大学に入学するために、高校時代から塾に通い、懸命に勉強するとします。今回の記事は、入学は単なる最初のハードルに過ぎないと指摘しています。特に、アルバイトで家計を支えたり、家族の面倒を見たりしながら学ぶ学生にとって、本当に大変なのは、入学してから卒業まで走り抜けることだというのです。これは、マラソンに例えられます。本戦に出場する資格を得ることは重要ですが、完走するためには、スタートダッシュだけでなく、継続的なサポート、適切な栄養、そして予期せぬ困難への対処が必要になるのと同じです。",
+        "東京の家庭にとって、この視点は国内外の大学を評価する際の基準を変えるかもしれません。単に入学の難易度やブランド力に注目するだけでなく、大学の卒業率、そして経済的支援、心の健康相談、キャリア指導といった包括的な学生サポートの有無、さらには多様な背景や責任を持つ学生にどれだけ対応できているかといった点に目を向けるようになる可能性があります。これは、入学は難しいが継続的なサポートが手薄な大学と、卒業まで学生を成功に導く実績が豊富な大学との選択に影響を与えるでしょう。",
+        "この議論は米国で盛んですが、日本の大学実践への影響はより緩やかで、おそらく3〜5年以内でしょう。文部科学省のガイドライン変更や、私立大学が単なる入学実績だけでなく、学生の成功指標を通じて差別化を図ろうとする動きが加速することが鍵となります。東京にある一部のインターナショナルスクールでは、グローバルな高等教育トレンドに敏感であるため、すでに海外大学出願の際にこれらの要素を考慮するよう学生や保護者に助言しているかもしれません。",
+        "日本では、入試への注力は依然として強いものの、学生の定着とサポートに取り組む機関も出始めています。例えば、早稲田大学や慶應義塾大学は充実したキャリアセンターやカウンセリングサービスを提供しており、一部の国立大学では初年次教育プログラムを強化しています。しかし、特に外部の責任を負う学生のための「修了率」を主要な指標として包括的にシステム全体で重視する動きは、米国の議論ほど中心的ではありません。N高等学校やS高等学校のような柔軟な学習モデルを持つ学校は、多様な学生の学びの道を支援する上で示唆を与えますが、これらは主に高校教育に焦点を当てています。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "College completion, not just enrollment, is the real challenge.",
+        "ja": "大学の真の課題は入学ではなく修了にある。"
+      },
+      "whoForWhat": {
+        "en": "For Tokyo families considering overseas universities or domestic institutions, this highlights the importance of evaluating comprehensive student support beyond just admission rates.",
+        "ja": "海外大学や国内大学を検討している東京の家庭にとって、入学率だけでなく、卒業までを見据えた包括的な学生サポートを評価することの重要性を示唆します。"
+      },
+      "vsJapanContext": {
+        "en": "This contrasts with the intense focus on university entrance exams (大学受験) in Japan, where completion support is often less discussed than admission success.",
+        "ja": "これは、日本の大学受験における入学競争への強い焦点とは対照的であり、日本では修了サポートよりも入学成功が議論されがちです。"
+      },
+      "tokyoNote": {
+        "en": "While Japanese universities have strong entrance exam cultures, this global discussion reminds Tokyo parents to also consider a university's long-term support for student well-being and graduation success, especially for those pursuing less traditional paths or overseas study.",
+        "ja": "日本の大学には強固な入試文化がありますが、この国際的な議論は、東京の保護者に対し、大学が学生のウェルビーイングと卒業成功に対して長期的にどのようなサポートを提供しているか、特に非伝統的な進路や海外留学を検討する場合に、注意を払うよう促します。"
+      }
+    },
+    "source": {
+      "name": "The Hechinger Report",
+      "url": "https://hechingerreport.org/opinion-the-real-college-crisis-isnt-enrollment-its-completion-and-its-time-to-start-asking-why/"
+    },
+    "sourceGuid": "https://hechingerreport.org/?p=116935",
+    "status": "published"
+  },
+  {
     "slug": "new-gut-brain-circuit-drives-protein-cravings-reshaping-appetite-understanding",
     "category": "early-childhood",
     "issue": "Vol. 01",
