@@ -1,5 +1,109 @@
 [
   {
+    "slug": "ancient-brain-cells-act-as-natural-focus-filters",
+    "category": "research",
+    "issue": "Vol. 01",
+    "publishedAt": "2026-06-24T13:30:09.000Z",
+    "readingMinutes": 4,
+    "feature": true,
+    "cover": {
+      "src": "https://www.sciencedaily.com/images/1920/neuron-brain-cell-signal-transmission.webp",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "Ancient Brain Cells Act as Natural Focus Filters",
+      "ja": "脳に「集中力フィルター」を発見：注意散漫を遮断する古代の神経細胞"
+    },
+    "dek": {
+      "en": "Scientists identify specific neurons in the midbrain that can actively block distractions, offering new insights into attention and conditions like ADHD.",
+      "ja": "科学者たちが中脳の特定の神経細胞群が注意散漫を能動的に遮断する「集中力フィルター」として機能することを発見。ADHDのような注意の課題への新たな理解につながる可能性。"
+    },
+    "author": {
+      "en": "WORLD STUDY TOKYO Editors",
+      "ja": "WORLD STUDY TOKYO 編集部"
+    },
+    "location": {
+      "en": "June 24, 2026",
+      "ja": "2026年6月24日"
+    },
+    "tags": [
+      {
+        "en": "Cognitive Science",
+        "ja": "認知科学"
+      },
+      {
+        "en": "Child Development",
+        "ja": "子どもの発達"
+      },
+      {
+        "en": "Focus",
+        "ja": "集中力"
+      },
+      {
+        "en": "Attention",
+        "ja": "注意"
+      }
+    ],
+    "body": {
+      "en": [
+        "Scientists recently identified a specific group of neurons in an evolutionarily old part of the brain that appears to act as a natural filter against distractions. This discovery, announced on June 24, 2026, offers new insights into how the brain maintains focus.",
+        "The study, conducted on mice, revealed that these neurons, located in a region often associated with basic survival functions, play a critical role in what scientists call 'attentional filtering' (注意のフィルタリング — 脳が不要な情報を選別し、必要な情報に集中する機能). When these particular neurons were temporarily deactivated, the mice exhibited significantly increased distractibility, mirroring behaviors seen in conditions like ADHD (注意欠陥・多動性障害 — 集中力の維持や衝動性の制御が難しい発達障害)。",
+        "The researchers observed that once these neurons were reactivated, the mice quickly regained their normal ability to focus, suggesting a direct and reversible link between these specific brain cells and the capacity to ignore extraneous stimuli. This indicates that the brain has a built-in mechanism to prioritize relevant information and suppress background noise, crucial for learning and task completion.",
+        "The identified neurons reside in the midbrain, a deep brain structure. Their function is not just to process information, but actively to *block* it.",
+        "> When researchers temporarily switched off these neurons in mice, the animals became unusually distractible — similar to what is seen in ADHD — but regained normal focus as soon as the neurons were reactivated.",
+        "This suggests a fundamental biological basis for our ability to concentrate, rather than focus being purely a learned behavior. Understanding this neural pathway could open new avenues for addressing challenges related to concentration and attention. While the research is currently in animal models, it lays groundwork for exploring how similar mechanisms might operate in the human brain. Future studies will likely investigate if these findings translate to humans and if targeted interventions could enhance attentional control.",
+        "For families and educators, this research reinforces the idea that focus is not merely a matter of willpower, but is rooted in specific brain functions. It suggests that challenges with attention may have a clearer biological underpinning, potentially shifting how we approach learning strategies and support for children struggling with distractibility."
+      ],
+      "ja": [
+        "2026年6月24日、科学者たちは、脳の古くからある領域に、注意散漫を防ぎ、集中力を高めるフィルターのような働きをする特定の神経細胞群を発見したと発表しました。この発見は、脳がどのようにして不要な情報を遮断し、重要なことに焦点を合わせるのかについて、新たな知見をもたらします。",
+        "マウスを用いた研究では、これらの神経細胞が「注意のフィルタリング」（脳が膨大な情報の中から必要なものを選び出し、不要なものを排除する機能）において重要な役割を担っていることが示されました。これらの神経細胞が一時的に不活性化されると、マウスは著しく注意散漫になり、ADHD（注意欠陥・多動性障害 — 集中力の持続や衝動性の抑制が難しい発達障害の一種）に見られる行動と類似した状態になりました。",
+        "研究者たちは、これらの神経細胞が再び活性化されると、マウスはすぐに通常の集中力を取り戻すことを観察しました。これは、特定の脳細胞と、余計な刺激を無視する能力との間に直接的かつ可逆的な関連があることを示唆しています。この発見は、脳が学習やタスク遂行に不可欠な、関連情報を優先し、背景のノイズを抑制する内蔵メカニズムを持っていることを示唆します。",
+        "特定された神経細胞は、脳の深部にある中脳に存在します。その機能は単に情報を処理するだけでなく、積極的に情報を「遮断する」ことです。",
+        "「研究者らがマウスのこれらの神経細胞を一時的にオフにすると、動物は異常なほど注意散漫になった。これはADHDで見られるものと似ていたが、神経細胞が再活性化されるとすぐに通常の集中力を取り戻した。」",
+        "このことから、集中力は単に後天的に学ぶ行動ではなく、特定の脳機能に根ざした基本的な生物学的基盤を持っている可能性が示唆されます。この神経経路を理解することは、集中力や注意に関する課題への新たなアプローチを開く可能性があります。現在の研究は動物モデル段階ですが、ヒトの脳で同様のメカニズムがどのように機能するかを探るための基礎を築きます。今後の研究では、これらの発見がヒトにも当てはまるか、また、特定の介入によって注意制御を強化できるかどうかが調査されるでしょう。",
+        "保護者や教育者にとって、この研究は集中力が単なる「意思の力」の問題ではなく、特定の脳機能に根ざしているという考え方を裏付けます。注意の課題がより明確な生物学的根拠を持つ可能性を示唆し、注意散漫に悩む子どもたちへの学習戦略やサポートのアプローチを変えるきっかけとなるかもしれません。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "Imagine your brain has a tiny, built-in bouncer at the door of your attention. This bouncer's job is to screen out all the unnecessary noise and flashing lights so you can focus on the person you're talking to. Scientists have now found the specific group of brain cells that act as this bouncer. When these cells are working well, you stay focused. When they're temporarily switched off, like in the mouse study, everything becomes a distraction, much like when a child can't help but look at every passing car outside the window during homework time.",
+        "For Tokyo families, this research could subtly shift how we understand and support children facing challenges with focus. Instead of viewing distractibility purely as a behavioral issue, it reinforces a biological perspective. In the future, this might influence the design of learning environments, potentially leading to more tailored strategies in juku or international schools that acknowledge the neural basis of attention. It could also inform parental approaches to creating distraction-reduced study spaces at home.",
+        "Any direct application of this finding to human interventions is likely 5-10 years away, as it requires extensive replication in human studies and the development of ethical, non-invasive methods. However, the conceptual shift – understanding attention as a brain function rather than just willpower – can begin to influence parenting approaches and educational discussions today.",
+        "While no direct Japanese counterpart program is specifically targeting these newly identified neurons, organisations like Atama+ and Classi are already using AI to adapt learning pathways to individual student needs, implicitly addressing varying attention spans and learning styles. This new research provides a deeper biological rationale for such personalised approaches, potentially guiding future developments in adaptive learning platforms or even the design of educational materials for children with diverse attentional profiles in settings like 公文 or 学研."
+      ],
+      "ja": [
+        "私たちの脳の中に、集中力を妨げる余計な情報をシャットアウトする「門番」のような細胞群がある、と想像してみてください。この門番がしっかり働いていると、目の前の課題に集中できます。今回の研究は、まさにこの門番の役割を果たす特定の神経細胞群を突き止めたものです。マウスの実験では、この細胞の働きを一時的に止めることで、まるで宿題中に窓の外を通る車すべてに気を取られてしまう子どものように、注意散漫になることが示されました。",
+        "東京で子育てをするご家庭にとって、この研究は子どもの集中力に関する課題への理解とサポートの仕方を少し変えるかもしれません。注意散漫を単なる行動の問題として捉えるのではなく、その生物学的な根拠を再認識するきっかけとなるでしょう。将来的には、塾やインターナショナルスクールでの学習環境設計に影響を与え、注意の神経基盤を考慮した、より個別化された戦略が生まれる可能性もあります。また、家庭での集中しやすい学習スペース作りにも役立つ知見となり得ます。",
+        "この発見がヒトへの具体的な介入に直結するには、ヒトでの大規模な研究や、倫理的かつ非侵襲的な手法の開発が必要であり、おそらく5年から10年以上の時間がかかるでしょう。しかし、「集中力は意志の力だけでなく、脳機能に根ざしている」という考え方の変化は、すでに今日の保護者の子育てや教育に関する議論に影響を与え始めています。",
+        "今回特定された神経細胞に直接働きかけるような日本のプログラムはまだありませんが、Atama+やClassiといったAIを活用した学習プラットフォームは、すでに個々の生徒の学習ペースや集中力の特性に合わせて学習経路を調整しています。この新しい研究は、そうした個別最適化されたアプローチの生物学的な根拠をさらに深めるものであり、将来的に公文や学研のような学習サービスにおける教材開発や、アダプティブラーニングプラットフォームの進化に影響を与える可能性があります。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "Brain's built-in distraction filter identified.",
+        "ja": "脳に内蔵された集中力フィルター。"
+      },
+      "whoForWhat": {
+        "en": "For Tokyo families whose children struggle with focus or distractibility, this research highlights the biological underpinnings of attention, suggesting new ways to think about learning support.",
+        "ja": "集中力や注意散漫に課題を抱えるお子さんを持つ東京の保護者にとって、この研究は注意の生物学的基盤を明らかにし、学びのサポートへの新たな視点を提供します。"
+      },
+      "vsJapanContext": {
+        "en": "This fundamental neuroscience research does not directly map to specific Japanese educational policies or juku curricula today, but it aligns with a broader global understanding of cognitive development that influences learning methods.",
+        "ja": "この基礎的な脳科学研究は、今日の日本の教育政策や塾のカリキュラムに直接結びつくものではありませんが、認知発達に関する世界的な理解を深め、学習方法論に影響を与える可能性があります。"
+      },
+      "tokyoNote": {
+        "en": "This finding from animal studies is far from immediate application in Tokyo classrooms or homes. However, understanding that focus has a deep biological root can help parents frame challenges with attention not as a lack of effort, but as a neurological function that may require specific strategies or support. It encourages a more empathetic and evidence-based approach to learning.",
+        "ja": "動物実験段階のこの発見が、東京の教室や家庭にすぐに適用されるわけではありません。しかし、集中力に深い生物学的根拠があるという理解は、保護者が子どもの注意の課題を「努力不足」ではなく、特定の戦略やサポートが必要な神経機能として捉える助けになります。より共感的で科学的な学習アプローチを促すものです。"
+      }
+    },
+    "source": {
+      "name": "ScienceDaily — Child Development",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260624025426.htm"
+    },
+    "sourceGuid": "https://www.sciencedaily.com/releases/2026/06/260624025426.htm",
+    "status": "published"
+  },
+  {
     "slug": "new-brain-research-redefines-how-children-learn-speech",
     "category": "early-childhood",
     "issue": "Vol. 01",
@@ -829,8 +933,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#CCE1CE"
+      "src": "https://images.unsplash.com/photo-1456324504439-367cee3b3c32?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#F2D7BF"
     },
     "title": {
       "en": "Giving AI Tutors a Memory: New Research Creates 'History-Aware' Student Profiles",
@@ -2475,8 +2579,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1573164713619-24c711fe7878?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#C4DDC6"
+      "src": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#CCE1CE"
     },
     "title": {
       "en": "A Smarter AI Math Tutor, No Costly Training Required",
@@ -3927,8 +4031,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1551434678-e076c223a692?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#CFE3D2"
+      "src": "https://images.unsplash.com/photo-1573164713619-24c711fe7878?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#C4DDC6"
     },
     "title": {
       "en": "AI Tutors Offer Personalized Coaching for Social Skills Development",
