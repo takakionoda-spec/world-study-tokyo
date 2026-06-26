@@ -1,5 +1,211 @@
 [
   {
+    "slug": "how-ais-role-shapes-high-school-learning-and-cognitive-effort",
+    "category": "ai-edu",
+    "issue": "Vol. 01",
+    "publishedAt": "2026-06-25T04:01:19.000Z",
+    "readingMinutes": 4,
+    "feature": true,
+    "cover": {
+      "src": "https://images.unsplash.com/photo-1551434678-e076c223a692?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#CFE3D2"
+    },
+    "title": {
+      "en": "How AI's Role Shapes High School Learning and Cognitive Effort",
+      "ja": "AIの役割が高校生の学習と認知的な努力にどう影響するか：予備的調査"
+    },
+    "dek": {
+      "en": "Forthcoming research explores whether AI acting as a tutor, collaborator, or solver alters students' cognitive engagement and stress levels, offering insights into effective AI integration in education.",
+      "ja": "AIが「チューター」「コラボレーター」「ソルバー」として機能する際、高校生の認知的な集中度やストレスレベルにどのような変化が生じるかを調査した先行研究は、教育におけるAIの有効な統合への洞察を提供します。"
+    },
+    "author": {
+      "en": "WORLD STUDY TOKYO Editors",
+      "ja": "WORLD STUDY TOKYO 編集部"
+    },
+    "location": {
+      "en": "Tokyo, Japan",
+      "ja": "日本、東京"
+    },
+    "tags": [
+      {
+        "en": "AI",
+        "ja": "AI"
+      },
+      {
+        "en": "Learning Methods",
+        "ja": "学習方法"
+      },
+      {
+        "en": "High School",
+        "ja": "高校生"
+      },
+      {
+        "en": "Cognitive Science",
+        "ja": "認知科学"
+      }
+    ],
+    "body": {
+      "en": [
+        "Forthcoming research, published as a preprint on arXiv cs.CY on June 25, 2026, explores how different ways students interact with artificial intelligence (AI) tools might influence their cognitive engagement and problem-solving. The exploratory study, involving high school students, used electroencephalography (EEG) to monitor brain activity and quantified behavioral metrics, suggesting that the *mode* of AI interaction is more nuanced than simply using AI or not using it.",
+        "As AI tools become increasingly common in education, understanding their precise impact on learning is crucial. This study investigated three distinct AI interaction modes: 'Tutor' (where AI guides learning with hints), 'Collaborator' (where AI works alongside the student to solve problems), and 'Solver' (where AI provides direct answers). For parents and educators, the core question is whether merely having an AI assistant is enough, or if the specific role AI plays significantly alters a student's learning process and mental effort.",
+        "Researchers recruited 48 high school students, aged 14 to 18 (an even split of 24 males and 24 females), to participate in a within-subject design experiment involving two counterbalanced quizzes. During these quizzes, students interacted with AI in each of the three defined modes. The team meticulously recorded behavioral changes using an observation matrix that measured three characteristics: Initiation (how quickly students started tasks), Processing (their engagement during the task), and Stress (their emotional response).",
+        "The behavioral analysis revealed significant differences across all three AI interaction modes for Initiation, Processing, and Stress. This suggests that how an AI is designed to interact can indeed change a student's approach to a problem and their emotional state during learning. While electroencephalography (EEG) data showed observable patterns in brain activity related to these modes, these patterns did not reach statistical significance in this preliminary study. The researchers also explored the possibility of short-term carryover effects, meaning how students interact with AI in one session might influence their behavior later.",
+        "> \"This study provides preliminary behavioral evidence and investigative electrophysiological observations, exploring possible AI-interaction-mode-based differences in neural activity and behavior.\"",
+        "These preliminary findings underscore the importance of designing AI education tools thoughtfully. It suggests that simply providing students with an AI \"solver\" might reduce their cognitive effort and engagement, while a \"tutor\" or \"collaborator\" mode could foster deeper learning. For parents, this research highlights the value of guiding children not just to use AI, but to use it strategically—as a tool for deeper engagement rather than a shortcut to answers. Future research will need to replicate these findings with larger samples and explore long-term effects."
+      ],
+      "ja": [
+        "2026年6月25日に arXiv cs.CY でプレプリントとして公開された先行研究は、高校生が人工知能（AI）ツールとどのように関わるかが、彼らの認知的な集中や問題解決行動にどのような影響を与えるかを調査しました。この探索的な研究では、脳波計（EEG）を用いた脳活動のモニタリングと行動指標の定量化が行われ、AIとの「関わり方」が単にAIを使うか否かという二元的な問題ではない可能性を示唆しています。",
+        "教育現場にAIツールが急速に浸透する中で、それが学習に与える影響を正確に理解することは極めて重要です。この研究では、「チューター」（AIがヒントで学習を導く）、「コラボレーター」（AIが学生と協力して問題解決に取り組む）、「ソルバー」（AIが直接解答を提供する）という三つの異なるAIとの関わり方を調査しました。保護者や教育者にとっての中心的な問いは、AIアシスタントがいるだけで十分なのか、それともAIが果たす具体的な役割が、学生の学習プロセスや精神的努力を大きく変えるのか、という点です。",
+        "研究チームは、14歳から18歳までの高校生48名（男女各24名）を対象に、二つのバランスの取れたクイズを用いた被験者内デザインの実験を実施しました。学生たちはこれらのクイズ中に、定義された三つのAIモードのそれぞれと対話しました。研究者たちは、「開始」（課題への着手速度）、「処理」（課題中の集中度）、「ストレス」（感情的な反応）という三つの行動特性を測定する観察マトリックスを用いて、行動変化を詳細に記録しました。",
+        "行動分析の結果、開始、処理、ストレスの全ての指標において、三つのAIインタラクションモード間で有意な差が確認されました。これは、AIがどのように設計され、学生と対話するかが、学生の問題への取り組み方や学習中の感情状態を実際に変えうることを示唆しています。脳波計（EEG）データでは、これらのモードに関連する脳活動のパターンが観察されたものの、この予備的な研究では統計的に有意な水準には達しませんでした。研究者たちはまた、短期的な持ち越し効果、つまりあるセッションでのAIとの関わり方がその後の行動に影響を与える可能性についても探りました。",
+        "「本研究は、行動面での予備的な証拠と電気生理学的な観察を提供し、AIインタラクションモードに基づく神経活動と行動の違いの可能性を探っている。」",
+        "これらの予備的な知見は、AI教育ツールを慎重に設計することの重要性を強調しています。単に学生にAIを「ソルバー」として提供することは、彼らの認知的な努力や集中力を低下させる可能性がある一方で、「チューター」や「コラボレーター」モードは、より深い学習を促進しうることを示唆しています。保護者にとっては、子どもたちにAIを使わせるだけでなく、それを戦略的に、つまり解答への近道としてではなく、より深い学びのためのツールとして活用するよう導くことの価値を示唆しています。今後の研究では、より大規模なサンプルでこれらの知見を再現し、長期的な効果を探る必要があります。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "This research suggests that how your child uses an AI tool matters significantly. Think of it like a study group: if the AI just gives answers (Solver mode), it's like a friend doing all the homework for them. If the AI helps them work through problems together (Collaborator), it's like a productive peer study session. And if the AI guides them with hints and questions (Tutor), it's like a good teacher prompting deeper thought. The study found that these different roles change how much effort students put in and how stressed they feel.",
+        "For Tokyo families, this could mean a shift in how online learning platforms and even some juku integrate AI. Instead of just offering AI for quick answers, we might see more sophisticated AI tools designed to actively encourage student engagement and critical thinking. This could influence how students prepare for essay-based admissions like 総合型選抜 (Sogogata Senbatsu – comprehensive selection admissions) where deep understanding and independent thought are highly valued.",
+        "We might see the initial impact within 2-3 years, as major edtech providers and international schools in Tokyo start to refine their AI offerings based on such research. Widespread adoption in domestic juku or a shift in MEXT (Ministry of Education, Culture, Sports, Science and Technology) guidelines for AI use could take 5-7 years, as these institutions typically move more slowly and require robust evidence.",
+        "Companies like Atama+ (アタマプラス) already use AI for personalized learning, but often focus on identifying knowledge gaps and recommending practice. This research suggests a further evolution where the *interaction style* of the AI itself becomes a key design element. While Atama+ is strong in adaptive learning, the nuanced \"tutor\" or \"collaborator\" roles, specifically aimed at fostering cognitive effort rather than just efficiency, could be an area for future development."
+      ],
+      "ja": [
+        "この研究は、お子さまがAIツールをどのように使うかが、学習効果に大きく影響することを示唆しています。例えるなら、グループ学習のようなものです。AIが単に答えを提供するだけ（ソルバーモード）なら、友人が宿題を全部やってしまうようなもの。AIが一緒に問題解決に取り組むのを手助けする（コラボレーターモード）なら、実りある共同学習です。そして、AIがヒントや質問で思考を導く（チューターモード）なら、それは深い思考を促す良い先生のようです。この研究は、AIの役割によって、学生がどれだけ努力し、どれだけストレスを感じるかが変わることを発見しました。",
+        "東京のご家庭にとって、これはオンライン学習プラットフォームや一部の塾がAIを統合する方法に変化をもたらすかもしれません。単にAIを迅速な解答のために提供するだけでなく、学生の積極的な関与や批判的思考を促すように設計された、より洗練されたAIツールが登場する可能性があります。これは、深い理解と独立した思考が高く評価される総合型選抜（学力試験だけでなく、課外活動や面接、小論文などで人物全体を評価する入試方式）のような入試準備にも影響を与えるでしょう。",
+        "東京の主要なエドテックプロバイダーやインターナショナルスクールが、このような研究に基づいてAI提供を洗練させ始めるにつれて、最初の影響は2〜3年以内に見られるかもしれません。国内の主要な塾での広範な採用や、文部科学省（MEXT）によるAI利用ガイドラインの変更は、これらの機関が通常よりゆっくりと動き、確固たる証拠を必要とするため、5〜7年かかる可能性があります。",
+        "Atama+（アタマプラス）のような企業はすでに個別最適化されたAI学習にAIを活用していますが、多くは知識のギャップを特定し、練習問題を推奨することに焦点を当てています。本研究は、AI自体の「インタラクションスタイル」が重要な設計要素となる、さらなる進化を示唆しています。Atama+はアダプティブラーニングに強みがありますが、効率性だけでなく認知的な努力を育むことを目的とした、よりニュアンスのある「チューター」や「コラボレーター」の役割は、今後の開発領域となるでしょう。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "The way students use AI matters for their learning.",
+        "ja": "AIの使い方が学習効果を左右する。"
+      },
+      "whoForWhat": {
+        "en": "For Tokyo families with high schoolers considering AI tools for study, this research offers guidance on how to encourage more effective and engaging AI interactions.",
+        "ja": "高校生のお子さまが学習にAIツールを使うことを検討している東京のご家庭へ、より効果的で意欲的なAIとの関わり方を促すための示唆を提供します。"
+      },
+      "vsJapanContext": {
+        "en": "While Japanese edtech platforms like Atama+ offer personalized AI learning, this research suggests deeper thought about the specific *mode* of AI interaction could further refine their efficacy, especially for 共通テスト or 総合型選抜 preparation.",
+        "ja": "Atama+のような日本のAI学習プラットフォームは個別最適化された学習を提供しますが、本研究は共通テストや総合型選抜対策において、AIの具体的な「関わり方」をさらに洗練させることで、その効果を高める可能性を示唆しています。"
+      },
+      "tokyoNote": {
+        "en": "This exploratory study, though preliminary, reminds Tokyo parents that the quality of interaction with AI is key, not just its presence. Guiding children to use AI as a thinking partner rather than an answer machine could be a crucial skill for future admissions and careers.",
+        "ja": "この予備的な研究は、AIの存在だけでなく、AIとの関わりの質が重要であることを東京の保護者に示唆します。AIを単なる「答えを出す機械」としてではなく、「思考を深めるパートナー」として活用するよう子どもたちを導くことが、将来の入試やキャリアにおいて不可欠なスキルとなるでしょう。"
+      }
+    },
+    "source": {
+      "name": "arXiv cs.CY",
+      "url": "http://arxiv.org/abs/2606.26579v1"
+    },
+    "sourceGuid": "http://arxiv.org/abs/2606.26579v1",
+    "status": "published"
+  },
+  {
+    "slug": "beyond-the-allow-or-ban-debate-how-ais-placement-shapes-learning",
+    "category": "ai-edu",
+    "issue": "Vol. 01",
+    "publishedAt": "2026-06-24T12:42:48.000Z",
+    "readingMinutes": 5,
+    "feature": true,
+    "cover": {
+      "src": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#C8DFCB"
+    },
+    "title": {
+      "en": "Beyond the 'Allow or Ban' Debate: How AI's Placement Shapes Learning",
+      "ja": "AIと学びの「許可か禁止か」を超えて：配置が学習効果を左右する"
+    },
+    "dek": {
+      "en": "A new preprint from arXiv suggests that the real question for AI in education isn't whether to allow it, but *where* and *how* it's integrated to support productive struggle, not replace it.",
+      "ja": "arXivに発表された新たなプレプリントは、教育におけるAIの課題が「許可するか禁止するか」ではなく、「どこに、どのように配置すれば、生徒が能動的に学ぶ努力を促せるか」にあると提言します。"
+    },
+    "author": {
+      "en": "WORLD STUDY TOKYO Editors",
+      "ja": "WORLD STUDY TOKYO 編集部"
+    },
+    "location": {
+      "en": "Tokyo, June 2026",
+      "ja": "東京, 2026年6月"
+    },
+    "tags": [
+      {
+        "en": "AI in Education",
+        "ja": "教育AI"
+      },
+      {
+        "en": "Learning Methods",
+        "ja": "学習法"
+      },
+      {
+        "en": "Productive Struggle",
+        "ja": "生産的努力"
+      },
+      {
+        "en": "EdTech",
+        "ja": "エドテック"
+      }
+    ],
+    "body": {
+      "en": [
+        "A recent preprint published on arXiv cs.CY in June 2026 challenges the common dilemma faced by educators regarding artificial intelligence: whether to allow AI tools in the classroom or to ban them. Instead, the researchers propose that the critical factor for effective learning with AI lies in its strategic *placement* within the learning process.",
+        "The paper introduces the concept of the “effortless trap,” where AI, if used improperly, can create an “illusion of learning.” This happens when the tool performs the cognitive heavy lifting, allowing students to feel a confident sense of mastery without actually engaging in the 'productive struggle' — the essential mental effort required to truly grasp new concepts. The outcome, as the study notes, is often a collapse of understanding when students face tasks without AI assistance.",
+        "Empirical evidence cited in the preprint underscores this point. In one scenario, high-school students using an unguarded AI helper performed approximately 17% worse on an unaided exam compared to peers who used no tool at all. Crucially, when the same AI model was redesigned to withhold direct answers, it eliminated this harm. Furthermore, a well-engineered AI tutor, specifically designed to guide and challenge students without giving away solutions, roughly doubled learning outcomes.",
+        "> \"if letting AI in makes the task feel effortless, it is in the wrong place.\"",
+        "To help educators navigate this, the researchers offer a practical framework: a six-move model for learning new ideas: Prime (prepare), Probe (initial attempt), Point (targeted feedback), Attach (connect to existing knowledge), Strengthen (practice), and Test (unaided recall). The core diagnostic rule for AI integration is simple: \"if letting AI in makes the task feel effortless, it is in the wrong place.\"",
+        "The model suggests securing the student's first hard attempt and the final unaided check. AI should then be strategically scaffolded in between these points, offering *guarded* support that prompts deeper thinking rather than providing immediate solutions. This approach ensures that AI enhances, rather than replaces, the student's active engagement and cognitive effort.",
+        "This research offers a valuable shift in perspective, moving the conversation from a binary 'allow or ban' to a nuanced discussion about thoughtful design and integration. For parents and educators alike, it highlights the importance of understanding the specific mechanisms through which AI can truly support deeper learning, rather than merely facilitating quick, superficial answers. The challenge now lies in redesigning lessons and curricula to embed AI effectively within this framework."
+      ],
+      "ja": [
+        "2026年6月にarXiv cs.CYで公開された最新のプレプリントは、教育現場で人工知能（AI）を巡って頻繁に議論される「使用を許可するか、それとも禁止するか」という二者択一の問いに異議を唱えています。研究者たちは、AIが学習に効果的であるかどうかは、そのツールを学習プロセスの「どこに、どのように配置するか」という戦略的な判断にかかっていると提言しています。",
+        "この論文では「楽すぎる罠（effortless trap）」という概念が導入されています。AIが不適切に使われると、「学習の錯覚（illusion of learning）」を生み出す可能性があるというのです。これは、AIが学習における認知的な負荷を代わりに担ってしまうことで、生徒は内容を理解したと自信を持って感じるものの、実際には概念を深く習得するために不可欠な「生産的な努力（productive struggle）」、つまり能動的な思考プロセスを経験していない状態を指します。その結果、AIの助けなしで課題に取り組むと、理解が崩れ落ちることが多いと研究は指摘しています。",
+        "プレプリントで示された実証的な証拠は、この点を裏付けています。あるシナリオでは、無制限に使えるAIヘルパーを利用した高校生は、ツールを全く使わなかった生徒に比べて、AIなしで行われた試験で約17%低い成績を示しました。しかし重要なのは、同じAIモデルでも、直接的な解答を控えるように再設計された場合、この学習への悪影響は解消されたことです。さらに、解答をすぐに与えるのではなく、生徒を導き、考える力を促すように緻密に設計されたAIチューターは、学習成果を約2倍に高めることが示されました。",
+        "> 「もしAIを使うことで課題が楽すぎると感じられるなら、それは間違った場所に配置されている」",
+        "教育者がこの課題に取り組むため、研究者たちは実用的なフレームワークを提案しています。それは、新しい概念を学ぶための6つの段階からなるモデルです。Prime（準備）、Probe（最初の試行）、Point（的を絞ったフィードバック）、Attach（既存知識への連結）、Strengthen（練習）、Test（AIなしでの想起）。AI導入における核心的な診断ルールはシンプルです。「もしAIを使うことで課題が楽すぎると感じられるなら、それは間違った場所に配置されている」というものです。",
+        "このモデルは、生徒が最初に行う難しい試みと、最終的なAIなしでの確認を保護することの重要性を示唆しています。AIは、これら2つの段階の間に戦略的に配置され、直接的な解答を提供するのではなく、より深い思考を促す「ガードされた（guarded）」サポートを提供するべきだとしています。このアプローチにより、AIは生徒の能動的な関与と認知的な努力を代替するのではなく、強化するツールとして機能します。",
+        "この研究は、「許可か禁止か」という二元的な議論から、AIの思慮深い設計と統合に関するより繊細な議論へと視点を転換させる、価値ある一歩です。保護者にとっても教育者にとっても、AIが単に手軽な答えを導くのではなく、真に深い学習を支援するための具体的なメカニズムを理解することの重要性を浮き彫りにしています。今後の課題は、このフレームワークに沿ってAIを効果的に組み込むための授業やカリキュラムの再設計にあると言えるでしょう。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "This research offers a timely reminder for Tokyo families and educators: simply giving children access to AI tools at home or in school is not enough. The key insight is that *how* and *when* AI is introduced into a learning task determines whether it genuinely aids understanding or merely creates an illusion of mastery. It’s like the difference between a child struggling to solve a puzzle and then getting a hint, versus being given the solution outright.",
+        "For Tokyo families, this could significantly impact how AI tutors are viewed and utilized. Rather than seeking out platforms that promise effortless learning, parents might increasingly look for tools and juku programs that intentionally integrate AI to facilitate 'productive struggle.' This means AI might be used to provide guided practice after a concept is introduced, or to offer targeted feedback on a student's initial attempt, rather than generating essays or solving complex math problems from scratch.",
+        "We could see this shift reflected in the market within 3-5 years. Major juku chains or international schools in Tokyo might start to explicitly design their AI integration strategies around frameworks like the six-move model, moving beyond simple answer-checking features. This would likely be gated by further research validation in diverse learning contexts and clearer guidelines from education authorities or leading edtech providers.",
+        "In Japan, services like Atama+ already aim for personalized learning, but the emphasis on explicitly *withholding* direct answers and forcing productive struggle, as highlighted in this research, could become a more prominent design principle. While existing platforms offer adaptive learning, the nuanced application of AI to ensure cognitive effort, especially in high-stakes environments like 中学受験 (junior high school entrance exams) or 大学受験 (university entrance exams), is a frontier where current offerings may need to evolve."
+      ],
+      "ja": [
+        "この研究は、東京の家庭や教育関係者にとって非常にタイムリーな示唆を与えてくれます。子どもたちにAIツールを単に与えるだけでは不十分であり、AIを学習課題に「どのように、いつ」導入するかが、真の理解を助けるか、あるいは単なる習得の錯覚を生むかを決定するという点が核心です。これは、子どもがパズルを解くのに苦戦した後にヒントを得るのと、最初から解答を与えられるのとの違いに似ています。",
+        "東京の家庭にとって、この知見はAIチューターの選び方や活用法に大きな影響を与える可能性があります。「楽に学べる」と謳うプラットフォームを求めるのではなく、親は「生産的な努力」を意図的に促すAI統合戦略を持つツールや塾のプログラムを重視するようになるかもしれません。これは、概念導入後にAIがガイド付きの練習を提供したり、生徒の最初の試みに対して的確なフィードバックを与えたりする形で活用され、一から作文を書かせたり、複雑な数学の問題を解かせたりするのとは異なるアプローチです。",
+        "このような変化は、今後3〜5年以内に市場に現れる可能性があります。東京の大手学習塾チェーンやインターナショナルスクールは、単なる解答チェック機能を超え、この6段階モデルのようなフレームワークに基づいたAI統合戦略を明確に打ち出すようになるかもしれません。これは、多様な学習環境でのさらなる研究検証や、教育当局、あるいは主要なエドテックプロバイダーからの明確なガイドラインによって進展が左右されるでしょう。",
+        "日本においては、Atama+のようなサービスがすでに個別最適化された学習を目指していますが、本研究が強調するような、直接的な解答を意図的に「保留」し、生徒に能動的な努力を促すという設計思想は、今後より重要な原則となるかもしれません。既存のプラットフォームは適応学習を提供していますが、特に中学受験や大学受験のような高負荷な学習環境において、認知的な努力を確実に促すAIの繊細な適用は、現在のサービスが進化を求められるフロンティアと言えるでしょう。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "AI's role in learning depends on its strategic placement.",
+        "ja": "AIは「どこに置くか」で学習効果が変わる。"
+      },
+      "whoForWhat": {
+        "en": "For Tokyo parents considering AI tutors or digital learning tools, this research offers a framework for understanding how to integrate AI to foster genuine learning, not just easy answers, for their child.",
+        "ja": "AIチューターやデジタル学習ツールの導入を検討している東京の保護者にとって、AIが単なる解答提供ではなく、子どもの真の学びを育むための具体的な活用法を理解する手がかりとなるでしょう。"
+      },
+      "vsJapanContext": {
+        "en": "While Japanese edtech platforms like Atama+ and すららネット offer adaptive learning, this research suggests an even more deliberate approach to AI integration, emphasizing 'productive struggle' over effortless learning, which could influence future curriculum design for 大学受験 (university entrance exams) and 中学受験 (junior high school entrance exams).",
+        "ja": "Atama+やすららネットのような日本のエドテックプラットフォームは適応学習を提供していますが、本研究は「楽な学習」よりも「生産的な努力」を重視する、より意図的なAI統合アプローチを提唱しており、大学受験や中学受験のカリキュラム設計に影響を与える可能性があります。"
+      },
+      "tokyoNote": {
+        "en": "This preprint offers a crucial lens for Tokyo parents navigating the burgeoning AI edtech market. The key takeaway is to scrutinize how AI tools are designed: do they encourage genuine cognitive effort, or do they risk creating an 'illusion of learning' by making tasks too easy? Look for tools that scaffold, not solve, especially given the emphasis on deep understanding in advanced Japanese entrance exams.",
+        "ja": "このプレプリントは、拡大するAIエドテック市場を東京の保護者が賢く選ぶための重要な視点を提供します。AIツールがどのように設計されているかを吟味し、それが真の認知的な努力を促すのか、それとも課題を安易にしすぎて「学習の錯覚」を生むリスクがあるのかを見極めることが重要です。特に日本の難関受験では深い理解が求められるため、解答を与えるのではなく、足場をかける（scaffold）タイプのツールに注目すべきでしょう。"
+      }
+    },
+    "source": {
+      "name": "arXiv cs.CY",
+      "url": "http://arxiv.org/abs/2606.26181v1"
+    },
+    "sourceGuid": "http://arxiv.org/abs/2606.26181v1",
+    "status": "published"
+  },
+  {
     "slug": "the-minds-quiet-power-memory-improves-even-when-knowing-a-pill-is-fake",
     "category": "research",
     "issue": "Vol. 01",
