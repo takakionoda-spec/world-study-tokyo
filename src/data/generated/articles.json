@@ -1,5 +1,109 @@
 [
   {
+    "slug": "teen-cannabis-use-linked-to-doubled-risk-of-serious-mental-illness-in-major-stud",
+    "category": "research",
+    "issue": "Vol. 01",
+    "publishedAt": "2026-06-28T03:54:50.000Z",
+    "readingMinutes": 5,
+    "feature": true,
+    "cover": {
+      "src": "https://www.sciencedaily.com/images/1920/marijuana-brain-effects-mental-health.webp",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "Teen Cannabis Use Linked to Doubled Risk of Serious Mental Illness in Major Study",
+      "ja": "大規模研究、若者の大麻使用が深刻な精神疾患リスクを倍増させる可能性を示唆"
+    },
+    "dek": {
+      "en": "A new study involving over 463,000 adolescents provides compelling evidence of a strong link between cannabis use and a heightened risk of developing psychotic and bipolar disorders.",
+      "ja": "46万人以上の青年を対象とした新たな研究が、大麻使用と統合失調症や双極性障害といった深刻な精神疾患の発症リスク上昇との間に強い関連があることを示す説得力のある証拠を提示しました。"
+    },
+    "author": {
+      "en": "WORLD STUDY TOKYO Editors",
+      "ja": "WORLD STUDY TOKYO 編集部"
+    },
+    "location": {
+      "en": "June 28, 2026",
+      "ja": "2026年6月28日"
+    },
+    "tags": [
+      {
+        "en": "adolescent health",
+        "ja": "青年期健康"
+      },
+      {
+        "en": "mental health",
+        "ja": "メンタルヘルス"
+      },
+      {
+        "en": "substance use",
+        "ja": "物質使用"
+      },
+      {
+        "en": "brain development",
+        "ja": "脳発達"
+      }
+    ],
+    "body": {
+      "en": [
+        "A large-scale study involving over 463,000 adolescents has found a significant link between cannabis use and an increased risk of developing serious mental health conditions, including psychotic and bipolar disorders. The research, published recently, indicates that cannabis use often preceded these diagnoses by nearly two years, raising concerns about its impact on the developing adolescent brain.",
+        "This extensive study provides compelling evidence that goes beyond previous correlational findings. Researchers observed that teenagers who used cannabis were twice as likely to be diagnosed with severe mental illnesses compared to their non-using peers. The longitudinal nature of the study, tracking such a large cohort over time, allows for a stronger inference of causality, suggesting that cannabis use is not merely a co-occurring factor but a potential precursor to these conditions.",
+        "> Researchers found cannabis use often preceded these diagnoses by nearly two years, strengthening concerns about its long-term effects on developing brains.",
+        "The mechanism behind this link is thought to involve the endocannabinoid system, which plays a critical role in brain development during adolescence. Introducing external cannabinoids, such as those found in marijuana, during this sensitive period can disrupt normal brain maturation, particularly in areas associated with mood regulation, thought processes, and impulse control. This disruption can make young people more vulnerable to mental health issues later on.",
+        "While the study highlights a strong statistical association, it acknowledges that not every teenager who uses cannabis will develop a serious mental illness. Genetic predispositions, environmental stressors, and the frequency and potency of cannabis used are all likely to be contributing factors. However, the sheer scale of the study underscores the population-level risk, urging parents and educators to be aware of the potential dangers.",
+        "The findings reinforce the importance of early intervention and education regarding substance use among adolescents. Public health campaigns and school-based programs often focus on the immediate risks of drug use, but this research adds a critical long-term health dimension, particularly for conditions that can profoundly affect a young person's life trajectory, including their ability to learn and thrive in academic and social settings.",
+        "Future research will likely focus on identifying specific biomarkers or genetic vulnerabilities that might predict which individuals are most susceptible to these risks. Understanding these nuances could lead to more targeted prevention strategies and personalized advice for families. The study's implications extend globally, prompting a re-evaluation of cannabis policies and educational efforts in regions where its use is becoming more prevalent."
+      ],
+      "ja": [
+        "46万人を超える青年を対象とした大規模な研究により、大麻の使用が統合失調症や双極性障害などの深刻な精神疾患の発症リスクを大幅に高める可能性が示されました。最近発表されたこの研究は、大麻使用が診断の約2年前に先行しているケースが多いことを指摘し、発達途上にある脳への長期的な影響について懸念を強めています。",
+        "この広範な研究は、これまでの相関関係を示す知見をさらに深める説得力のある証拠を提供しています。研究者たちは、大麻を使用するティーンエイジャーが、使用しない同年代の若者に比べて、重度の精神疾患と診断される確率が2倍になることを発見しました。これほど大規模な集団を長期にわたって追跡調査する縦断研究であるため、大麻使用が単なる同時発生的な要因ではなく、これらの病状の潜在的な前兆である可能性がより強く示唆されています。",
+        "「研究者たちは、大麻使用がこれらの診断の約2年前に先行しているケースが多いことを発見し、発達途上にある脳への長期的な影響についての懸念を強めています。」",
+        "この関連性の背景にあるメカニズムは、思春期の脳の発達において重要な役割を果たすエンドカンナビノイドシステムが関与していると考えられています。この感受性の高い期間に、大麻に含まれるような外部のカンナビノイドが導入されると、脳の正常な成熟、特に気分調節、思考プロセス、衝動制御に関連する領域が阻害される可能性があります。この阻害が、若者が後に精神的な問題に対して脆弱になる原因となり得ます。",
+        "研究は強い統計的関連性を示していますが、大麻を使用するすべてのティーンエイジャーが深刻な精神疾患を発症するわけではないことも認めています。遺伝的素因、環境的ストレス、使用する大麻の頻度や効力など、多くの要因が複合的に影響していると考えられます。しかし、研究の規模の大きさは、集団レベルでのリスクを強調しており、保護者や教育者に対し、潜在的な危険性について認識を促しています。",
+        "これらの知見は、青年期における物質使用に関する早期介入と教育の重要性を再確認させるものです。公衆衛生キャンペーンや学校でのプログラムは、薬物使用の即時的なリスクに焦点を当てることが多いですが、この研究は、若者の学習能力や社会的適応能力を含む人生の軌跡に深く影響を及ぼし得る病状に対する、長期的な健康上の側面を付け加えるものです。",
+        "今後の研究は、どの個人がこれらのリスクに最も感受性が高いかを予測できる特定のバイオマーカーや遺伝的脆弱性を特定することに焦点を当てるでしょう。これらのニュアンスを理解することで、より的を絞った予防戦略や、各家庭への個別化されたアドバイスにつながる可能性があります。この研究の示唆は世界規模に及び、大麻の使用が広がりつつある地域での大麻政策や教育的取り組みの再評価を促しています。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "This study essentially tells us that for teenagers, using cannabis isn't just a minor risk; it's strongly associated with a significantly higher chance of developing serious mental health conditions like psychosis or bipolar disorder. Think of it like a developing bridge: if you introduce a major disruptive element during its construction, the foundation might be weakened, leading to problems down the line. For a teenager's brain, which is still undergoing crucial development, cannabis can act as that disruptive element.",
+        "While cannabis use is not a common issue in Japan due to strict laws, this research has implications for Tokyo families considering overseas education or whose children attend international schools. It might influence discussions within families about the risks associated with exposure to different social environments abroad, and how to prepare teenagers for navigating peer pressure and health choices in countries with more lenient cannabis laws.",
+        "The impact on Tokyo families would likely be felt within 1-3 years, primarily through discussions in international school communities, guidance from overseas university admissions counselors, and potentially within private counselling services catering to returnees or international students. It's gated by the global conversation rather than domestic policy shifts.",
+        "In Japan, organizations like the National Center of Neurology and Psychiatry (国立精神・神経医療研究センター) conduct research and provide public health information on adolescent mental health and substance abuse prevention. While their focus is broader, this global finding reinforces the need for comprehensive mental health education, similar to the efforts seen in Japanese high schools and some university-affiliated programs, even if the specific substance is different."
+      ],
+      "ja": [
+        "この研究が示しているのは、ティーンエイジャーにとって大麻の使用は単なる軽微なリスクではなく、精神病や双極性障害のような深刻な精神疾患を発症する可能性を著しく高めるという点です。例えるなら、まだ建設中の橋に、その構造を根本から揺るがすような大きな要素が加わると、後々問題が生じるのと同じです。思春期の脳はまだ重要な発達段階にあり、大麻がその発達を阻害する要因となり得るのです。",
+        "日本では大麻の使用は厳しく規制されており、身近な問題とは言えません。しかし、海外留学を検討している東京の家庭や、インターナショナルスクールに通うお子さんを持つ家庭には影響があるでしょう。海外のより緩やかな大麻規制がある国で、子どもたちがどのような社会環境に直面し、仲間からのプレッシャーや健康に関する選択をどう乗り越えるか、という家族内の話し合いに影響を与える可能性があります。",
+        "東京の家庭への影響は、主にインターナショナルスクールコミュニティ内での議論、海外大学の入学カウンセラーからのガイダンス、そして帰国子女や留学生を対象としたプライベートなカウンセリングサービスを通じて、1〜3年以内に実感される可能性があります。これは国内の政策変更というよりも、世界的な議論によって動くでしょう。",
+        "日本では、国立精神・神経医療研究センターなどが青少年の精神衛生と薬物乱用防止に関する研究を行い、情報提供をしています。対象となる物質は異なりますが、この世界的な研究結果は、日本の高校や一部の大学付属プログラムで見られるような、包括的な精神衛生教育の必要性を改めて強調するものです。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "Large study links teen cannabis use to higher mental illness risk.",
+        "ja": "大規模研究、若者の大麻使用と精神疾患リスク増大の関連を示唆。"
+      },
+      "whoForWhat": {
+        "en": "For Tokyo parents of teenagers, this research informs discussions around adolescent health, substance use prevention, and protecting long-term mental well-being.",
+        "ja": "思春期の子どもを持つ東京の保護者にとって、この研究は青少年の健康、物質乱用防止、そして長期的な精神的幸福を守るための議論に役立つでしょう。"
+      },
+      "vsJapanContext": {
+        "en": "While cannabis use is less prevalent and strictly regulated in Japan, this study offers critical insights for international schools in Tokyo and families whose children may encounter different cultural norms abroad.",
+        "ja": "日本では大麻の使用は厳しく規制されており一般的ではありませんが、東京のインターナショナルスクールや、海外で異なる文化的規範に触れる可能性のある子どもを持つ家庭にとって、この研究は重要な示唆を与えます。"
+      },
+      "tokyoNote": {
+        "en": "The strict legal framework in Japan means this research is not about immediate policy changes here. However, for families with children studying overseas or in international curricula, understanding global health trends around adolescent substance use is crucial.",
+        "ja": "日本の厳格な法規制を考えると、この研究が直ちに国内の政策変更につながるわけではありません。しかし、海外留学を考えている、あるいはインターナショナルカリキュラムで学ぶ子どもを持つ家庭にとって、思春期の物質使用に関する世界の健康トレンドを理解することは極めて重要です。"
+      }
+    },
+    "source": {
+      "name": "ScienceDaily — Child Development",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260622091515.htm"
+    },
+    "sourceGuid": "https://www.sciencedaily.com/releases/2026/06/260622091515.htm",
+    "status": "published"
+  },
+  {
     "slug": "how-ais-role-shapes-high-school-learning-and-cognitive-effort",
     "category": "ai-edu",
     "issue": "Vol. 01",
