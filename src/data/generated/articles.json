@@ -1,5 +1,109 @@
 [
   {
+    "slug": "omega-3-fish-oil-no-brain-boost-for-healthy-adults-study-finds",
+    "category": "research",
+    "issue": "Vol. 01",
+    "publishedAt": "2026-06-29T07:19:12.000Z",
+    "readingMinutes": 4,
+    "feature": true,
+    "cover": {
+      "src": "https://www.sciencedaily.com/images/1920/eyes-hand-holding-omega-3-vitamin-supplement-capsule.webp",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "Omega-3 Fish Oil: No Brain Boost for Healthy Adults, Study Finds",
+      "ja": "オメガ3魚油サプリメント、健康な成人の脳機能向上に効果なしとの研究結果"
+    },
+    "dek": {
+      "en": "A two-year study challenges the widespread belief that omega-3 supplements significantly improve memory or cognitive function in healthy individuals, shifting focus to overall lifestyle.",
+      "ja": "2年間の研究が、健康な成人におけるオメガ3サプリメントの記憶力や認知機能向上効果に疑問を投げかけ、生活習慣全体への注目を促しています。"
+    },
+    "author": {
+      "en": "WORLD STUDY TOKYO Editors",
+      "ja": "WORLD STUDY TOKYO 編集部"
+    },
+    "location": {
+      "en": "LOS ANGELES, CALIFORNIA",
+      "ja": "米国カリフォルニア州ロサンゼルス"
+    },
+    "tags": [
+      {
+        "en": "Cognition",
+        "ja": "認知機能"
+      },
+      {
+        "en": "Nutrition",
+        "ja": "栄養"
+      },
+      {
+        "en": "Supplements",
+        "ja": "サプリメント"
+      },
+      {
+        "en": "Brain Health",
+        "ja": "脳の健康"
+      }
+    ],
+    "body": {
+      "en": [
+        "A recent two-year study, conducted by researchers at the University of Southern California (USC) and Wake Forest University, has shed new light on the efficacy of omega-3 fish oil supplements for brain health. The findings indicate that while these supplements successfully increased omega-3 levels in the brain, they offered no significant benefits for memory, overall cognitive function, or the brain changes typically associated with Alzheimer's disease.",
+        "Millions of people worldwide, including many parents concerned about their own and their children's long-term cognitive development, routinely take fish oil supplements. The widespread assumption has been that these supplements can boost brain power or prevent age-related decline. This study directly challenges that belief, suggesting that the benefits might not be as clear-cut as commonly perceived, especially for individuals without a diagnosed deficiency.",
+        "The research involved approximately 400 participants aged 65 to 75, none of whom had cognitive impairment at the study's outset. Participants were randomized into groups, receiving either a daily omega-3 supplement or a placebo for two years. Throughout the study, researchers utilized advanced brain imaging techniques, such as MRI, and a battery of cognitive tests to track any changes in brain structure and function.",
+        "A key finding was that despite significant increases in docosahexaenoic acid (DHA) and eicosapentaenoic acid (EPA), two important omega-3 fatty acids, in the participants' brain tissue, these elevated levels did not translate into measurable improvements in memory or other cognitive functions. This suggests that for healthy individuals, merely increasing omega-3 intake through supplements may not yield the desired cognitive benefits.",
+        "The study's results encourage a shift in focus from isolated nutritional supplements to a more holistic view of brain health.",
+        "> \"Our study found that taking omega-3 supplements for two years did not protect against cognitive decline or Alzheimer’s disease.\"",
+        "Instead, a balanced diet rich in whole foods, regular physical activity, sufficient sleep, and consistent mental engagement are increasingly highlighted as more effective and comprehensive strategies for maintaining long-term brain health and cognitive vitality."
+      ],
+      "ja": [
+        "米国南カリフォルニア大学（USC）とウェイクフォレスト大学の研究者らが実施した2年間の研究が、オメガ3魚油サプリメントの脳の健康に対する効果について新たな知見を発表しました。この研究は、サプリメントが脳内のオメガ3レベルを上昇させることは確認されたものの、記憶力や全体的な認知機能、あるいはアルツハイマー病に関連する脳の変化に対して、明確な改善効果は見られなかったと結論付けています。",
+        "世界中で数百万人が、自身の脳の健康維持や子どもたちの長期的な認知発達を期待して、日常的に魚油サプリメントを摂取しています。脳機能の向上や加齢に伴う認知機能低下の予防に効果があるという認識が広く浸透していますが、今回の研究はこの通説に疑問を投げかけるものです。特に、特定の栄養不足がない健康な人にとって、その効果はこれまで考えられていたほど明確ではない可能性を示唆しています。",
+        "研究には、65歳から75歳の約400人が参加し、研究開始時点で認知機能に障害は認められませんでした。参加者はランダムにグループ分けされ、一方には毎日オメガ3サプリメントを、もう一方にはプラセボを2年間摂取させました。研究期間中、研究者たちはMRIなどの高度な脳画像診断技術や、複数の認知機能テストを用いて、脳の構造や機能の変化を詳細に追跡しました。",
+        "重要な発見は、参加者の脳組織におけるドコサヘキサエン酸（DHA）とエイコサペンタエン酸（EPA）という2つの主要なオメガ3脂肪酸のレベルは著しく上昇したにもかかわらず、これらのレベル上昇が記憶力や他の認知機能の測定可能な改善には結びつかなかった点です。これは、健康な個人がサプリメントを通じてオメガ3摂取量を増やしても、期待される認知機能への恩恵が得られない可能性を示唆しています。",
+        "この研究結果は、単一の栄養補助食品に頼るのではなく、脳の健康をより包括的に捉えることの重要性を促しています。",
+        "「私たちの研究では、2年間オメガ3サプリメントを摂取しても、認知機能の低下やアルツハイマー病の予防にはつながらないことが判明しました」",
+        "むしろ、ホールフード（未精製の自然食品）を豊富に含むバランスの取れた食事、定期的な身体活動、十分な睡眠、そして継続的な知的活動への取り組みこそが、長期的な脳の健康と認知能力の維持にとって、より効果的かつ包括的な戦略として改めて強調されています。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "This study suggests that for healthy individuals, taking omega-3 fish oil supplements might not be the direct brain booster many parents hope for. Think of it like trying to improve a well-maintained car's performance by adding a premium fuel additive — if the car is already running optimally on regular fuel, the additive might not make a noticeable difference. It's not that omega-3s aren't important; they are, but perhaps the body gets enough from a balanced diet without needing extra pills for a cognitive edge.",
+        "For Tokyo families, this research might influence how they approach nutritional supplements for both children and adults. Parents often consider supplements to support academic performance or concentration. This finding could lead to a re-evaluation of family budgets allocated to such supplements, shifting focus towards whole foods and other lifestyle habits that are proven to support overall well-being and, by extension, cognitive health.",
+        "The impact is likely to be gradual, within 2–3 years. It's less about a sudden policy shift and more about a slow change in public perception and consumer behavior. As more awareness spreads through parenting media and health discussions, families might naturally start prioritizing dietary changes over supplement purchases, especially if local pediatricians or nutritionists begin incorporating these findings into their guidance.",
+        "In Japan, companies like ベネッセ (Benesse) and Z会 (Z-kai) often provide educational content that includes advice on healthy lifestyles and study habits. While they don't typically endorse specific supplements, their focus on holistic development, including diet and sleep, aligns with the study's broader message. Public health campaigns by the 東京都教育委員会 (Tokyo Metropolitan Board of Education) also emphasize balanced meals and physical activity for students, echoing the shift away from quick-fix solutions."
+      ],
+      "ja": [
+        "この研究は、健康な人にとって、オメガ3魚油サプリメントを摂取しても、多くの保護者が期待するような直接的な脳機能向上効果は得られないかもしれない、ということを示唆しています。例えるなら、きちんと整備された車に、さらに高性能な燃料添加剤を入れても、すでに最適に動いている限り、目に見える性能向上の違いは感じられないのと似ています。オメガ3自体が重要でないわけではなく、バランスの取れた食事から十分摂取できていれば、あえてサプリメントで追加することによる認知機能への上乗せ効果は限定的、ということかもしれません。",
+        "東京の家庭にとって、この研究は子どもや大人の栄養補助食品への向き合い方に影響を与える可能性があります。集中力向上や学業成績への寄与を期待してサプリメントを検討する保護者も少なくありませんが、この知見は、サプリメントにかける家計の予算を見直し、その分をバランスの取れた食材や、総合的な健康、ひいては認知機能の向上に貢献すると証明されている他の生活習慣の改善に振り向けるきっかけになるかもしれません。",
+        "影響は徐々に、2〜3年かけて現れると予想されます。突然の政策変更というよりも、子育てメディアや健康に関する議論を通じて、一般の認識や消費行動がゆっくりと変わっていくでしょう。地域の小児科医や栄養士がこの知見をアドバイスに取り入れ始めれば、家庭はより自然にサプリメント購入よりも食生活の改善を優先するようになるかもしれません。",
+        "日本では、ベネッセやZ会のような教育サービス企業が、健全な生活習慣や学習習慣に関するコンテンツを提供しており、この研究が示唆するホリスティックなアプローチと方向性が合致しています。特定のサプリメントを推奨することは通常ありませんが、食事や睡眠を含む総合的な発達に焦点を当てる姿勢は共通しています。また、東京都教育委員会も、児童生徒の健康的な食生活や運動習慣の重要性を強調しており、安易な解決策に頼らないというメッセージは、日本の教育現場でも浸透しつつあります。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "Fish oil for brain health? The evidence is weak.",
+        "ja": "魚油サプリの脳機能改善効果は限定的か"
+      },
+      "whoForWhat": {
+        "en": "For Tokyo families considering nutritional supplements for their children's cognitive development or their own long-term brain health, this study offers a critical re-evaluation of omega-3 efficacy.",
+        "ja": "子どもの認知発達や自身の脳の健康のために栄養補助食品を検討している東京の家庭にとって、オメガ3の効果について再考を促す研究です。"
+      },
+      "vsJapanContext": {
+        "en": "This finding challenges the general perception of brain-boosting supplements, similar to how Japanese health food industries market various functional foods for cognitive support.",
+        "ja": "日本の健康食品業界が認知機能サポートを謳う様々な機能性食品を販売する中、脳機能向上サプリメント全般に対する認識に一石を投じるものです。"
+      },
+      "tokyoNote": {
+        "en": "While omega-3s are essential, this research suggests that for healthy Tokyo families, focusing on a balanced diet and active lifestyle might be more impactful than relying on supplements. It's a reminder that genuine cognitive support comes from holistic well-being.",
+        "ja": "オメガ3は重要ですが、健康な東京の家庭にとって、サプリメントに頼るよりもバランスの取れた食事と活動的な生活習慣に注力する方が、より効果的かもしれません。真の認知サポートは、総合的な健康から生まれるという再確認です。"
+      }
+    },
+    "source": {
+      "name": "ScienceDaily — Child Development",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260622014300.htm"
+    },
+    "sourceGuid": "https://www.sciencedaily.com/releases/2026/06/260622014300.htm",
+    "status": "published"
+  },
+  {
     "slug": "teen-cannabis-use-linked-to-doubled-risk-of-serious-mental-illness-in-major-stud",
     "category": "research",
     "issue": "Vol. 01",
