@@ -1,5 +1,213 @@
 [
   {
+    "slug": "modern-neuroscience-reconnects-with-psychoanalytic-insights-on-the-predictive-br",
+    "category": "research",
+    "issue": "Vol. 02",
+    "publishedAt": "2026-07-01T07:24:56.000Z",
+    "readingMinutes": 5,
+    "feature": true,
+    "cover": {
+      "src": "https://www.sciencedaily.com/images/1920/digital-brain-connections-signal-map.webp",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "Modern Neuroscience Reconnects with Psychoanalytic Insights on the Predictive Brain",
+      "ja": "脳の予測機能に関する現代神経科学と精神分析の意外な接点"
+    },
+    "dek": {
+      "en": "A recent paper suggests that the brain's fundamental function as a \"prediction machine\" — constantly anticipating the world — echoes concepts from psychoanalysis developed over a century ago, offering new perspectives on learning and emotional development.",
+      "ja": "最新の研究が、脳が常に世界を予測する「予測機械」であるという現代神経科学の主要理論と、1世紀以上前の精神分析の考え方との類似点を指摘しました。これは、学びや感情発達への新たな視点を提供します。"
+    },
+    "author": {
+      "en": "WORLD STUDY TOKYO Editors",
+      "ja": "WORLD STUDY TOKYO 編集部"
+    },
+    "location": {
+      "en": "July 1, 2026, via ScienceDaily",
+      "ja": "2026年7月1日、ScienceDaily 経由"
+    },
+    "tags": [
+      {
+        "en": "Neuroscience",
+        "ja": "神経科学"
+      },
+      {
+        "en": "Child Development",
+        "ja": "子どもの発達"
+      },
+      {
+        "en": "Learning Theory",
+        "ja": "学習理論"
+      },
+      {
+        "en": "Emotional Regulation",
+        "ja": "感情調整"
+      }
+    ],
+    "body": {
+      "en": [
+        "A new academic paper, recently highlighted by ScienceDaily, proposes a fascinating convergence between modern neuroscience and the foundational ideas of psychoanalysis. Published on July 1, 2026, the paper argues that the brain's primary mode of operation, as understood today, bears a striking resemblance to insights into human psychology first articulated by Sigmund Freud over 130 years ago.",
+        "At the heart of this connection is the \"predictive processing\" theory, a leading model in contemporary neuroscience. This theory posits that the brain is not merely a passive recipient of sensory information but an active \"prediction machine\" that constantly generates hypotheses about the world. It then updates these internal models based on incoming sensory data, minimizing prediction errors. This continuous process of anticipating, comparing, and refining is fundamental to how we perceive, learn, and interact with our environment, from the simplest movements to complex social interactions.",
+        "The paper suggests that Freud's early work, particularly his concept of the \"pleasure principle\" and the role of unconscious desires, can be reinterpreted through the lens of predictive processing. Freud observed that individuals strive to reduce psychological tension arising from unfulfilled desires or internal conflicts. This, the new paper argues, aligns with the brain's drive to reduce prediction errors – a fundamental homeostatic mechanism. When our internal models of the world, shaped by past experiences and desires, don't match reality, it creates a \"prediction error\" that the brain seeks to resolve, much like Freud's tension reduction.",
+        "For parents and educators, this perspective offers a nuanced understanding of how children learn and develop emotional resilience. If learning is about refining internal models through prediction error reduction, then environments that allow for safe exploration, feedback, and adaptation become crucial. A child encountering a new situation is not just absorbing facts; their brain is actively trying to predict what will happen next, and then adjusting its understanding based on the outcome. Emotional responses, too, can be seen as the brain's reaction to significant prediction errors, especially those related to social interactions and personal safety.",
+        "> \"today's leading theory of the brain—as a prediction machine constantly anticipating the world—closely mirrors ideas psychoanalysis has explored for more than a century.\"",
+        "This convergence points towards a future where developmental psychology and clinical practice might draw more explicitly on neuroscientific principles. Understanding the brain as a prediction engine could lead to new approaches for addressing anxiety, trauma, or learning difficulties, by focusing on how individuals form and update their world models. It suggests that interventions might be most effective when they help individuals to safely confront and integrate experiences that contradict their established predictions, thereby building more robust and flexible internal representations of reality.",
+        "While the paper emphasizes theoretical parallels, it also opens avenues for empirical research to test these proposed connections. The challenge lies in translating these abstract concepts into measurable psychological and neurological phenomena. For families, this research underscores the profound impact of early experiences in shaping a child's predictive models of the world, highlighting the importance of consistent, responsive caregiving and environments that foster a sense of predictability and safety, even as children learn to navigate novelty and change."
+      ],
+      "ja": [
+        "2026年7月1日に発表された新たな学術論文が、現代神経科学と精神分析の基本的な考え方の間に興味深い接点があることを示唆し、ScienceDailyで注目を集めています。この論文は、今日理解されている脳の主要な働き方が、今から130年以上前にジークムント・フロイトが初めて提唱した人間の心理に関する洞察と驚くほど似ていると論じています。",
+        "この関連性の核心にあるのは、現代神経科学における主要なモデルである「予測処理（predictive processing）」理論です。この理論は、脳が単に感覚情報を受動的に受け取るだけでなく、世界について常に仮説を生成する能動的な「予測機械」であると提唱しています。脳は、入ってくる感覚データに基づいてこれらの内部モデルを更新し、予測誤差を最小限に抑えます。この絶え間ない予測、比較、修正のプロセスは、最も単純な動きから複雑な社会的相互作用に至るまで、私たちがどのように知覚し、学び、環境と関わるかの基盤となります。",
+        "この論文は、フロイトの初期の業績、特に「快感原則」や無意識の欲望の役割といった概念が、予測処理の視点から再解釈できると示唆しています。フロイトは、満たされない欲望や内的な葛藤から生じる心理的緊張を個人が軽減しようとすることを発見しました。この新しい論文は、これを脳が予測誤差を減らそうとする基本的な恒常性維持メカニズムと一致すると論じています。過去の経験や欲望によって形成された世界の内部モデルが現実と一致しないとき、脳はそれを解決しようとする「予測誤差」を生み出します。これはフロイトが提唱した緊張の軽減に似ています。",
+        "保護者や教育者にとって、この視点は、子どもがどのように学び、感情的な回復力を育むかについて、より深い理解をもたらします。もし学習が予測誤差の削減を通じて内部モデルを洗練させることであるならば、安全な探求、フィードバック、適応を可能にする環境が極めて重要になります。新しい状況に直面する子どもは、単に事実を吸収しているのではなく、次に何が起こるかを積極的に予測し、その結果に基づいて理解を調整しています。感情的な反応もまた、特に社会的相互作用や個人の安全に関連する重要な予測誤差に対する脳の反応として捉えることができます。",
+        "「現代の脳の主要な理論である『常に世界を予測する予測機械』という考え方は、精神分析が1世紀以上にわたって探求してきたアイデアと密接に呼応している」",
+        "この理論の融合は、発達心理学や臨床実践が神経科学的原則をより明確に活用する未来を示唆しています。脳を予測エンジンとして理解することは、個人がどのように世界モデルを形成し更新するかに焦点を当てることで、不安、トラウマ、学習困難に対処する新しいアプローチにつながる可能性があります。これは、確立された予測と矛盾する経験に安全に直面し、それらを統合するのを助けるときに、介入が最も効果的である可能性を示しており、それによってより堅牢で柔軟な現実の内部表現を構築できると示唆します。",
+        "この論文は理論的な類似性を強調しつつも、これらの提案された関連性を検証するための実証研究の道も開いています。課題は、これらの抽象的な概念を測定可能な心理的および神経学的現象に変換することにあります。家族にとって、この研究は、子どもの世界の予測モデルを形成する上での初期経験の深い影響を強調しており、一貫した応答的な育児と、子どもたちが新しさや変化を乗り越えることを学ぶ中でも、予測可能性と安心感をもたらす環境の重要性を示唆しています。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "Imagine your child learns a new song. They don't just memorize the notes; their brain is constantly trying to predict the next melody or lyric. If it gets it right, a sense of satisfaction. If it gets it wrong, a slight surprise, and then the brain quickly updates its \"model\" of the song. This research suggests that this fundamental \"prediction and update\" process, central to modern brain science, is strikingly similar to how Freud described our unconscious drives and desires shaping our experience over a century ago. It’s like saying our deepest psychological urges are just the brain's way of trying to make sense of the world and minimize surprises.",
+        "This deep understanding of the brain as a prediction machine could subtly shift how we approach emotional regulation and resilience in children. Instead of just teaching coping mechanisms, educators and parents might focus on helping children build more flexible and accurate \"world models\" through diverse experiences and safe environments. For instance, in an international school setting, where children navigate multiple cultures, understanding how their brains process and adapt to different social predictions could be key to fostering their well-being. It also offers a fresh perspective on why consistent routines can be so comforting for young children – they reduce unpredictable \"prediction errors.\"",
+        "The implications of such fundamental neuroscience typically unfold over a longer horizon. We might see its influence in 5-10 years, primarily through curriculum development in progressive international schools or specialized educational programs focusing on socio-emotional learning, rather than immediate changes in MEXT guidelines or mainstream juku. It would require further applied research to translate these high-level theoretical insights into practical pedagogical tools.",
+        "While not a direct counterpart, the emphasis on developing a child's internal model of the world and reducing \"prediction errors\" resonates with certain aspects of Japanese early childhood education. For example, the structured yet nurturing environment of many hoikuen (daycares) or yochien (kindergartens) often provides consistent routines and clear expectations, which inherently help children build predictable world models. Programs like KUMON, with its focus on incremental mastery and immediate feedback, also align with the idea of continuously refining internal models and reducing errors, though on a purely academic rather than emotional level."
+      ],
+      "ja": [
+        "お子さんが新しい歌を覚える場面を想像してみてください。ただ音符を暗記するだけでなく、脳は常に次のメロディや歌詞を予測しようとしています。予測が当たれば満足感が得られ、外れれば少し驚き、そして脳はすぐにその歌の「モデル」を更新します。この研究は、現代の脳科学の中心にあるこの基本的な「予測と更新」のプロセスが、フロイトが1世紀以上前に無意識の衝動や欲望が私たちの経験を形作ると説明した方法と驚くほど似ていると示唆しています。これは、私たちの最も深い心理的欲求が、世界を理解し、驚きを最小限に抑えようとする脳の働きである、と言っているようなものです。",
+        "脳を予測機械として深く理解することは、子どもの感情調整や回復力へのアプローチを微妙に変える可能性があります。単にストレス対処法を教えるだけでなく、教育者や保護者は、多様な経験と安全な環境を通じて、子どもたちがより柔軟で正確な「世界モデル」を構築できるよう支援することに焦点を当てるかもしれません。例えば、複数の文化を経験するインターナショナルスクールの環境では、子どもたちの脳が異なる社会的予測をどのように処理し、適応するかを理解することが、彼らの心の健康を育む鍵となるでしょう。また、一貫したルーティンが幼い子どもにとってなぜこれほど安心感をもたらすのかについても、予測不可能な「予測誤差」を減らすという新たな視点を提供します。",
+        "このような基礎神経科学の示唆が具体的な影響をもたらすには、通常、より長い期間が必要です。文部科学省のガイドラインや主流の塾での即座の変化というよりも、5〜10年後、先進的なインターナショナルスクールのカリキュラム開発や、社会情動的学習に特化した教育プログラムを通じて、その影響が見られるかもしれません。これらの高レベルな理論的洞察を実践的な教育ツールに変換するためには、さらなる応用研究が必要となるでしょう。",
+        "直接的な類似例ではありませんが、子どもの世界に対する内部モデルを構築し、「予測誤差」を減らすことの重要性は、日本の幼児教育の特定の側面と共鳴します。例えば、多くの保育園や幼稚園の構造化されつつも温かい環境は、一貫したルーティンと明確な期待を提供することが多く、これが子どもたちが予測可能な世界モデルを構築するのに本質的に役立っています。また、公文式のように、段階的な習熟と即座のフィードバックに焦点を当てたプログラムも、純粋に学術的なレベルではありますが、内部モデルを継続的に洗練させ、誤差を減らすという考え方と一致しています。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "Brain's predictive power echoes Freud's insights.",
+        "ja": "脳の予測機能、フロイトの洞察と重なる。"
+      },
+      "whoForWhat": {
+        "en": "For Tokyo parents seeking to understand how children learn and develop emotional resilience, this research offers a new lens on creating supportive environments that help children build robust internal models of the world.",
+        "ja": "子どもの学びと心の回復力がどう育つかを深く理解したい東京の保護者へ。この研究は、子どもが世界に対する強固な内部モデルを構築するための支援環境づくりに新たな視点を提供します。"
+      },
+      "vsJapanContext": {
+        "en": "This research, focusing on the brain's fundamental predictive mechanisms, offers a universal perspective that can inform pedagogical approaches beyond specific MEXT curriculum guidelines or juku teaching methods, emphasizing consistent feedback and exploration.",
+        "ja": "脳の基本的な予測メカニズムに焦点を当てるこの研究は、文部科学省の学習指導要領や特定の塾の指導法を超え、一貫したフィードバックと探求を重視する普遍的な教育アプローチに示唆を与えます。"
+      },
+      "tokyoNote": {
+        "en": "Tokyo families often prioritize structured learning environments. This research reminds us that a child's developing brain is also constantly making sense of the world through prediction and adaptation, suggesting a balance between explicit instruction and opportunities for self-directed exploration and emotional processing. The core idea of \"minimizing prediction errors\" resonates with the careful, iterative process of mastery valued in many Japanese learning traditions.",
+        "ja": "東京のご家庭では、体系的な学習環境を重視する傾向があります。この研究は、子どもの発達途上にある脳が、予測と適応を通じて常に世界を理解しようとしていることを再認識させます。これは、明示的な指導と、自己主導的な探求や感情処理の機会とのバランスの重要性を示唆します。「予測誤差の最小化」という核となる考え方は、日本の多くの学習伝統で評価される、丁寧で反復的な習熟のプロセスに通じるものがあります。"
+      }
+    },
+    "source": {
+      "name": "ScienceDaily — Child Development",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260625014811.htm"
+    },
+    "sourceGuid": "https://www.sciencedaily.com/releases/2026/06/260625014811.htm",
+    "status": "published"
+  },
+  {
+    "slug": "elevate-human-centered-ai-tutors-for-privacy-and-accessibility",
+    "category": "ai-edu",
+    "issue": "Vol. 01",
+    "publishedAt": "2026-06-17T07:01:20.000Z",
+    "readingMinutes": 5,
+    "feature": true,
+    "cover": {
+      "src": "https://images.unsplash.com/photo-1561089489-f13d5e730d72?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#D2E4D5"
+    },
+    "title": {
+      "en": "ELEVATE: Human-Centered AI Tutors for Privacy and Accessibility",
+      "ja": "ELEVATE：プライバシーとアクセシビリティを重視した人間中心のAIチューター"
+    },
+    "dek": {
+      "en": "A new framework for generative AI tutors emphasizes local execution, multimodal interaction, and teacher governance, moving beyond cloud-based chatbots to address privacy and digital divide concerns.",
+      "ja": "生成AIを活用した新しいチューターのフレームワークは、ローカル実行、多感覚インタラクション、教師によるガバナンスを重視。クラウドベースのチャットボットを超え、プライバシーとデジタルデバイドの課題解決を目指します。"
+    },
+    "author": {
+      "en": "WORLD STUDY TOKYO Editors",
+      "ja": "WORLD STUDY TOKYO 編集部"
+    },
+    "location": {
+      "en": "Tokyo, June 2026",
+      "ja": "東京, 2026年6月"
+    },
+    "tags": [
+      {
+        "en": "AI in Education",
+        "ja": "教育AI"
+      },
+      {
+        "en": "AI Tutors",
+        "ja": "AIチューター"
+      },
+      {
+        "en": "Privacy",
+        "ja": "プライバシー"
+      },
+      {
+        "en": "EdTech",
+        "ja": "エドテック"
+      }
+    ],
+    "body": {
+      "en": [
+        "2026年6月に公開されたプレプリントで、研究者たちは「ELEVATE」と名付けられた生成AI（GenAI）駆動型アバターチューターの新しいフレームワークを発表しました。これは、現在の主流であるクラウドベースのテキストチャットボット型AIとは異なるアプローチで、教育現場へのAI導入における倫理的課題と実用性の両面を考慮しています。",
+        "これまでのAIチューターの多くは、クラウド上のサービスとして提供され、プライバシー保護、知識源の透明性、そして規制順守において懸念がありました。また、常時接続と継続的なAPI利用料が前提となるため、多くの教育機関にとって導入の障壁となり、既存のデジタルデバイドをさらに広げる可能性も指摘されていました。ELEVATEは、これらの課題に対し、新たな解決策を提案しています。",
+        "このフレームワークの核となるのは、「ローカルファースト実行モデル」です。これにより、AIチューターがクラウドに依存せず、一般的なPCやスマートフォンといった家庭用デバイス上で直接動作します。このアプローチは、生徒の個人データを外部サーバーに送信する必要がないため、プライバシー保護を強化できると同時に、インターネット接続が不安定な環境でも利用できるという大きな利点があります。",
+        "ELEVATEはまた、テキストのみの対話を超え、「マルチモーダルな対話」を実現するために、3Dアバターを統合しています。これにより、生徒は視覚や聴覚を含む多様な感覚を通じてAIチューターとやり取りできるようになります。研究者たちは、この多感覚的なインタラクションが、より魅力的で効果的な学習体験を提供すると考えています。",
+        "> \"ELEVATE integrates LLM-driven dialogue with embodied 3D avatars for multimodal interaction and adopts a local-first execution model enabling deployment on consumer-grade hardware.\"",
+        "フレームワークは「生徒向けバーチャルアバター対話層」「ローカルでのGenAI実行とマルチモーダル合成コア」「教師向けガバナンス層」という三層構造で設計されており、教師がAIの知識源や指導方針を管理できるガバナンス機能も備えています。プロトタイプは既に実際の教育カリキュラムで評価されており、現実的なハードウェア制約下でも応答性の高いインタラクションが実現できることが示されています。",
+        "この研究は、AIチューターの普及を妨げてきたプライバシー、アクセシビリティ、そして教育的制御の課題に対する具体的な解決策を提示しています。ELEVATEのようなアプローチは、多様な学校環境において、プライバシーを保護しつつ、より多くの生徒に質の高いAIチュータリングを届けるための、スケーラブルで包括的な道筋となるでしょう。"
+      ],
+      "ja": [
+        "2026年6月に発表された最新のプレプリントによると、研究者たちは「ELEVATE」と名付けられた生成AI（GenAI）駆動型アバターチューターの新しいフレームワークを開発しました。これは、現在の主流であるクラウドベースのテキストチャットボット型AIとは異なるアプローチで、教育現場へのAI導入における倫理的課題と実用性の両面を考慮しています。",
+        "これまでのAIチューターの多くは、クラウド上のサービスとして提供され、プライバシー保護、知識源の透明性、そして規制順守において懸念がありました。また、常時接続と継続的なAPI利用料が前提となるため、多くの教育機関にとって導入の障壁となり、既存のデジタルデバイドをさらに広げる可能性も指摘されていました。ELEVATEは、これらの課題に対し、新たな解決策を提案しています。",
+        "このフレームワークの核となるのは、「ローカルファースト実行モデル」です。これにより、AIチューターがクラウドに依存せず、一般的なPCやスマートフォンといった家庭用デバイス上で直接動作します。このアプローチは、生徒の個人データを外部サーバーに送信する必要がないため、プライバシー保護を強化できると同時に、インターネット接続が不安定な環境でも利用できるという大きな利点があります。",
+        "ELEVATEはまた、テキストのみの対話を超え、「マルチモーダルな対話」を実現するために、3Dアバターを統合しています。これにより、生徒は視覚や聴覚を含む多様な感覚を通じてAIチューターとやり取りできるようになります。研究者たちは、この多感覚的なインタラクションが、より魅力的で効果的な学習体験を提供すると考えています。",
+        "> 「ELEVATEは、LLM駆動の対話と3Dアバターを統合し、多感覚インタラクションを実現するとともに、消費者向けハードウェアでの展開を可能にするローカルファースト実行モデルを採用しています。」",
+        "フレームワークは「生徒向けバーチャルアバター対話層」「ローカルでのGenAI実行とマルチモーダル合成コア」「教師向けガバナンス層」という三層構造で設計されており、教師がAIの知識源や指導方針を管理できるガバナンス機能も備えています。プロトタイプは既に実際の教育カリキュラムで評価されており、現実的なハードウェア制約下でも応答性の高いインタラクションが実現できることが示されています。",
+        "この研究は、AIチューターの普及を妨げてきたプライバシー、アクセシビリティ、そして教育的制御の課題に対する具体的な解決策を提示しています。ELEVATEのようなアプローチは、多様な学校環境において、プライバシーを保護しつつ、より多くの生徒に質の高いAIチュータリングを届けるための、スケーラブルで包括的な道筋となるでしょう。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "このELEVATEのフレームワークは、生成AIを活用したアバター型チューターを、クラウドではなく手元のPCやスマートフォンで動かす技術を提案しています。これは、インターネット経由の遠隔授業ではなく、まるでタブレットの中に自分だけの先生がいるようなイメージです。生徒の個人データが外部に送信されることなく、自宅で安心して利用できる点は、東京の保護者にとって大きな魅力となるでしょう。",
+        "東京の家庭にとって、これはより身近で安心できるAI学習ツールの選択肢が増える可能性を意味します。塾やインターナショナルスクールがAIを導入する際、生徒の個人データを外部サーバーに送ることなく、個別指導を提供できるようになるかもしれません。また、高速インターネット環境が常にあるとは限らない家庭や、データセキュリティを重視する家庭にとって、高度な学習支援ツールが手の届くものになるでしょう。",
+        "実用化までには3～5年程度かかると思われます。技術自体は確立されつつありますが、日本の学習指導要領や共通テスト、中学受験のカリキュラムに合わせたコンテンツ開発、そして教育現場や保護者からの信頼を得るための文化的な適応期間が必要です。主要な塾や教育機関がこの方式を採用し始めるのが、普及の鍵となるでしょう。",
+        "国内ではAtama+やすららネットがAIを活用した個別最適化学習を提供していますが、これらは主にクラウドベースで、テキストやグラフィック中心です。ELEVATEの「ローカルファースト」や「アバターによる多感覚対話」のアプローチは、既存のサービスにはないプライバシー保護と高い没入感を提供します。公文式や学研教室のような個別指導はありますが、AIによるリアルタイムな適応学習とは異なる仕組みです。"
+      ],
+      "ja": [
+        "このELEVATEのフレームワークは、生成AIを活用したアバター型チューターを、クラウドではなく手元のPCやスマートフォンで動かす技術を提案しています。これは、インターネット経由の遠隔授業ではなく、まるでタブレットの中に自分だけの先生がいるようなイメージです。生徒の個人データが外部に送信されることなく、自宅で安心して利用できる点は、東京の保護者にとって大きな魅力となるでしょう。",
+        "東京の家庭にとって、これはより身近で安心できるAI学習ツールの選択肢が増える可能性を意味します。塾やインターナショナルスクールがAIを導入する際、生徒の個人データを外部サーバーに送ることなく、個別指導を提供できるようになるかもしれません。また、高速インターネット環境が常にあるとは限らない家庭や、データセキュリティを重視する家庭にとって、高度な学習支援ツールが手の届くものになるでしょう。",
+        "実用化までには3～5年程度かかると思われます。技術自体は確立されつつありますが、日本の学習指導要領や共通テスト、中学受験のカリキュラムに合わせたコンテンツ開発、そして教育現場や保護者からの信頼を得るための文化的な適応期間が必要です。主要な塾や教育機関がこの方式を採用し始めるのが、普及の鍵となるでしょう。",
+        "国内ではAtama+やすららネットがAIを活用した個別最適化学習を提供していますが、これらは主にクラウドベースで、テキストやグラフィック中心です。ELEVATEの「ローカルファースト」や「アバターによる多感覚対話」のアプローチは、既存のサービスにはないプライバシー保護と高い没入感を提供します。公文式や学研教室のような個別指導はありますが、AIによるリアルタイムな適応学習とは異なる仕組みです。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "Local AI tutors with avatars enhance privacy and access.",
+        "ja": "プライバシー重視のローカルAIアバターチューター。"
+      },
+      "whoForWhat": {
+        "en": "For Tokyo families considering AI learning tools, this framework offers a privacy-preserving and accessible alternative to traditional cloud-based AI tutors, especially for those concerned about data security or internet connectivity.",
+        "ja": "AI学習ツールの導入を検討する東京の保護者にとって、データセキュリティや通信環境に懸念がある場合でも、プライバシー保護とアクセシビリティを両立する新たな選択肢を提供します。"
+      },
+      "vsJapanContext": {
+        "en": "While Japanese edtech platforms like Atama+ and すららネット offer AI-driven personalized learning, ELEVATE's local-first, embodied avatar approach differs significantly by prioritizing on-device privacy and multimodal interaction, a gap not fully addressed by current domestic services.",
+        "ja": "Atama+やすららネットなどの国内AI学習プラットフォームは個別最適化学習を提供しますが、ELEVATEのローカルファーストかつアバター型のアプローチは、デバイス上でのプライバシー保護と多感覚インタラクションを重視する点で異なり、現在の国内サービスでは十分に満たされていないニーズに応えるものです。"
+      },
+      "tokyoNote": {
+        "en": "This research is interesting for Tokyo parents concerned about their children's data privacy with AI tools. The ability for an AI tutor to run locally on a device, without constant cloud connection, could make advanced learning support more accessible and secure for families juggling busy schedules and varied home internet environments. We will be watching for its adaptation into Japanese educational content.",
+        "ja": "この研究は、AIツールにおける子どものデータプライバシーを懸念する東京の保護者にとって興味深いものです。AIチューターが常にクラウド接続を必要とせず、デバイス上でローカルに動作する能力は、多忙なスケジュールや多様な家庭のインターネット環境を持つ家族にとって、高度な学習支援をより身近で安全なものにする可能性があります。今後の日本向けコンテンツへの適応に注目したいところです。"
+      }
+    },
+    "source": {
+      "name": "arXiv cs.CY",
+      "url": "http://arxiv.org/abs/2606.30662v1"
+    },
+    "sourceGuid": "http://arxiv.org/abs/2606.30662v1",
+    "status": "published"
+  },
+  {
     "slug": "the-quiet-power-of-unconditional-communication-in-families",
     "category": "methods",
     "issue": "Vol. 01",
