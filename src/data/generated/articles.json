@@ -1,5 +1,107 @@
 [
   {
+    "slug": "ai-tutor-prompt-coach-shows-promise-in-teaching-new-tech-skills",
+    "category": "ai-edu",
+    "issue": "Vol. 02",
+    "publishedAt": "2026-07-07T09:44:46.000Z",
+    "readingMinutes": 3,
+    "feature": true,
+    "cover": {
+      "src": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#CCE1CE"
+    },
+    "title": {
+      "en": "AI Tutor 'Prompt Coach' Shows Promise in Teaching New Tech Skills",
+      "ja": "AIチューター「Prompt Coach」が示す、新しい技術スキル学習の可能性"
+    },
+    "dek": {
+      "en": "A new agentic AI tutor helps software developers master prompt engineering, demonstrating significant skill improvement in a short session through Socratic guidance.",
+      "ja": "新しいエージェント型AIチューターが、ソクラテス式指導法でプロンプトエンジニアリングの習得を支援。短時間でスキルが大幅に向上する可能性を示しました。"
+    },
+    "author": {
+      "en": "WORLD STUDY TOKYO Editors",
+      "ja": "WORLD STUDY TOKYO 編集部"
+    },
+    "location": {
+      "en": "TOKYO",
+      "ja": "東京"
+    },
+    "tags": [
+      {
+        "en": "AI in Education",
+        "ja": "教育におけるAI"
+      },
+      {
+        "en": "Skill Acquisition",
+        "ja": "スキル習得"
+      },
+      {
+        "en": "Prompt Engineering",
+        "ja": "プロンプトエンジニアリング"
+      },
+      {
+        "en": "Future Skills",
+        "ja": "未来のスキル"
+      }
+    ],
+    "body": {
+      "en": [
+        "Researchers have introduced \"Prompt Coach\" (PC), an agentic tutor designed to help software developers master prompt engineering—the skill of crafting effective instructions for artificial intelligence (AI) code generation tools. An early empirical study, published as a preprint in July 2026, demonstrated significant improvements in prompt quality among professional developers after a single, hour-long session.",
+        "Prompt engineering has rapidly become a vital skill in software development, yet its dynamic, interactive, and context-dependent nature makes it challenging to teach through traditional methods. Effective prompts are crucial for harnessing the power of large language models (LLMs) to generate high-quality code. The study highlights that many developers often overlook key dimensions of prompt quality, leading to suboptimal AI outputs.",
+        "Prompt Coach integrates directly into a developer's integrated development environment (IDE)—the software application where developers write and debug code. It employs Socratic guidance (a teaching method that uses a series of questions to help learners discover answers themselves), evaluating the quality of prompts across multiple dimensions and then posing targeted questions to guide the user towards self-correction. This guidance is specifically grounded in the developer's own codebase and the expected behavior of the target LLM, making the learning highly relevant and practical.",
+        "> \"Participants showed statistically significant improvements after a single 60-minute session, with the largest gains across dimensions commonly overlooked by developers.\"",
+        "The empirical study involved 15 professional developers. After a 60-minute session with Prompt Coach, participants exhibited statistically significant improvements in their prompt-writing abilities. Notably, the most substantial gains were observed in areas of prompt quality that developers frequently neglect. Beyond quantitative improvements, participants reported high levels of trust in the system, a strong readiness to adopt it into their workflow, and a unanimous agreement that Prompt Coach enhanced their skills.",
+        "This research points to a future where AI-powered tutors can effectively teach complex, rapidly evolving skills that are difficult to formalize in textbooks or lectures. While this specific application focuses on software development, the underlying approach—context-aware Socratic guidance for skill acquisition—has broader implications for how individuals might learn new, emergent competencies across various fields, from scientific research to creative arts, as AI tools become more integrated into professional workflows."
+      ],
+      "ja": [
+        "2026年7月に発表されたプレプリント論文によると、研究者たちは「Prompt Coach」（プロンプト・コーチ、PC）というエージェント型チューターを開発しました。これは、ソフトウェア開発者が人工知能（AI）のコード生成ツールに効果的な指示（プロンプト）を作成するスキル、すなわちプロンプトエンジニアリングを習得するのを支援するものです。初期の実証研究では、プロの開発者がわずか1時間のセッションでプロンプトの質を大幅に向上させたことが示されています。",
+        "プロンプトエンジニアリングは、ソフトウェア開発において急速に重要性を増しているスキルですが、その動的でインタラクティブ、かつ文脈依存的な性質から、従来の学習方法では教えるのが難しいとされてきました。大規模言語モデル（LLM）の力を最大限に引き出し、質の高いコードを生成させるためには、効果的なプロンプトの作成が不可欠です。この研究では、多くの開発者がプロンプトの質の重要な側面を見落としがちであり、それがAIの出力の質を低下させていると指摘しています。",
+        "Prompt Coachは、開発者がコードを記述・デバッグするソフトウェアアプリケーションである統合開発環境（IDE）に直接組み込まれています。このシステムは、ソクラテス式指導法（質問を通じて学習者自身の思考を促す教育手法）を採用しており、複数の側面からプロンプトの質を評価します。そして、ユーザーが自己修正できるよう、的を絞った質問を提示します。この指導は、開発者自身のコードベースと、対象となるLLMの振る舞いに基づいて行われるため、学習は非常に実践的で関連性が高いものとなります。",
+        "「参加者はわずか60分のセッション後に統計的に有意な改善を示し、特に開発者が見落としがちな側面で最大の成果が得られました。」",
+        "この実証研究には15人のプロのソフトウェア開発者が参加しました。Prompt Coachとの60分間のセッション後、参加者たちはプロンプト作成スキルにおいて統計的に有意な改善を示しました。特に注目すべきは、開発者が普段見落としがちなプロンプトの質の側面において、最も大きな向上が見られた点です。定量的な改善に加え、参加者たちはシステムに対する高い信頼、ワークフローへの導入に対する強い意欲、そしてPrompt Coachが自身のプロンプト作成スキルを向上させたという全員一致の意見を報告しています。",
+        "この研究は、AIを搭載したチューターが、教科書や講義では形式化しにくい、複雑で急速に進化するスキルを効果的に教える未来を示唆しています。この特定の応用はソフトウェア開発に焦点を当てていますが、その根底にあるアプローチ、すなわち文脈を意識したソクラテス式指導によるスキル習得は、AIツールが専門的なワークフローにさらに統合されるにつれて、科学研究からクリエイティブな芸術まで、さまざまな分野における新しい、出現しつつある能力を人々がどのように学ぶかについて、より広範な意味合いを持つでしょう。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "Imagine a personal tutor who doesn't just give you answers, but gently guides you with questions until you figure out the solution yourself. That's essentially what Prompt Coach does for software developers learning how to \"talk\" to AI. Instead of a textbook, it's embedded in their actual work, observing their attempts to instruct an AI and then asking targeted questions like, \"What if you rephrased that request to be more specific about the output format?\" or \"Could you break down this complex task into smaller steps for the AI?\" This Socratic approach helps learners build a deeper, more intuitive understanding of prompt engineering.",
+        "For Tokyo families, this type of agentic AI tutor points to a future where learning new, rapidly evolving skills becomes much more accessible and personalized. As AI becomes ubiquitous, not just in coding but in many professional fields, the ability to interact with it effectively—what we call \"AI literacy\"—will be crucial. This could impact how high school students prepare for university entrance exams like 総合型選抜 (comprehensive selection), where demonstrating practical skills and problem-solving abilities is valued. It also suggests new ways for students to acquire specialized technical skills that might not be part of the standard curriculum.",
+        "While Prompt Coach is currently specialized for software development, the underlying principles of Socratic AI tutoring could expand to other domains within 3-5 years. The key gating factor will be the development of robust AI models capable of understanding and guiding learning in diverse, less structured fields beyond coding. We might see early versions of such general-purpose AI tutors emerge in specialized online learning platforms or private educational services first, rather than within the MEXT curriculum.",
+        "In Japan, educational services like Atama+ (アタマプラス) already use AI to personalize learning paths for academic subjects, focusing on mastery of existing curricula. However, Prompt Coach represents a different kind of AI tutor: one that teaches *new* skills in *emergent* fields through interactive, Socratic dialogue. While Atama+ excels at adapting to a learner's pace for known content, there isn't yet a widely adopted Japanese counterpart specifically designed to teach rapidly evolving, context-dependent skills like prompt engineering using this agentic, Socratic method. N高等学校 (N High School) and S高等学校 (S High School) with their focus on practical IT and programming skills might be the closest in spirit, as they emphasize self-directed learning in contemporary tech domains."
+      ],
+      "ja": [
+        "答えをすぐに与えるのではなく、質問を重ねることで学習者自身が解決策を見つける手助けをする個別指導の先生を想像してみてください。まさにそれが「Prompt Coach」がソフトウェア開発者に対して行っていることです。AIに「話しかける」方法、つまりプロンプトエンジニアリングを学ぶ開発者に対し、教科書ではなく彼らの実際の作業環境に組み込まれて、AIへの指示を試みる様子を観察します。そして、「そのリクエストを、出力形式についてもっと具体的に言い換えたらどうだろう？」「この複雑なタスクを、AIにとってより小さなステップに分解できないか？」といった的を絞った質問を投げかけます。このソクラテス式指導法は、プロンプトエンジニアリングに対するより深く、直感的な理解を育むのに役立ちます。",
+        "東京のご家庭にとって、このようなエージェント型AIチューターの登場は、急速に進化する新しいスキルの学習が、よりアクセスしやすく、パーソナルなものになる未来を示唆しています。AIがプログラミングだけでなく、多くの専門分野で遍在するようになるにつれて、AIと効果的に対話する能力、すなわち「AIリテラシー」は不可欠なスキルとなるでしょう。これは、実践的なスキルや問題解決能力が評価される大学入試、例えば総合型選抜の準備をする高校生に影響を与える可能性があります。また、標準的なカリキュラムには含まれない専門的な技術スキルを、生徒が新しい方法で習得する道も開かれるかもしれません。",
+        "Prompt Coachは現在、ソフトウェア開発に特化していますが、ソクラテス式AI指導の根底にある原則は、3〜5年以内に他の分野にも拡大する可能性があります。重要な決定要因となるのは、コーディング以外の多様で構造化されていない分野でも学習を理解し、導くことができる堅牢なAIモデルの開発が進むかどうかです。文部科学省のカリキュラムに組み込まれるよりも早く、まずは専門的なオンライン学習プラットフォームや民間の教育サービスで、このような汎用AIチューターの初期バージョンが登場するかもしれません。",
+        "日本では、アタマプラス（Atama+）のような教育サービスが、既存の学術科目の学習経路をAIで個別最適化し、習熟度を高めることに注力しています。しかし、Prompt Coachはそれとは異なる種類のAIチューターです。インタラクティブなソクラテス式対話を通じて、*新しい*、*出現しつつある*分野のスキルを教えるものです。アタマプラスが既知のコンテンツに対する学習者のペース適応に優れる一方、プロンプトエンジニアリングのような急速に進化し、文脈に依存するスキルを、このエージェント型ソクラテス式指導法で教えるための、広く普及した日本版のサービスはまだありません。実践的なIT・プログラミングスキルに重点を置くN高等学校やS高等学校は、現代のテクノロジー分野における自律学習を重視している点で、精神的には最も近い存在と言えるでしょう。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "AI tutor helps developers master prompt engineering in an hour.",
+        "ja": "AIチューターが1時間でプロンプト作成スキルを向上。"
+      },
+      "whoForWhat": {
+        "en": "For Tokyo families with high schoolers interested in tech careers or university admissions that value practical skills, this shows how AI can teach new, evolving competencies.",
+        "ja": "テクノロジー分野のキャリアや、実践的なスキルを重視する大学入試（総合型選抜など）に関心のある高校生を持つ東京のご家庭にとって、AIが新しいスキル習得をどう支援するかを示唆します。"
+      },
+      "vsJapanContext": {
+        "en": "While Japan's education system emphasizes foundational knowledge, this AI tutor highlights a global shift towards teaching dynamic, emergent skills like prompt engineering, which is less common in traditional Japanese curricula.",
+        "ja": "日本の教育が基礎知識の習得を重視する一方、このAIチューターはプロンプトエンジニアリングのような動的で新しいスキルを教える世界的な潮流を示しており、日本の従来のカリキュラムではまだ一般的ではありません。"
+      },
+      "tokyoNote": {
+        "en": "This research offers a glimpse into how AI could teach future-critical skills that traditional juku or school curricula don't yet cover. For Tokyo parents, it suggests a need to consider tools that foster adaptability and interaction with AI, rather than just rote learning.",
+        "ja": "この研究は、従来の塾や学校のカリキュラムではまだ扱われていない、将来的に不可欠なスキルをAIがどう教えうるかを示唆します。東京の保護者にとっては、単なる暗記学習だけでなく、AIとの対話や適応力を育むツールを検討する必要性を示唆するでしょう。"
+      }
+    },
+    "source": {
+      "name": "arXiv cs.CY",
+      "url": "http://arxiv.org/abs/2607.06074v1"
+    },
+    "sourceGuid": "http://arxiv.org/abs/2607.06074v1",
+    "status": "published"
+  },
+  {
     "slug": "universal-algebra-for-eighth-graders-cambridges-ambitious-math-initiative",
     "category": "methods",
     "issue": "Vol. 02",
