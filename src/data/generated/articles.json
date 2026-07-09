@@ -1,5 +1,213 @@
 [
   {
+    "slug": "bumble-bees-show-inventive-problem-solving-prompting-rethink-on-learning",
+    "category": "research",
+    "issue": "Vol. 02",
+    "publishedAt": "2026-07-03T02:53:35.000Z",
+    "readingMinutes": 5,
+    "feature": true,
+    "cover": {
+      "src": "https://www.sciencedaily.com/images/1920/bumble-bee-problem-solving-experiment.webp",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "Bumble Bees Show Inventive Problem-Solving, Prompting Rethink on Learning",
+      "ja": "マルハナバチが示す独創的な問題解決能力：学びの概念を再考する"
+    },
+    "dek": {
+      "en": "Recent research reveals bumble bees inventing novel solutions to achieve goals, challenging traditional views on intelligence and learned behavior. This finding offers insights into fostering adaptable thinking in children.",
+      "ja": "マルハナバチが、教えられずに新しい方法で課題を解決したという研究は、知性と学習に関する従来の考え方に一石を投じます。この発見は、子どもの適応力ある思考を育むヒントになるかもしれません。"
+    },
+    "author": {
+      "en": "WORLD STUDY TOKYO Editors",
+      "ja": "WORLD STUDY TOKYO 編集部"
+    },
+    "location": {
+      "en": "TOKYO, July 3, 2026",
+      "ja": "東京、2026年7月3日"
+    },
+    "tags": [
+      {
+        "en": "Cognitive Science",
+        "ja": "認知科学"
+      },
+      {
+        "en": "Problem-Solving",
+        "ja": "問題解決"
+      },
+      {
+        "en": "Learning Methods",
+        "ja": "学習方法"
+      },
+      {
+        "en": "Creativity",
+        "ja": "創造性"
+      }
+    ],
+    "body": {
+      "en": [
+        "In a surprising development reported on July 3, 2026, scientists observed bumble bees inventing a new strategy to access a hidden reward, despite never having been taught the specific trick. This discovery, made by researchers at a European university, adds to a growing body of evidence suggesting that these small insects possess a level of intelligence and adaptability far greater than previously understood.",
+        "The experiment involved a classic intelligence test where bees needed to move a small ball to a designated area to unlock a sugary treat. While some bees were initially shown how to push the ball, others were given no such instruction. Remarkably, a subset of the untaught bees spontaneously devised their own method to manipulate the ball, demonstrating an intrinsic capacity for novel problem-solving.",
+        "This finding is significant because it challenges the notion that complex problem-solving in animals is solely a result of imitation or extensive training. Instead, it points to an inherent ability to innovate and adapt, even in creatures with relatively simple nervous systems. For human learning, this raises questions about the balance between direct instruction and environments that encourage self-directed discovery.",
+        "> \"Bumble bees astonished researchers by inventing a new way to reach a hidden reward, despite never being taught the trick.\"",
+        "The researchers noted that the bees were not merely repeating a learned behavior. They were actively experimenting and formulating new approaches when faced with an unfamiliar challenge. This capacity for what might be called 'inventive learning' suggests that intelligence isn't just about processing information efficiently, but also about generating new solutions when old ones are unavailable or ineffective.",
+        "For parents and educators, this research offers a compelling reminder of the importance of fostering environments where children can explore, experiment, and even fail in their attempts to solve problems. While structured learning provides foundational knowledge, opportunities for open-ended play and challenges that require creative solutions may be crucial for developing truly adaptable and resilient thinkers. The study prompts a re-evaluation of how we define and cultivate intelligence, not just in the classroom, but in everyday life."
+      ],
+      "ja": [
+        "2026年7月3日に発表された驚くべき研究で、科学者たちはマルハナバチが、特定のやり方を教えられていないにもかかわらず、隠された報酬に到達するための新しい戦略を自ら編み出す様子を観察しました。ヨーロッパの大学の研究者たちによるこの発見は、これらの小さな昆虫がこれまで考えられていたよりもはるかに高い知性と適応能力を持っているという証拠をさらに補強するものです。",
+        "実験は、ハチが甘い報酬を得るために小さなボールを特定の場所に動かす必要がある、古典的な知能テストを用いて行われました。一部のハチにはボールの動かし方が最初に示されましたが、他のハチには何の指示も与えられませんでした。驚くべきことに、教えられていないハチの一部が自発的にボールを操作する独自の方法を考案し、独創的な問題解決能力を内的に持っていることを示しました。",
+        "この発見が重要なのは、動物における複雑な問題解決が、模倣や広範な訓練の結果に過ぎないという考え方に異議を唱える点にあります。むしろ、比較的単純な神経系を持つ生物であっても、革新し適応する生来の能力があることを示唆しています。人間の学習においては、直接的な指導と、自ら発見することを促す環境とのバランスについて、新たな問いを投げかけるものです。",
+        "「マルハナバチは、そのトリックを一度も教えられていないにもかかわらず、隠された報酬に到達する新しい方法を発明し、研究者たちを驚かせました。」",
+        "研究者たちは、ハチが単に学習した行動を繰り返しているわけではないと指摘しています。彼らは、慣れない課題に直面した際に、積極的に実験し、新しいアプローチを考案していました。この「独創的な学習」とも呼べる能力は、知性とは単に情報を効率的に処理することだけでなく、既存の方法が利用できない、あるいは効果的でない場合に、新しい解決策を生み出すことでもあることを示唆しています。",
+        "保護者や教育者にとって、この研究は、子どもたちが問題解決の試みの中で探求し、実験し、時には失敗することも許される環境を育むことの重要性を強く示唆しています。体系的な学習が基礎的な知識を提供する一方で、自由な発想を促す遊びや、創造的な解決策を必要とする課題への挑戦は、真に適応力があり、粘り強い思考力を持つ子どもを育む上で不可欠なのかもしれません。この研究は、教室だけでなく、日常生活の中で知性をどのように定義し、培っていくかを再評価するきっかけとなります。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "This research on bumble bees, while seemingly far removed from our daily lives, offers a fascinating lens through which to view human learning. The idea that even a small insect can spontaneously invent solutions, without being explicitly taught, challenges the common assumption that all effective learning must be didactic or strictly guided. For Tokyo families, this resonates with the ongoing discussion about how much structure versus free exploration children need.",
+        "Looking ahead, this insight could subtly influence how we think about curriculum design and extracurricular activities. If intrinsic problem-solving is a fundamental aspect of intelligence, then educational approaches that prioritize project-based learning, inquiry-based learning, or even just unstructured playtime could gain more prominence. This might affect choices between traditional juku (cram schools) that emphasize rote learning and those that offer more experiential programs, or between domestic private schools and international schools with different pedagogical philosophies.",
+        "The timeframe for such a shift in educational philosophy to broadly impact Tokyo families is likely 3-5 years. It would be gated by a gradual increase in awareness among parents and educators, perhaps further supported by domestic studies replicating similar findings in human children. Major educational institutions or innovative private schools might be the first to explicitly integrate these principles into their offerings, creating a market trend.",
+        "In Japan, some progressive educational initiatives, particularly within universities like Keio SFC or the inquiry-based learning programs at schools like N High School (N高等学校), already emphasize self-directed problem-solving and creative exploration. While not directly inspired by bumble bees, these institutions are moving in a comparable direction by valuing the student's ability to invent and adapt, rather than solely focusing on the mastery of prescribed content. The challenge remains in translating this ethos into the highly structured environment of entrance exam preparation that many Tokyo families navigate."
+      ],
+      "ja": [
+        "マルハナバチに関するこの研究は、一見私たちの日常生活から遠いように見えますが、人間の学習を考察する上で興味深い視点を提供します。小さな昆虫でさえ、明示的に教えられなくても自発的に解決策を編み出すという事実は、効果的な学習は常に教示的であるか、厳密に導かれるべきだという一般的な前提に疑問を投げかけます。東京のご家庭にとって、これは子どもたちにどれくらいの構造化された学びと、どれくらいの自由な探求が必要かという議論と重なります。",
+        "将来的に見れば、この知見はカリキュラム設計や課外活動の考え方に微妙な影響を与える可能性があります。もし内発的な問題解決能力が知性の基本的な側面であるならば、プロジェクト型学習、探究型学習、あるいは単に自由な遊びの時間を重視する教育アプローチがより注目されるかもしれません。これは、暗記学習を重視する伝統的な塾と、より体験的なプログラムを提供する塾、あるいは異なる教育哲学を持つ国内私立学校とインターナショナルスクールの選択に影響を与える可能性を秘めています。",
+        "このような教育哲学の変化が東京のご家庭に広く影響を与えるまでの期間は、おそらく3〜5年でしょう。これは、保護者や教育者の間での意識の漸進的な高まり、そしておそらく人間の子どもを対象とした同様の国内研究によってさらに裏付けられることで進むと考えられます。主要な教育機関や革新的な私立学校が、これらの原則を最初にカリキュラムに明示的に組み込み、市場のトレンドを作り出すかもしれません。",
+        "日本国内では、慶應義塾大学SFCやN高等学校の探究学習プログラムなど、一部の先進的な教育イニシアティブがすでに自律的な問題解決と創造的な探求を重視しています。これらはマルハナバチの研究から直接着想を得たものではありませんが、規定された内容の習得のみに焦点を当てるのではなく、生徒が自ら発明し適応する能力を評価するという点で、同様の方向性を持っています。多くの東京のご家庭が経験する受験準備の非常に構造化された環境の中で、この精神をどのように具体化していくかが今後の課題となるでしょう。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "Bumble bees invent solutions, rethinking how intelligence emerges.",
+        "ja": "マルハナバチが示す独創性、知性の本質を再考。"
+      },
+      "whoForWhat": {
+        "en": "For Tokyo families with children of all ages, this research offers a fresh perspective on fostering creativity and adaptability, influencing choices in learning environments from preschool to high school.",
+        "ja": "あらゆる年齢の子どもを持つ東京の家庭にとって、この研究は創造性と適応力を育む新たな視点を提供し、幼児期から高校までの学習環境選びに影響を与えるかもしれません。"
+      },
+      "vsJapanContext": {
+        "en": "This finding aligns with a growing emphasis in Japan's 総合型選抜 (holistic admissions) on evaluating problem-solving skills and independent thinking, moving beyond rote memorization often associated with 共通テスト (Common Test for University Admissions).",
+        "ja": "この発見は、日本の総合型選抜（旧AO入試）が問題解決能力や自律的思考を評価する傾向と一致しており、共通テストに代表される暗記中心の学習を超えた視点を提供します。"
+      },
+      "tokyoNote": {
+        "en": "The Tokyo desk notes that while the initial finding is from insect research, its implications for valuing intrinsic problem-solving over rote learning are highly relevant. This could subtly influence how families view the balance between structured juku and more open-ended learning opportunities, even if direct policy changes are distant.",
+        "ja": "東京編集部としては、昆虫の研究ではあるものの、暗記学習よりも内発的な問題解決能力を重視することの示唆は非常に大きいと考えます。これは、直接的な政策変更はまだ先だとしても、ご家庭が構造化された塾とより自由な探求の機会とのバランスをどう捉えるかに、微妙な影響を与えるかもしれません。"
+      }
+    },
+    "source": {
+      "name": "ScienceDaily — Educational Psychology",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260625014755.htm"
+    },
+    "sourceGuid": "https://www.sciencedaily.com/releases/2026/06/260625014755.htm",
+    "status": "published"
+  },
+  {
+    "slug": "ai-reshapes-stem-education-from-knowledge-transfer-to-capability-building",
+    "category": "ai-edu",
+    "issue": "Vol. 01",
+    "publishedAt": "2026-06-10T08:31:13.000Z",
+    "readingMinutes": 5,
+    "feature": true,
+    "cover": {
+      "src": "https://images.unsplash.com/photo-1551434678-e076c223a692?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#CFE3D2"
+    },
+    "title": {
+      "en": "AI Reshapes STEM Education: From Knowledge Transfer to Capability Building",
+      "ja": "AIがSTEM教育を再構築：知識伝達から能力開発への転換"
+    },
+    "dek": {
+      "en": "A new analysis reveals how AI, driven by large language models, is moving STEM learning beyond rote memorization to foster inquiry and computational thinking, offering personalized scaffolding for complex concepts.",
+      "ja": "大規模言語モデルに牽引され、AIがSTEM学習を単なる知識の暗記から探究心とコンピュテーショナル・シンキングの育成へと進化させていることが、最新の分析で明らかになりました。複雑な概念理解への個別最適化された足場を提供します。"
+    },
+    "author": {
+      "en": "WORLD STUDY TOKYO Editors",
+      "ja": "WORLD STUDY TOKYO 編集部"
+    },
+    "location": {
+      "en": "TOKYO, Japan",
+      "ja": "東京"
+    },
+    "tags": [
+      {
+        "en": "AI in Education",
+        "ja": "教育におけるAI"
+      },
+      {
+        "en": "STEM Education",
+        "ja": "STEM教育"
+      },
+      {
+        "en": "Learning Methods",
+        "ja": "学習方法"
+      },
+      {
+        "en": "Personalized Learning",
+        "ja": "個別最適化学習"
+      }
+    ],
+    "body": {
+      "en": [
+        "A recent analysis of research trends in STEM education, published on arXiv, highlights how artificial intelligence (AI) is fundamentally reshaping learning in science, technology, engineering, and mathematics. This study, covering 242 publications from 2015 to 2025, maps the evolution of AI's role, pointing to a significant shift in educational approaches.",
+        "The researchers used bibliometric methods (統計的な手法で論文の傾向を分析する学術研究) to systematically investigate the mechanisms by which AI transforms the STEM education ecosystem. They found that the field has moved beyond traditional intelligent tutoring systems (個々の学習者に合わせて指導内容を調整する AI ソフトウェア) to embrace more dynamic approaches like inquiry-based learning (生徒が自ら問いを立て、探究する学習法) and the cultivation of computational thinking (問題解決のためにコンピューターのように論理的に考える力). This evolution is largely driven by the advent of large language models (LLMs) (ChatGPT など、人間のような文章を生成できる大規模な AI モデル).",
+        "The core contribution of AI, according to the analysis, lies in providing \"intelligent scaffolding\" (学習者のレベルに合わせて適切な支援を提供し、自力で解決できるよう促す仕組み).",
+        "> \"AI's key contribution lies in providing intelligent scaffolding that lowers the threshold for understanding knowledge.\"",
+        "This scaffolding effectively lowers the barrier for students to grasp complex knowledge, making challenging STEM concepts more accessible. For instance, an AI tutor might break down a physics problem into smaller, manageable steps, offering hints without giving away the direct answer, or guide a student through an experiment simulation.",
+        "This shift signifies a deeper transformation in how STEM education is conceived. Historically, the focus was often on knowledge transmission (教師や教材から生徒へ知識を一方的に伝えること) — simply delivering facts and formulas. However, AI is now promoting a move towards capability development (知識の習得だけでなく、問題解決能力や思考力といった総合的な力を育むこと), where the emphasis is on students developing problem-solving skills, critical thinking, and the ability to apply what they learn in novel situations. AI tools act as facilitators, helping students actively construct their understanding rather than passively receive it.",
+        "The analysis suggests that AI is a core driving force in this pedagogical evolution. As AI technologies continue to advance, particularly in their ability to understand context and generate personalized feedback, their potential to support interdisciplinary integration (複数の学問分野を横断的に学ぶこと) and highly personalized learning pathways will only grow. This could lead to learning experiences that are tailored precisely to each student's pace, style, and interests, addressing long-standing challenges in mass education.",
+        "While the study offers a comprehensive view of past trends, it also sets an agenda for future research. Key questions remain about the long-term impact of AI-driven learning on student creativity, social interaction, and ethical considerations. Understanding how to best integrate these powerful tools into diverse educational settings, ensuring equitable access and effective teacher training, will be vital for realizing AI's full potential in STEM education."
+      ],
+      "ja": [
+        "arXiv に発表された最新の研究動向分析によると、人工知能（AI）が科学、技術、工学、数学（STEM）教育を根本的に変えつつあることが明らかになりました。2015年から2025年までの242本の論文を対象としたこの分析は、AIの役割の進化をマッピングし、教育アプローチにおける重要な転換を示しています。",
+        "研究者たちは、AIがSTEM教育のエコシステムをどのように変革するかを体系的に調査するため、書誌計量分析（ビブリオメトリクス ── 統計的な手法で論文の傾向を分析する学術研究）を用いました。その結果、この分野は従来のインテリジェント・チュータリング・システム（個々の学習者に合わせて指導内容を調整するAIソフトウェア）から、探究型学習（生徒が自ら問いを立て、探究する学習法）やコンピュテーショナル・シンキング（問題解決のためにコンピューターのように論理的に考える力）の育成といった、より動的なアプローチへと移行していることが示されました。この進化は、主に大規模言語モデル（LLM ── ChatGPT など、人間のような文章を生成できる大規模なAIモデル）の登場によって加速されています。",
+        "分析によると、AIの主要な貢献は、「intelligent scaffolding（インテリジェント・スキャフォールディング ── 学習者のレベルに合わせて適切な支援を提供し、自力で解決できるよう促す仕組み）」を提供することにあります。",
+        "「AIの主要な貢献は、知識理解の敷居を下げるインテリジェント・スキャフォールディングを提供することにある」",
+        "このスキャフォールディングは、複雑な知識を理解するためのハードルを効果的に下げ、難解なSTEM概念をよりアクセスしやすくします。例えば、AIチューターは物理の問題をより小さな、管理しやすいステップに分解したり、直接的な答えを与えることなくヒントを提供したり、実験シミュレーションを通じて生徒を導いたりすることが可能です。",
+        "この変化は、STEM教育の考え方そのものの深い変革を示唆しています。これまで教育は、知識伝達（教師や教材から生徒へ知識を一方的に伝えること）に重点を置くことが多かったのですが、AIは今や、能力開発（知識の習得だけでなく、問題解決能力や思考力といった総合的な力を育むこと）への移行を推進しています。ここでは、生徒が問題解決能力、批判的思考力、そして学んだことを新しい状況に応用する能力を育成することが重視されます。AIツールは、生徒が受動的に知識を受け取るのではなく、能動的に理解を構築するのを助ける触媒として機能します。",
+        "この分析は、AIが教育学的な進化における主要な推進力であると示唆しています。AI技術、特に文脈を理解し、パーソナライズされたフィードバックを生成する能力が進化し続けるにつれて、学際的な統合（複数の学問分野を横断的に学ぶこと）や高度にパーソナライズされた学習経路を支援する可能性はさらに高まるでしょう。これにより、各生徒のペース、スタイル、興味に正確に合わせた学習体験が実現し、長年の集団教育における課題が解決される可能性があります。",
+        "この研究は過去のトレンドを包括的に示していますが、同時に今後の研究課題も提示しています。AI駆動型学習が生徒の創造性、社会的交流、倫理的考慮に与える長期的な影響については、まだ多くの疑問が残っています。これらの強力なツールを多様な教育環境にどのように最適に統合し、公平なアクセスと効果的な教師研修を確保するかが、STEM教育におけるAIの可能性を最大限に引き出す上で不可欠となるでしょう。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "This research indicates that AI is transforming how children learn science and math. Think of it like this: traditionally, learning might have been about a teacher explaining a concept, and students memorizing it for a test. AI is moving this process towards a more active one, where the AI acts like a personal guide. Instead of just giving answers, it helps a child explore questions themselves, breaking down complex ideas into manageable parts and offering just the right amount of help when they get stuck, much like a good tutor who knows exactly when to nudge you without solving it for you. It's about building the skill to think, not just recalling facts.",
+        "For Tokyo families, this trend could significantly impact how children approach STEM subjects, especially those preparing for 中学受験 or aiming for overseas universities. Instead of intense focus on drilling specific problem types, future learning might emphasize developing a deeper conceptual understanding and problem-solving skills through AI-assisted inquiry. This could influence the content and methods offered by major juku, shifting towards platforms that offer personalized, adaptive learning paths in STEM. For families considering international schools, this approach aligns well with IB or AP curricula that already prioritize inquiry and critical thinking.",
+        "We might see the initial impacts of this shift within the next 3-5 years. While a full transformation across all Japanese educational institutions will take longer, leading edtech providers and some innovative private schools or international schools in Tokyo could begin integrating these AI-driven \"intelligent scaffolding\" methods into their STEM programs. Widespread adoption will likely be gated by further MEXT discussions on how AI tools fit into the national curriculum guidelines (学習指導要領) and the development of robust, Japan-specific AI learning platforms.",
+        "In Japan, companies like Atama+ and すららネット are already using AI to personalize learning paths, particularly in subjects like math. While they excel at identifying weak points and providing targeted practice, the next frontier, as highlighted by this research, involves AI actively fostering inquiry-based learning and computational thinking. N高等学校・S高等学校, with their focus on self-directed and project-based learning, represent an institutional trend that could readily integrate such advanced AI scaffolding to empower students in STEM fields, bridging the gap between personalized practice and genuine capability development."
+      ],
+      "ja": [
+        "この研究は、AIが子どもたちの理数系科目の学び方を変えつつあることを示しています。これまでの学習は、先生が概念を説明し、生徒がそれを暗記してテストに臨むという形が多かったかもしれません。AIは、このプロセスをより能動的なものへと変えようとしています。AIがまるで個人のガイドのように機能し、単に答えを教えるのではなく、子ども自身が問いを探求するのを助け、複雑なアイデアを分かりやすい部分に分解し、行き詰まったときにちょうど良いヒントを提供します。これは、良い個別指導の先生が、答えを教えずに、いつどのようにヒントを与えれば良いかを知っているのと同じです。単なる事実の記憶ではなく、考える力を育むことが重視されるようになります。",
+        "東京のご家庭にとって、このトレンドは、特に中学受験を控えているお子さんや、海外大学進学を目指すお子さんのSTEM科目への取り組み方に大きな影響を与える可能性があります。将来の学習は、特定の入試問題を反復練習することに集中するのではなく、AIが支援する探究を通じて、より深い概念理解と問題解決能力を養うことに重点が置かれるかもしれません。これは、大手学習塾のカリキュラムや指導方法にも影響を与え、個別最適化された、適応性の高いSTEM学習プラットフォームへと移行する可能性を秘めています。インターナショナルスクールを検討しているご家庭にとっては、すでに探究と批判的思考を重視するIBやAPのカリキュラムと、このアプローチが非常によく合致すると言えるでしょう。",
+        "この変化の初期的な影響は、今後3〜5年以内に見られる可能性があります。日本の教育機関全体での完全な変革にはより時間がかかるでしょうが、東京の主要なエドテック企業や一部の革新的な私立学校、インターナショナルスクールでは、こうしたAI駆動型の「インテリジェント・スキャフォールディング」の手法をSTEMプログラムに導入し始めるかもしれません。より広範な普及は、AIツールが学習指導要領にどのように組み込まれるかという文部科学省のさらなる議論と、日本独自の堅牢なAI学習プラットフォームの開発にかかっています。",
+        "日本では、Atama+（アタマプラス）やすららネットといった企業が、特に数学などの科目でAIを活用した個別最適化学習を提供しています。これらのサービスは弱点の特定とターゲットを絞った練習提供に優れていますが、本研究が示唆する次のフロンティアは、AIが探究型学習やコンピュテーショナル・シンキングを積極的に育成する点にあります。N高等学校・S高等学校は、自己主導型およびプロジェクトベースの学習に重点を置いており、このような高度なAIスキャフォールディングをSTEM分野で生徒をエンパワーするために統合できる機関のトレンドを示しています。これにより、個別化された練習と真の能力開発との間のギャップを埋めることができるでしょう。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "AI moves STEM learning beyond facts to skills.",
+        "ja": "AIがSTEM教育を知識から能力へ。"
+      },
+      "whoForWhat": {
+        "en": "For a Tokyo family with a middle or high schooler considering STEM fields, this explains how AI tools are changing the fundamental approach to learning science and math, emphasizing skill development over rote memorization.",
+        "ja": "STEM分野に関心を持つ中高生を持つ東京のご家庭にとって、AIツールが科学や数学の学習アプローチをどのように変え、暗記からスキル開発へと重点を移しているかを解説します。"
+      },
+      "vsJapanContext": {
+        "en": "While Japan's MEXT has promoted inquiry-based learning and computational thinking through the GIGA School Program, the integration of advanced AI like LLMs for \"intelligent scaffolding\" is still nascent compared to global research trends.",
+        "ja": "文部科学省はGIGAスクール構想を通じて探究学習やコンピュテーショナル・シンキングを推進していますが、LLMを活用した「インテリジェント・スキャフォールディング」によるAI統合は、国際的な研究トレンドと比較してまだ初期段階にあります。"
+      },
+      "tokyoNote": {
+        "en": "Tokyo parents often focus on exam preparation for STEM subjects. This research suggests a future where AI shifts the focus from mastering specific problems to developing the underlying problem-solving capabilities, potentially impacting how juku and international schools design their STEM curricula in the coming years.",
+        "ja": "東京の保護者はSTEM科目において受験対策に注力しがちです。本研究は、AIが特定の試験問題の習得から、根本的な問題解決能力の育成へと焦点を移す未来を示唆しており、数年内には塾やインターナショナルスクールのSTEMカリキュラム設計に影響を与える可能性があります。"
+      }
+    },
+    "source": {
+      "name": "arXiv cs.CY",
+      "url": "http://arxiv.org/abs/2607.05412v1"
+    },
+    "sourceGuid": "http://arxiv.org/abs/2607.05412v1",
+    "status": "published"
+  },
+  {
     "slug": "ai-tutor-prompt-coach-shows-promise-in-teaching-new-tech-skills",
     "category": "ai-edu",
     "issue": "Vol. 02",
@@ -2375,8 +2583,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#DCD2E7"
+      "src": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#D6CDE2"
     },
     "title": {
       "en": "Giving AI Tutors a Memory: New Research Creates 'History-Aware' Student Profiles",
@@ -2785,8 +2993,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1573164713619-24c711fe7878?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#C4DDC6"
+      "src": "https://images.unsplash.com/photo-1456324504439-367cee3b3c32?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#F2D7BF"
     },
     "title": {
       "en": "Beyond 'Collaboration': What AI Truly Offers in Learning",
@@ -3713,8 +3921,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#CCE1CE"
+      "src": "https://images.unsplash.com/photo-1573164713619-24c711fe7878?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#C4DDC6"
     },
     "title": {
       "en": "AI Tutors: Learning Support or Just Smart Answers?",
@@ -4335,8 +4543,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1493612276216-ee3925520721?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#F4DEC6"
+      "src": "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#DCD2E7"
     },
     "title": {
       "en": "AI Tutors Learn to Adapt for Special Education Needs",
@@ -4645,8 +4853,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1456324504439-367cee3b3c32?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#F2D7BF"
+      "src": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#EFD0B5"
     },
     "title": {
       "en": "Beyond the AI Tutor: Why Student Engagement Matters More Than the Tool Itself",
@@ -5163,8 +5371,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1488998427799-e3362cec87c3?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#D3C7E1"
+      "src": "https://images.unsplash.com/photo-1456406644174-8ddd4cd52a06?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#D2C5E0"
     },
     "title": {
       "en": "Cultivating Kindness: Lessons from a Holocaust Survivor's Lifelong Study",
@@ -5265,8 +5473,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#D6CDE2"
+      "src": "https://images.unsplash.com/photo-1488998427799-e3362cec87c3?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#D3C7E1"
     },
     "title": {
       "en": "Beyond the Classroom: Integrating Language Learning into Daily Life for Fluency",
@@ -5473,8 +5681,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#EFD0B5"
+      "src": "https://images.unsplash.com/photo-1493612276216-ee3925520721?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#F4DEC6"
     },
     "title": {
       "en": "AI Tutors Offer Personalized Coaching for Social Skills Development",

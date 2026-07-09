@@ -1,5 +1,8 @@
 {
   "seen": [
+    "http://arxiv.org/abs/2607.05412v1",
+    "https://hechingerreport.org/?p=117168",
+    "tag:theconversation.com,2011:article/285912",
     "http://arxiv.org/abs/2607.06074v1",
     "https://www.technologyreview.com/?p=1140176",
     "https://hechingerreport.org/?p=117000",
@@ -65,7 +68,7 @@
     "urn:id:8909",
     "tag:theconversation.com,2011:article/284069"
   ],
-  "lastRunAt": "2026-07-08T21:33:15.746Z",
-  "lastSuccessAt": "2026-07-08T21:33:15.746Z",
-  "totalRuns": 32
+  "lastRunAt": "2026-07-09T21:48:49.999Z",
+  "lastSuccessAt": "2026-07-09T21:48:49.999Z",
+  "totalRuns": 33
 }
