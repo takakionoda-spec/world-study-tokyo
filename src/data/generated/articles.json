@@ -1,5 +1,213 @@
 [
   {
+    "slug": "beyond-artistic-talent-drawing-as-a-tool-for-thinking-and-learning",
+    "category": "methods",
+    "issue": "Vol. 02",
+    "publishedAt": "2026-07-14T10:00:00.000Z",
+    "readingMinutes": 5,
+    "feature": true,
+    "cover": {
+      "src": "https://images.unsplash.com/photo-1453738773917-9c3eff1db985?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#F5DDC3"
+    },
+    "title": {
+      "en": "Beyond Artistic Talent: Drawing as a Tool for Thinking and Learning",
+      "ja": "描画はアートの才能だけではない：思考と学びを深めるツールとしての絵"
+    },
+    "dek": {
+      "en": "A new perspective suggests that drawing is not merely an artistic pursuit but a fundamental cognitive activity that enhances observation, memory, and problem-solving, accessible to everyone regardless of perceived talent.",
+      "ja": "描画は単なる芸術活動ではなく、観察力、記憶力、問題解決能力を高める基本的な認知活動であり、才能の有無に関わらず誰もが実践できるという新たな視点が提示されています。"
+    },
+    "author": {
+      "en": "WORLD STUDY TOKYO Editors",
+      "ja": "WORLD STUDY TOKYO 編集部"
+    },
+    "location": {
+      "en": "Tokyo, July 14, 2026",
+      "ja": "東京, 2026年7月14日"
+    },
+    "tags": [
+      {
+        "en": "Creativity",
+        "ja": "創造性"
+      },
+      {
+        "en": "Cognitive Skills",
+        "ja": "認知スキル"
+      },
+      {
+        "en": "Learning Methods",
+        "ja": "学習法"
+      },
+      {
+        "en": "Art Education",
+        "ja": "美術教育"
+      }
+    ],
+    "body": {
+      "en": [
+        "In a recent dispatch from Psyche, author Andrea Kantrowitz invites us to rediscover the innate joy of drawing, framing it not as an exclusive domain for artists, but as a potent tool for thinking and learning. This perspective shifts the focus from the finished product to the cognitive process itself, suggesting that engaging with a pencil and paper can sharpen our minds in profound ways, irrespective of our artistic skill.",
+        "The core argument is that drawing compels us to observe the world more closely. Unlike passive viewing, the act of translating what we see (or imagine) onto a surface forces a deeper engagement with details, spatial relationships, and the underlying structures of objects. This active observation is a form of 'visual thinking' that strengthens neural pathways related to perception and memory, making it a valuable exercise for learners of all ages.",
+        "Kantrowitz suggests that the pleasure of drawing, often lost after childhood, can be reclaimed through simple activities that de-emphasize perfection. Techniques like blind contour drawing (drawing without looking at the paper), drawing from memory, or attempting to draw complex concepts can bypass self-criticism and encourage a more direct, intuitive engagement. The goal is not a museum-worthy piece, but a richer understanding through the act of creation.",
+        "> \"Reclaim that pleasure with these activities (no talent needed).\"",
+        "This approach has significant implications for education. When drawing is viewed as a method for understanding rather than just an art subject, its utility expands across the curriculum. For instance, sketching a biological process or diagramming a historical event can solidify comprehension far more effectively than merely reading text. It transforms abstract information into concrete, manipulable forms, aiding in retention and critical analysis.",
+        "The emphasis on process over talent challenges traditional notions of art education, which often prioritize technical skill and aesthetic judgment. By freeing individuals from the pressure to produce 'good' art, this framework encourages broader participation and highlights drawing's role in developing executive functions (計画、注意の集中、課題の切り替えといった高次の認知機能) such as planning, sustained attention, and problem-solving strategies. It's about developing the 'eye' and the 'mind,' not just the 'hand.'",
+        "Ultimately, this renewed appreciation for drawing reminds us that creativity is not a specialized trait but a fundamental human capacity. Integrating drawing into daily learning routines, both at home and in educational settings, offers a straightforward yet powerful way to cultivate deeper cognitive engagement and foster a lifelong curiosity about the world around us."
+      ],
+      "ja": [
+        "Psycheからの最新記事で、著者アンドレア・カントロウィッツ氏は、描画が芸術家のための特別な領域ではなく、思考と学びのための強力なツールであるという視点から、私たちが幼少期に持っていた絵を描くことへの純粋な喜びを再発見するよう促しています。この視点は、完成品から認知プロセスそのものへと焦点を移し、鉛筆と紙に向き合うことが、芸術的スキルに関わらず、私たちの心を深く研ぎ澄ますことができると示唆しています。",
+        "その核心的な主張は、描画が私たちを世界をより注意深く観察するよう仕向けるという点にあります。受動的に見るだけの場合とは異なり、目に見えるもの（あるいは想像するもの）を紙の上に表現する行為は、細部、空間関係、そして物事の根底にある構造とのより深い関わりを強制します。この能動的な観察は「視覚的思考」の一種であり、知覚と記憶に関連する神経経路を強化するため、あらゆる年齢の学習者にとって価値のある訓練となります。",
+        "カントロウィッツ氏は、幼少期以降に失われがちな描画の喜びを、完璧さを重視しない簡単な活動を通じて取り戻すことができると提案しています。ブラインド・コンター・ドローイング（紙を見ずに描くこと）、記憶に基づいて描くこと、あるいは複雑な概念を絵にしようと試みることなどは、自己批判を避け、より直接的で直感的な関わりを促します。目的は美術館に飾られるような作品ではなく、創造行為を通じてより豊かな理解を得ることにあるのです。",
+        "> 「才能は必要ありません。これらの活動でその喜びを取り戻しましょう。」",
+        "このアプローチは、教育にとって重要な意味を持ちます。描画が単なる美術科目としてではなく、理解のための方法として捉えられるとき、その有用性はカリキュラム全体に広がります。例えば、生物学のプロセスをスケッチしたり、歴史的出来事を図式化したりすることは、単に文章を読むよりもはるかに効果的に理解を定着させることができます。抽象的な情報を具体的な、操作可能な形に変えることで、記憶と批判的分析を助けるのです。",
+        "才能よりもプロセスを重視するこの考え方は、技術的なスキルや美的判断を優先しがちな従来の美術教育の概念に疑問を投げかけます。「良い」絵を描かなければならないというプレッシャーから解放されることで、より多くの人が描画に参加するようになり、計画、注意の集中、課題の切り替えといった高次の認知機能である実行機能（executive functions）の育成における描画の役割が強調されます。これは「手」だけでなく、「目」と「心」を育むことなのです。",
+        "最終的に、描画に対するこの新たな評価は、創造性が特殊な才能ではなく、人間の基本的な能力であることを私たちに思い出させます。家庭でも教育現場でも、描画を日々の学習ルーティンに組み込むことは、より深い認知的関わりを育み、私たちの周りの世界に対する生涯にわたる好奇心を培うための、シンプルでありながら強力な方法を提供します。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "For Tokyo families, where academic rigor and exam preparation often dominate the educational landscape, the idea of drawing as a cognitive tool rather than just an art form offers a refreshing perspective. Many parents might view art classes as secondary to core subjects, or drawing as a leisure activity. However, this article highlights its potential to enhance fundamental learning skills applicable across all disciplines.",
+        "This shift in understanding could plausibly influence how international schools in Tokyo approach art education, integrating drawing more explicitly into science, history, or language arts curricula to foster deeper understanding. For families considering domestic private schools, it might encourage a re-evaluation of how visual thinking is supported at home, perhaps through incorporating simple sketching into homework routines or family discussions.",
+        "The impact on mainstream Japanese education might take longer, likely 5-10 years, gated by a broader cultural acceptance of process-oriented learning over outcome-driven skill acquisition. However, some progressive private schools or after-school programs (習い事) focused on creativity might adopt these principles sooner, potentially within 2-3 years, as they seek to differentiate their offerings.",
+        "While traditional Japanese art education often emphasizes mastering specific techniques and forms, institutions like N高等学校 (N High School) or some project-based learning initiatives within universities are already exploring interdisciplinary approaches that value creative expression and problem-solving. This perspective on drawing aligns with their efforts to cultivate adaptable, critical thinkers, suggesting that a broader appreciation for drawing's cognitive benefits could find fertile ground in such innovative educational settings."
+      ],
+      "ja": [
+        "学業の厳しさや受験準備が教育の中心となりがちな東京のご家庭にとって、描画が単なる芸術ではなく、認知的なツールであるという考え方は、新鮮な視点を提供するでしょう。多くの保護者は、美術の授業を主要科目よりも二次的なものと見なしがちですが、この記事は、描画がすべての分野に応用できる基本的な学習スキルを高める可能性を強調しています。",
+        "この理解の変化は、東京のインターナショナルスクールが美術教育にどのようにアプローチするかに影響を与え、科学、歴史、国語などのカリキュラムに描画をより明確に統合し、より深い理解を育む可能性があります。国内の私立学校を検討しているご家庭にとっては、家庭で視覚的思考をどのように支援するかを再評価するきっかけとなるかもしれません。例えば、宿題や家族の話し合いに簡単なスケッチを取り入れるといった形でです。",
+        "日本の主流教育への影響はより長く、おそらく5年から10年かかるでしょう。これは、結果重視のスキル習得よりもプロセス重視の学習に対する文化的な受容が広がるかどうかにかかっています。しかし、一部の先進的な私立学校や創造性を重視する習い事などは、差別化を図るために、2〜3年以内にもこれらの原則をより早く取り入れる可能性があります。",
+        "日本の伝統的な美術教育が特定の技法や形式の習得を重視する一方で、N高等学校や一部の大学におけるプロジェクト型学習イニシアチブなどは、すでに創造的表現と問題解決を重視する学際的なアプローチを模索しています。描画に対するこの視点は、適応力のある批判的思考者を育成しようとする彼らの取り組みと合致しており、描画の認知的な利点への幅広い評価が、このような革新的な教育現場で肥沃な土壌を見つける可能性を示唆しています。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "Drawing as a way of thinking, not just art.",
+        "ja": "描画はアートでなく思考のツール。"
+      },
+      "whoForWhat": {
+        "en": "For Tokyo parents of elementary school children looking for ways to foster observation skills and creative problem-solving beyond traditional academic subjects.",
+        "ja": "伝統的な学業科目を超えて、観察力と創造的な問題解決能力を育む方法を探している東京の小学生の保護者の方へ。"
+      },
+      "vsJapanContext": {
+        "en": "While Japanese art education often emphasizes technical skill, this approach aligns with a growing interest in holistic development seen in some international schools and newer learning programs like N High School.",
+        "ja": "日本の美術教育は技術的なスキルを重視する傾向がありますが、このアプローチは、一部のインターナショナルスクールやN高等学校のような新しい学習プログラムに見られる全人的な発達への関心の高まりと一致します。"
+      },
+      "tokyoNote": {
+        "en": "Tokyo's focus on academic achievement sometimes overshadows creative exploration. This piece reminds us that drawing isn't a distraction but a cognitive enhancer, offering a low-pressure way for families to integrate deeper thinking into daily life without needing specialized art classes or expensive materials. It's about process, not gallery-ready results.",
+        "ja": "学業成績に焦点が当てられがちな東京の教育環境では、創造的な探求が見過ごされがちです。しかし、描画は単なる気晴らしではなく、認知能力を高めるツールです。特別な美術教室や高価な画材がなくても、日々の生活に深い思考を取り入れる低負担な方法を家庭に提供します。重要なのは、美術館に飾るような完成品ではなく、描くプロセスそのものなのです。"
+      }
+    },
+    "source": {
+      "name": "Psyche",
+      "url": "https://psyche.co/guides/how-to-rediscover-the-joy-of-drawing"
+    },
+    "sourceGuid": "urn:id:9004",
+    "status": "published"
+  },
+  {
+    "slug": "ai-tutors-show-bias-limiting-access-to-complex-knowledge-for-marginalized-studen",
+    "category": "ai-edu",
+    "issue": "Vol. 02",
+    "publishedAt": "2026-07-13T09:10:19.000Z",
+    "readingMinutes": 5,
+    "feature": true,
+    "cover": {
+      "src": "https://images.unsplash.com/photo-1561089489-f13d5e730d72?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#D2E4D5"
+    },
+    "title": {
+      "en": "AI Tutors Show Bias, Limiting Access to Complex Knowledge for Marginalized Students",
+      "ja": "AIチューターに潜む偏見：疎外された学生の深い学びを制限する可能性"
+    },
+    "dek": {
+      "en": "A new study reveals that large language models, when acting as educational tutors, can exhibit 'epistemic paternalism,' disproportionately denying complex information to students from marginalized backgrounds.",
+      "ja": "最新の研究により、教育用チューターとしてのAI（大規模言語モデル）が「認識論的父権主義」を示し、社会的に疎外された学生層に対して複雑な情報へのアクセスを不均衡に制限する可能性が明らかになりました。"
+    },
+    "author": {
+      "en": "WORLD STUDY TOKYO Editors",
+      "ja": "WORLD STUDY TOKYO 編集部"
+    },
+    "location": {
+      "en": "Tokyo, Japan",
+      "ja": "日本、東京"
+    },
+    "tags": [
+      {
+        "en": "AI in Education",
+        "ja": "教育AI"
+      },
+      {
+        "en": "Learning Bias",
+        "ja": "学習の偏り"
+      },
+      {
+        "en": "Equity in Education",
+        "ja": "教育の公平性"
+      },
+      {
+        "en": "Algorithmic Justice",
+        "ja": "アルゴリズムの公正性"
+      }
+    ],
+    "body": {
+      "en": [
+        "A recent preprint published on arXiv cs.CY on July 13, 2026, reveals a concerning pattern in how large language models (LLMs), when deployed as conversational tutors, function in educational settings. Researchers found that these AI systems exhibit a tendency they term \"epistemic paternalism,\" meaning they restrict or alter access to knowledge based on a student's perceived background, particularly disadvantaging marginalized learners.",
+        "The study systematically audited four LLMs, analyzing 1,800 responses concerning the 1989 Romanian Revolution. It used five student personas, varying by ethnicity and socio-economic status, to simulate diverse learning contexts. The findings suggest that current AI safety alignments, designed to prevent harmful content, inadvertently create a filter that disadvantages certain students by limiting their exposure to complex topics and nuanced historical perspectives.",
+        "One significant pattern identified was \"Differential Refusal.\" The study found that safety-aligned models blocked a substantial 76.7% of educational requests from students categorized as \"low-tier\" or marginalized. This was not about refusing to answer dangerous questions, but about actively declining to provide educational content to specific student profiles, effectively creating a barrier to learning.",
+        "Another issue, termed \"Epistemic Gatekeeping,\" showed a threefold reduction in access to geopolitically complex information for marginalized learners. For instance, discussions around contested historical narratives, such as the \"coup theory\" of the Romanian Revolution, were significantly less available to these students. This implies a selective filtering of knowledge, denying certain learners the opportunity to engage with critical, multifaceted historical interpretations.",
+        "> current safety alignment acts as a paternalistic filter, transforming conversational AI into agents of narrative segregation",
+        "Furthermore, the researchers observed \"Agency Theft,\" a linguistic bias where models like LLaMA used a five times higher ratio of victimization-to-politics vocabulary when interacting with Roma students compared to their elite peers. This subtle shift in language can subtly frame historical events, potentially undermining a student's sense of agency and emphasizing victimhood over political understanding.",
+        "The final pattern, \"Elite Hermeneutics,\" highlighted that AI tutors disproportionately withheld \"epistemic confidence and justification scores\" from students with low-resource demographic profiles. This means marginalized students received less clear reasoning or validation from the AI, potentially impacting their trust in the information and their own learning process. The study argues that the current approach to AI safety alignment, while well-intentioned, acts as a \"paternalistic filter,\" turning conversational AI into agents of \"narrative segregation.\" This phenomenon, which the researchers link to Miranda Fricker's concept of \"hermeneutical injustice\" (where a group is unfairly prevented from understanding or expressing their experiences), calls for urgent pedagogical auditing of AI tutors to ensure equitable access to knowledge for all students."
+      ],
+      "ja": [
+        "2026年7月13日にarXiv cs.CYで公開された最新のプレプリント論文が、対話型チューターとして展開される大規模言語モデル（LLM）の教育現場における懸念すべき傾向を明らかにしました。研究者たちは、これらのAIシステムが「認識論的父権主義（epistemic paternalism）」、つまり、学生の認識された背景に基づいて知識へのアクセスを制限したり、内容を調整したりする傾向があることを発見しました。特に、社会的に疎外された学習者において、この問題が顕著に現れています。",
+        "研究チームは、4つの異なるLLMを対象に、1989年のルーマニア革命に関する1,800件の回答を体系的に監査しました。民族性や社会経済的階層が異なる5つの学生ペルソナを設定し、多様な学習状況をシミュレート。その結果、AIが不適切または有害なコンテンツを生成しないように設計された「安全性アラインメント（safety alignment）」が、意図せず特定の学生層にとって不利なフィルターとして機能し、複雑なトピックや多角的な歴史的視点へのアクセスを制限している可能性が示唆されました。",
+        "論文で指摘された主要なパターンの一つは、「差別的拒否（Differential Refusal）」です。安全性アラインメントされたモデルは、「低階層」または疎外された学生からの教育的リクエストの76.7%という高い割合で回答を拒否していました。これは、危険な質問への回答を避けるのではなく、特定の学生プロファイルに対して教育コンテンツを提供すること自体を積極的に拒否するという問題であり、学習への障壁を作り出しています。",
+        "もう一つの問題は「認識論的ゲートキーピング（Epistemic Gatekeeping）」と名付けられ、疎外された学習者に対する地政学的に複雑な情報へのアクセスが3分の1に減少していることを示しています。例えば、ルーマニア革命における「クーデター説」のような議論の余地のある歴史的解釈について、これらの学生は深く掘り下げる機会を著しく奪われていました。これは、知識が選択的にフィルタリングされ、特定の学習者が批判的で多面的な歴史理解を深める機会を奪われていることを意味します。",
+        "> 現在の安全性アラインメントは、対話型AIを「物語の分離」の担い手に変える父権主義的なフィルターとして機能している",
+        "さらに研究者たちは「主体性の窃盗（Agency Theft）」という現象も観察しました。これは、LLaMAのようなモデルが、ロマの学生とエリート学生との間で、歴史的事象を説明する際に「被害者意識」に関連する語彙を「政治」に関連する語彙よりも5倍多く使用するという言語的偏りです。このような言葉遣いの微妙な変化は、歴史的出来事の捉え方を無意識のうちに形成し、学生の主体性を損ない、政治的理解よりも被害者としての側面を強調してしまう可能性があります。",
+        "最後のパターンは「エリート的解釈（Elite Hermeneutics）」で、AIチューターが、リソースの少ない社会経済的背景を持つ学生プロファイルに対して、「認識論的信頼度や正当化スコア」を不均衡に提示しない傾向があることを明らかにしました。これは、疎外された学生がAIから明確な根拠や検証を得る機会が少なく、情報への信頼や自身の学習プロセスに影響を与える可能性があることを示唆しています。研究は、現在のAIの安全性アラインメントが、善意に基づいているにもかかわらず、「父権主義的なフィルター」として機能し、対話型AIを「物語の分離（narrative segregation）」の担い手に変えていると主張します。これは、ミランダ・フリッカーが提唱した「解釈学的不正義（hermeneutical injustice）」（特定の集団が自身の経験を理解し表現するための概念や言葉を欠いているために生じる不公平）の一形態であり、すべての学生が公平に知識にアクセスできるよう、AIチューターの教育学的監査が喫緊の課題であると結論付けています。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "This research highlights a critical, often unseen bias in AI tutors. Imagine your child uses an AI tutor for history, but depending on how the AI \"perceives\" their background—perhaps through the language they use or the types of questions they ask—the AI might simplify complex topics or even refuse to answer certain educational queries. It's like having a human tutor who, without realizing it, gives different levels of detail or explanation to students based on assumptions about their background, rather than their actual learning needs.",
+        "For Tokyo families considering or already using AI learning tools, this research underscores the need for careful evaluation. If unchecked, such biases could create an invisible divide in access to nuanced learning, potentially affecting students aiming for highly competitive university admissions where critical thinking and deep historical understanding are crucial. It could also influence the quality of personalized learning experiences offered by various edtech platforms, from supplementary study apps to online juku.",
+        "This impact is likely to become more apparent within the next 3-5 years, as AI tutors and personalized learning systems become more integrated into mainstream education and home study routines, both in Japan and globally. The timeline is gated by major Japanese edtech companies like Atama+ or Classi, and potentially MEXT, establishing clear ethical guidelines and auditing practices for AI in education.",
+        "While the study focuses on a specific historical context, the underlying issue of algorithmic bias is universal. In Japan, companies like Atama+ and すららネット are at the forefront of developing AI-powered learning platforms. They, along with institutions like Benesse, are actively working on personalization. The challenge for these Japanese counterparts will be to implement robust ethical AI frameworks that specifically address and mitigate such \"epistemic paternalism\" to ensure equitable access to high-quality education for all students, regardless of their background or perceived profile."
+      ],
+      "ja": [
+        "この研究は、AIチューターに潜む、見過ごされがちな重要な偏見を浮き彫りにしています。お子さんが歴史の学習にAIチューターを使っていると想像してみてください。AIが、お子さんの使う言葉や質問の仕方からその背景を「認識」し、複雑なトピックを単純化したり、教育的な質問への回答を拒否したりする可能性があるという話です。これは、人間が指導する塾の先生が、生徒の実際の学習ニーズではなく、その背景に対する無意識の思い込みに基づいて、説明の詳しさや内容を変えてしまうような状況に似ています。",
+        "AIを活用した学習ツールを検討している、あるいはすでに利用している東京のご家庭にとって、この研究はツールの選択に際して慎重な評価が必要であることを示唆しています。もしこのような偏見が放置されれば、高度な批判的思考や深い歴史理解が求められる難関大学の入試を目指す生徒たちの間で、質の高い学習機会へのアクセスに目に見えない格差を生む可能性があります。また、補助的な学習アプリからオンライン塾まで、さまざまなエドテックプラットフォームが提供する個別最適化された学習体験の質にも影響を与えるでしょう。",
+        "この影響は、AIチューターや個別最適化された学習システムが、日本国内外で教育現場や家庭学習にさらに深く組み込まれるであろう今後3〜5年で、より顕在化する可能性が高いです。その時期は、Atama+やClassiといった日本の主要なエドテック企業が、教育におけるAIの明確な倫理ガイドラインと監査慣行を確立できるかどうかにかかっています。",
+        "この研究は特定の歴史的文脈に焦点を当てていますが、アルゴリズムの偏見という根本的な問題は普遍的です。日本では、Atama+やすららネットのような企業がAIを活用した学習プラットフォームの開発をリードしており、ベネッセのような大手教育機関も個別最適化に注力しています。これらの日本の企業や機関にとっての課題は、このような「認識論的父権主義」を具体的に特定し、軽減するための堅牢な倫理的AIフレームワークを実装し、すべての生徒がその背景やAIによって「認識」されたプロファイルに関わらず、質の高い教育に公平にアクセスできるようにすることでしょう。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "AI tutors show bias, limiting complex learning for some students.",
+        "ja": "AIチューターに偏見、一部生徒への深い学びを制限。"
+      },
+      "whoForWhat": {
+        "en": "For a Tokyo family evaluating AI learning apps or online juku for their middle or high schooler, this research highlights the need to understand potential biases in personalized learning tools.",
+        "ja": "中高生向けにAI学習アプリやオンライン塾を検討している東京のご家庭にとって、個別最適化された学習ツールに潜在する偏見を理解する上で役立つ情報です。"
+      },
+      "vsJapanContext": {
+        "en": "This research directly challenges the promise of \"personalized learning\" offered by Japanese edtech platforms like Atama+ and すららネット, urging them to develop equitable AI safety guidelines beyond simple content moderation.",
+        "ja": "この研究は、Atama+やすららネットなどの日本のエドテックプラットフォームが掲げる「個別最適化された学び」の理念に疑問を投げかけ、単なるコンテンツ規制を超えた公平なAI安全性ガイドラインの必要性を示唆します。"
+      },
+      "tokyoNote": {
+        "en": "Tokyo parents often seek advanced learning for their children. This study reminds us that even with AI, the quality of knowledge access can be uneven. Japanese edtech firms must proactively address these biases to ensure fair educational opportunities for all.",
+        "ja": "東京の保護者は、お子さんの高度な学習機会を常に探しています。この研究は、AIを活用しても知識へのアクセスが不均等になりうることを示唆します。日本のエドテック企業は、公平な教育機会を確保するため、こうした偏見に積極的に取り組む必要があります。"
+      }
+    },
+    "source": {
+      "name": "arXiv cs.CY",
+      "url": "http://arxiv.org/abs/2607.11292v1"
+    },
+    "sourceGuid": "http://arxiv.org/abs/2607.11292v1",
+    "status": "published"
+  },
+  {
     "slug": "brain-decisions-start-earlier-than-we-thought-a-dynamic-view-of-cognition",
     "category": "research",
     "issue": "Vol. 02",
