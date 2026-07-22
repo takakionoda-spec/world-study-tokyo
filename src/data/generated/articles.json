@@ -1,5 +1,111 @@
 [
   {
+    "slug": "building-better-habits-insights-from-cognitive-neuroscience",
+    "category": "methods",
+    "issue": "Vol. 02",
+    "publishedAt": "2026-07-22T10:00:00.000Z",
+    "readingMinutes": 5,
+    "feature": true,
+    "cover": {
+      "src": "https://images.unsplash.com/photo-1517842645767-c639042777db?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#F1D5BC"
+    },
+    "title": {
+      "en": "Building Better Habits: Insights from Cognitive Neuroscience",
+      "ja": "より良い習慣を築く：認知神経科学が示す実践的アプローチ"
+    },
+    "dek": {
+      "en": "Understanding how our brains form habits can help bridge the gap between our intentions and our actions, making daily routines and learning goals more achievable.",
+      "ja": "脳がどのように習慣を形成するかを理解することは、「やろうと思ってもできない」という意図と行動のギャップを埋め、日々のルーティンや学習目標達成をより容易にします。"
+    },
+    "author": {
+      "en": "WORLD STUDY TOKYO Editors",
+      "ja": "WORLD STUDY TOKYO 編集部"
+    },
+    "location": {
+      "en": "TOKYO",
+      "ja": "東京"
+    },
+    "tags": [
+      {
+        "en": "Habit Formation",
+        "ja": "習慣形成"
+      },
+      {
+        "en": "Cognitive Science",
+        "ja": "認知科学"
+      },
+      {
+        "en": "Study Methods",
+        "ja": "学習法"
+      },
+      {
+        "en": "Self-Regulation",
+        "ja": "自己管理"
+      }
+    ],
+    "body": {
+      "en": [
+        "A recent dispatch from Psyche by Eike Buabang explores how insights from cognitive neuroscience can help individuals close the common gap between intending to do something and actually doing it. This \"intention-action gap\" is a familiar challenge for anyone striving to establish new routines, whether it's consistent study habits, regular exercise, or managing daily chores.",
+        "The article emphasizes that forming habits is not solely about willpower. Our brains are wired to create automatic behaviors based on specific cues and rewards, reducing the mental effort required for repetitive tasks. For students, this understanding can be transformative in developing effective learning strategies, moving beyond the often-frustrating cycle of procrastination and last-minute cramming.",
+        "Central to habit formation is the concept of a 'habit loop' involving a cue, a routine, and a reward. A cue is a trigger that tells your brain to go into automatic mode and perform a certain behavior. For example, seeing your backpack might be a cue to start homework, or the end of a meal could cue tidying up.",
+        "Cognitive neuroscience suggests that making these cues explicit and designing your environment to support desired behaviors are crucial. This might mean placing study materials in a prominent spot or setting a specific time and location for a task. The less friction there is to start an activity, the more likely it is to become a habit.",
+        "Another powerful strategy highlighted is \"implementation intentions,\" often framed as \"if-then\" plans. Instead of a vague goal like \"I will study more,\" a more effective approach is \"If I finish dinner, then I will spend 30 minutes reviewing my notes.\" This pre-commits the brain to a specific action in response to a specific trigger, bypassing the need for conscious decision-making in the moment.",
+        "> Close the intention-action gap and live the way you want, using insights from the cognitive neuroscience of habits.",
+        "The reward component is equally vital. After performing the desired action, an immediate, satisfying reward reinforces the neural pathway, making the habit more likely to recur. This doesn't have to be a grand gesture; it can be a feeling of accomplishment, a short break, or a favorite snack. The key is consistency and ensuring the reward is genuinely pleasurable.",
+        "By understanding these mechanisms, parents and students can move beyond relying solely on motivation, which often fluctuates. Instead, they can consciously design their routines and environments to foster productive habits, making learning and daily life more efficient and less stressful."
+      ],
+      "ja": [
+        "Psyche 誌に掲載された Eike Buabang 氏の最近の論考は、認知神経科学の知見が、私たちが「やろうと思っているのに、なかなか実行できない」という共通のギャップを埋める上でいかに役立つかを解説しています。この「意図と行動のギャップ」は、一貫した学習習慣、定期的な運動、日々の家事など、新しいルーティンを確立しようと努める誰にとっても身近な課題です。",
+        "記事は、習慣形成が単に意志の力に頼るものではないと強調しています。私たちの脳は、特定のきっかけ（キュー）と報酬に基づいて自動的な行動を作り出すようにできており、反復的なタスクに必要な精神的労力を軽減します。学生にとって、この理解は効果的な学習戦略を開発する上で画期的なものとなり、先延ばしや土壇場での詰め込みといった、しばしば不満の多いサイクルから抜け出す手助けになるでしょう。",
+        "習慣形成の中心には、キュー（きっかけ）、ルーティン（行動）、報酬からなる「習慣ループ」の概念があります。キューは、脳に自動モードに入り、特定の行動を実行するように促す引き金です。例えば、ランドセルを見ることで宿題を始めるきっかけになったり、食事が終わることが片付けの合図になったりします。",
+        "認知神経科学は、これらのキューを明確にし、望ましい行動をサポートするように環境を設計することが極めて重要だと示唆しています。これは、学習資料を目立つ場所に置いたり、特定のタスクに決まった時間と場所を設定したりすることを意味します。活動を開始する際の摩擦が少なければ少ないほど、それが習慣になる可能性は高まります。",
+        "もう一つの強力な戦略として強調されているのが、「実行意図」と呼ばれる「もし〜なら、〜する」という計画です。「もっと勉強する」といった漠然とした目標ではなく、「もし夕食が終わったら、30分間ノートを見直す」といった具体的なアプローチの方が効果的です。これは、特定の引き金に対して特定の行動を事前に脳にコミットさせることで、その瞬間の意識的な意思決定の必要性を回避します。",
+        "> 習慣の認知神経科学からの洞察を活用し、意図と行動のギャップを埋め、望むように生きましょう。",
+        "報酬の要素も同様に重要です。望ましい行動を実行した後、即座に得られる満足感のある報酬が神経経路を強化し、その習慣が再発する可能性を高めます。これは大げさなものでなくてもよく、達成感、短い休憩、お気に入りの軽食などでも構いません。重要なのは一貫性があり、報酬が心から喜ばしいものであることです。",
+        "これらのメカニズムを理解することで、保護者も学生も、変動しやすいモチベーションだけに頼ることから脱却できます。その代わりに、生産的な習慣を育むために、意識的にルーティンや環境を設計し、学習や日常生活をより効率的でストレスの少ないものにすることが可能になります。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "For Tokyo families, the insights into habit formation from cognitive neuroscience offer a practical lens through which to view daily routines and learning goals. It reminds us that establishing good habits, whether for homework, screen time limits, or even family mealtimes, isn't just about telling children (or ourselves) to 'try harder.' It's about strategically setting up triggers and ensuring satisfying outcomes.",
+        "This perspective can have a plausible future impact on how families approach study schedules, especially for those navigating the intense 中学受験 (junior high school entrance exam) preparation. Instead of simply dictating study hours, parents might focus on creating consistent environmental cues—like having a dedicated study space ready after school—and small, immediate rewards for completing tasks.",
+        "In terms of timeframe, these principles are applicable today within any Tokyo household. While major juku like SAPIX or 早稲田アカデミー already implicitly leverage routine and consistent practice, an explicit integration of cognitive neuroscience principles into curriculum design might take 3-5 years, gated by pedagogical research and adoption by leading education providers. MEXT's 学習指導要領 (Course of Study) would likely follow much later, perhaps 5-10 years out.",
+        "Japan already has strong counterparts that embody habit formation. 公文式 (KUMON), for instance, is built on daily, repetitive practice and immediate progress feedback, which are powerful habit-forming mechanisms. Similarly, the structured learning plans offered by Z会 and ベネッセ進研ゼミ for correspondence education inherently encourage routine. Even AI tutors like Atama+ are designed to create consistent study loops based on individual progress, subtly applying these very principles to keep learners engaged."
+      ],
+      "ja": [
+        "東京で子育てをするご家庭にとって、認知神経科学が示す習慣形成の知見は、日々のルーティンや学習目標を見直すための実践的な視点を提供します。宿題、スクリーンタイムの制限、あるいは家族での食事時間といった良い習慣を確立することは、単に子どもたち（あるいは私たち自身）に「もっと頑張りなさい」と伝えるだけではないことを示唆しています。それは、戦略的にきっかけを作り、満足のいく結果を確保することにあります。",
+        "この視点は、特に中学受験の準備に励むご家庭の学習スケジュールへのアプローチに、今後影響を与える可能性があります。単に学習時間を指示するだけでなく、保護者は一貫した環境的キュー（例えば、下校後にすぐに使える専用の学習スペースを用意するなど）と、タスク完了に対する小さく即時的な報酬に焦点を当てるようになるかもしれません。",
+        "時間軸で考えると、これらの原則は今日のどの東京のご家庭でもすぐに適用可能です。SAPIXや早稲田アカデミーのような大手塾はすでにルーティンと一貫した練習を暗黙のうちに取り入れていますが、認知神経科学の原則がカリキュラム設計に明示的に統合されるには、教育研究の進展と主要な教育プロバイダーによる採用を待って、3〜5年かかるかもしれません。文部科学省の学習指導要領に反映されるのは、さらに先の5〜10年後となるでしょう。",
+        "日本には、習慣形成を体現する強力な教育プログラムがすでに存在します。例えば、公文式は、毎日の反復練習と即時的な進捗フィードバックに基づいており、これらは強力な習慣形成メカニズムです。同様に、Z会やベネッセ進研ゼミが提供する通信教育の構造化された学習計画も、本質的にルーティンを奨励しています。Atama+のようなAIチューターでさえ、個人の進捗に基づいた一貫した学習ループを作成するように設計されており、学習者を継続的に引きつけるために、まさにこれらの原則を巧みに応用しています。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "Habit formation is not just willpower. It's about cues and rewards.",
+        "ja": "習慣は意志力だけではない。きっかけと報酬が鍵。"
+      },
+      "whoForWhat": {
+        "en": "For a Tokyo family seeking to establish consistent study habits for their elementary or junior high school child, or to manage daily routines more effectively without constant struggle.",
+        "ja": "小学生や中学生の子どもに一貫した学習習慣をつけさせたい、あるいは日々のルーティンを無理なく管理したいと願う東京のご家庭へ。"
+      },
+      "vsJapanContext": {
+        "en": "This aligns well with the structured, repetitive nature of many Japanese juku curricula like SAPIX or 公文式, offering a scientific framework to understand why those methods are effective in building learning habits.",
+        "ja": "SAPIXや公文式など、日本の多くの塾カリキュラムが持つ構造的・反復的な学習とよく一致し、それらの方法が学習習慣の構築に効果的な理由を科学的な枠組みで理解する一助となります。"
+      },
+      "tokyoNote": {
+        "en": "While the core principles are universal, applying them in Tokyo's often-packed family schedules requires conscious environmental design. The insights confirm that even small, consistent actions, triggered by clear cues, can build powerful habits for learning and daily life, rather than relying on elusive motivation.",
+        "ja": "核となる原則は普遍的ですが、多忙な東京のご家庭のスケジュールにこれらを適用するには、意識的な環境設計が不可欠です。この知見は、漠然としたモチベーションに頼るのではなく、明確なきっかけによって引き起こされる小さな一貫した行動こそが、学習や日常生活において強力な習慣を築くことを再確認させてくれます。"
+      }
+    },
+    "source": {
+      "name": "Psyche",
+      "url": "https://psyche.co/guides/how-to-become-the-person-you-want-to-be"
+    },
+    "sourceGuid": "urn:id:9005",
+    "status": "published"
+  },
+  {
     "slug": "midlife-tv-habits-linked-to-later-brain-structure-changes",
     "category": "research",
     "issue": "Vol. 02",
@@ -4225,8 +4331,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1551434678-e076c223a692?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#CFE3D2"
+      "src": "https://images.unsplash.com/photo-1593720213428-28a5b9e94613?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#C9E0CC"
     },
     "title": {
       "en": "Giving AI Tutors a Memory: New Research Creates 'History-Aware' Student Profiles",
@@ -5871,8 +5977,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1551434678-e076c223a692?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#CFE3D2"
+      "src": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#D0E4D3"
     },
     "title": {
       "en": "A Smarter AI Math Tutor, No Costly Training Required",
@@ -7013,8 +7119,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1488998427799-e3362cec87c3?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#D3C7E1"
+      "src": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#D5C9E2"
     },
     "title": {
       "en": "Cultivating Kindness: Lessons from a Holocaust Survivor's Lifelong Study",
