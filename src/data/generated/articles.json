@@ -1,5 +1,109 @@
 [
   {
+    "slug": "surprising-brain-plasticity-mouse-study-suggests-adult-reversibility-for-autism-",
+    "category": "early-childhood",
+    "issue": "Vol. 02",
+    "publishedAt": "2026-07-25T15:09:37.000Z",
+    "readingMinutes": 5,
+    "feature": true,
+    "cover": {
+      "src": "https://www.sciencedaily.com/images/1920/confused-girl-with-stickers-on-face.webp",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "Surprising Brain Plasticity: Mouse Study Suggests Adult Reversibility for Autism-Like Traits",
+      "ja": "成体脳の驚くべき可塑性：自閉症様特性がマウスで一時的改善"
+    },
+    "dek": {
+      "en": "New research in mice indicates that autism-like symptoms, even those stemming from early life inflammation, could be temporarily reversed in adulthood with a single drug dose, challenging assumptions about brain rigidity.",
+      "ja": "マウスの新たな研究で、幼少期の炎症に起因する自閉症様特性が、成体になってから一度の薬剤投与で一時的に改善される可能性が示されました。これは脳の柔軟性に関する従来の認識を覆す発見です。"
+    },
+    "author": {
+      "en": "WORLD STUDY TOKYO Editors",
+      "ja": "WORLD STUDY TOKYO 編集部"
+    },
+    "location": {
+      "en": "SAN FRANCISCO, July 25, 2026",
+      "ja": "サンフランシスコ、2026年7月25日"
+    },
+    "tags": [
+      {
+        "en": "early childhood",
+        "ja": "幼児教育"
+      },
+      {
+        "en": "child development",
+        "ja": "児童発達"
+      },
+      {
+        "en": "neurodevelopment",
+        "ja": "神経発達"
+      },
+      {
+        "en": "autism",
+        "ja": "自閉症"
+      }
+    ],
+    "body": {
+      "en": [
+        "A recent study, published by researchers at the University of California, San Francisco, has revealed that a single dose of a drug called rapamycin could temporarily reverse autism-like symptoms in adult mice. These symptoms were initially triggered by mild inflammation during pregnancy, and the discovery suggests a remarkable plasticity in the adult brain, challenging previous beliefs about its fixed nature.",
+        "The research delved into why neurodevelopmental conditions can persist. Scientists observed that mild inflammation experienced by pregnant mice led to offspring exhibiting brain overactivity, sensory sensitivity, repetitive behaviors, and an increased risk of seizures. These characteristics mirror aspects of autism spectrum disorder (ASD) in humans. The underlying mechanism identified was an overactive mTOR pathway, a crucial cellular signaling route involved in cell growth and metabolism.",
+        "To test their hypothesis, the researchers administered rapamycin, a drug known to inhibit the mTOR pathway, to adult mice that had developed these symptoms. The results were striking.",
+        "> \"Remarkably, one dose of rapamycin improved nearly all of these problems within about two hours.\"",
+        "The effects were rapid and significant, suggesting that even established brain circuits retain a capacity for change. While the benefits were temporary, lasting for several days, the very fact that such a rapid reversal was possible in adult animals challenges long-held assumptions about brain rigidity after early developmental stages.",
+        "This preclinical research, while conducted on mice, opens new avenues for understanding the underlying biology of neurodevelopmental differences. It does not imply an immediate human treatment but highlights the potential for therapeutic interventions that target specific brain pathways. The temporary nature of the effect also points to the need for further investigation into sustained interventions and the precise timing of potential treatments.",
+        "For families, this research underscores the complex interplay between early life experiences, brain development, and behavior. While still in its early stages, it reinforces the idea that the brain, even in adulthood, may be more adaptable than once thought, offering a glimmer of hope for future research into conditions like autism spectrum disorder."
+      ],
+      "ja": [
+        "カリフォルニア大学サンフランシスコ校の研究者たちが発表した最新の研究で、ラパマイシンという薬剤を一度投与するだけで、成体マウスの自閉症スペクトラム障害（ASD）に似た症状を一時的に改善できる可能性が示されました。これらの症状は、妊娠中の軽度な炎症によって引き起こされたもので、今回の発見は、成体の脳がこれまで考えられていたよりもはるかに高い可塑性（変化する能力）を持つことを示唆しています。",
+        "この研究は、神経発達上の特性がなぜ持続するのかという長年の疑問に深く踏み込みました。研究者たちは、妊娠中のマウスが経験する軽度の炎症が、その仔において脳の過活動、感覚過敏、反復行動、そして発作リスクの増加といった症状につながることを観察しました。これらは人間のASDに見られる特徴と一部重なります。この背景には、細胞の成長と代謝に関わるmTOR経路という脳内のシグナル伝達経路の過活動があることが特定されました。",
+        "仮説を検証するため、研究者たちはこれらの症状を示す成体マウスに対し、mTOR経路を抑制する作用があるラパマイシンを投与しました。その結果は驚くべきものでした。",
+        "> 「驚くべきことに、ラパマイシンを一度投与するだけで、これらの問題のほぼすべてが約2時間以内に改善されました。」",
+        "効果は非常に迅速かつ顕著で、すでに確立された脳の回路でさえ変化する能力を保持している可能性を示唆しています。効果は数日間という一時的なものでしたが、成体動物においてこれほど迅速な症状の反転が可能であったという事実自体が、初期の発達段階を過ぎた脳の硬直性に関する従来の認識を覆すものです。",
+        "このマウスでの基礎研究は、ヒトの神経発達特性の根底にある生物学的メカニズムを理解するための新たな道を開くものです。直ちにヒトへの治療法につながるわけではありませんが、特定の脳経路を標的とした治療的介入の可能性を示唆しています。効果が一時的であるという点は、持続的な介入や治療の最適なタイミングについて、さらなる研究が必要であることを示しています。",
+        "子育て中のご家庭にとって、この研究は、幼少期の経験、脳の発達、そして行動の複雑な相互作用を改めて示唆しています。まだ初期段階の研究ではありますが、成人の脳でさえ、かつて考えられていたよりもはるかに適応性があるかもしれないという希望を提示しており、自閉症スペクトラム障害のような特性に関する将来の研究に期待が持てます。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "This research on mice suggests that certain brain differences, like those linked to autism-like behaviors, might be more modifiable even in adulthood than we thought. Imagine if a child has trouble focusing or is very sensitive to sounds, and we discover that the brain's internal \"volume control\" is just set too high. This study implies that we might, in the future, be able to adjust that control, even years after the initial setting, rather than assuming it's fixed.",
+        "For Tokyo families navigating developmental differences, this could eventually shift the conversation from purely early intervention to a broader understanding of lifelong brain plasticity. It might influence how support systems are designed, moving beyond an exclusive focus on early childhood to exploring interventions that could support individuals at various life stages, potentially impacting school integration or career development pathways.",
+        "This is very early-stage preclinical research. Any human application would be 10-15 years away at minimum, gated by extensive clinical trials, safety assessments, and a deep understanding of how these mechanisms translate from mice to humans. It would require significant investment and ethical considerations.",
+        "Currently, most support for developmental differences in Japan, such as through 児童発達支援 (children's developmental support centers) or 放課後等デイサービス (after-school day services for children with disabilities), focuses on behavioral and educational interventions, especially in early childhood. While there's growing interest in understanding neurological bases, this specific type of pharmacological intervention targeting brain pathways in adulthood is not yet a focus. However, research at institutions like the National Center of Neurology and Psychiatry (国立精神・神経医療研究センター) continues to explore the biological underpinnings of neurodevelopmental conditions."
+      ],
+      "ja": [
+        "このマウス研究は、自閉症スペクトラム障害（ASD）に似た脳の特性が、大人になってからも、これまで考えられていたよりも柔軟に変化しうる可能性を示唆しています。例えば、お子さんが音に過敏だったり、特定の行動を繰り返したりする時、もし脳の「音量調整機能」が過剰に働いているとします。この研究は、将来的にその調整機能を、初期設定から何年も経ってからでも、ある程度「調整」できるかもしれない、と教えてくれています。",
+        "発達に特性のあるお子さんを持つ東京のご家庭にとって、この研究は、介入のタイミングに関する考え方を、早期介入一辺倒から、生涯にわたる脳の可塑性（変化する能力）を考慮したアプローチへと広げる可能性を秘めています。もし将来、成人期でも効果的な介入が可能になれば、学校でのサポートや、社会に出てからのキャリア形成においても、より多様な選択肢が生まれるかもしれません。",
+        "これはまだ非常に初期段階の基礎研究です。ヒトへの応用には、大規模な臨床試験や安全性評価、そしてマウスでのメカニズムがヒトにどう適用されるかという深い理解が必要であり、最低でも10〜15年はかかるでしょう。倫理的な側面も含め、多大な研究と投資が求められます。",
+        "日本では現在、児童発達支援センターや放課後等デイサービスといった場で、行動療法や教育的支援を中心に、特に幼少期からのサポートが提供されています。神経科学的なアプローチへの関心は高まっていますが、成人期の脳経路を直接標的とする薬理学的介入は、まだ研究の焦点ではありません。しかし、国立精神・神経医療研究センターのような機関では、神経発達症の生物学的基盤に関する研究が精力的に進められています。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "Mouse study hints at adult brain plasticity for autism-like traits.",
+        "ja": "マウス研究が示す、成体脳の自閉症様特性への可塑性。"
+      },
+      "whoForWhat": {
+        "en": "For families curious about the future of understanding and supporting neurodevelopmental differences, this research provides a glimpse into the brain's surprising adaptability, even in adulthood.",
+        "ja": "神経発達上の特性の理解とサポートの未来に関心のあるご家庭にとって、この研究は成人の脳が持つ驚くべき適応性の可能性を示唆しています。"
+      },
+      "vsJapanContext": {
+        "en": "While Japan's current support systems for developmental differences primarily focus on early behavioral and educational interventions, this research highlights a potential future direction for pharmacological approaches targeting brain pathways.",
+        "ja": "日本の神経発達特性への支援は主に早期の行動・教育的介入に重点を置いていますが、この研究は将来的に脳経路を標的とする薬理学的アプローチの可能性を示唆します。"
+      },
+      "tokyoNote": {
+        "en": "This finding from mouse models is a distant but intriguing signal. Tokyo families should view this as fundamental research, not an immediate clinical breakthrough, but it underscores the ongoing global effort to understand neurodevelopmental conditions at a deeper biological level.",
+        "ja": "マウスモデルでのこの発見は、遠いながらも興味深い未来の可能性を示唆しています。東京のご家庭にとっては、直ちに臨床応用されるものではなく、神経発達特性を生物学的な側面から深く理解しようとする世界の研究動向の一つとして捉えるのが適切でしょう。"
+      }
+    },
+    "source": {
+      "name": "ScienceDaily — Child Development",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260724061436.htm"
+    },
+    "sourceGuid": "https://www.sciencedaily.com/releases/2026/07/260724061436.htm",
+    "status": "published"
+  },
+  {
     "slug": "brain-flexibility-how-a-single-experience-may-reshape-thinking-patterns",
     "category": "research",
     "issue": "Vol. 02",
@@ -1343,8 +1447,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#CCE1CE"
+      "src": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#CDE3CF"
     },
     "title": {
       "en": "AI Tutors Step into Real Classrooms: Scalability Challenges Emerge",
@@ -2783,8 +2887,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517431105194-aaf95f6f47f0?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#F0D2B7"
+      "src": "https://images.unsplash.com/photo-1456324504439-367cee3b3c32?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#F2D7BF"
     },
     "title": {
       "en": "ELEVATE: Human-Centered AI Tutors for Privacy and Accessibility",
@@ -3507,8 +3611,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#CDE3CF"
+      "src": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#D0E4D3"
     },
     "title": {
       "en": "Beyond the 'Allow or Ban' Debate: How AI's Placement Shapes Learning",
@@ -4127,8 +4231,8 @@
     "readingMinutes": 4,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#D0E4D3"
+      "src": "https://images.unsplash.com/photo-1517431105194-aaf95f6f47f0?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#F0D2B7"
     },
     "title": {
       "en": "AI Tutors Struggle with Hidden Misconceptions, New Detection Method Proposed",
@@ -4639,8 +4743,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#CDE3CF"
+      "src": "https://images.unsplash.com/photo-1551434678-e076c223a692?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#CFE3D2"
     },
     "title": {
       "en": "Giving AI Tutors a Memory: New Research Creates 'History-Aware' Student Profiles",
@@ -5563,8 +5667,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1456324504439-367cee3b3c32?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#F2D7BF"
+      "src": "https://images.unsplash.com/photo-1542621334-a254cf47733d?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#D8CDE3"
     },
     "title": {
       "en": "Confidence and Connection: How Motivation Shapes Learning with Tutors and Textbooks",
@@ -6285,8 +6389,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#D0E4D3"
+      "src": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#CDE3CF"
     },
     "title": {
       "en": "A Smarter AI Math Tutor, No Costly Training Required",
@@ -6909,8 +7013,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1542621334-a254cf47733d?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#D8CDE3"
+      "src": "https://images.unsplash.com/photo-1593720213428-28a5b9e94613?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#C9E0CC"
     },
     "title": {
       "en": "Beyond the AI Tutor: Why Student Engagement Matters More Than the Tool Itself",
@@ -7737,8 +7841,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#C8DFCB"
+      "src": "https://images.unsplash.com/photo-1551434678-e076c223a692?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#CFE3D2"
     },
     "title": {
       "en": "AI Tutors Offer Personalized Coaching for Social Skills Development",
