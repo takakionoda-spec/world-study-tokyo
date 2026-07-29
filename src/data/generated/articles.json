@@ -1,5 +1,107 @@
 [
   {
+    "slug": "the-gut-brain-axis-how-nutrition-influences-memory-formation",
+    "category": "research",
+    "issue": "Vol. 02",
+    "publishedAt": "2026-07-29T12:20:24.000Z",
+    "readingMinutes": 5,
+    "feature": true,
+    "cover": {
+      "src": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#D6CDE2"
+    },
+    "title": {
+      "en": "The Gut-Brain Axis: How Nutrition Influences Memory Formation",
+      "ja": "腸と脳の連携：食事が記憶形成にどう影響するか"
+    },
+    "dek": {
+      "en": "New research in rats reveals that signals from the gut, particularly after consuming nutritious foods, can significantly enhance memory. This challenges the view of memory as solely a brain function and highlights the importance of diet for cognitive health.",
+      "ja": "ラットを用いた新たな研究により、腸から脳への信号、特に栄養価の高い食事を摂取した後が、記憶力を著しく向上させることが明らかになりました。これは記憶が脳だけの機能ではないことを示し、認知機能における食事の重要性を浮き彫りにします。"
+    },
+    "author": {
+      "en": "WORLD STUDY TOKYO Editors",
+      "ja": "WORLD STUDY TOKYO 編集部"
+    },
+    "location": {
+      "en": "TOKYO, July 29, 2026",
+      "ja": "東京、2026年7月29日"
+    },
+    "tags": [
+      {
+        "en": "nutrition",
+        "ja": "栄養"
+      },
+      {
+        "en": "memory",
+        "ja": "記憶"
+      },
+      {
+        "en": "cognitive science",
+        "ja": "認知科学"
+      },
+      {
+        "en": "child development",
+        "ja": "子どもの発達"
+      }
+    ],
+    "body": {
+      "en": [
+        "Recent research published in ScienceDaily, drawing on studies with rats, suggests a fascinating connection between our gut and our brain, particularly regarding memory formation. Scientists have found that signals from the digestive system can play a crucial role in consolidating experiences into lasting memories, especially those related to food and its nutritional value.",
+        "The study observed that rats exhibited stronger memory activity after consuming nutritious foods, a phenomenon not seen after they ingested sweet liquids lacking significant nutritional content. This indicates that the gut isn't just processing calories; it's actively communicating with the brain about the *quality* of what's consumed. This communication appears to be mediated by the vagus nerve (a major nerve extending from the brainstem to the abdomen, connecting internal organs to the brain), as blocking its function erased the memory-enhancing effect.",
+        "Researchers specifically noted that when the vagus nerve was blocked, the animals struggled to remember the locations where food had been placed. This highlights the nerve's critical role in the gut-brain axis (腸脳相関 — the bidirectional communication between the gut and the central nervous system), influencing how the brain registers and retains information linked to sustenance.",
+        "The findings also offered a cautionary note regarding long-term dietary habits. Diets consistently high in fat and sugar were shown to weaken this memory system over time. This suggests that while short-term nutritional intake can boost memory, a sustained unhealthy diet might actively impair the very pathways that help us learn and remember.",
+        "> \"Signals traveling from the gut to the brain may help turn meals into lasting memories.\"",
+        "This observation underscores the idea that memory isn't solely a function of the brain's internal processes but is deeply intertwined with physiological signals from the body. While these initial studies were conducted on rats, the implications for human learning and cognitive function are significant. It opens avenues for understanding how our dietary choices, from daily meals to after-school snacks, might directly influence our capacity to form and recall memories. Future research will likely explore these connections in humans, potentially guiding new nutritional recommendations for cognitive health."
+      ],
+      "ja": [
+        "最新の研究が、私たちの「腸」と「脳」の間に、記憶形成に深く関わる興味深い繋がりがあることを示唆しています。ScienceDaily に掲載されたラットを用いた研究によると、消化管からの信号が、特に食事とその栄養価に関連する経験を長期的な記憶として定着させる上で、重要な役割を果たす可能性があると報告されました。",
+        "研究チームは、栄養価の高い食べ物を摂取したラットが、栄養価の低い甘い液体を飲んだ場合と比較して、より強い記憶活動を示すことを観察しました。これは、腸が単にカロリーを処理するだけでなく、摂取したものの「質」について脳に活発に情報を伝えていることを示唆しています。このコミュニケーションは、迷走神経（脳幹から腹部にまで伸び、内臓と脳を繋ぐ主要な神経）によって媒介されているようで、この神経の機能を遮断すると、記憶増強効果が消失しました。",
+        "具体的には、迷走神経がブロックされたラットは、食べ物が置かれていた場所を記憶することが困難になったと研究者たちは指摘しています。このことは、迷走神経が腸脳相関（ちょうのうそうかん ── 消化管と中枢神経系の間の双方向のコミュニケーション）において極めて重要な役割を果たし、脳が栄養に関連する情報をどのように認識し、保持するかに影響を与えていることを浮き彫りにします。",
+        "さらに、この研究は長期的な食習慣に関する重要な警告も提示しています。高脂肪・高糖質の食事を継続的に摂ることで、この記憶システムが時間とともに弱まることが示されました。これは、一時的な栄養摂取が記憶を促進する一方で、不健康な食生活が学習や記憶を助ける経路そのものを積極的に損なう可能性があることを意味します。",
+        "「腸から脳へと伝わる信号が、食事を永続的な記憶に変えるのに役立つ可能性があります。」",
+        "この観察は、記憶が脳の内部プロセスのみに依存するのではなく、身体からの生理学的信号と深く結びついているという考えを強調しています。これらの初期研究はラットを対象としたものですが、人間の学習能力や認知機能への示唆は大きいと言えます。日々の食事から、塾の前の軽食に至るまで、私たちの食事が記憶の形成と想起能力にどのように直接影響するかを理解する新たな道を開くものです。今後、人間を対象とした研究が進むことで、認知機能の健康のための新しい栄養ガイドラインが生まれる可能性もあります。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "This research suggests that our gut doesn't just digest food; it actively \"talks\" to our brain, influencing how we remember things, especially what we eat. Imagine your child having a nutritious meal before studying — the signals from their stomach might actually help their brain \"save\" what they're learning more effectively. Conversely, just giving them a sugary drink might offer a temporary energy boost but won't provide the deeper signals needed for lasting memory. It's like the difference between a quick, shallow note and a deeply etched carving in the brain's memory bank.",
+        "For Tokyo families, this could mean rethinking the role of daily meals and snacks in supporting learning. It reinforces the importance of a balanced breakfast before school or a nutrient-rich snack before heading to juku (塾 — cram school). Instead of just focusing on convenience or quick energy, parents might consider how each meal contributes to their child's cognitive stamina and memory retention, particularly during intense study periods like junior high school entrance exam preparation (中学受験).",
+        "While these are rat studies, the implications for human dietary guidelines could emerge within 5-10 years, gated by further human clinical trials. However, the principle of prioritizing nutritious, balanced meals for cognitive health is something families can apply immediately. Major juku or school lunch programs might integrate these findings into their nutritional guidance within 3-5 years, especially if MEXT (文部科学省 — Japan's Ministry of Education, Culture, Sports, Science and Technology) issues updated recommendations on school meal composition.",
+        "Japan already has a strong foundation with its \"Shokuiku\" (食育 — food education) program and highly nutritious school lunch system (学校給食), which emphasizes balanced meals. Institutions like Benesse's Shinkenzemi (進研ゼミ) or Z-kai (Z会) often provide advice on study habits, but this research could lead to more specific guidance on nutrition for brain health. The focus on the gut-brain axis could further strengthen the existing cultural appreciation for wholesome, carefully prepared meals as integral to overall well-being and academic performance."
+      ],
+      "ja": [
+        "この研究は、私たちの腸が単に食べ物を消化するだけでなく、積極的に脳と「対話」し、特に食べたものに関する記憶の仕方に影響を与えていることを示唆しています。お子さんが勉強する前に栄養価の高い食事を摂ると想像してみてください。その胃からの信号が、脳が学んでいる内容をより効果的に「保存」する手助けをするかもしれません。逆に、砂糖が多いだけの飲み物では一時的なエネルギーは得られても、長期的な記憶に必要な深い信号は送られない可能性があります。これは、脳の記憶バンクに素早く書き込んだだけのメモと、深く刻み込まれた彫刻の違いのようなものです。",
+        "東京のご家庭にとって、これは日々の食事や間食が学習をサポートする役割を再考するきっかけになるかもしれません。学校に行く前のバランスの取れた朝食や、塾（じゅく）に向かう前の栄養価の高い軽食の重要性を再認識させるものです。単に便利さや手軽なエネルギー補給だけでなく、特に中学受験（ちゅうがくじゅけん）のような集中した学習期間中、それぞれの食事がお子さんの認知的な持久力と記憶定着にどう貢献するかを考慮するようになるかもしれません。",
+        "これらはラットでの研究ですが、人間での臨床試験が進めば、5〜10年以内に人間の食事ガイドラインに影響を与える可能性を秘めています。しかし、認知機能の健康のために栄養バランスの取れた食事を優先するという原則は、ご家庭で今日から実践できることです。文部科学省（もんぶかがくしょう）が学校給食の構成に関する推奨事項を更新すれば、主要な学習塾や学校給食プログラムがこれらの知見を3〜5年以内に栄養指導に取り入れるかもしれません。",
+        "日本には「食育」（しょくいく）プログラムや、栄養バランスを重視した学校給食（がっこうきゅうしょく）システムという強固な基盤が既にあります。ベネッセの進研ゼミ（しんけんゼミ）やZ会（ゼットかい）のような教育機関は学習習慣に関するアドバイスを提供していますが、この研究は脳の健康のための栄養について、より具体的な指針へと繋がる可能性があります。腸脳相関への注目は、バランスの取れた丁寧な食事が、単なる身体の健康だけでなく、学業成績を含む全体的なウェルビーイングに不可欠であるという既存の文化的な認識をさらに強化することでしょう。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "Your gut might help your brain remember.",
+        "ja": "腸が脳の記憶力に影響する可能性。"
+      },
+      "whoForWhat": {
+        "en": "For Tokyo families wondering how daily nutrition impacts their child's learning and memory, especially during study periods or exam preparation.",
+        "ja": "日々の食事が子どもの学習や記憶にどう影響するか、特に受験期や勉強中の食事を考える東京のご家庭へ。"
+      },
+      "vsJapanContext": {
+        "en": "This research aligns with Japan's emphasis on balanced school lunches (学校給食) and the \"Shokuiku\" (食育) program, suggesting a deeper biological basis for promoting healthy eating habits.",
+        "ja": "日本の学校給食や食育の考え方と合致する研究であり、健康的な食習慣が記憶力に与える生物学的な根拠を示唆します。"
+      },
+      "tokyoNote": {
+        "en": "Tokyo parents often seek ways to boost concentration for juku or exam prep. This finding, though preliminary, underscores that a balanced diet isn't just about physical health but directly supports cognitive function, far beyond simply avoiding sugary snacks.",
+        "ja": "塾通いや受験勉強で集中力を高めたいと願う東京の保護者にとって、これは示唆に富む研究です。単に甘いものを避けるだけでなく、バランスの取れた食事が身体だけでなく認知機能も直接支えるという点で、日々の献立への意識が高まるかもしれません。"
+      }
+    },
+    "source": {
+      "name": "ScienceDaily — Educational Psychology",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260729010713.htm"
+    },
+    "sourceGuid": "https://www.sciencedaily.com/releases/2026/07/260729010713.htm",
+    "status": "published"
+  },
+  {
     "slug": "dreams-as-a-window-to-the-developing-mind",
     "category": "early-childhood",
     "issue": "Vol. 02",
@@ -5055,8 +5157,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1551434678-e076c223a692?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#CFE3D2"
+      "src": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#CDE3CF"
     },
     "title": {
       "en": "Giving AI Tutors a Memory: New Research Creates 'History-Aware' Student Profiles",
@@ -6701,8 +6803,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1551434678-e076c223a692?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#CFE3D2"
+      "src": "https://images.unsplash.com/photo-1561089489-f13d5e730d72?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#D2E4D5"
     },
     "title": {
       "en": "A Smarter AI Math Tutor, No Costly Training Required",
@@ -7325,8 +7427,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1551434678-e076c223a692?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#CFE3D2"
+      "src": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#D0E4D3"
     },
     "title": {
       "en": "Beyond the AI Tutor: Why Student Engagement Matters More Than the Tool Itself",
@@ -7843,8 +7945,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1532012197267-da84d127e765?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#D9CFE5"
+      "src": "https://images.unsplash.com/photo-1542621334-a254cf47733d?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#D8CDE3"
     },
     "title": {
       "en": "Cultivating Kindness: Lessons from a Holocaust Survivor's Lifelong Study",
@@ -8143,108 +8245,6 @@
       "url": "https://www.sciencedaily.com/releases/2026/05/260529043654.htm"
     },
     "sourceGuid": "https://www.sciencedaily.com/releases/2026/05/260529043654.htm",
-    "status": "published"
-  },
-  {
-    "slug": "ai-tutors-offer-personalized-coaching-for-social-skills-development",
-    "category": "ai-edu",
-    "issue": "Vol. 01",
-    "publishedAt": "2026-06-02T19:20:54.000Z",
-    "readingMinutes": 5,
-    "feature": true,
-    "cover": {
-      "src": "https://images.unsplash.com/photo-1561089489-f13d5e730d72?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#D2E4D5"
-    },
-    "title": {
-      "en": "AI Tutors Offer Personalized Coaching for Social Skills Development",
-      "ja": "AIチューターが「社会性スキル」開発を個別指導、実践と知識の隔たりを埋める"
-    },
-    "dek": {
-      "en": "A new agentic AI tutoring system, SocialCoach, aims to provide scalable and personalized training for crucial social skills like negotiation and leadership, addressing the scarcity of human expert coaches.",
-      "ja": "交渉力やリーダーシップといった重要な社会性スキルの習得は、専門コーチの不足が課題でした。新しいAI個別指導システム「SocialCoach」は、この課題に対し、個別最適化されたトレーニングを大規模に提供します。"
-    },
-    "author": {
-      "en": "WORLD STUDY TOKYO Editors",
-      "ja": "WORLD STUDY TOKYO 編集部"
-    },
-    "location": {
-      "en": "Tokyo, Japan",
-      "ja": "日本、東京"
-    },
-    "tags": [
-      {
-        "en": "AI in Education",
-        "ja": "教育AI"
-      },
-      {
-        "en": "Social Skills",
-        "ja": "社会性スキル"
-      },
-      {
-        "en": "Soft Skills",
-        "ja": "ソフトスキル"
-      },
-      {
-        "en": "Personalized Learning",
-        "ja": "個別最適化学習"
-      }
-    ],
-    "body": {
-      "en": [
-        "In June 2026, researchers unveiled SocialCoach, an innovative LLM-powered agentic tutoring system designed to deliver personalized social skill development at scale. Presented on arXiv cs.CY, this system addresses a significant challenge: the scarcity of expert coaching for crucial abilities such as negotiation and leadership, which are increasingly vital for success in an interconnected world.",
-        "SocialCoach aims to bridge the \"knowing-doing gap\" — the common disconnect between understanding a skill conceptually and being able to effectively apply it in real-world situations. To achieve this, the system first automatically builds a comprehensive, pedagogically-grounded knowledge base from various expert sources, utilizing a sophisticated multi-agent pipeline.",
-        "Personalization is central to SocialCoach's approach. It employs an adaptive practice scheduling module that follows a prescription-retrieval-adaptation process. This module's policy is optimized using reinforcement learning (a machine learning method where an AI learns to make decisions by trial and error in an environment) within a simulated learner environment. This helps maximize the long-term learning experience and effectively overcomes the \"cold-start problem\" (where a new system struggles to provide good recommendations without initial user data).",
-        "The system integrates immersive, goal-driven practice scenarios, allowing learners to apply their knowledge in a controlled setting. It also features causality-driven proficiency assessment, which evaluates not just outcomes but the reasoning behind actions, and knowledge-grounded, reflective tutoring that provides insightful feedback. These components work together to ensure learners move from theoretical understanding to practical application.",
-        "> \"Social skills such as negotiation and leadership are crucial for personal and professional success in today's interconnected world.\"",
-        "SocialCoach has been deployed in a product called EQoach, and initial experiments show promising results. The system demonstrated improved simulated pathway quality and higher judge-rated tutoring quality compared to traditional baseline approaches. Early user feedback also indicated strong perceived engagement and usefulness, suggesting that this architecture could form the basis for effective personalized and gamified platforms for soft skill learning."
-      ],
-      "ja": [
-        "2026年6月、研究者たちは、大規模言語モデル（LLM）を基盤とした自律型エージェントによる個別指導システム「SocialCoach」を発表しました。このシステムは、交渉力やリーダーシップといった、相互につながる現代社会で成功するために不可欠な社会性スキルの個別指導を、大規模かつ効率的に提供することを目指しています。専門家によるコーチングが不足している現状への対応策として注目されています。",
-        "SocialCoachの目的は、「知識と実践の隔たり（knowing-doing gap）」、つまりスキルを頭で理解しているものの、実際の状況で効果的に活用できないという課題を解消することです。これを実現するため、システムはまず、複数の自律型エージェントが連携するパイプラインを活用し、多様な専門家の知見から教育学に基づいた包括的な知識体系を自動で構築します。",
-        "個別最適化された学習がSocialCoachの中核をなしています。システムは、「処方・想起・適応」というプロセスに従う適応型練習スケジュールモジュールを採用しています。このモジュールの学習方針は、強化学習（AIが試行錯誤を通じて環境内で最適な行動を学習する機械学習手法）を用いて、シミュレーションされた学習環境内で最適化されます。これにより、長期的な学習体験が最大化され、新規システムが初期データなしに適切な推奨を行うのが難しい「コールドスタート問題」も効果的に克服されます。",
-        "このシステムは、没入型で目標指向の練習シナリオを統合しており、学習者は知識を管理された環境で実践できます。さらに、行動の背後にある因果関係に基づいて熟練度を評価する「因果関係に基づく熟練度評価」や、知識に基づいた内省的な指導を提供します。これらの要素が連携し、学習者が理論的な理解から実践的な応用へとスムーズに移行できるよう支援します。",
-        "「交渉力やリーダーシップといった社会性スキルは、今日の相互につながる世界で個人的および職業的な成功に不可欠です。」",
-        "SocialCoachは「EQoach」という製品に導入されており、初期の実験では有望な結果が示されています。シミュレーションされた学習経路の品質が向上し、評価者による指導の品質も従来の基準と比較して高評価を得ました。初期のユーザーからのフィードバックでも高いエンゲージメントと有用性が報告されており、このアーキテクチャがソフトスキル学習のための個別化されたゲーミフィケーションプラットフォームの基盤となる可能性を示唆しています。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "This research on AI-powered social skills coaching offers an intriguing glimpse into how \"soft skills\" or non-cognitive abilities might be developed in the future. For Tokyo families, where traditional academic rigor often takes precedence, the idea of an AI tutor specifically for skills like negotiation or leadership presents a new frontier. It's a shift from rote memorization to active, simulated practice for interpersonal dynamics.",
-        "The plausible future impact for Tokyo families could be seen in supplementary education. While major juku primarily focus on academic subjects, a new wave of specialized after-school programs or international schools might integrate such AI tools to foster social-emotional learning and leadership. This could influence how children prepare for interviews, group projects, or even the communication skills valued in 総合型選抜 (holistic university admissions).",
-        "This development is likely to see adoption within 3-5 years, primarily gated by the willingness of international schools in Tokyo to pilot such technologies, or by innovative domestic edtech companies adapting the model. Wider integration into mainstream Japanese education, especially within the MEXT curriculum, would likely take longer, perhaps 5-10 years, requiring careful validation within the Japanese cultural context.",
-        "While a direct Japanese counterpart for an AI-driven social skills coach doesn't yet exist in the mainstream, some institutions are already moving in related directions. International schools in Tokyo like ASIJ (American School in Japan) or The British School in Tokyo actively integrate social-emotional learning and leadership development into their curricula. Furthermore, N高等学校・S高等学校 (N High School / S High School) could be an interesting parallel, given their emphasis on personalized online learning and fostering diverse skills beyond traditional academics, potentially making them early adopters for such innovative AI tools."
-      ],
-      "ja": [
-        "AIを活用した社会性スキルコーチングに関するこの研究は、将来的に「ソフトスキル」や非認知能力がどのように育成されるかについて、興味深い展望を示しています。学術的な厳しさが重視されがちな東京の家庭にとって、交渉力やリーダーシップといったスキルに特化したAIチューターの概念は、新たな可能性を提示します。これは、単なる暗記学習から、対人関係のダイナミクスをシミュレーションで積極的に練習する学習への転換と言えるでしょう。",
-        "東京の家庭にとっての将来的な影響は、補習教育の分野で顕著に現れる可能性があります。大手学習塾が主に学業科目に注力する一方で、新たな専門的なアフタースクールプログラムやインターナショナルスクールが、このようなAIツールを導入し、社会性と情動の学習（Social-Emotional Learning）やリーダーシップの育成を促進するかもしれません。これは、面接、グループワーク、あるいは大学の総合型選抜で評価されるコミュニケーション能力の準備方法に影響を与える可能性があります。",
-        "この技術の導入は、東京のインターナショナルスクールが先行して試験導入するか、あるいは革新的な国内エドテック企業がモデルを適応させることで、3〜5年以内に進むと予想されます。文部科学省のカリキュラムへの広範な統合は、日本の文化的背景での慎重な検証が必要となるため、5〜10年と、より長い時間がかかるでしょう。",
-        "AI駆動型の社会性スキルコーチの直接的な日本の対抗馬はまだ主流ではありませんが、関連する方向性で動いている機関は存在します。ASIJ（アメリカンスクール・イン・ジャパン）やブリティッシュ・スクール・イン・東京のような都内のインターナショナルスクールは、社会性と情動の学習やリーダーシップ開発をカリキュラムに積極的に取り入れています。また、N高等学校・S高等学校は、従来の学業を超えた多様なスキルの育成と個別最適化されたオンライン学習に重点を置いている点で、このような革新的なAIツールの早期採用者となる可能性があります。"
-      ]
-    },
-    "structured": {
-      "tagline": {
-        "en": "AI coaches soft skills for a connected world.",
-        "ja": "AIが社会性スキルを個別指導。"
-      },
-      "whoForWhat": {
-        "en": "For Tokyo families with children in middle or high school considering international education or university admissions pathways that value non-cognitive skills, this research explores new AI tools for developing crucial soft skills.",
-        "ja": "インターナショナルスクールや、非認知能力を重視する大学入試（総合型選抜など）を検討している中高生の保護者にとって、このAIツールは社会性スキル育成の新たな選択肢となるでしょう。"
-      },
-      "vsJapanContext": {
-        "en": "While traditional juku focus on academic rigor, this AI system offers a contrast by providing scalable, personalized training for social skills, a domain increasingly valued in international schools and some Japanese university admissions like 総合型選抜.",
-        "ja": "日本の学習塾が学力向上に注力する一方で、このAIシステムは社会性スキルの個別最適化されたトレーニングを提供します。これは、インターナショナルスクールや一部の大学の総合型選抜で評価される領域であり、既存の教育システムとは異なるアプローチです。"
-      },
-      "tokyoNote": {
-        "en": "This is interesting research, particularly for families navigating international school pathways or aiming for overseas universities where soft skills are highly valued. However, its practical integration into the daily routines of a typical Tokyo household or mainstream Japanese education will require significant cultural adaptation and local development.",
-        "ja": "国際的な教育経路や海外大学進学を目指す家庭にとって、この研究は特に興味深いでしょう。しかし、一般的な東京の家庭の日常や日本の主流教育システムに実際に統合されるには、文化的な適応と国内での開発が不可欠です。"
-      }
-    },
-    "source": {
-      "name": "arXiv cs.CY",
-      "url": "http://arxiv.org/abs/2606.04155v1"
-    },
-    "sourceGuid": "http://arxiv.org/abs/2606.04155v1",
     "status": "published"
   }
 ]
