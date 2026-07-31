@@ -1,5 +1,211 @@
 [
   {
+    "slug": "ai-tutors-helpfulness-isnt-always-pedagogical-guidance",
+    "category": "ai-edu",
+    "issue": "Vol. 02",
+    "publishedAt": "2026-07-30T12:37:28.000Z",
+    "readingMinutes": 5,
+    "feature": true,
+    "cover": {
+      "src": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#C8DFCB"
+    },
+    "title": {
+      "en": "AI Tutors: Helpfulness Isn't Always Pedagogical Guidance",
+      "ja": "AIチューターの「役立つ」と「教える」の違い：評価の新たな視点"
+    },
+    "dek": {
+      "en": "A new study reveals that general 'helpfulness' metrics fail to capture the true pedagogical value of AI tutors, emphasizing the need for evaluation methods that focus on fostering independent learning.",
+      "ja": "AIチューターの評価において、単なる「役立つ度合い」では真の教育的価値を測れないという研究結果。自立した学習を促すための評価基準が求められています。"
+    },
+    "author": {
+      "en": "WORLD STUDY TOKYO Editors",
+      "ja": "WORLD STUDY TOKYO 編集部"
+    },
+    "location": {
+      "en": "TOKYO",
+      "ja": "東京"
+    },
+    "tags": [
+      {
+        "en": "AI",
+        "ja": "AI"
+      },
+      {
+        "en": "AI Tutor",
+        "ja": "AIチューター"
+      },
+      {
+        "en": "EdTech",
+        "ja": "エドテック"
+      },
+      {
+        "en": "Learning Methods",
+        "ja": "学習方法"
+      }
+    ],
+    "body": {
+      "en": [
+        "A recent study published on arXiv (Computers and Society) on July 30, 2026, challenges the common assumption that an AI tutor's \"helpfulness\" directly correlates with its educational effectiveness. Researchers investigated how well large language models (LLMs) — the underlying technology for many AI tutors — can distinguish between simply providing answers and offering genuine pedagogical guidance that fosters learning.",
+        "The core problem, as identified by the study, is a measurement challenge: can a general-purpose helpfulness rubric truly differentiate between direct answer-giving and guidance designed to promote a student's independent thought? To explore this, the study compared different AI tutor \"policies\" — one more conversational and prone to giving direct answers, another more pedagogically focused on guiding the student — all built on the same underlying LLM. These policies interacted with a fixed, simulated student, and their performance was judged by other advanced LLMs, specifically Claude Opus 4.8 as the primary judge, with GPT-5.6 Sol used for a robustness audit.",
+        "The findings were striking. While the AI tutor policies did not differ significantly when judged purely on \"helpfulness,\" they were perfectly separated when evaluated using a \"pedagogy-targeted\" rubric. This suggests that a general assessment of helpfulness fails to capture the nuances of effective teaching. Moreover, the helpfulness rankings could even reverse depending on which LLM judge was used, highlighting the unreliability of this metric for pedagogical evaluation.",
+        "> In this controlled setting, general-purpose helpfulness is not a reliable pedagogy signal.",
+        "Crucially, the study also incorporated \"deterministic detectors\" to measure the impact on student learning. It found that turns where the AI tutor revealed the answer were consistently followed by less independent student work in the subsequent turn, across all tutor bases. This result was invariant, meaning it held true regardless of the LLM judge. This direct link between answer-giving and reduced student effort underscores the importance of a truly pedagogical approach.",
+        "The implications are clear for the development and deployment of AI tutors. Rather than relying on broad \"helpfulness\" scores, developers and educators should prioritize evaluation methods that use specific, pedagogy-targeted rubrics. These should be paired with process measures that track actual student engagement and independent work, ensuring that AI tools genuinely support learning rather than merely serving as sophisticated answer machines. This shift in evaluation could lead to more effective AI learning companions that truly empower students."
+      ],
+      "ja": [
+        "2026年7月30日に arXiv (Computers and Society) で公開された新しい研究は、AIチューターの「役立つ度合い」が、必ずしもその教育効果と直結しないという、これまでの常識に一石を投じています。研究者たちは、多くのAIチューターの基盤となっている大規模言語モデル（LLM）が、単に答えを提供する行為と、生徒の自立的な学習を促す真の教育的指導を、どれだけ正確に区別できるかを調査しました。",
+        "研究が指摘する核心的な問題は、評価の難しさです。一般的な「役立つ度合い」の評価基準で、直接的な答えを与えることと、生徒の思考を促す指導的アプローチを本当に区別できるのでしょうか。この問いに答えるため、研究では同じ基盤LLM上に構築された、異なるAIチューターの「方針」を比較しました。一つはより会話的で直接的な答えを与えがちなもの、もう一つは生徒を指導することに焦点を当てた教育的なアプローチです。これらは固定されたシミュレーション上の生徒と対話し、そのパフォーマンスはClaude Opus 4.8を主評価者、GPT-5.6 Solを堅牢性確認のための副評価者とする他の高度なLLMによって評価されました。",
+        "結果は示唆に富むものでした。純粋な「役立つ度合い」で評価した場合、AIチューターの各方針間に大きな差は見られませんでした。しかし、「指導的であるか」に特化した評価基準を用いると、両者の間には明確な差が確認されました。これは、一般的な「役立つ度合い」の評価では、効果的な指導の機微を捉えきれないことを示唆しています。さらに、評価を行うLLMの種類によって「役立つ度合い」の順位が逆転することさえあり、この指標が教育的評価として信頼性に欠けることが浮き彫りになりました。",
+        "「この管理された設定において、汎用的な『役立つ度合い』は信頼できる指導のシグナルではない。」",
+        "さらに重要な点として、研究は生徒の学習への影響を測る「決定論的検出器」も導入しました。その結果、AIチューターが答えを明かした場面では、その後の生徒の自立的な学習行動が consistently 減少することが、全てのチューター基盤で確認されました。この結果は評価するLLMに依存せず一貫しており、答えを与えることと生徒の努力が減少することの直接的な関連性を示しています。これは、真に教育的なアプローチの重要性を浮き彫りにします。",
+        "AIチューターの開発と導入における示唆は明確です。広範な「役立つ度合い」のスコアに頼るのではなく、開発者や教育者は、より具体的で「指導的効果」に焦点を当てた評価方法を優先すべきです。これには、実際の生徒の関与度や自立的な学習行動を追跡するプロセス測定を組み合わせる必要があります。これにより、AIツールが単なる高度な「答えの機械」としてではなく、真に生徒の学びを支援する存在となるよう、評価のあり方を転換できるでしょう。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "This research offers a crucial insight for Tokyo parents navigating the growing landscape of AI learning tools. Simply put, an AI tutor that gives you the right answer quickly might feel helpful in the moment, much like a friend telling you the solution to a puzzle. But true pedagogical value lies in the process of guiding the student to discover the answer themselves, fostering deeper understanding and independent problem-solving skills.",
+        "For Tokyo families, this could significantly impact how they choose and utilize AI tutors, especially for children preparing for entrance exams (中学受験, 大学受験) or those in international school programs. Platforms focused on rote memorization or quick fixes might appear \"helpful,\" but they may inadvertently undermine the very independent thinking skills valued in comprehensive admissions (総合型選抜) and higher education. Parents might start scrutinizing AI tools not just for correct answers, but for how they prompt, question, and scaffold learning.",
+        "This shift in evaluation could begin to be felt within 1-2 years, primarily within the advanced edtech sector and among international schools in Tokyo that are early adopters of AI. A broader impact, potentially influencing major juku or MEXT's approach to digital learning guidelines (学習指導要領), would likely take 3-5 years, gated by the need for domestic replication studies or official policy discussions.",
+        "In Japan, services like Atama+ and すららネット already focus on adaptive learning and identifying student weaknesses, aligning with the spirit of personalized guidance. However, this study suggests an even deeper layer of pedagogical design and evaluation is needed to ensure AI truly fosters independent thought, rather than just optimizing for correct answers. The emphasis on independent work in traditional systems like Kumon, where students work through problems autonomously, provides a useful lens through which to view AI's role: to guide, not to simply provide."
+      ],
+      "ja": [
+        "この研究は、AI学習ツールの普及が進む中で、東京の保護者にとって極めて重要な示唆を与えています。簡単に言えば、AIチューターがすぐに正しい答えを教えてくれることは、一時的に「役立つ」と感じるかもしれません。しかし、真の教育的価値は、生徒が自力で答えを見つけ出すプロセスを導き、より深い理解と自立的な問題解決能力を育むことにあります。",
+        "東京のご家庭にとって、これはAIチューターの選び方や活用法に大きな影響を与える可能性があります。中学受験や大学受験、あるいはインターナショナルスクールのプログラムで学ぶお子さんを持つ保護者にとって、単なる丸暗記や即答に特化したプラットフォームは「役立つ」ように見えても、総合型選抜や高等教育で重視される自立的な思考力を阻害する可能性があります。保護者は、AIツールが正しい答えを出すだけでなく、どのように質問を投げかけ、思考を促し、学習を足場固めしているか、その指導モデルをより深く吟味するようになるでしょう。",
+        "このような評価の転換は、今後1〜2年以内に、先進的なエドテック企業や、AI導入に積極的な都内のインターナショナルスクールから、まず感じられるようになるでしょう。より広範な影響、例えば大手学習塾や文部科学省のデジタル学習ガイドライン（学習指導要領）への影響は、国内での追試研究や政策議論の進展を待つ必要があり、3〜5年かかる可能性があります。",
+        "国内では、Atama+やすららネットのようなサービスが、すでにアダプティブラーニングや弱点克服に焦点を当てており、個別指導の精神と方向性は一致しています。しかし、本研究は、AIが単に正解を最適化するだけでなく、真に自立的な思考を育むために、さらに深いレベルの教育設計と評価が必要であることを示唆しています。公文式のように、生徒が自律的に問題を解き進めることを重視する伝統的な学習システムは、AIの役割を「単に提供する」のではなく「導く」ものとして捉える上で、有効な視点を提供してくれるでしょう。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "AI tutor helpfulness isn't pedagogy.",
+        "ja": "AIチューターの「役立つ」は「教える」ではない"
+      },
+      "whoForWhat": {
+        "en": "For Tokyo families considering AI tutors, this study helps distinguish genuinely educational platforms from those that merely provide answers, guiding their choices for effective learning support.",
+        "ja": "AIチューターの導入を検討している東京の保護者にとって、単に答えを教えるものと、真に学習を促すものを見分けるための示唆を与え、効果的な学習支援を選ぶ指針となります。"
+      },
+      "vsJapanContext": {
+        "en": "This research highlights a challenge for Japanese edtech developers like Atama+ or すららネット, which must integrate robust pedagogical evaluation beyond simple user satisfaction to align with the depth of learning valued in Japanese education.",
+        "ja": "本研究は、Atama+やすららネットのような日本のエドテック企業が、単なるユーザー満足度を超えた、堅牢な指導効果の評価を組み込む必要性を示唆し、日本の教育が重視する深い学びへの対応を促します。"
+      },
+      "tokyoNote": {
+        "en": "Tokyo parents should note that while many AI tools promise 'personalized learning,' this study suggests we need to scrutinize their underlying pedagogical models. For juku or international schools integrating AI, prioritizing deep learning over quick answers will be key.",
+        "ja": "東京の保護者は、『個別最適化された学び』を謳うAIツールが多い中で、その裏にある指導モデルを吟味する必要があるでしょう。塾やインターナショナルスクールがAIを導入する際も、単なる即答ではなく、深い学びを促す設計が重要になります。"
+      }
+    },
+    "source": {
+      "name": "arXiv cs.CY",
+      "url": "http://arxiv.org/abs/2607.28128v1"
+    },
+    "sourceGuid": "http://arxiv.org/abs/2607.28128v1",
+    "status": "published"
+  },
+  {
+    "slug": "beyond-error-detection-evaluating-ai-solutions-for-deeper-learning",
+    "category": "ai-edu",
+    "issue": "Vol. 02",
+    "publishedAt": "2026-07-30T02:08:29.000Z",
+    "readingMinutes": 6,
+    "feature": true,
+    "cover": {
+      "src": "https://images.unsplash.com/photo-1593720213428-28a5b9e94613?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#C9E0CC"
+    },
+    "title": {
+      "en": "Beyond Error Detection: Evaluating AI Solutions for Deeper Learning",
+      "ja": "AI生成解答の評価学習：単なる誤り指摘を超えた深い理解へ"
+    },
+    "dek": {
+      "en": "A new study explores whether evaluating AI-generated solutions can be as effective as traditional problem-solving for deeper learning, finding nuanced results for conceptual understanding.",
+      "ja": "AIが生成した解答を評価する学習法が、従来の自力での問題解決と同等の学習効果をもたらすかを検証した研究。深い理解には工夫が必要であることが示唆されています。"
+    },
+    "author": {
+      "en": "WORLD STUDY TOKYO Editors",
+      "ja": "WORLD STUDY TOKYO 編集部"
+    },
+    "location": {
+      "en": "Tokyo, Japan",
+      "ja": "東京"
+    },
+    "tags": [
+      {
+        "en": "AI in Education",
+        "ja": "教育とAI"
+      },
+      {
+        "en": "Learning Methods",
+        "ja": "学習法"
+      },
+      {
+        "en": "Critical Thinking",
+        "ja": "批判的思考"
+      },
+      {
+        "en": "Study Habits",
+        "ja": "学習習慣"
+      }
+    ],
+    "body": {
+      "en": [
+        "As generative AI (GenAI) tools become increasingly sophisticated at producing solutions to complex problems, the education community is exploring new pedagogical approaches. A forthcoming preprint on arXiv, dated July 2026, presents findings from a randomized A/B crossover study conducted in a junior-level algorithms course. This research directly compared the impact of evaluating AI-generated solutions against traditional problem-solving on student learning outcomes.",
+        "The study, involving 220 students, addressed a critical question: In an era where AI can quickly solve assignments, should students focus on generating their own solutions or on critically evaluating those produced by AI? For six assignments, student working groups were tasked either with directly solving challenging algorithmic problems or with evaluating often-flawed GenAI-generated solutions. Midway through the semester, the roles were reversed for the groups, allowing for a robust comparison.",
+        "The researchers found that there were no statistically significant differences in student performance on midterm scores, final exam scores, or overall course grades between the two approaches. Even when examining exam problems structurally aligned with the homework interventions, the outcomes remained consistent. This suggests that, at a broad level, an evaluation-centered approach did not lead to a measurable decline in overall academic performance.",
+        "However, a closer look revealed some important nuances. Students did receive significantly higher homework scores when they were evaluating GenAI-generated solutions, indicating a localized advantage in task completion. Yet, this benefit did not translate into deeper conceptual understanding or improved performance on summative assessments that required transfer of knowledge.",
+        "> \"GenAI evaluation redistributes student effort from open-ended solution construction toward verification, diagnosis, and judgment, but does not automatically produce stronger conceptual transfer.\"",
+        "Survey data further illuminated student perceptions and behaviors. Most students reported no significant change in their study habits in response to the intervention. Interestingly, for the subset of students who consciously adapted their study strategies to the new evaluation tasks, the GenAI-evaluation assignments were rated as significantly more helpful. This highlights the importance of student agency and metacognition (the ability to reflect on one's own thinking and learning processes) in leveraging new learning tools.",
+        "The findings suggest that while GenAI evaluation activities can be integrated into coursework without broad performance losses, achieving meaningful learning gains requires more than simple error diagnosis. Educators must provide deliberate \"scaffolding\" — structured support and guidance — that pushes students to move beyond merely identifying mistakes to deeply understanding the underlying concepts and principles. This could involve tasks like explaining *why* an AI solution is flawed, proposing alternative correct approaches, or comparing the efficiency of different solutions."
+      ],
+      "ja": [
+        "生成AI（GenAI）ツールが複雑な問題の解答作成においてますます高度になるにつれ、教育界では新たな教育アプローチが模索されています。先日arXivにプレプリントとして公開された（2026年7月付）研究は、大学のアルゴリズムコースで行われたランダム化A/Bクロスオーバー研究の結果を提示しています。この研究は、AIが生成した解答を評価することと、従来の問題解決法が学生の学習成果に与える影響を直接比較しました。",
+        "220名の学生を対象としたこの研究は、「AIが瞬時に課題を解決できる時代に、学生は自力で解答を作成すべきか、それともAIが生成した解答を批判的に評価すべきか」という重要な問いに取り組みました。6つの課題において、学生のグループは、難解なアルゴリズム問題を直接解くか、しばしば誤りを含むAI生成解答を評価するかのいずれかに取り組み、学期途中でその役割を交代しました。",
+        "研究者たちは、中間試験の点数、期末試験の点数、および総合的なコース成績において、両アプローチ間に統計的に有意な差がないことを発見しました。宿題と構造的に一致する試験問題においても、結果は同様でした。このことは、大局的に見れば、評価中心のアプローチが学業成績の著しい低下には繋がらなかったことを示唆しています。",
+        "しかし、詳細を見るといくつかの重要なニュアンスが明らかになりました。学生はAI生成解答を評価する課題で、より高い宿題の点数を獲得しましたが、この局所的な利点は、より深い概念理解や知識の転移を必要とする最終的な評価での成績向上には繋がりませんでした。",
+        "「生成AIの評価は、学生の努力を、自由な解答作成から検証、診断、判断へと再配分しますが、自動的に強力な概念転移を生み出すわけではありません。」",
+        "アンケートデータは、学生の認識と行動をさらに明らかにしました。ほとんどの学生は、この介入によって学習習慣に大きな変化はなかったと報告しています。興味深いことに、新しい評価課題に合わせて学習戦略を意識的に「適応させた」学生のサブセットでは、AI評価課題がはるかに役立つと評価されました。これは、新しい学習ツールを活用する上で、学生自身の主体性とメタ認知（自身の思考や学習プロセスを振り返る能力）の重要性を示しています。",
+        "これらの知見は、AI評価活動を授業に導入しても広範な学業成績の損失はないものの、有意義な学習効果を得るには、単なる誤り指摘以上のものが必要であることを示唆しています。教育者は、学生が単に間違いを特定するだけでなく、その根底にある概念や原理を深く理解するよう促す、意図的な「足場かけ（scaffolding）」—構造化された支援と指導—を提供する必要があります。これには、AIの解答がなぜ誤っているのかを説明させたり、別の正しいアプローチを提案させたり、異なる解答の効率性を比較させたりするような課題が考えられます。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "This research from a computer science course offers a valuable perspective for Tokyo families navigating the increasing presence of AI in learning. Imagine your child being given a problem, and instead of solving it from scratch, they are presented with an AI-generated answer that might contain subtle errors. Their task is to find those errors, explain *why* they are errors, and perhaps suggest a better solution. The study suggests that while this evaluation task can lead to higher homework scores, it doesn't automatically translate into a deeper understanding of the subject matter or the ability to apply that knowledge to new problems, unless there's careful guidance.",
+        "For Tokyo families, this finding has several plausible future impacts. In the realm of entrance exams like 中学受験 (junior high entrance exams) or 大学受験 (university entrance exams), if AI tools become common for homework and practice, simply using them to check answers or find errors might not be enough. Students will need to be explicitly taught how to critically analyze AI outputs. For those considering international schools or IB programs, where critical thinking and analytical skills are highly valued, tasks involving AI evaluation could be integrated into project-based learning, potentially influencing how assignments are designed and assessed.",
+        "The shift in emphasis from problem-solving to evaluating AI solutions could begin to be felt within the next 3-5 years. This timeframe is largely gated by two factors: first, how quickly major juku (cram schools) like SAPIX or Yotsuya Otsuka incorporate AI tools into their curriculum with sophisticated pedagogical designs, and second, whether Japan's MEXT (Ministry of Education, Culture, Sports, Science and Technology) provides clear guidance on integrating AI into the national curriculum and assessment frameworks.",
+        "While there isn't a direct Japanese counterpart to this specific research method being widely implemented yet, services like Atama+ already provide personalized problem sets and adaptive learning paths. The next logical step for such platforms would be to offer AI-generated *solutions* for students to critique, rather than just problems to solve. Similarly, N高等学校 (N High School) and S高等学校 (S High School), with their focus on online learning and project-based approaches, are well-positioned to experiment with and implement such sophisticated AI evaluation tasks in their programming or logic courses, pushing students beyond simple error detection towards genuine conceptual mastery."
+      ],
+      "ja": [
+        "コンピューターサイエンス教育におけるこの研究は、AIが学習現場に浸透しつつある現状に直面する東京のご家庭にとって、貴重な視点を提供します。お子さんが問題を与えられた時、ゼロから解く代わりに、微妙な誤りを含むかもしれないAI生成の解答を渡され、その誤りを見つけて「なぜそれが誤りなのか」を説明し、より良い解決策を提案する、という課題に取り組む姿を想像してみてください。研究が示唆するのは、このような「評価する」学習は、宿題の点数を上げる効果はあるものの、慎重な指導がない限り、科目への深い理解や、新しい問題に応用する能力に自動的に繋がるわけではない、ということです。",
+        "東京の家庭にとって、この発見はいくつかの将来的な影響をもたらす可能性があります。中学受験や大学受験といった入試の文脈で、AIツールが宿題や演習で一般的になったとしても、単にAIの解答をチェックしたり、誤りを見つけたりするだけでは不十分かもしれません。生徒たちは、AIの出力物を批判的に分析する方法を明確に教わる必要があるでしょう。インターナショナルスクールやIBプログラムのように、批判的思考力や分析力が重視される教育環境では、AI評価の課題がプロジェクトベース学習に組み込まれ、課題の設計や評価方法に影響を与える可能性があります。",
+        "問題解決からAI解答の評価へと重点が移行する動きは、今後3〜5年以内に具体的に感じられるようになるかもしれません。この期間は主に二つの要因によって左右されます。一つは、SAPIXや四谷大塚のような大手学習塾が、AIツールを洗練された指導設計とともにカリキュラムにどれだけ迅速に取り入れるか。もう一つは、文部科学省がAIの教育現場への統合と評価枠組みについて、明確な指針を示すかどうかです。",
+        "この特定の研究方法が日本で広く導入されている直接的な事例はまだありませんが、Atama+のようなアダプティブラーニングのサービスは、すでに個別最適化された問題セットと学習パスを提供しています。これらのプラットフォームにとって次の論理的なステップは、単に問題を出すだけでなく、学生が批判的に評価するためのAI生成「解答」を提供することでしょう。同様に、オンライン学習とプロジェクトベースのアプローチに注力するN高等学校やS高等学校は、プログラミングや論理的思考のコースにおいて、このような高度なAI評価課題を実験的に導入し、学生を単なる誤り指摘から真の概念習得へと導く可能性があります。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "AI evaluation in learning: not a silver bullet.",
+        "ja": "AI評価学習：深い理解への道は工夫次第。"
+      },
+      "whoForWhat": {
+        "en": "For Tokyo parents considering how AI tools might impact their child's study habits, especially in fields requiring critical problem-solving and analytical skills.",
+        "ja": "AIツールが子どもの学習習慣にどう影響するか、特に批判的思考力や分析力が求められる分野での学びに関心を持つ東京の保護者へ。"
+      },
+      "vsJapanContext": {
+        "en": "This research from a computer science course suggests that simply evaluating AI output won't replace deep problem-solving, a nuance important for understanding how juku like SAPIX or Z-kai might integrate AI into their rigorous curricula.",
+        "ja": "米国の大学のコンピューターサイエンス教育における研究ですが、単にAIの出力評価だけでは深い問題解決能力は育たないという示唆は、SAPIXやZ会のような日本の大手塾がAIをカリキュラムにどう組み込むかを考える上で重要です。"
+      },
+      "tokyoNote": {
+        "en": "Tokyo families are increasingly exploring AI tools for learning. This study reminds us that effective integration isn't just about access to AI, but about thoughtful pedagogical design that encourages genuine conceptual transfer, a challenge for both juku and international schools here.",
+        "ja": "東京のご家庭でもAIを学習ツールとして検討する機会が増えています。本研究は、AIの導入だけでなく、深い概念理解を促す慎重な指導設計が不可欠であることを示唆しており、これは日本の塾にとってもインターナショナルスクールにとっても重要な課題です。"
+      }
+    },
+    "source": {
+      "name": "arXiv cs.CY",
+      "url": "http://arxiv.org/abs/2607.27586v1"
+    },
+    "sourceGuid": "http://arxiv.org/abs/2607.27586v1",
+    "status": "published"
+  },
+  {
     "slug": "the-gut-brain-axis-how-nutrition-influences-memory-formation",
     "category": "research",
     "issue": "Vol. 02",
@@ -2683,8 +2889,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#D0E4D3"
+      "src": "https://images.unsplash.com/photo-1551434678-e076c223a692?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#CFE3D2"
     },
     "title": {
       "en": "AI Reshapes STEM Education: From Knowledge Transfer to Capability Building",
@@ -5157,8 +5363,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1561089489-f13d5e730d72?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#D2E4D5"
+      "src": "https://images.unsplash.com/photo-1573164713619-24c711fe7878?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#C4DDC6"
     },
     "title": {
       "en": "Giving AI Tutors a Memory: New Research Creates 'History-Aware' Student Profiles",
@@ -6803,8 +7009,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1573164713619-24c711fe7878?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#C4DDC6"
+      "src": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#D0E4D3"
     },
     "title": {
       "en": "A Smarter AI Math Tutor, No Costly Training Required",
@@ -7117,8 +7323,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1573164713619-24c711fe7878?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#C4DDC6"
+      "src": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#CDE3CF"
     },
     "title": {
       "en": "AI Tutors Learn to Adapt for Special Education Needs",
@@ -7427,8 +7633,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1561089489-f13d5e730d72?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#D2E4D5"
+      "src": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#CCE1CE"
     },
     "title": {
       "en": "Beyond the AI Tutor: Why Student Engagement Matters More Than the Tool Itself",
@@ -8037,214 +8243,6 @@
       "url": "https://psyche.co/portraits/holocaust-survivor-ervin-staub-how-to-stop-evil-taking-root"
     },
     "sourceGuid": "urn:id:8725",
-    "status": "published"
-  },
-  {
-    "slug": "beyond-the-classroom-integrating-language-learning-into-daily-life-for-fluency",
-    "category": "methods",
-    "issue": "Vol. 01",
-    "publishedAt": "2026-05-28T10:01:00.000Z",
-    "readingMinutes": 4,
-    "feature": true,
-    "cover": {
-      "src": "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#BFDFF2"
-    },
-    "title": {
-      "en": "Beyond the Classroom: Integrating Language Learning into Daily Life for Fluency",
-      "ja": "教室の外へ：語学学習を日常に溶け込ませ、会話力を高める"
-    },
-    "dek": {
-      "en": "A new video from BBC Ideas and the Open University highlights practical strategies for making language acquisition a seamless part of everyday routines, moving beyond traditional textbook methods to foster genuine conversational fluency.",
-      "ja": "BBC IdeasとOpen Universityが公開した動画が、語学学習を日々の生活に自然に組み込むための実践的な戦略を紹介。従来の教科書学習を超え、真の会話力育成に焦点を当てます。"
-    },
-    "author": {
-      "en": "WORLD STUDY TOKYO Editors",
-      "ja": "WORLD STUDY TOKYO 編集部"
-    },
-    "location": {
-      "en": "Tokyo, Japan",
-      "ja": "東京、日本"
-    },
-    "tags": [
-      {
-        "en": "Language Learning",
-        "ja": "語学学習"
-      },
-      {
-        "en": "Fluency",
-        "ja": "流暢さ"
-      },
-      {
-        "en": "Daily Habits",
-        "ja": "日常習慣"
-      },
-      {
-        "en": "Conversational Skills",
-        "ja": "会話力"
-      }
-    ],
-    "body": {
-      "en": [
-        "A recent video dispatch from BBC Ideas and the Open University, featured on Psyche, offers five practical tips for integrating language learning into daily life, aiming to build fluency in real conversations. This approach emphasizes shifting away from isolated study sessions towards making the target language a consistent part of one's environment and routine, fostering a more organic and sustainable path to mastery.",
-        "The core idea behind these tips is that consistent, low-stakes exposure and active use are more effective for conversational fluency than infrequent, high-intensity study. Many learners, especially children, struggle to bridge the gap between grammar rules learned in a classroom and spontaneous speech. By embedding the language into everyday activities, learners can develop an intuitive feel for its rhythm and structure, much like how children acquire their first language.",
-        "One key strategy involves immersing oneself in the target language through media and technology. This could mean changing the language settings on your phone, computer, or streaming services, or regularly listening to podcasts and music in the language you are learning. These small, consistent exposures build passive vocabulary and comprehension without feeling like a chore.",
-        "> \"Fluency isn't just about knowing words; it's about using them naturally in context.\"",
-        "Active practice is another crucial element. This doesn't necessarily require a native speaker nearby; one tip suggests talking to yourself in the target language throughout the day, narrating your actions or thoughts. For example, describing your morning routine or what you're cooking for dinner. This low-pressure environment allows for experimentation and reinforces new vocabulary and sentence structures.",
-        "Furthermore, the video encourages contextual learning by labeling objects around the house with their names in the target language. This simple visual cue creates an immersive environment and connects words directly to their referents, bypassing the need for translation. Integrating the language into daily tasks, like following a recipe in the target language or making a shopping list, also transforms mundane activities into learning opportunities.",
-        "These strategies collectively suggest that the path to conversational fluency is less about rigid schedules and more about creating a language-rich lifestyle. For families, this means exploring how to weave a new language into existing routines, making it a shared experience rather than an individual burden. The long-term impact lies in fostering a deeper, more intuitive understanding that traditional rote learning often misses.",
-        "The next step for learners and families is to identify which of these daily integration methods resonate most and commit to them consistently. The challenge often lies in maintaining motivation and finding diverse, authentic materials that keep the learning process engaging over time. However, the promise of genuine conversational ability through natural immersion offers a compelling alternative to conventional study."
-      ],
-      "ja": [
-        "Psycheで紹介されたBBC IdeasとOpen Universityの最新動画は、語学学習を日々の生活に組み込み、実際の会話で流暢さを築くための5つの実践的なヒントを提案しています。このアプローチは、孤立した学習セッションから脱却し、目標言語を環境やルーティンの一部にすることで、より有機的で持続可能な習得経路を促進します。",
-        "これらのヒントの核心は、一貫した、プレッシャーの少ない接触と能動的な使用が、会話の流暢さにとって、頻繁ではないが高負荷な学習よりも効果的であるという考え方です。多くの学習者、特に子どもたちは、教室で学んだ文法規則と自然な会話との間のギャップを埋めるのに苦労します。言語を日常生活に埋め込むことで、子どもたちが第一言語を習得するように、そのリズムと構造に対する直感的な感覚を養うことができます。",
-        "一つの重要な戦略は、メディアやテクノロジーを通じて目標言語に没頭することです。これは、スマートフォンの言語設定を変更したり、ストリーミングサービスを目標言語に設定したり、その言語のポッドキャストや音楽を定期的に聞いたりすることを意味します。これらの小さな、一貫した接触は、負担と感じることなく、受動的な語彙力と理解力を築きます。",
-        "> 「流暢さとは単に単語を知っていることではなく、文脈の中で自然に使いこなすことです。」",
-        "能動的な練習もまた、極めて重要な要素です。これは必ずしも近くにネイティブスピーカーがいることを必要としません。あるヒントでは、一日を通して目標言語で自分自身に話しかけ、自分の行動や考えを語ることを提案しています。例えば、朝のルーティンや夕食に何を作るかを説明するなどです。このようなプレッシャーの少ない環境は、試行錯誤を可能にし、新しい語彙や文型を強化します。",
-        "さらに、動画は家の中の物に目標言語での名前のラベルを貼ることで、文脈に即した学習を促します。このシンプルな視覚的な手がかりは、没入型の環境を作り出し、単語を翻訳を介さずに直接その対象物と結びつけます。目標言語でレシピを読んだり、買い物リストを作ったりするなど、日常のタスクに言語を統合することも、退屈な活動を学習機会に変えます。",
-        "これらの戦略は総じて、会話の流暢さへの道が厳格なスケジュールよりも、言語豊かなライフスタイルを創造することにあると示唆しています。家庭にとっては、新しい言語を既存のルーティンにどのように織り込むかを探り、それを個人の負担ではなく、共有された体験にすることを意味します。長期的な影響は、従来の丸暗記学習では見落とされがちな、より深く直感的な理解を育むことにあります。",
-        "学習者や家族にとっての次のステップは、これらの日常統合法のうち、どれが最も自分たちに響くかを見極め、一貫して取り組むことです。課題は、モチベーションを維持し、学習プロセスを常に魅力的に保つ多様で本物の教材を見つけることにあることが多いでしょう。しかし、自然な没入を通じて真の会話能力を獲得するという約束は、従来の学習法に代わる魅力的な選択肢を提供します。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "For Tokyo families, this research on integrating language learning into daily life offers a refreshing perspective. Instead of viewing language acquisition as a separate academic subject or an activity confined to an English conversation school, imagine it as a natural extension of your family's existing routines. It's like how a child effortlessly picks up the lyrics to a favorite song they hear repeatedly, rather than memorizing them from a sheet of music once a week.",
-        "This approach has plausible future impact across several domains for Tokyo families. For parents of younger children, it suggests that consistent exposure to English — through cartoons, songs, or simply labeling toys at home — could be more impactful than a single weekly lesson. For high schoolers aiming for overseas universities or those in international schools, it reinforces that fluency comes from active, daily use, not just test scores. It could shift family budgets from expensive juku or conversation schools towards creating a language-rich home environment.",
-        "The timeframe for this impact is already today for families willing to experiment. However, wider systemic shifts might take 1-2 years as major online learning platforms or even some progressive juku start to incorporate these \"lifestyle integration\" methods into their offerings. The gating factor will be how quickly the market adapts to parents seeking more organic, less structured ways for their children to become fluent.",
-        "While traditional Japanese education, including major juku like SAPIX or 河合塾, often emphasizes grammar and vocabulary for entrance exams, some institutions are moving towards more communicative approaches. For instance, the English programs at ICU (International Christian University) or the curricula at Tokyo's international schools (e.g., ASIJ, British School in Tokyo) already prioritize active language use. Public schools are also slowly incorporating more communicative activities, though the daily integration aspect remains largely a family-led initiative."
-      ],
-      "ja": [
-        "東京のご家庭にとって、語学学習を日常生活に組み込むというこの研究は、新鮮な視点を提供します。語学の習得を独立した教科や英会話スクールに限定された活動と捉えるのではなく、家族の既存のルーティンを自然に拡張するものと想像してみてください。これは、子どもが週に一度楽譜から暗記するのではなく、お気に入りの歌を繰り返し聞くことで歌詞を自然に覚えるようなものです。",
-        "このアプローチは、東京のご家庭にとって複数の領域で将来的に大きな影響を与える可能性があります。幼い子どもを持つ保護者にとっては、漫画、歌、あるいは家でおもちゃにラベルを貼るなど、英語に一貫して触れることが、週に一度のレッスンよりも効果的である可能性を示唆します。海外大学を目指す高校生やインターナショナルスクールに通う生徒にとっては、流暢さがテストの点数だけでなく、日常的な積極的利用から生まれることを再確認させます。これにより、高価な塾や英会話スクールへの家庭の予算が、より言語豊かな家庭環境を創造することへとシフトするかもしれません。",
-        "この影響のタイムフレームは、試してみる意欲のあるご家庭にとってはすでに今日から始まっています。しかし、より広範なシステム的な変化は、主要なオンライン学習プラットフォームや一部の先進的な塾が、これらの「ライフスタイル統合」メソッドをカリキュラムに取り入れ始めるにつれて、1〜2年かかるかもしれません。ボトルネックとなるのは、子どもたちがより有機的で、構造化されていない方法で流暢になることを求める保護者のニーズに、市場がどれだけ迅速に適応するかでしょう。",
-        "SAPIXや河合塾といった大手塾を含む日本の伝統的な教育は、しばしば入試のための文法や語彙に重点を置いていますが、一部の教育機関はよりコミュニケーション重視のアプローチへと移行しています。例えば、国際基督教大学（ICU）の英語プログラムや、東京のインターナショナルスクール（ASIJ、ブリティッシュ・スクール・イン東京など）のカリキュラムは、すでに積極的な言語使用を優先しています。公立学校も徐々にコミュニケーション活動を取り入れていますが、日常生活への統合という側面は、主に家庭主導の取り組みとして残っています。"
-      ]
-    },
-    "structured": {
-      "tagline": {
-        "en": "Fluency comes from daily habits, not just textbooks.",
-        "ja": "教科書より日常習慣が流暢さの鍵"
-      },
-      "whoForWhat": {
-        "en": "For Tokyo families with children learning a second language, from early childhood to high school, seeking practical ways to build conversational fluency outside of formal lessons.",
-        "ja": "第二言語を学ぶ東京のご家庭、特に会話力を日常で高めたいと考える未就学児から高校生までの保護者に。"
-      },
-      "vsJapanContext": {
-        "en": "This approach contrasts with Japan's traditional emphasis on grammar and vocabulary tests, aligning instead with the communicative language teaching principles found in some international school curricula.",
-        "ja": "日本の文法・語彙中心の学習とは対照的で、東京のインターナショナルスクールで実践されるようなコミュニケーション重視の指導法に近い。"
-      },
-      "tokyoNote": {
-        "en": "While many Japanese families invest heavily in English conversation schools, this research suggests that integrating language into daily routines at home can be equally, if not more, effective for practical fluency, challenging the need for constant formal lessons.",
-        "ja": "英会話スクールに多額の投資をするご家庭が多い中、本研究は日常的な家庭での言語統合が実践的な流暢さに有効であることを示唆。高額なレッスンだけに頼らない選択肢を提示する。"
-      }
-    },
-    "source": {
-      "name": "Psyche",
-      "url": "https://psyche.co/videos/go-beyond-the-apps-to-build-language-learning-skills-that-stick"
-    },
-    "sourceGuid": "urn:id:8909",
-    "status": "published"
-  },
-  {
-    "slug": "caffeine-and-sleep-a-targeted-boost-for-social-memory",
-    "category": "methods",
-    "issue": "Vol. 01",
-    "publishedAt": "2026-05-30T05:27:08.000Z",
-    "readingMinutes": 4,
-    "feature": true,
-    "cover": {
-      "src": "https://www.sciencedaily.com/images/1920/tired-man-with-messy-hair-drinking-morning-coffee.webp",
-      "tone": "#0c0c0c"
-    },
-    "title": {
-      "en": "Caffeine and Sleep: A Targeted Boost for Social Memory",
-      "ja": "カフェインと睡眠：社会的記憶を標的とした回復効果"
-    },
-    "dek": {
-      "en": "New research suggests caffeine can specifically reverse social memory deficits caused by sleep deprivation, highlighting its targeted action on brain circuits rather than general stimulation.",
-      "ja": "新しい研究によると、カフェインは睡眠不足による社会的記憶の低下を特異的に回復させることが示されました。これは、一般的な刺激ではなく、脳の特定の回路への標的的な作用を示唆しています。"
-    },
-    "author": {
-      "en": "WORLD STUDY TOKYO Editors",
-      "ja": "WORLD STUDY TOKYO 編集部"
-    },
-    "location": {
-      "en": "TOKYO",
-      "ja": "東京"
-    },
-    "tags": [
-      {
-        "en": "Sleep",
-        "ja": "睡眠"
-      },
-      {
-        "en": "Memory",
-        "ja": "記憶"
-      },
-      {
-        "en": "Cognition",
-        "ja": "認知機能"
-      },
-      {
-        "en": "Student well-being",
-        "ja": "生徒の健康"
-      }
-    ],
-    "body": {
-      "en": [
-        "In a recent laboratory study published on May 30, 2026, scientists identified that sleep deprivation can significantly impair a key brain circuit responsible for social memory, affecting an individual's ability to recognize familiar faces. The research also found that caffeine could effectively restore communication between neurons in this pathway, reversing the memory deficits caused by lost sleep.",
-        "This finding is particularly relevant for students and busy adults alike, as even moderate sleep loss can impact our daily interactions and learning. The researchers observed that when individuals are sleep-deprived, the brain struggles to process and recall information about people they know, which can lead to social awkwardness or difficulty in collaborative learning environments. Understanding this specific impairment offers new insights into the broader effects of insufficient rest.",
-        "The study's method involved observing brain activity in laboratory settings, focusing on the precise neural pathways affected by sleep loss. They discovered that caffeine did not simply act as a general stimulant; rather, it had a remarkably targeted effect.",
-        "> \"Caffeine restored communication between neurons in this pathway and reversed the memory deficits caused by lost sleep.\"",
-        "This suggests that caffeine's benefit was not about general alertness, but about specifically helping the impaired circuit recover without overstimulating other normal brain functions. This targeted action is a crucial distinction, moving beyond the common perception of caffeine as a simple energy booster.",
-        "While these results are promising, it is important to remember that the study was conducted in a laboratory environment. Relying on caffeine as a regular solution for chronic sleep deprivation is not advisable, as adequate sleep remains fundamental for overall brain health and sustained cognitive function. The research highlights the specific vulnerability of social memory to sleep loss and points towards potential future interventions, though more research is needed on human applications and long-term effects."
-      ],
-      "ja": [
-        "2026年5月30日に発表された最新の研究で、科学者たちは睡眠不足が社会的記憶（知っている人物を認識する能力）を司る脳の重要な回路に大きな損傷を与えることを発見しました。この研究は、カフェインがこの経路のニューロン間のコミュニケーションを効果的に回復させ、睡眠不足による記憶障害を逆転させる可能性を示しています。",
-        "この発見は、生徒や多忙な大人にとって特に重要です。なぜなら、わずかな睡眠不足でも、日々の対人関係や学習能力に影響を及ぼす可能性があるからです。研究者たちは、睡眠が不足していると、脳が知っている人物に関する情報を処理し、思い出すのに苦労することを発見しました。これは、共同学習の場でのぎこちなさや、友人や教師の顔を覚えることへの困難につながる可能性があります。この特定の障害を理解することは、不十分な休息が脳全体に与える影響について新たな洞察をもたらします。",
-        "研究は、実験室環境で脳活動を観察し、睡眠不足によって影響を受ける正確な神経経路に焦点を当てて行われました。カフェインは単なる一般的な刺激剤として機能するのではなく、驚くほど標的を絞った効果を持つことが明らかになりました。",
-        "「カフェインはこの経路のニューロン間のコミュニケーションを回復させ、睡眠不足による記憶障害を逆転させました。」",
-        "これは、カフェインの恩恵が一般的な覚醒効果ではなく、他の正常な脳機能を過度に刺激することなく、損傷した回路の回復を特異的に助けたことを示唆しています。この標的を絞った作用は、カフェインを単なるエネルギードリンクと見なす一般的な認識を超えた、重要な区別です。",
-        "これらの結果は有望ですが、研究が実験室環境で行われたことを忘れてはなりません。慢性的な睡眠不足に対する恒常的な解決策としてカフェインに頼ることは推奨されません。十分な睡眠は、脳全体の健康と持続的な認知機能の基本であり続けるからです。この研究は、睡眠不足に対する社会的記憶の特定の脆弱性を浮き彫りにし、将来的な介入の可能性を示唆していますが、人間への応用と長期的な影響についてはさらなる研究が必要です。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "This research helps us understand why we might feel a bit 'off' or forgetful after a night of poor sleep, especially when it comes to recognizing people or remembering social cues. Imagine your child staying up late studying for an exam. The next day, they might not just be tired; this study suggests their brain's ability to smoothly recall who their classmates are, or even process a teacher's facial expression, could be specifically impaired. Caffeine, in this specific context, acted like a targeted repair crew for that particular memory circuit, not just a general energy boost.",
-        "For Tokyo families navigating demanding schedules, where late nights for students preparing for 中学受験 (junior high school entrance exams) or 高校受験 (high school entrance exams) are common, this research offers a nuanced perspective. It might shift the conversation from simply 'getting enough sleep' to understanding the specific cognitive costs of sleep deprivation. While not an endorsement for caffeine, it could lead to more awareness around how sleep impacts specific learning functions, potentially influencing study strategies or even discussions around exam timing.",
-        "The direct implications for daily family routines in Tokyo are likely 3-5 years away, gated by further clinical trials on humans and a deeper understanding of caffeine's long-term effects on adolescent brains. Before any widespread adoption, we would need to see how these laboratory findings translate into practical, safe recommendations for students.",
-        "Currently, major juku like SAPIX and 早稲田アカデミー emphasize consistent study habits, but the focus is often on academic content rather than the specific neural mechanisms of memory and sleep. While companies like ベネッセ教育総合研究所 conduct extensive research on learning, this specific finding on targeted neural repair through a chemical agent like caffeine, without broader lifestyle changes, is not yet a mainstream topic in Japanese educational guidance or product development. The cultural emphasis on perseverance often overshadows discussions about the direct cognitive costs of sleep deprivation."
-      ],
-      "ja": [
-        "この研究は、徹夜明けや寝不足の朝に、なぜか顔がぼんやりしたり、人の名前がすぐに出てこなかったりする現象の背景を説明してくれます。例えば、お子さまが試験勉強で夜遅くまで起きていたとします。翌日、単に体がだるいだけでなく、この研究によると、クラスメイトの顔をスムーズに思い出したり、先生の表情から意図を読み取ったりする脳の特定の機能が損なわれている可能性があるというのです。カフェインは、この特定の記憶回路に対して、まるで専門の修理班のように働きかけ、一時的に機能を回復させる効果が実験で示されました。単なる眠気覚ましとは異なる、標的を絞った作用です。",
-        "中学受験や高校受験を控えた生徒が夜遅くまで勉強することが珍しくない東京の家庭にとって、この研究は睡眠不足の具体的な認知的コストについて、より深い視点を提供するかもしれません。単に「よく寝なさい」というだけでなく、睡眠が特定の学習機能にどのように影響するかを理解するきっかけとなり、学習計画や試験対策のあり方について新たな議論が生まれる可能性もあります。カフェインを推奨するものではありませんが、睡眠と記憶の関係について、より具体的な意識が広がるかもしれません。",
-        "東京の家庭の日常生活に直接的な影響が及ぶのは、おそらく3〜5年後になるでしょう。これは、さらなる人体での臨床試験や、カフェインが思春期の脳に与える長期的な影響についてのより深い理解が前提となります。これらの実験室での発見が、生徒向けの安全で実用的な推奨事項にどのように落とし込まれるか、今後の研究が待たれます。",
-        "現在、SAPIXや早稲田アカデミーのような大手学習塾では、規則正しい学習習慣を重視していますが、その焦点は主に学力向上であり、記憶と睡眠の神経メカニズムそのものに踏み込むことは稀です。ベネッセ教育総合研究所のような機関が学習に関する広範な研究を行っていますが、カフェインのような化学物質による神経回路の標的修復という、生活習慣の改善とは異なるアプローチは、まだ日本の教育指導や教材開発の主流にはなっていません。日本の文化では、根性論で乗り切るという考えが強く、睡眠不足の具体的な認知コストに関する議論は、まだ十分に深まっていないのが現状です。"
-      ]
-    },
-    "structured": {
-      "tagline": {
-        "en": "Caffeine helps sleep-deprived brains recall faces.",
-        "ja": "睡眠不足による記憶障害、カフェインが回復。"
-      },
-      "whoForWhat": {
-        "en": "For Tokyo families with students experiencing sleep disruption due to studies or extracurriculars, this research offers insights into how lack of sleep specifically affects memory for social interactions.",
-        "ja": "受験勉強や部活動で睡眠時間が不規則になりがちな東京の学生家庭にとって、睡眠不足が社会的記憶にどのように影響するかを理解する一助となる研究です。"
-      },
-      "vsJapanContext": {
-        "en": "Unlike current Japanese juku curricula that often emphasize perseverance through long study hours, this research points to specific cognitive costs of sleep deprivation that existing systems rarely address directly.",
-        "ja": "長時間学習を重視する日本の学習塾の現状とは異なり、この研究は睡眠不足がもたらす具体的な認知コストに焦点を当てており、既存の教育システムではあまり直接的に扱われていない点です。"
-      },
-      "tokyoNote": {
-        "en": "This finding is interesting, but Tokyo parents should view it as a stepping stone for future sleep science, not an immediate green light for caffeine as a study aid for their children. Adequate sleep remains paramount for healthy development.",
-        "ja": "興味深い発見ですが、東京の保護者の皆様には、これを即座にお子さまの学習補助としてカフェインを推奨するものではなく、将来の睡眠科学への一歩として捉えていただきたいです。十分な睡眠が健全な発達には不可欠です。"
-      }
-    },
-    "source": {
-      "name": "ScienceDaily — Educational Psychology",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260529043654.htm"
-    },
-    "sourceGuid": "https://www.sciencedaily.com/releases/2026/05/260529043654.htm",
     "status": "published"
   }
 ]
