@@ -1,5 +1,7 @@
 {
   "seen": [
+    "http://arxiv.org/abs/2607.28128v2",
+    "https://www.sciencedaily.com/releases/2026/08/260805082508.htm",
     "http://arxiv.org/abs/2608.03206v1",
     "https://hechingerreport.org/?p=117425",
     "https://www.sciencedaily.com/releases/2026/08/260805082450.htm",
@@ -110,7 +112,7 @@
     "urn:id:8909",
     "tag:theconversation.com,2011:article/284069"
   ],
-  "lastRunAt": "2026-08-07T00:55:43.526Z",
-  "lastSuccessAt": "2026-08-07T00:55:43.526Z",
-  "totalRuns": 61
+  "lastRunAt": "2026-08-07T21:02:26.323Z",
+  "lastSuccessAt": "2026-08-07T21:02:26.323Z",
+  "totalRuns": 62
 }
