@@ -1,5 +1,107 @@
 [
   {
+    "slug": "linking-learning-outcomes-to-edtech-payments",
+    "category": "methods",
+    "issue": "Vol. 03",
+    "publishedAt": "2026-08-10T10:00:00.000Z",
+    "readingMinutes": 4,
+    "feature": true,
+    "cover": {
+      "src": "https://i0.wp.com/hechingerreport.org/wp-content/uploads/2026/08/proof-obc-eval-080626-scaled.jpg?fit=1024%2C683&amp;ssl=1",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "Linking Learning Outcomes to Edtech Payments",
+      "ja": "学習成果と教育ベンダーへの支払い：米国学校区の新たな試み"
+    },
+    "dek": {
+      "en": "US school districts are exploring outcomes-based contracts for educational software and tutoring, paying vendors based on student performance rather than just service delivery.",
+      "ja": "米国の学校区が教育ソフトウェアや個別指導の購入に成果連動型契約を導入。提供されたサービスだけでなく、生徒の学習成果に応じてベンダーに支払う新モデルです。"
+    },
+    "author": {
+      "en": "WORLD STUDY TOKYO Editors",
+      "ja": "WORLD STUDY TOKYO 編集部"
+    },
+    "location": {
+      "en": "August 10, 2026",
+      "ja": "2026年8月10日"
+    },
+    "tags": [
+      {
+        "en": "EdTech",
+        "ja": "エドテック"
+      },
+      {
+        "en": "Learning Effectiveness",
+        "ja": "学習効果"
+      },
+      {
+        "en": "Education Policy",
+        "ja": "教育政策"
+      },
+      {
+        "en": "Procurement",
+        "ja": "調達"
+      }
+    ],
+    "body": {
+      "en": [
+        "School districts in the United States are exploring a new approach to purchasing educational tools and services, moving away from traditional payment models. Instead of simply paying vendors for the delivery of software or tutoring programs, some policymakers are advocating for contracts that tie payments directly to measurable student learning outcomes. This trend, highlighted by recent discussions, aims to ensure that educational investments genuinely translate into improved student performance.",
+        "The traditional procurement method often focuses on inputs — how many licenses are provided, how many hours of tutoring are delivered. However, proponents of outcomes-based contracting argue that this approach overlooks the ultimate goal: whether students actually learn and achieve better results. By linking payment to results, schools aim to incentivize vendors to develop and deliver truly effective programs, shifting the financial risk from the district to the provider if outcomes are not met.",
+        "> Instead of paying vendors simply for delivering these tools, school districts are experimenting with a new approach.",
+        "In practice, this could mean a school district pays a tutoring company a bonus if students in their program show a specific improvement in reading scores, or a software provider receives full payment only if students using their platform achieve a certain proficiency level in mathematics. Metrics might include standardized test scores, attendance rates, or even graduation rates. This model requires clear, agreed-upon metrics and robust data collection to accurately assess impact.",
+        "The mechanism is simple: if a product or service doesn't work, the vendor doesn't get paid in full. This creates a strong incentive for quality and effectiveness, potentially weeding out less impactful solutions from the market. It also encourages vendors to work closely with schools to understand specific student needs and tailor their offerings for maximum effect.",
+        "Implementing outcomes-based contracts presents challenges, including defining appropriate metrics, establishing reliable data collection systems, and negotiating fair terms. There are also debates about whether such contracts might encourage teaching to the test or focus on easily measurable outcomes over broader educational goals. As more districts experiment, the education sector will be watching to see if this model can consistently deliver on its promise of improved student results across diverse student populations."
+      ],
+      "ja": [
+        "米国の学校区では現在、教育サービスや教材の購入方法において、従来の支払いモデルからの転換を模索する動きが見られます。単に教育ソフトウェアや個別指導プログラムの提供に対して対価を支払うのではなく、一部の政策立案者は、支払いを生徒の学習成果に直接結びつける契約方式を提唱しています。この新たな潮流は、教育投資が真に生徒の学力向上につながるよう促すことを目的としています。",
+        "従来の調達方法では、提供されるライセンス数や指導時間数といった「投入量」に焦点が当てられがちでした。しかし、成果連動型契約の提唱者たちは、このアプローチが最終目標である「生徒が実際に学び、より良い結果を出すこと」を見落としていると指摘します。支払いを成果に結びつけることで、学校はベンダーが真に効果的なプログラムを開発・提供するよう促し、もし成果が達成されなかった場合の財政的リスクを学校からベンダーへと移転させようとしています。",
+        "「単に教育ツールを提供するだけでベンダーに支払うのではなく、学校区は新しいアプローチを試みています。」",
+        "具体的には、ある個別指導会社が生徒の読解力テストで特定の改善を示した場合にボーナスを支払ったり、ソフトウェア会社が生徒がそのプラットフォームを使って数学で一定の習熟度を達成した場合にのみ全額を支払ったりする、といった形が考えられます。評価指標には、標準テストのスコア、出席率、さらには卒業率などが含まれることがあります。このモデルを機能させるためには、明確で合意された評価指標と、効果を正確に測定するための堅牢なデータ収集システムが不可欠です。",
+        "この仕組みは明快です。もし製品やサービスが効果を発揮しなければ、ベンダーは全額を受け取れません。これにより、質と効果に対する強いインセンティブが生まれ、市場から影響力の低いソリューションが淘汰される可能性もあります。また、ベンダーは学校と密接に連携し、生徒の具体的なニーズを理解し、提供するサービスを最大限に効果的に調整するよう促されます。",
+        "成果連動型契約の導入には、適切な評価指標の定義、信頼できるデータ収集システムの確立、そして公平な契約条件の交渉といった課題が伴います。また、テスト対策に偏ったり、測定しやすい成果ばかりに焦点が当たったりする可能性についての議論もあります。より多くの学校区がこの実験的なアプローチを試みる中で、教育セクターは、多様な生徒層において学力向上という約束をこのモデルが継続的に果たせるかどうかを注視していくでしょう。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "Imagine buying a study app or a tutoring package for your child. Typically, you pay for the subscription or the hours of lessons. This new idea from the US suggests that schools should pay these providers not just for the service itself, but for whether your child actually improves their grades, test scores, or attendance. It's like paying a personal trainer only if you meet your fitness goals, rather than just for the sessions you attend. The goal is to ensure that the money spent on education truly translates into tangible learning progress.",
+        "For Tokyo families, this trend could eventually influence how juku (cram schools) or international schools evaluate and select their digital learning tools or supplementary programs. If adopted, it might lead to juku offering \"guaranteed improvement\" courses where a portion of the fee is refunded or waived if specific academic targets aren't met. It could also shift the focus of edtech companies operating in Japan towards more evidence-based efficacy rather than just feature sets.",
+        "This is likely a longer-term shift for Japan. We might see some international schools in Tokyo, particularly those with a global outlook on procurement, experiment with such models within 3-5 years. For the broader juku market or public education system, widespread adoption would likely take 5-10 years, gated by the need for robust domestic data collection standards and a cultural shift in how educational value is perceived and measured.",
+        "While not identical, some Japanese services already offer a form of outcomes focus. For instance, Z会の個別指導やベネッセの進研ゼミでは、特定の目標達成に向けたカリキュラム設計やサポートが充実しています。しかし、これらのサービスが「成果が出なければ支払いを減額する」という直接的な契約モデルを導入しているわけではなく、米国のような金融リスクを伴う成果連動型契約はまだ見られません。"
+      ],
+      "ja": [
+        "お子さまのために学習アプリや個別指導のパッケージを購入する場面を想像してみてください。通常、私たちは利用料や授業時間に対して料金を支払います。しかし、米国で注目されているこの新しい考え方は、学校がこれらのサービス提供者に対し、単にサービス自体ではなく、お子さまの成績やテストの点数、出席率が実際に改善されたかどうかに応じて支払うべきだというものです。これは、フィットネスジムに通う回数ではなく、実際に目標体重に達した場合にのみトレーナーに報酬を支払う、という考え方に似ています。教育に投じられた費用が、確実に目に見える学習の進歩につながることを目指しています。",
+        "東京のご家庭にとって、このトレンドは将来的に、塾やインターナショナルスクールがデジタル学習ツールや補習プログラムを評価・選定する方法に影響を与える可能性があります。もし導入が進めば、塾が「成績保証コース」を設け、特定の学力目標が達成されなかった場合に授業料の一部を返金または免除するようなサービスが出てくるかもしれません。また、日本で事業展開するエドテック企業も、単なる機能の豊富さだけでなく、エビデンスに基づいた学習効果をより重視するようになるでしょう。",
+        "日本での広範な導入には、もう少し時間がかかるでしょう。東京のインターナショナルスクールの中には、グローバルな調達の視点から、今後3〜5年以内にこのようなモデルを試験的に導入するところが現れるかもしれません。しかし、一般的な塾市場や公教育システムにおいて広く普及するには、国内での信頼性の高いデータ収集基準の確立と、教育的価値の捉え方や測定方法に関する文化的な変化が必要となるため、5〜10年程度の期間を要すると考えられます。",
+        "日本でも全く同じ形ではありませんが、成果に焦点を当てるサービスは既に存在します。例えば、Z会の個別指導やベネッセの進研ゼミでは、特定の目標達成に向けたカリキュラム設計やサポートが充実しています。しかし、これらのサービスが「成果が出なければ支払いを減額する」という直接的な契約モデルを導入しているわけではなく、米国のような金融リスクを伴う成果連動型契約はまだ見られません。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "Paying for results, not just products, in education.",
+        "ja": "教育サービスは「結果」で支払う時代へ"
+      },
+      "whoForWhat": {
+        "en": "For Tokyo families interested in how schools and juku might evaluate the true effectiveness of learning programs and tools their children use.",
+        "ja": "お子さまが使う学習プログラムやツールの真の有効性を、学校や塾がどう評価し、費用を支払うのかに関心がある東京のご家庭へ。"
+      },
+      "vsJapanContext": {
+        "en": "This approach differs from typical procurement in Japan's public schools and juku, where payment is usually for service delivery or product licenses, not directly tied to student outcome metrics.",
+        "ja": "日本の公立学校や塾の一般的な調達方法とは異なり、サービス提供やライセンスへの支払いだけでなく、生徒の具体的な学習成果に直接結びつける点で異なります。"
+      },
+      "tokyoNote": {
+        "en": "While common in some corporate settings, outcomes-based contracts are novel in education. Tokyo families should consider if this model could foster greater accountability and measurable impact from the juku and edtech services they invest in.",
+        "ja": "企業取引では見られる成果連動型契約が、教育分野で注目されています。東京のご家庭にとっては、塾やエドテックサービスへの投資が、より明確な成果と責任を伴うようになる可能性を考えるきっかけになるでしょう。"
+      }
+    },
+    "source": {
+      "name": "The Hechinger Report",
+      "url": "https://hechingerreport.org/proof-points-outcomes-basedcontracting/"
+    },
+    "sourceGuid": "https://hechingerreport.org/?p=117435",
+    "status": "published"
+  },
+  {
     "slug": "seven-days-of-meditation-a-catalyst-for-brain-and-body-transformation",
     "category": "research",
     "issue": "Vol. 03",
@@ -4845,8 +4947,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#CCE1CE"
+      "src": "https://images.unsplash.com/photo-1561089489-f13d5e730d72?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#D2E4D5"
     },
     "title": {
       "en": "AI Reshapes STEM Education: From Knowledge Transfer to Capability Building",
@@ -5463,8 +5565,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1593720213428-28a5b9e94613?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#C9E0CC"
+      "src": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#CDE3CF"
     },
     "title": {
       "en": "ELEVATE: Human-Centered AI Tutors for Privacy and Accessibility",
@@ -6909,8 +7011,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#DCD2E7"
+      "src": "https://images.unsplash.com/photo-1521405924368-64c5b84bec60?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#B2D6EC"
     },
     "title": {
       "en": "The Enduring Power of Literacy: A Historical Perspective",
@@ -7319,8 +7421,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#C8DFCB"
+      "src": "https://images.unsplash.com/photo-1593720213428-28a5b9e94613?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#C9E0CC"
     },
     "title": {
       "en": "Giving AI Tutors a Memory: New Research Creates 'History-Aware' Student Profiles",
@@ -7729,8 +7831,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#D0E4D3"
+      "src": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#CDE3CF"
     },
     "title": {
       "en": "Beyond 'Collaboration': What AI Truly Offers in Learning",
@@ -7935,8 +8037,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1573164713619-24c711fe7878?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#C4DDC6"
+      "src": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#CDE3CF"
     },
     "title": {
       "en": "AI Evaluates Human Tutors: Linking Training to Real-World Performance",
@@ -8128,108 +8230,6 @@
     },
     "source": {
       "name": "ScienceDaily — Child Development",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260616102214.htm"
-    },
-    "sourceGuid": "https://www.sciencedaily.com/releases/2026/06/260616102214.htm",
-    "status": "published"
-  },
-  {
-    "slug": "childrens-eye-movements-may-signal-early-depression-risk-2",
-    "category": "early-childhood",
-    "issue": "Vol. 01",
-    "publishedAt": "2026-06-17T01:56:37.000Z",
-    "readingMinutes": 4,
-    "feature": true,
-    "cover": {
-      "src": "https://images.unsplash.com/photo-1485546246426-74dc88dec4d9?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#FFE0E5"
-    },
-    "title": {
-      "en": "Children's Eye Movements May Signal Early Depression Risk",
-      "ja": "子どもの視線に潜むうつ病の早期兆候：家族歴が影響"
-    },
-    "dek": {
-      "en": "New research suggests that how children visually process facial expressions, particularly emotions, could offer a subtle clue to their risk of developing depression, with patterns differing based on family history.",
-      "ja": "新たな研究によると、子どもが顔の表情、特に感情をどのように視覚的に処理するかは、うつ病発症リスクの微妙な手がかりとなる可能性があります。このパターンは家族歴によって異なることが示唆されています。"
-    },
-    "author": {
-      "en": "WORLD STUDY TOKYO Editors",
-      "ja": "WORLD STUDY TOKYO 編集部"
-    },
-    "location": {
-      "en": "Tokyo",
-      "ja": "東京"
-    },
-    "tags": [
-      {
-        "en": "Mental Health",
-        "ja": "心の健康"
-      },
-      {
-        "en": "Child Development",
-        "ja": "子どもの発達"
-      },
-      {
-        "en": "Emotional Regulation",
-        "ja": "感情調整"
-      },
-      {
-        "en": "Early Detection",
-        "ja": "早期発見"
-      }
-    ],
-    "body": {
-      "en": [
-        "A recent scientific inquiry has identified a subtle but significant indicator of depression risk in children: how their eyes focus on emotional cues in faces. This finding, published in mid-2026, suggests that early changes in visual attention to expressions like sadness or happiness could serve as an important, non-verbal clue, especially when considered alongside a child's family history of depression.",
-        "The research highlights that not all children at risk show the same patterns. For those with a higher inherited predisposition to depression, the visual system appears to become more attuned to sad expressions. Conversely, children with a lower inherited risk, but who may still be developing depression, tended to show a reduced natural attention to happy expressions.",
-        "This distinction is crucial because it points to different attentional biases (a tendency to selectively focus on certain information) at play, depending on the underlying vulnerability. Scientists employed eye-tracking technology, a method that precisely measures where and for how long a person looks at specific areas of an image, to observe these subtle shifts in children's visual processing.",
-        "The implications for families are significant. It suggests that depression, even in its early stages, may subtly alter a child's perception of their social environment, influencing what they instinctively notice or overlook in others' faces. This shift in attention could potentially feed into a cycle where emotional information is processed differently, affecting social interactions and mood over time.",
-        "> Depression appears to change what children notice in the faces around them, but the effect depends on family history.",
-        "Understanding these distinct visual patterns could pave the way for earlier identification of children who might benefit from support. Rather than waiting for overt symptoms, which can be challenging for children to articulate, observing these eye-movement patterns could offer a more objective and timely window into a child's emotional state and potential risk trajectory. Further research will likely explore how these findings can be integrated into practical screening tools or therapeutic interventions."
-      ],
-      "ja": [
-        "最近の科学研究により、子どものうつ病リスクを示す、ある繊細ながらも重要な指標が特定されました。それは、子どもが顔の表情に現れる感情のサインに、どのように視線を集中させるかという点です。2026年半ばに発表されたこの知見は、悲しみや喜びといった表情への視覚的注意の初期変化が、特にうつ病の家族歴と合わせて考慮された場合、重要な非言語的な手がかりとなりうると示唆しています。",
-        "この研究が強調するのは、リスクのある全ての子どもが同じパターンを示すわけではないという点です。うつ病に対して遺伝的な素因が高い子どもたちは、悲しい表情により注意を向ける傾向が見られました。一方で、遺伝的リスクは低いものの、うつ病を発症する可能性のある子どもたちは、楽しい表情への自然な注意が減少する傾向を示しました。",
-        "この違いは非常に重要です。それは、根底にある脆弱性に応じて、異なる注意バイアス（特定の情報に無意識に注意が向きやすくなる傾向）が働いていることを示唆しています。科学者たちは、アイトラッキング技術（人が画像の特定の領域をどこに、どれくらいの時間見ているかを正確に測定する手法）を用いて、子どもの視覚処理におけるこれらの微妙な変化を観察しました。",
-        "この発見が家庭にもたらす意味は大きいです。うつ病は、その初期段階でさえ、子どもの社会的環境に対する認識を微妙に変え、他者の顔から本能的に何を察知し、何を見過ごすかに影響を与えている可能性を示唆しています。このような注意のシフトは、感情的な情報の処理方法に違いを生み、やがて時間とともに社会的な交流や気分に影響を及ぼす悪循環につながることも考えられます。",
-        "「うつ病は、子どもが周囲の顔から何に気づくかを変えるように見えますが、その影響は家族歴によって異なります。」",
-        "これらの異なる視覚パターンを理解することは、サポートが必要な子どもたちをより早期に特定する道を開くかもしれません。子どもたちが言葉で表現するのが難しい具体的な症状を待つのではなく、視線の動きのパターンを観察することで、子どもの感情状態と潜在的なリスクの軌跡をより客観的かつタイムリーに把握できる窓を提供できる可能性があります。今後、これらの知見を実用的なスクリーニングツールや治療的介入にどのように組み込むかについて、さらなる研究が進められるでしょう。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "This research offers a fascinating glimpse into the subtle ways a child's brain processes emotions, long before overt symptoms of depression might appear. Think of it like a child learning a new song: some children might instinctively pick up on the melancholic notes, while others might simply tune out the cheerful melodies. This study suggests that these unconscious attentional biases could be an early warning sign, particularly when considering a family history of mental health conditions.",
-        "For Tokyo families, this finding could eventually influence how early childhood development specialists and school counselors approach mental wellness. Instead of solely relying on self-reporting or behavioral observations, which can be challenging for younger children, future approaches might incorporate more objective measures. This could lead to more nuanced conversations between parents and professionals about a child's emotional landscape, potentially encouraging proactive support.",
-        "The practical integration of such eye-tracking methods into general pediatric or school settings in Japan is likely 5-10 years away. It would be gated by the development of accessible, non-invasive screening tools, and importantly, by a shift in public and professional awareness regarding early mental health indicators. We would need to see domestic replication studies and clear guidelines from bodies like the Ministry of Health, Labour and Welfare (厚生労働省) or the Ministry of Education, Culture, Sports, Science and Technology (文部科学省).",
-        "While direct eye-tracking screening isn't widespread in Japan yet, institutions like the National Center for Child Health and Development (国立成育医療研究センター) are already conducting advanced research into child mental health. Furthermore, some international schools in Tokyo, with their emphasis on holistic child development and access to global research, might be quicker to explore and integrate such insights into their student support services. The challenge will be making these sophisticated insights accessible and actionable for all families, regardless of their access to specialized care."
-      ],
-      "ja": [
-        "この研究は、うつ病の明らかな症状が現れるずっと前から、子どもの脳が感情を処理する微妙な方法について興味深い洞察を与えてくれます。これは、子どもが新しい歌を覚える様子に似ています。ある子は本能的に憂鬱な音符に気づきやすいかもしれませんが、別の子は明るいメロディーに注意が向かないかもしれません。この研究は、このような無意識の注意バイアスが、特に家族に精神疾患の既往がある場合に、早期の警告サインとなりうる可能性を示唆しています。",
-        "東京で子育てをするご家庭にとって、この知見は将来的に、幼児教育の専門家やスクールカウンセラーが子どもの心の健康にどう向き合うかに影響を与える可能性があります。幼い子どもにとって自己申告や行動観察だけでは難しい場合があるため、将来的にはより客観的な測定方法が取り入れられるかもしれません。これにより、子どもの感情的な状態について、保護者と専門家の間でよりきめ細やかな対話が生まれ、予防的なサポートにつながることが期待されます。",
-        "このようなアイトラッキング手法が日本の一般的な小児科や学校環境に実用的に導入されるまでには、おそらく5年から10年かかるでしょう。この進展は、手軽で非侵襲的なスクリーニングツールの開発、そして何よりも早期の心の健康指標に対する一般市民と専門家の意識の変化によって左右されます。国内での追試研究や、厚生労働省や文部科学省のような機関からの明確なガイドラインが必要となるでしょう。",
-        "日本国内でアイトラッキングによる直接的なスクリーニングが広く普及しているわけではありませんが、国立成育医療研究センターのような機関は、すでに子どもの心の健康に関する先進的な研究を進めています。また、東京の一部のインターナショナルスクールは、ホリスティックな子どもの発達に重点を置き、グローバルな研究へのアクセスがあるため、このような知見を生徒サポートサービスにいち早く取り入れ、探求するかもしれません。課題は、これらの高度な知見を、専門的なケアへのアクセスに関わらず、すべての家庭にとって利用可能で実践的なものにすることです。"
-      ]
-    },
-    "structured": {
-      "tagline": {
-        "en": "Children's gaze patterns may offer early depression clues.",
-        "ja": "子どもの視線、うつ病の早期兆候に。"
-      },
-      "whoForWhat": {
-        "en": "For Tokyo parents of young children (ages 3-10) concerned about early mental health indicators or with a family history of depression, this research offers a new lens for understanding subtle emotional processing.",
-        "ja": "うつ病の家族歴がある、または子どもの心の健康の早期兆候が気になる東京の保護者（3〜10歳のお子さんをお持ちの方）にとって、この研究は感情処理の微妙な側面を理解する新たな視点を提供します。"
-      },
-      "vsJapanContext": {
-        "en": "While specific eye-tracking diagnostics are not yet common in Japan's pediatric or school health systems, this finding aligns with a growing emphasis by the Ministry of Health, Labour and Welfare on early mental health support for children.",
-        "ja": "日本の子ども向け医療や学校保健システムでは、特定のアイトラッキング診断はまだ一般的ではありませんが、この知見は、厚生労働省が重視する子どもの心の健康の早期支援の方向性と一致しています。"
-      },
-      "tokyoNote": {
-        "en": "This interesting research from abroad highlights how much we still have to learn about early mental health. For Tokyo families, the takeaway is less about immediate clinical application and more about fostering an environment where children feel safe to express a full range of emotions, and where parents are attuned to subtle, non-verbal cues. While advanced tools are distant, empathetic observation is always available.",
-        "ja": "海外からのこの興味深い研究は、子どもの心の健康についてまだ学ぶべきことが多いことを示しています。東京のご家庭にとっての示唆は、すぐに臨床応用されるというよりも、子どもが多様な感情を安心して表現できる環境を育み、保護者が微妙な非言語的なサインに気づくことの重要性です。高度なツールはまだ先ですが、共感的な観察は常に身近なところにあります。"
-      }
-    },
-    "source": {
-      "name": "ScienceDaily — Educational Psychology",
       "url": "https://www.sciencedaily.com/releases/2026/06/260616102214.htm"
     },
     "sourceGuid": "https://www.sciencedaily.com/releases/2026/06/260616102214.htm",
