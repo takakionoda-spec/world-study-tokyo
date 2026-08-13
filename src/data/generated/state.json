@@ -1,5 +1,6 @@
 {
   "seen": [
+    "https://www.technologyreview.com/?p=1141896",
     "http://arxiv.org/abs/2608.09548v2",
     "https://www.sciencedaily.com/releases/2026/08/260811011138.htm",
     "urn:id:8820",
@@ -122,7 +123,7 @@
     "urn:id:8909",
     "tag:theconversation.com,2011:article/284069"
   ],
-  "lastRunAt": "2026-08-12T21:05:35.044Z",
+  "lastRunAt": "2026-08-13T21:05:57.834Z",
   "lastSuccessAt": "2026-08-12T21:05:35.044Z",
-  "totalRuns": 67
+  "totalRuns": 68
 }
