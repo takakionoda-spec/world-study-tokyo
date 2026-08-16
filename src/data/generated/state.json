@@ -1,5 +1,6 @@
 {
   "seen": [
+    "http://arxiv.org/abs/2608.09046v1",
     "http://arxiv.org/abs/2608.10492v1",
     "http://arxiv.org/abs/2608.12292v1",
     "https://www.technologyreview.com/?p=1142033",
@@ -127,7 +128,7 @@
     "urn:id:8909",
     "tag:theconversation.com,2011:article/284069"
   ],
-  "lastRunAt": "2026-08-15T20:41:54.974Z",
-  "lastSuccessAt": "2026-08-15T20:41:54.974Z",
-  "totalRuns": 70
+  "lastRunAt": "2026-08-16T20:41:11.538Z",
+  "lastSuccessAt": "2026-08-16T20:41:11.538Z",
+  "totalRuns": 71
 }
