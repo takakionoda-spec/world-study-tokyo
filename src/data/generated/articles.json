@@ -1,5 +1,209 @@
 [
   {
+    "slug": "rethinking-decision-making-your-choices-may-emerge-from-interaction-not-a-centra",
+    "category": "research",
+    "issue": "Vol. 03",
+    "publishedAt": "2026-08-25T17:53:28.000Z",
+    "readingMinutes": 5,
+    "feature": true,
+    "cover": {
+      "src": "https://www.sciencedaily.com/images/1920/neuroscience-brain-perception-processing.webp",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "Rethinking Decision-Making: Your Choices May Emerge from Interaction, Not a Central Command",
+      "ja": "「意思決定」は脳の司令部から生まれるのか？ 新たな視点が示す、選択の多角的な起源"
+    },
+    "dek": {
+      "en": "New neuroscience research challenges the traditional view of a brain-based command center for decisions, suggesting choices arise from continuous interplay with our body and environment.",
+      "ja": "脳が意思決定の「司令官」であるという従来の考え方に、神経科学者が異議を唱えています。私たちの選択は、知覚、運動、身体、そして周囲の世界との継続的な相互作用から生まれるのかもしれません。"
+    },
+    "author": {
+      "en": "WORLD STUDY TOKYO Editors",
+      "ja": "WORLD STUDY TOKYO 編集部"
+    },
+    "location": {
+      "en": "Tokyo, Japan",
+      "ja": "日本、東京"
+    },
+    "tags": [
+      {
+        "en": "Cognitive Science",
+        "ja": "認知科学"
+      },
+      {
+        "en": "Child Development",
+        "ja": "子どもの発達"
+      },
+      {
+        "en": "Decision Making",
+        "ja": "意思決定"
+      },
+      {
+        "en": "Executive Function",
+        "ja": "実行機能"
+      }
+    ],
+    "body": {
+      "en": [
+        "A recent perspective from a neuroscientist is challenging the long-held idea that our brains contain a central system solely responsible for \"making\" our decisions. Instead of a singular command center, this research suggests that what we experience as choosing may actually emerge from a dynamic and continuous interaction involving our perceptions, movements, bodily states, and the world around us.",
+        "This shift in understanding moves away from a purely internal, mentalistic view of decision-making towards a more integrated and embodied perspective. For parents and educators, this has profound implications for how we understand and foster a child's autonomy, problem-solving abilities, and overall cognitive development. It suggests that \"making a good decision\" isn't just about internal deliberation, but about a child's active engagement with their environment.",
+        "Consider a child learning to navigate a new playground. Their choice to climb a ladder, slide down, or play in the sand isn't a pre-programmed command from a specific brain region. Rather, it's a continuous loop of sensory input (seeing the ladder's height), bodily feedback (feeling their balance), motor action (reaching for a rung), and environmental response (the ladder's stability). The \"decision\" to climb emerges organically from this ongoing, real-time interaction.",
+        "> \"What we experience as choosing may instead emerge from the continuous interaction of perception, movement, the body, and the world around us.\"",
+        "This emergent view has significant implications for how we foster executive functions (高次認知機能 — planning, problem-solving, and self-control). If decisions are not just top-down commands, then providing rich, interactive environments and ample opportunities for physical exploration and hands-on engagement becomes critical. It underscores that active learning, movement, and real-world problem-solving are not merely supplementary, but fundamental to developing robust cognitive skills.",
+        "Future research will likely delve deeper into how these continuous interactions are integrated over time and what role conscious reflection plays in refining these emergent choices. For educational practices, this perspective could encourage pedagogical approaches that prioritize active exploration, experiential learning, and integrated physical and mental engagement over purely abstract or passive instruction."
+      ],
+      "ja": [
+        "私たちの脳の中に、意思決定を「下す」中央システムが存在するという従来の考え方に、ある神経科学者が疑問を投げかけています。この新たな視点では、私たちが「選ぶ」と認識する行為は、脳の単一の司令部からではなく、知覚、運動、身体の状態、そして周囲の世界との継続的な相互作用から生まれる可能性が示唆されています。",
+        "この理解の転換は、意思決定を純粋に内面的な思考プロセスとして捉えるのではなく、身体全体と環境が一体となった、より統合的で動的な現象として見直すものです。保護者や教育者にとって、これは子どもの自律性、問題解決能力、そして全体的な認知発達をどのように育むかについて、重要な示唆を与えます。良い「決断」をするとは、単に頭の中で考えるだけでなく、子どもが環境と積極的に関わることによって生まれるものだ、と捉えることができます。",
+        "例えば、新しい公園で遊ぶ子どもが、はしごを登るか、滑り台を滑るか、砂場で遊ぶかを選ぶ場面を想像してみてください。これは、脳の特定の領域からの事前にプログラムされた命令によるものではありません。むしろ、目から入る情報（はしごの高さを見る）、身体のフィードバック（バランスを感じる）、運動行動（手すりに手を伸ばす）、そして環境からの反応（はしごの安定性）といった、感覚入力、身体、運動、環境が常に循環し、相互に影響し合う中で「決断」が自然と生まれるのです。",
+        "「私たちが選択として経験することは、知覚、運動、身体、そして周囲の世界との継続的な相互作用から生まれるのかもしれない」",
+        "この「創発的（emergent）」な意思決定の考え方は、計画性や自己制御といった実行機能（目標に向かって行動を計画し、衝動を抑える高次認知機能）の育成にも大きな意味を持ちます。もし意思決定が単なるトップダウンの命令ではないのなら、子どもたちに豊かな相互作用の機会、身体を使った探求、そして実践的な体験を提供することが、これらの認知能力を育む上で不可欠となります。能動的な学び、身体活動、そして現実世界での問題解決が、単なる補足ではなく、強固な認知スキルを育む上での基礎であるという点を強調しています。",
+        "今後の研究では、これらの継続的な相互作用が時間とともにどのように統合され、意識的な思考がその創発的な選択プロセスにどのように関与するのかがさらに深掘りされるでしょう。教育実践の現場では、この視点から、単なる抽象的な知識伝達や受動的な学習ではなく、能動的な探求、体験学習、そして身体と精神が統合された学びを重視するアプローチが一段と奨励されるかもしれません。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "We often imagine our brain as a central command center, dictating all our decisions. However, this research suggests that our choices aren't just \"made\" by a single brain region. Instead, they emerge dynamically from a constant interplay of what we perceive (sight, sound), how we move, our body's internal state (like hunger or fatigue), and the environment around us. Think of it like a sports game: the next move isn't solely decided by the coach's command, but emerges from the real-time interactions of all players, the ball's position, and the opponents' movements.",
+        "If this perspective gains traction in education, it could influence how Tokyo families approach learning. For instance, developing \"critical thinking\" or \"judgment skills\" — often emphasized in junior high and university entrance exams — might involve more than just desk-based study. It could highlight the importance of physical activity, hands-on experiences, and varied environments for genuine cognitive development. It also lends scientific backing to inquiry-based learning and project-based approaches common in international schools.",
+        "It will likely take time for such fundamental neuroscience findings to translate into widespread educational practice in Japan. We might see initial pilot programs in progressive schools abroad within 3-5 years, followed by their evaluation. For these insights to influence MEXT's curriculum guidelines or be integrated into major juku (cram school) programs, a longer timeframe of 5-10 years, contingent on domestic research and curriculum development, is more realistic. However, some forward-thinking domestic private schools and international schools in Tokyo already implicitly embrace similar principles.",
+        "In Japan, schools like N高等学校 and S高等学校 emphasize practical learning through programming, project work, and club activities, which aligns with the idea of decision-making emerging from the interaction between body and environment. While different from rote learning methods like Kumon or Gakken, educational institutions and programs that promote children's active inquiry and experiential learning are likely to be early adopters of insights from this kind of research."
+      ],
+      "ja": [
+        "これまで私たちは、脳の中に「司令官」がいて、あらゆる意思決定を下していると考えがちでした。しかしこの研究は、選択という行為は、脳だけでなく、目から入る情報（知覚）、体の動き（運動）、お腹が空いたなどの体の状態、そして周囲の環境といった、様々な要素が常に影響し合いながら、その瞬間に「湧き上がってくる」ものだという見方を提示しています。まるでサッカーの試合で、監督の指示だけでなく、選手一人ひとりの動き、ボールの位置、相手選手の配置など、刻々と変わる状況全体から次のプレーが生まれるようなものです。",
+        "この考え方が教育現場に浸透すれば、東京のご家庭の子育てにも影響があるでしょう。例えば、中学受験や大学受験で求められる「思考力」や「判断力」を育む上で、単に机に向かって考えるだけでなく、体を動かす体験や、多様な環境での試行錯誤の機会がより重視されるようになるかもしれません。また、インターナショナルスクールで盛んな探求型学習やプロジェクト学習の意義が、脳科学の視点からも裏付けられることになります。",
+        "このような基礎研究の知見が日本の教育実践に具体的に反映されるまでには、まだ時間がかかると考えられます。まず海外の教育現場で実践例が生まれ、その効果が検証されるのに3〜5年。その後、文部科学省の学習指導要領改訂や、大手学習塾のカリキュラム開発に影響を与えるまでには、さらに5〜10年程度のスパンが必要でしょう。ただし、一部の先進的な国内私立校やインターナショナルスクールでは、すでに同様の理念で学びの場が設計されています。",
+        "日本では、N高等学校・S高等学校が、座学だけでなくプログラミングやプロジェクト学習、部活動などを通じた実践的な学びを重視しており、この「身体と環境との相互作用から生まれる意思決定」という考え方と通じる部分があります。また、公文式や学研教室のような反復学習とは異なるアプローチとして、子どもの主体的な探求を促す教育機関やプログラムが、この研究の示唆をいち早く取り入れていく可能性があります。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "Decisions emerge from interaction, not just the brain.",
+        "ja": "意思決定は脳だけでなく、身体と環境の相互作用から生まれる。"
+      },
+      "whoForWhat": {
+        "en": "For Tokyo families with children of all ages, this research offers a new lens on how children learn to make choices and develop executive functions, emphasizing active engagement over passive instruction.",
+        "ja": "あらゆる年齢の子どもを持つ東京のご家庭にとって、この研究は、子どもがどのように意思決定を行い、実行機能を育むかについての新たな視点を提供し、受動的な学習ではなく能動的な関わりの重要性を強調します。"
+      },
+      "vsJapanContext": {
+        "en": "This perspective challenges the traditional emphasis on purely academic, desk-based learning common in some juku, suggesting that physical and environmental interaction are fundamental to cognitive development, aligning more with inquiry-based international school curricula.",
+        "ja": "一部の学習塾で一般的な、机上での学力偏重型学習に対し、身体と環境との相互作用が認知発達の基礎であると示唆するこの研究は、探求型学習を重視するインターナショナルスクールのカリキュラムとより合致するでしょう。"
+      },
+      "tokyoNote": {
+        "en": "This interesting research prompts Tokyo parents to consider that \"smart choices\" might be cultivated not just through mental exercises, but also by providing rich, interactive environments. While MEXT curriculum reforms are slow, some progressive Japanese schools and international schools already embody these principles, offering a counterpoint to rote learning.",
+        "ja": "この興味深い研究は、東京の保護者に対し、「賢い選択」が単なる頭脳訓練だけでなく、豊かな相互作用環境の提供によっても育まれる可能性を示唆します。文科省のカリキュラム改訂は緩やかですが、一部の先進的な国内校やインターナショナルスクールでは、既にこれらの原則を取り入れた学習が実践されており、詰め込み型学習への対抗軸となり得ます。"
+      }
+    },
+    "source": {
+      "name": "ScienceDaily — Child Development",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260823094148.htm"
+    },
+    "sourceGuid": "https://www.sciencedaily.com/releases/2026/08/260823094148.htm",
+    "status": "published"
+  },
+  {
+    "slug": "the-rise-of-youtuber-college-admissions-mentors",
+    "category": "admissions",
+    "issue": "Vol. 03",
+    "publishedAt": "2026-08-25T21:00:00.000Z",
+    "readingMinutes": 5,
+    "feature": true,
+    "cover": {
+      "src": "https://wp.technologyreview.com/wp-content/uploads/2026/08/GoharKhan2_courtesy-photo-thumb.jpg?resize=1200,600",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "The Rise of YouTuber College Admissions Mentors",
+      "ja": "大学受験指導、YouTuberが新たな担い手に"
+    },
+    "dek": {
+      "en": "Online creators are carving out a significant role in guiding students through the complex university admissions process, offering accessible and relatable advice.",
+      "ja": "複雑な大学受験プロセスにおいて、オンラインクリエイターが学生を導く重要な役割を担い始めています。彼らはアクセスしやすく、共感を呼ぶアドバイスを提供しています。"
+    },
+    "author": {
+      "en": "WORLD STUDY TOKYO Editors",
+      "ja": "WORLD STUDY TOKYO 編集部"
+    },
+    "location": {
+      "en": "TOKYO, August 25, 2026",
+      "ja": "東京, 2026年8月25日"
+    },
+    "tags": [
+      {
+        "en": "Admissions",
+        "ja": "入試"
+      },
+      {
+        "en": "Online Learning",
+        "ja": "オンライン学習"
+      },
+      {
+        "en": "Higher Education",
+        "ja": "高等教育"
+      },
+      {
+        "en": "Mentorship",
+        "ja": "メンターシップ"
+      }
+    ],
+    "body": {
+      "en": [
+        "The landscape of college admissions guidance is steadily evolving, with online platforms emerging as central hubs for prospective students seeking advice. MIT Technology Review recently highlighted this trend, observing how a YouTuber has successfully established a niche as a college admissions mentor, signaling a shift in how young people access crucial information for their higher education journeys.",
+        "This phenomenon reflects a growing demand for more relatable and accessible guidance beyond traditional counselors or formal preparatory institutions. Students often find the peer-to-peer insights offered by these online mentors more authentic and practical, especially when navigating the nuanced requirements of applications such as personal essays and interviews. This democratization of information empowers students, particularly those without easy access to expensive private consultants.",
+        "A YouTuber's approach typically involves breaking down complex application components, sharing personal experiences, and curating relevant resources. Their 'niche' often means focusing on specific types of universities, application strategies (e.g., test-optional pathways), or even particular majors, offering targeted advice that might not be readily available in a general counseling session.",
+        "> \"The shift from formal counseling to peer-led digital guidance marks a significant change in how students prepare for university.\"",
+        "While the informal nature of these channels offers authenticity, it also raises questions about the consistency and accuracy of the advice. Unlike professional guidance, which adheres to established best practices and ethical standards, online content can vary widely in quality and may not always be up-to-date with the latest admissions policies. Students and parents are therefore encouraged to cross-reference information and seek diverse perspectives.",
+        "Looking ahead, the rise of online admissions mentors suggests a future where traditional educational institutions and preparatory schools may need to integrate more digital strategies or even collaborate with such influencers. The ongoing development of AI tools could further augment these human-led channels, offering personalized feedback on essays or interview practice, thereby reshaping the support ecosystem for university applicants."
+      ],
+      "ja": [
+        "大学受験の指導環境は着実に変化しており、オンラインプラットフォームが志望学生にとって重要な情報源となりつつあります。MIT Technology Reviewは最近、あるYouTuberが大学受験メンターとして独自の地位を確立している現象に注目し、若者が高等教育への道のりに関する重要な情報にアクセスする方法が変化していることを指摘しました。",
+        "この現象は、従来のカウンセラーや公式な予備校とは異なる、より身近でアクセスしやすい指導への需要の高まりを反映しています。学生たちは、個人的なエッセイや面接といった複雑な出願要件を乗り越える上で、オンラインメンターが提供する同世代からの視点を、より現実的で実践的だと感じることが少なくありません。この情報の民主化は、特に高額な個別コンサルタントを利用しにくい学生にとって、大きな力となります。",
+        "YouTuberによる指導は、通常、複雑な出願要素の解説、自身の経験談の共有、関連リソースのキュレーションといった形で行われます。彼らの「ニッチ」な専門性は、特定の大学、出願戦略（例：テスト提出を任意とする入試）、あるいは特定の専攻に焦点を当てることで、一般的なカウンセリングでは得にくい具体的なアドバイスを提供しています。",
+        "> 「公式なカウンセリングから、同世代が主導するデジタル指導への移行は、学生が大学進学準備をする方法における大きな変化を示している。」",
+        "これらの非公式なチャネルは、その信憑性において強みを持つ一方で、アドバイスの一貫性や正確性については疑問も投げかけます。確立されたベストプラクティスや倫理基準に則る専門的な指導とは異なり、オンラインコンテンツの質は幅広く、最新の入試ポリシーに常に対応しているとは限りません。そのため、学生や保護者は情報を多角的に検証し、多様な視点から情報を集めることが推奨されます。",
+        "今後、オンラインの入試メンターの台頭は、従来の教育機関や予備校がよりデジタル戦略を統合したり、あるいはこうしたインフルエンサーと連携したりする必要がある未来を示唆しています。AIツールの継続的な発展は、エッセイの個別フィードバックや面接練習の提供を通じて、人間主導のこれらのチャネルをさらに強化し、大学受験生へのサポートエコシステムを再構築する可能性を秘めています。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "For Tokyo families navigating the increasingly complex world of university admissions, especially for overseas institutions, the rise of YouTuber mentors offers a compelling new dynamic. This isn't just about finding study tips; it's about gaining insights into the 'unwritten rules' of applications, understanding cultural nuances in personal statements, and hearing authentic experiences from those who have successfully trodden the path.",
+        "This trend will likely influence Tokyo high school students considering both international universities, where holistic admissions (総合型選抜のような多角的な評価) are standard, and domestic universities emphasizing 総合型選抜. Families might find themselves allocating parts of their education budget not just to traditional juku for academic drilling, but also to subscriptions or workshops from online mentors who specialize in essay writing, interview skills, and portfolio development.",
+        "This shift is already underway for students targeting overseas universities, with many actively seeking out English-language content from US or UK-based admissions YouTubers. For a broader impact on domestic 大学受験, we could see this trend solidify within 3-5 years, particularly if major juku (SAPIX, 河合塾など) or online learning platforms like Z会 or Atama+ begin to integrate similar peer-led or influencer-driven content into their offerings, perhaps in collaboration with successful alumni.",
+        "While no single 'YouTuber admissions mentor' dominates the Japanese landscape in the same way, Japanese educational entities are certainly moving in comparable directions. N 高等学校・S 高等学校, for instance, has built a robust online community and leverages digital content for learning and career guidance, including university admissions. Additionally, private counselors specializing in overseas university applications often use online platforms to reach students, embodying a similar spirit of accessible, specialized advice, though perhaps in a more formalized manner."
+      ],
+      "ja": [
+        "複雑化する大学受験の世界、特に海外大学進学を目指す東京のご家庭にとって、YouTuberメンターの台頭は新たな魅力的な選択肢となり得ます。これは単なる勉強法のヒント探しに留まらず、出願の「暗黙のルール」を理解し、志望理由書における文化的なニュアンスを学び、実際にその道を成功裏に歩んだ人々の体験談を聞くことを意味します。",
+        "このトレンドは、ホリスティック入試（学力だけでなく、課外活動やエッセイ、面接などで人物全体を評価する入試方式）が一般的な海外大学を目指す高校生だけでなく、国内の総合型選抜を視野に入れる学生にも影響を与えるでしょう。ご家庭では、学力向上を目的とした従来の塾費用だけでなく、エッセイ作成、面接スキル、ポートフォリオ開発に特化したオンラインメンターのサブスクリプションやワークショップに教育予算の一部を充てるようになるかもしれません。",
+        "海外大学を目指す学生の間では、すでにこの動きが始まっており、多くの学生が米国や英国を拠点とするYouTuberの英語コンテンツを積極的に探しています。国内の大学受験全体に広範な影響を与えるには、3〜5年かかるかもしれません。特に、SAPIXや河合塾といった大手塾や、Z会、Atama+のようなオンライン学習プラットフォームが、成功した卒業生との連携などを通じて、同様のピア主導型またはインフルエンサー主導型のコンテンツを自社の提供サービスに統合するかが鍵となるでしょう。",
+        "日本には、海外のような形で「YouTuber入試メンター」が全国的に支配的な存在として確立されているわけではありませんが、日本の教育機関も同様の方向へ進んでいます。例えば、N高等学校・S高等学校は、オンラインコミュニティとデジタルコンテンツを学習およびキャリア指導、大学受験指導に活用しています。また、海外大学進学専門のプライベートカウンセラーも、オンラインプラットフォームを通じて学生にリーチしており、より形式的ではありますが、アクセスしやすい専門的なアドバイスを提供するという点で同様の精神を持っています。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "Online mentors are changing college admissions guidance.",
+        "ja": "YouTuberが大学受験指導のあり方を変える。"
+      },
+      "whoForWhat": {
+        "en": "For Tokyo families with high schoolers considering overseas university applications, this trend highlights new, accessible sources of admissions advice beyond traditional counselors.",
+        "ja": "海外大学進学を検討する高校生を持つ東京のご家庭にとって、従来のカウンセラーとは異なる、新たな受験指導の情報源の台頭を示唆します。"
+      },
+      "vsJapanContext": {
+        "en": "While Japan's 大学受験 largely relies on juku for academic prep, this global trend points to a growing demand for holistic admissions guidance, similar to 総合型選抜, but delivered digitally.",
+        "ja": "日本の大学受験が塾による学力対策に重きを置く中、この世界的トレンドは、総合型選抜のような多角的な指導への需要がデジタルで高まっていることを示します。"
+      },
+      "tokyoNote": {
+        "en": "This phenomenon underscores the increasing demand for personalized admissions insights, particularly for overseas universities. Tokyo families often seek bespoke advice, and online channels offer a scalable, often more relatable, alternative to traditional private counselors, especially for nuanced aspects like essay writing and personal statements.",
+        "ja": "この現象は、特に海外大学進学における個別化された入試情報の需要の高まりを浮き彫りにします。東京のご家庭では、エッセイや志望理由書といった微妙なニュアンスを要する部分で、従来の個別指導に代わる、より身近で効率的なオンラインチャネルが求められていると言えるでしょう。"
+      }
+    },
+    "source": {
+      "name": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/08/25/1140905/youtuber-finds-niche-as-college-admissions-mentor/"
+    },
+    "sourceGuid": "https://www.technologyreview.com/?p=1140905",
+    "status": "published"
+  },
+  {
     "slug": "childhood-stress-leaves-lasting-scar-on-brain-cells-mouse-study-finds",
     "category": "early-childhood",
     "issue": "Vol. 03",
@@ -5963,8 +6167,8 @@
     "readingMinutes": 6,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1573164713619-24c711fe7878?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#C4DDC6"
+      "src": "https://images.unsplash.com/photo-1593720213428-28a5b9e94613?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#C9E0CC"
     },
     "title": {
       "en": "AI Tutors May Overassist, Hindering Deep Learning",
@@ -6887,8 +7091,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#DCD2E7"
+      "src": "https://images.unsplash.com/photo-1455390582262-044cdead277a?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#D9CFE5"
     },
     "title": {
       "en": "Beyond Depression: A Constipation Drug's Unexpected Cognitive Boost",
@@ -7093,8 +7297,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1593720213428-28a5b9e94613?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#C9E0CC"
+      "src": "https://images.unsplash.com/photo-1561089489-f13d5e730d72?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#D2E4D5"
     },
     "title": {
       "en": "AI Tutors Step into Real Classrooms: Scalability Challenges Emerge",
@@ -7299,8 +7503,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#C8DFCB"
+      "src": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#D0E4D3"
     },
     "title": {
       "en": "AI Tutors Show Bias, Limiting Access to Complex Knowledge for Marginalized Students",
@@ -7915,8 +8119,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1561089489-f13d5e730d72?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#D2E4D5"
+      "src": "https://images.unsplash.com/photo-1573164713619-24c711fe7878?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#C4DDC6"
     },
     "title": {
       "en": "AI Reshapes STEM Education: From Knowledge Transfer to Capability Building",
@@ -8011,210 +8215,6 @@
       "url": "http://arxiv.org/abs/2607.05412v1"
     },
     "sourceGuid": "http://arxiv.org/abs/2607.05412v1",
-    "status": "published"
-  },
-  {
-    "slug": "ai-tutor-prompt-coach-shows-promise-in-teaching-new-tech-skills",
-    "category": "ai-edu",
-    "issue": "Vol. 02",
-    "publishedAt": "2026-07-07T09:44:46.000Z",
-    "readingMinutes": 3,
-    "feature": true,
-    "cover": {
-      "src": "https://images.unsplash.com/photo-1551434678-e076c223a692?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#CFE3D2"
-    },
-    "title": {
-      "en": "AI Tutor 'Prompt Coach' Shows Promise in Teaching New Tech Skills",
-      "ja": "AIチューター「Prompt Coach」が示す、新しい技術スキル学習の可能性"
-    },
-    "dek": {
-      "en": "A new agentic AI tutor helps software developers master prompt engineering, demonstrating significant skill improvement in a short session through Socratic guidance.",
-      "ja": "新しいエージェント型AIチューターが、ソクラテス式指導法でプロンプトエンジニアリングの習得を支援。短時間でスキルが大幅に向上する可能性を示しました。"
-    },
-    "author": {
-      "en": "WORLD STUDY TOKYO Editors",
-      "ja": "WORLD STUDY TOKYO 編集部"
-    },
-    "location": {
-      "en": "TOKYO",
-      "ja": "東京"
-    },
-    "tags": [
-      {
-        "en": "AI in Education",
-        "ja": "教育におけるAI"
-      },
-      {
-        "en": "Skill Acquisition",
-        "ja": "スキル習得"
-      },
-      {
-        "en": "Prompt Engineering",
-        "ja": "プロンプトエンジニアリング"
-      },
-      {
-        "en": "Future Skills",
-        "ja": "未来のスキル"
-      }
-    ],
-    "body": {
-      "en": [
-        "Researchers have introduced \"Prompt Coach\" (PC), an agentic tutor designed to help software developers master prompt engineering—the skill of crafting effective instructions for artificial intelligence (AI) code generation tools. An early empirical study, published as a preprint in July 2026, demonstrated significant improvements in prompt quality among professional developers after a single, hour-long session.",
-        "Prompt engineering has rapidly become a vital skill in software development, yet its dynamic, interactive, and context-dependent nature makes it challenging to teach through traditional methods. Effective prompts are crucial for harnessing the power of large language models (LLMs) to generate high-quality code. The study highlights that many developers often overlook key dimensions of prompt quality, leading to suboptimal AI outputs.",
-        "Prompt Coach integrates directly into a developer's integrated development environment (IDE)—the software application where developers write and debug code. It employs Socratic guidance (a teaching method that uses a series of questions to help learners discover answers themselves), evaluating the quality of prompts across multiple dimensions and then posing targeted questions to guide the user towards self-correction. This guidance is specifically grounded in the developer's own codebase and the expected behavior of the target LLM, making the learning highly relevant and practical.",
-        "> \"Participants showed statistically significant improvements after a single 60-minute session, with the largest gains across dimensions commonly overlooked by developers.\"",
-        "The empirical study involved 15 professional developers. After a 60-minute session with Prompt Coach, participants exhibited statistically significant improvements in their prompt-writing abilities. Notably, the most substantial gains were observed in areas of prompt quality that developers frequently neglect. Beyond quantitative improvements, participants reported high levels of trust in the system, a strong readiness to adopt it into their workflow, and a unanimous agreement that Prompt Coach enhanced their skills.",
-        "This research points to a future where AI-powered tutors can effectively teach complex, rapidly evolving skills that are difficult to formalize in textbooks or lectures. While this specific application focuses on software development, the underlying approach—context-aware Socratic guidance for skill acquisition—has broader implications for how individuals might learn new, emergent competencies across various fields, from scientific research to creative arts, as AI tools become more integrated into professional workflows."
-      ],
-      "ja": [
-        "2026年7月に発表されたプレプリント論文によると、研究者たちは「Prompt Coach」（プロンプト・コーチ、PC）というエージェント型チューターを開発しました。これは、ソフトウェア開発者が人工知能（AI）のコード生成ツールに効果的な指示（プロンプト）を作成するスキル、すなわちプロンプトエンジニアリングを習得するのを支援するものです。初期の実証研究では、プロの開発者がわずか1時間のセッションでプロンプトの質を大幅に向上させたことが示されています。",
-        "プロンプトエンジニアリングは、ソフトウェア開発において急速に重要性を増しているスキルですが、その動的でインタラクティブ、かつ文脈依存的な性質から、従来の学習方法では教えるのが難しいとされてきました。大規模言語モデル（LLM）の力を最大限に引き出し、質の高いコードを生成させるためには、効果的なプロンプトの作成が不可欠です。この研究では、多くの開発者がプロンプトの質の重要な側面を見落としがちであり、それがAIの出力の質を低下させていると指摘しています。",
-        "Prompt Coachは、開発者がコードを記述・デバッグするソフトウェアアプリケーションである統合開発環境（IDE）に直接組み込まれています。このシステムは、ソクラテス式指導法（質問を通じて学習者自身の思考を促す教育手法）を採用しており、複数の側面からプロンプトの質を評価します。そして、ユーザーが自己修正できるよう、的を絞った質問を提示します。この指導は、開発者自身のコードベースと、対象となるLLMの振る舞いに基づいて行われるため、学習は非常に実践的で関連性が高いものとなります。",
-        "「参加者はわずか60分のセッション後に統計的に有意な改善を示し、特に開発者が見落としがちな側面で最大の成果が得られました。」",
-        "この実証研究には15人のプロのソフトウェア開発者が参加しました。Prompt Coachとの60分間のセッション後、参加者たちはプロンプト作成スキルにおいて統計的に有意な改善を示しました。特に注目すべきは、開発者が普段見落としがちなプロンプトの質の側面において、最も大きな向上が見られた点です。定量的な改善に加え、参加者たちはシステムに対する高い信頼、ワークフローへの導入に対する強い意欲、そしてPrompt Coachが自身のプロンプト作成スキルを向上させたという全員一致の意見を報告しています。",
-        "この研究は、AIを搭載したチューターが、教科書や講義では形式化しにくい、複雑で急速に進化するスキルを効果的に教える未来を示唆しています。この特定の応用はソフトウェア開発に焦点を当てていますが、その根底にあるアプローチ、すなわち文脈を意識したソクラテス式指導によるスキル習得は、AIツールが専門的なワークフローにさらに統合されるにつれて、科学研究からクリエイティブな芸術まで、さまざまな分野における新しい、出現しつつある能力を人々がどのように学ぶかについて、より広範な意味合いを持つでしょう。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "Imagine a personal tutor who doesn't just give you answers, but gently guides you with questions until you figure out the solution yourself. That's essentially what Prompt Coach does for software developers learning how to \"talk\" to AI. Instead of a textbook, it's embedded in their actual work, observing their attempts to instruct an AI and then asking targeted questions like, \"What if you rephrased that request to be more specific about the output format?\" or \"Could you break down this complex task into smaller steps for the AI?\" This Socratic approach helps learners build a deeper, more intuitive understanding of prompt engineering.",
-        "For Tokyo families, this type of agentic AI tutor points to a future where learning new, rapidly evolving skills becomes much more accessible and personalized. As AI becomes ubiquitous, not just in coding but in many professional fields, the ability to interact with it effectively—what we call \"AI literacy\"—will be crucial. This could impact how high school students prepare for university entrance exams like 総合型選抜 (comprehensive selection), where demonstrating practical skills and problem-solving abilities is valued. It also suggests new ways for students to acquire specialized technical skills that might not be part of the standard curriculum.",
-        "While Prompt Coach is currently specialized for software development, the underlying principles of Socratic AI tutoring could expand to other domains within 3-5 years. The key gating factor will be the development of robust AI models capable of understanding and guiding learning in diverse, less structured fields beyond coding. We might see early versions of such general-purpose AI tutors emerge in specialized online learning platforms or private educational services first, rather than within the MEXT curriculum.",
-        "In Japan, educational services like Atama+ (アタマプラス) already use AI to personalize learning paths for academic subjects, focusing on mastery of existing curricula. However, Prompt Coach represents a different kind of AI tutor: one that teaches *new* skills in *emergent* fields through interactive, Socratic dialogue. While Atama+ excels at adapting to a learner's pace for known content, there isn't yet a widely adopted Japanese counterpart specifically designed to teach rapidly evolving, context-dependent skills like prompt engineering using this agentic, Socratic method. N高等学校 (N High School) and S高等学校 (S High School) with their focus on practical IT and programming skills might be the closest in spirit, as they emphasize self-directed learning in contemporary tech domains."
-      ],
-      "ja": [
-        "答えをすぐに与えるのではなく、質問を重ねることで学習者自身が解決策を見つける手助けをする個別指導の先生を想像してみてください。まさにそれが「Prompt Coach」がソフトウェア開発者に対して行っていることです。AIに「話しかける」方法、つまりプロンプトエンジニアリングを学ぶ開発者に対し、教科書ではなく彼らの実際の作業環境に組み込まれて、AIへの指示を試みる様子を観察します。そして、「そのリクエストを、出力形式についてもっと具体的に言い換えたらどうだろう？」「この複雑なタスクを、AIにとってより小さなステップに分解できないか？」といった的を絞った質問を投げかけます。このソクラテス式指導法は、プロンプトエンジニアリングに対するより深く、直感的な理解を育むのに役立ちます。",
-        "東京のご家庭にとって、このようなエージェント型AIチューターの登場は、急速に進化する新しいスキルの学習が、よりアクセスしやすく、パーソナルなものになる未来を示唆しています。AIがプログラミングだけでなく、多くの専門分野で遍在するようになるにつれて、AIと効果的に対話する能力、すなわち「AIリテラシー」は不可欠なスキルとなるでしょう。これは、実践的なスキルや問題解決能力が評価される大学入試、例えば総合型選抜の準備をする高校生に影響を与える可能性があります。また、標準的なカリキュラムには含まれない専門的な技術スキルを、生徒が新しい方法で習得する道も開かれるかもしれません。",
-        "Prompt Coachは現在、ソフトウェア開発に特化していますが、ソクラテス式AI指導の根底にある原則は、3〜5年以内に他の分野にも拡大する可能性があります。重要な決定要因となるのは、コーディング以外の多様で構造化されていない分野でも学習を理解し、導くことができる堅牢なAIモデルの開発が進むかどうかです。文部科学省のカリキュラムに組み込まれるよりも早く、まずは専門的なオンライン学習プラットフォームや民間の教育サービスで、このような汎用AIチューターの初期バージョンが登場するかもしれません。",
-        "日本では、アタマプラス（Atama+）のような教育サービスが、既存の学術科目の学習経路をAIで個別最適化し、習熟度を高めることに注力しています。しかし、Prompt Coachはそれとは異なる種類のAIチューターです。インタラクティブなソクラテス式対話を通じて、*新しい*、*出現しつつある*分野のスキルを教えるものです。アタマプラスが既知のコンテンツに対する学習者のペース適応に優れる一方、プロンプトエンジニアリングのような急速に進化し、文脈に依存するスキルを、このエージェント型ソクラテス式指導法で教えるための、広く普及した日本版のサービスはまだありません。実践的なIT・プログラミングスキルに重点を置くN高等学校やS高等学校は、現代のテクノロジー分野における自律学習を重視している点で、精神的には最も近い存在と言えるでしょう。"
-      ]
-    },
-    "structured": {
-      "tagline": {
-        "en": "AI tutor helps developers master prompt engineering in an hour.",
-        "ja": "AIチューターが1時間でプロンプト作成スキルを向上。"
-      },
-      "whoForWhat": {
-        "en": "For Tokyo families with high schoolers interested in tech careers or university admissions that value practical skills, this shows how AI can teach new, evolving competencies.",
-        "ja": "テクノロジー分野のキャリアや、実践的なスキルを重視する大学入試（総合型選抜など）に関心のある高校生を持つ東京のご家庭にとって、AIが新しいスキル習得をどう支援するかを示唆します。"
-      },
-      "vsJapanContext": {
-        "en": "While Japan's education system emphasizes foundational knowledge, this AI tutor highlights a global shift towards teaching dynamic, emergent skills like prompt engineering, which is less common in traditional Japanese curricula.",
-        "ja": "日本の教育が基礎知識の習得を重視する一方、このAIチューターはプロンプトエンジニアリングのような動的で新しいスキルを教える世界的な潮流を示しており、日本の従来のカリキュラムではまだ一般的ではありません。"
-      },
-      "tokyoNote": {
-        "en": "This research offers a glimpse into how AI could teach future-critical skills that traditional juku or school curricula don't yet cover. For Tokyo parents, it suggests a need to consider tools that foster adaptability and interaction with AI, rather than just rote learning.",
-        "ja": "この研究は、従来の塾や学校のカリキュラムではまだ扱われていない、将来的に不可欠なスキルをAIがどう教えうるかを示唆します。東京の保護者にとっては、単なる暗記学習だけでなく、AIとの対話や適応力を育むツールを検討する必要性を示唆するでしょう。"
-      }
-    },
-    "source": {
-      "name": "arXiv cs.CY",
-      "url": "http://arxiv.org/abs/2607.06074v1"
-    },
-    "sourceGuid": "http://arxiv.org/abs/2607.06074v1",
-    "status": "published"
-  },
-  {
-    "slug": "universal-algebra-for-eighth-graders-cambridges-ambitious-math-initiative",
-    "category": "methods",
-    "issue": "Vol. 02",
-    "publishedAt": "2026-07-06T05:00:00.000Z",
-    "readingMinutes": 5,
-    "feature": true,
-    "cover": {
-      "src": "https://i0.wp.com/hechingerreport.org/wp-content/uploads/2026/12/k12-cambridge-algebra-feat-scaled.jpg?fit=1024%2C683&amp;ssl=1",
-      "tone": "#0c0c0c"
-    },
-    "title": {
-      "en": "Universal Algebra for Eighth Graders: Cambridge's Ambitious Math Initiative",
-      "ja": "中学2年生全員に代数学を：ケンブリッジ市が挑む数学教育改革"
-    },
-    "dek": {
-      "en": "A US city aims to provide all middle schoolers with early access to advanced math, raising questions about equity, rigor, and effective support.",
-      "ja": "米国ケンブリッジ市が、すべての中学2年生に代数学を履修させる計画を発表。公平性、教育水準、そして効果的なサポート体制が問われます。"
-    },
-    "author": {
-      "en": "WORLD STUDY TOKYO Editors",
-      "ja": "WORLD STUDY TOKYO 編集部"
-    },
-    "location": {
-      "en": "CAMBRIDGE, Mass.",
-      "ja": "マサチューセッツ州ケンブリッジ"
-    },
-    "tags": [
-      {
-        "en": "math education",
-        "ja": "数学教育"
-      },
-      {
-        "en": "algebra",
-        "ja": "代数学"
-      },
-      {
-        "en": "curriculum reform",
-        "ja": "カリキュラム改革"
-      },
-      {
-        "en": "equity in education",
-        "ja": "教育の公平性"
-      }
-    ],
-    "body": {
-      "en": [
-        "Cambridge, Massachusetts, has embarked on an ambitious educational initiative to ensure all eighth-grade students take algebra, a goal that many other US cities have pursued with mixed results. This effort, highlighted in a recent dispatch, aims to broaden access to advanced mathematics earlier in students' academic careers.",
-        "The rationale behind such programs often centers on educational equity. Proponents argue that introducing algebra at an earlier age can provide a stronger foundation for high school math, open doors to STEM (Science, Technology, Engineering, and Mathematics) pathways, and ultimately enhance college and career readiness, especially for students from historically underserved communities. However, achieving universal participation without compromising academic rigor or leaving some students behind presents a significant challenge.",
-        "Successful implementation typically requires a multi-faceted approach. This often includes robust support systems for students who may not be fully prepared for algebra, such as targeted tutoring, summer bridge programs, and differentiated instruction (teaching methods tailored to individual student needs) within the classroom. Teacher training is also crucial to equip educators with strategies for teaching a diverse group of learners with varying prior knowledge and skill levels.",
-        "> \"diversity and teacher quality.\"",
-        "The experience of other cities suggests that simply mandating algebra for all eighth graders can lead to difficulties. Without adequate preparation and support, some students may struggle, potentially developing negative attitudes toward math. Concerns also arise about whether the curriculum might be diluted to accommodate a wider range of abilities, inadvertently lowering standards for those who are already proficient.",
-        "The long-term success of Cambridge's initiative will likely depend on its ability to strike a balance between universal access and academic excellence. It will be important to monitor student outcomes, not just in algebra completion rates but also in subsequent math courses, to ensure that early exposure genuinely translates into deeper understanding and sustained engagement with advanced mathematics. The effort underscores a broader commitment to ensuring all students have the opportunity to build strong quantitative reasoning skills."
-      ],
-      "ja": [
-        "マサチューセッツ州ケンブリッジ市では、すべての中学2年生（8th graders）が代数学（algebra）を履修するという野心的な教育改革に着手しています。これは、他の多くの米国都市が試みてきたものの、成功が分かれている目標です。この取り組みは、生徒の学業キャリアの早い段階で高度な数学へのアクセスを広げることを目指しています。",
-        "このようなプログラムの背景には、教育の公平性（equity）を高めたいという考えがあります。推進派は、代数学を早期に導入することで、高校数学のより強固な基礎を築き、STEM（科学・技術・工学・数学）分野への道を開き、最終的には特にこれまで十分な教育機会を得られなかった生徒たちの大学進学やキャリア準備を強化できると主張しています。しかし、学業の厳格さを損なうことなく、また一部の生徒を置き去りにすることなく、普遍的な参加を実現することは大きな課題です。",
-        "成功するためには、多角的なアプローチが不可欠です。これには、代数学の準備が十分でない可能性のある生徒への強力なサポート体制が含まれます。具体的には、個別指導、夏季集中プログラム、そして教室での個別最適化された指導（differentiated instruction ── 生徒一人ひとりの習熟度や学習スタイルに合わせて指導法を調整すること）などが挙げられます。また、多様な事前知識やスキルレベルを持つ生徒たちを教えるための戦略を教師が習得できるよう、教員研修も非常に重要です。",
-        "> 「多様性と教師の質」",
-        "他の都市での経験は、単に中学2年生全員に代数学の履修を義務付けるだけでは、困難が生じる可能性を示唆しています。十分な準備とサポートがなければ、一部の生徒は苦戦し、数学に対して否定的な感情を抱くようになるかもしれません。また、幅広い能力に対応するためにカリキュラムが薄められ、すでに習熟している生徒にとっての基準が意図せず低下する可能性についても懸念が上がっています。",
-        "ケンブリッジ市のこの取り組みの長期的な成功は、普遍的なアクセスと学業的卓越性のバランスをいかに取るかにかかっています。代数学の履修率だけでなく、その後の数学コースでの生徒の成績も継続的に監視し、早期の代数学への接触が真に深い理解と高度な数学への持続的な関与につながるかどうかを確認することが重要です。この取り組みは、すべての生徒が強力な量的推論スキルを築く機会を得られるようにするという、より広範なコミットメントを強調しています。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "This news highlights a trend in US education where cities like Cambridge are trying to ensure all middle schoolers (around age 13-14, equivalent to a Japanese junior high 2nd grader) take algebra. The idea is to give every student an early start in advanced math, not just those already excelling, much like a child learning to play a complex piece on the piano early, with consistent support, rather than waiting until high school. It's about opening up pathways to science and technology fields for a broader group of students.",
-        "For Tokyo families, this trend could eventually influence how math is approached in private junior high schools or international schools, particularly those aiming for early acceleration. It might also spark conversations about the pacing of math curricula in the lead-up to high school and university entrance exams, where a strong foundation in advanced concepts is critical. The push for universal access to advanced topics could challenge the traditional tracking systems seen in some educational settings.",
-        "While a direct policy shift in public schools might take 5-10 years, gated by MEXT curriculum revisions, the discussion could influence private junior high schools and international schools sooner. Some progressive private schools might explore similar acceleration models within 3-5 years, especially if they see a clear benefit for university admissions pathways, including for overseas universities.",
-        "In Japan, some elite private junior high schools already offer accelerated math programs, where students cover junior high and even high school math content earlier than the national curriculum. Programs like SAPIX or 四谷大塚 for 中学受験 also push students to master complex problem-solving at a young age, though not necessarily formal algebra for *all* students at the 8th-grade equivalent. The key difference is often the \"universal access\" component, as Japanese acceleration is typically for a select, high-performing group."
-      ],
-      "ja": [
-        "このニュースは、米国の一部の都市、例えばケンブリッジ市が、すべての中学2年生（8th graders、日本の13〜14歳に相当）に代数学（algebra）を履修させるという教育トレンドを伝えています。これは、優秀な生徒だけでなく、すべての生徒に早期から高度な数学への道を開こうという考え方です。例えるなら、子どもが難しいピアノ曲を高校生になってから始めるのではなく、十分なサポートを受けながら早い時期から取り組み始めるようなものです。より幅広い生徒が科学技術分野に進むための基礎を築くことが目的です。",
-        "東京のご家庭にとって、このトレンドは将来的に私立中学やインターナショナルスクールにおける数学教育のアプローチに影響を与える可能性があります。特に早期からの学力向上を目指す学校では、注目されるかもしれません。高校や大学受験において高度な概念の強力な基礎が不可欠となる中で、高校数学への導入時期やカリキュラムの進め方について議論が活発になることも考えられます。より多くの生徒に高度な内容へのアクセスを促す動きは、一部の教育機関で見られる従来の能力別クラス編成に一石を投じる可能性も秘めています。",
-        "日本の公立学校での直接的な政策変更は、文部科学省の学習指導要領改訂サイクルを考えると5〜10年かかるかもしれません。しかし、私立中学やインターナショナルスクールでは、より早くこの議論が取り入れられる可能性があります。特に海外大学進学を見据える学校では、3〜5年以内に同様の早期加速モデルを検討するかもしれません。",
-        "日本では、一部の難関私立中学がすでに高度な数学プログラムを提供しており、生徒が国語科のカリキュラムよりも早く中学・高校の数学内容を履修するケースがあります。SAPIXや四谷大塚といった中学受験塾も、幼い頃から複雑な問題解決能力を養うことに重点を置いていますが、中学2年生相当の年齢で「すべての生徒」に形式的な代数学を教えるという点では異なります。日本の加速教育は通常、選抜された一部の成績優秀層向けであるのに対し、米国のこの動きは「普遍的なアクセス」を目指している点が主な違いです。"
-      ]
-    },
-    "structured": {
-      "tagline": {
-        "en": "Can all middle schoolers learn algebra early?",
-        "ja": "中学生全員の早期代数習得は可能か？"
-      },
-      "whoForWhat": {
-        "en": "For a Tokyo family with a junior high student interested in STEM pathways, this story illuminates a global trend in math education that could influence future curriculum choices.",
-        "ja": "STEM分野に関心を持つ中学のお子さんを持つ東京のご家庭にとって、今後のカリキュラム選択に影響を与えるかもしれない数学教育の世界的トレンドです。"
-      },
-      "vsJapanContext": {
-        "en": "This US initiative contrasts with Japan's traditional math curriculum, where formal algebra often begins in junior high but universal early acceleration is less common than ability-based tracking in some private schools.",
-        "ja": "米国のこの取り組みは、日本で代数学が中学で始まる伝統的なカリキュラムとは対照的で、一部私立校の能力別クラス編成とは異なり、早期の普遍的加速はまだ一般的ではありません。"
-      },
-      "tokyoNote": {
-        "en": "While the MEXT curriculum sets a standard pace, this US trend highlights the global debate on when and how to introduce advanced math. Tokyo parents might consider how international schools or advanced juku programs already offer similar acceleration, and whether this approach truly benefits all students without increasing stress.",
-        "ja": "文部科学省のカリキュラムは一定のペースを定めていますが、この米国のトレンドは、高度な数学をいつ、どのように導入すべきかという世界的な議論を示唆します。東京の保護者は、インターナショナルスクールや一部の進学塾がすでに同様の加速学習を提供している現状と、このアプローチがすべての子どもにとってストレスなく真の利益となるかを考えるきっかけになるでしょう。"
-      }
-    },
-    "source": {
-      "name": "The Hechinger Report",
-      "url": "https://hechingerreport.org/can-this-city-succeed-in-having-all-eighth-graders-take-algebra-where-others-have-failed/"
-    },
-    "sourceGuid": "https://hechingerreport.org/?p=117000",
     "status": "published"
   }
 ]
