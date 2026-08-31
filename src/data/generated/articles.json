@@ -1,5 +1,107 @@
 [
   {
+    "slug": "beyond-the-lizard-brain-new-science-on-how-our-brains-evolve",
+    "category": "research",
+    "issue": "Vol. 03",
+    "publishedAt": "2026-08-31T12:53:45.000Z",
+    "readingMinutes": 5,
+    "feature": true,
+    "cover": {
+      "src": "https://www.sciencedaily.com/images/1920/lizard-brain-ancient-intelligence.webp",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "Beyond the \"Lizard Brain\": New Science on How Our Brains Evolve",
+      "ja": "「爬虫類脳」神話に挑む：脳の進化に関する新知見が示すもの"
+    },
+    "dek": {
+      "en": "A recent study challenges the long-held notion of the brain as layers of old and new, suggesting evolution balances competing wiring styles.",
+      "ja": "脳が古い層と新しい層で構成されるという長年の見方に異議を唱える最新研究。進化は競合する配線スタイルをバランスさせていると示唆します。"
+    },
+    "author": {
+      "en": "WORLD STUDY TOKYO Editors",
+      "ja": "WORLD STUDY TOKYO 編集部"
+    },
+    "location": {
+      "en": "August 31, 2026",
+      "ja": "2026年8月31日"
+    },
+    "tags": [
+      {
+        "en": "Neuroscience",
+        "ja": "神経科学"
+      },
+      {
+        "en": "Child Development",
+        "ja": "児童発達"
+      },
+      {
+        "en": "Brain Science",
+        "ja": "脳科学"
+      },
+      {
+        "en": "Emotional Regulation",
+        "ja": "感情調整"
+      }
+    ],
+    "body": {
+      "en": [
+        "A recent study, highlighted in ScienceDaily, challenges the long-standing \"triune brain\" model, often simplified as the \"lizard brain\" theory. This popular model, dating back over 70 years, suggested that human brains evolved in distinct layers, with newer, rational parts stacked atop older, emotional, and instinctual structures. It posited that our primal instincts resided in a \"reptilian complex,\" emotions in the \"limbic system,\" and higher thought in the \"neocortex.\"",
+        "Researchers have found that brain evolution does not appear to involve simply adding new layers. Instead, their work suggests a more dynamic process where evolution balances two competing styles of brain wiring. One style is optimized for efficient, often instinctual reactions, while the other facilitates more flexible, adaptable responses. Depending on an animal's specific survival needs, one of these wiring styles expands, while the other may shrink.",
+        "This new perspective reframes our understanding of how emotions and rationality interact within the brain. Rather than a constant battle between a primitive \"lizard brain\" and a sophisticated \"thinking brain,\" the findings imply that what we perceive as rational and emotional responses are actually different wiring strategies within a more unified, adaptable system. The brain is not just a collection of distinct, independent parts, but an intricately interconnected network constantly optimizing its responses.",
+        "For parents and educators, this updated view encourages a move beyond simplistic explanations of children's emotional outbursts or difficulties with self-regulation. Instead of viewing such behaviors as a failure of a \"thinking brain\" to control a \"lizard brain,\" it prompts us to consider brain function as a complex interplay of specialized circuits that adapt to environmental demands. This nuance can inform more effective approaches to fostering emotional intelligence and cognitive development.",
+        "> evolution instead appears to balance two competing styles of brain wiring, expanding one while shrinking the other depending on what an animal needs to survive.",
+        "This shift in understanding brain evolution could have significant implications for future educational psychology and pedagogical practices. If our brains are not merely layered but dynamically wired, it suggests that fostering both emotional and cognitive skills might require more integrated approaches. These approaches would move away from treating them as distinct, sequential developmental stages and instead focus on nurturing their interconnected growth. Further research will likely explore how these adaptive wiring styles develop throughout childhood and adolescence, and how they can best be supported."
+      ],
+      "ja": [
+        "科学ニュースサイト ScienceDaily で報じられた最新の研究は、長年にわたり信じられてきた「三位一体脳（triune brain）」モデル、特に「爬虫類脳（lizard brain）」という概念に疑問を投げかけています。70年以上前に提唱されたこのモデルは、人間の脳が古い層の上に新しい理性的な層が積み重なって進化してきたという考え方でした。私たちの原始的な本能は「爬虫類複合体」に、感情は「大脳辺縁系」に、そして高次の思考は「大脳新皮質」にあるとされていました。",
+        "しかし、研究者たちは、脳の進化は単に新しい層を追加するだけではないことを発見しました。彼らの研究は、進化が競合する二つの異なる脳の配線スタイルをバランスさせる、より動的なプロセスであることを示唆しています。一つは効率的でしばしば本能的な反応に最適化されており、もう一つはより柔軟で適応性の高い反応を促します。動物が生存するために必要なものに応じて、これらの配線スタイルの一方が拡張し、もう一方が縮小することがあるというのです。",
+        "この新しい視点は、脳内で感情と理性がどのように相互作用するかについての私たちの理解を根本的に変えるものです。原始的な「爬虫類脳」と洗練された「思考する脳」の間で絶え間ない戦いがあるというよりは、理性的な反応と感情的な反応は、より統一された適応性の高いシステム内における異なる配線戦略であると示唆されています。脳は独立した個別の部分の集合体ではなく、常に反応を最適化する複雑に相互接続されたネットワークなのです。",
+        "保護者や教育者にとって、この脳に関する新しい理解は、子どもの感情的な爆発や自己調整の難しさに対する単純な説明を超えて考えることを促します。そのような行動を「思考する脳」が「爬虫類脳」を制御できない失敗と捉えるのではなく、脳機能が環境の要求に適応する特殊な回路の複雑な相互作用として捉えるべきだという視点を提供します。このニュアンスを理解することは、感情的知性と認知発達を育むためのより効果的なアプローチにつながるでしょう。",
+        "「進化は、動物が生き残るために必要なものに応じて、競合する2つの脳の配線スタイルをバランスさせ、一方を拡大させながら他方を縮小させているようだ」",
+        "この脳進化に関する理解の変化は、将来の教育心理学や教育実践に大きな影響を与える可能性があります。もし私たちの脳が単に層状に構築されているのではなく、動的に配線されているのであれば、感情的スキルと認知的スキルの両方を育むには、より統合的なアプローチが必要であることを示唆します。これらは別々の、順次的な発達段階として扱うのではなく、相互に連結した成長を育むことに焦点を当てるべきでしょう。今後の研究では、これらの適応的な配線スタイルが幼少期から青年期にかけてどのように発達し、どのように最もよくサポートできるかが探求されるはずです。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "This research challenges the idea that our brains operate like a car with an old, unpredictable engine (the \"lizard brain\") and a new, logical navigation system. Instead, it suggests the brain is more like a highly adaptable, integrated computer system that constantly reconfigures its internal wiring to best respond to its environment, balancing quick, instinctive reactions with more thoughtful, flexible ones. It's not about overcoming a primal self, but about optimizing an integrated system.",
+        "For Tokyo families, this could subtly influence how we approach emotional regulation and academic pressure. Rather than seeing a child's stress response during 中学受験 (junior high entrance exam) preparation as a failure of their \"thinking brain\" to control their \"emotional brain,\" this perspective encourages understanding it as a natural, albeit sometimes unhelpful, wiring adaptation. It might shift focus from suppressing emotions to helping children develop more adaptive response patterns. This could also impact how international schools, with their emphasis on social-emotional learning, frame their curriculum.",
+        "The direct impact on daily parenting and education in Tokyo will likely be long-term, perhaps 5-10 years. This kind of foundational neuroscience research typically takes time to translate into practical pedagogical tools or widely adopted parenting strategies. Its integration into mainstream Japanese education, such as MEXT's 学習指導要領 (curriculum guidelines) or major juku practices, would require significant replication studies and curriculum development.",
+        "While there isn't a direct Japanese counterpart to this specific neuroscientific finding, the underlying principle of integrated brain function resonates with broader educational trends. For instance, some progressive international schools in Tokyo, and even institutions like 慶應SFC (Keio University Shonan Fujisawa Campus), already emphasize interdisciplinary learning and holistic development, implicitly acknowledging the interconnectedness of cognitive and emotional functions rather than treating them in isolation. However, the explicit application of this brain wiring model to curriculum design is still nascent in Japan."
+      ],
+      "ja": [
+        "この研究は、私たちの脳が古い予測不能なエンジン（「爬虫類脳」）と新しい論理的なナビゲーションシステムを搭載した車のように機能するという考え方に異議を唱えています。そうではなく、脳は環境に最もよく反応するために内部配線を常に再構成し、素早い本能的な反応と、より思慮深く柔軟な反応のバランスを取る、高度に適応可能な統合型コンピューターシステムのようなものだと示唆しています。これは、原始的な自己を克服するというよりも、統合されたシステムを最適化する話に近いでしょう。",
+        "東京の家庭にとって、この新しい視点は、感情の調整や学業へのプレッシャーに対するアプローチに微妙な影響を与えるかもしれません。中学受験の準備中に子どもが示すストレス反応を、「思考する脳」が「感情的な脳」を制御できない失敗と捉えるのではなく、この視点からは、それは自然な、時には不都合な脳の配線適応として理解されるようになります。感情を抑圧するのではなく、子どもがより適応的な反応パターンを育む手助けをすることに焦点を移すきっかけになるかもしれません。これは、社会情動的学習を重視するインターナショナルスクールがカリキュラムをどのように組み立てるかにも影響を与える可能性があります。",
+        "この研究が東京の日常的な子育てや教育に直接的な影響を与えるまでには、おそらく5年から10年といった長期的な時間が必要でしょう。このような基礎的な神経科学研究は、実用的な教育ツールや広く採用される子育て戦略に転換されるまでに時間を要します。文部科学省の学習指導要領や大手学習塾のカリキュラムに組み込まれるには、さらに多くの追試研究とカリキュラム開発が必要となるでしょう。",
+        "この特定の脳科学的発見に直接的な日本の類似例はまだありませんが、脳機能の統合性という根底にある原則は、より広範な教育トレンドと共鳴します。例えば、東京の一部の先進的なインターナショナルスクールや、慶應義塾大学SFC学部のような教育機関では、認知機能と感情機能の相互関連性を暗黙のうちに認識し、学際的な学習や全人的な発達を重視しています。しかし、この脳の配線モデルを明示的にカリキュラム設計に応用する動きは、日本ではまだ初期段階にあると言えます。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "Brain evolution is about wiring, not just stacked layers.",
+        "ja": "脳の進化は層ではなく配線のバランス。"
+      },
+      "whoForWhat": {
+        "en": "For Tokyo parents curious about the latest insights into child development, this research offers a more nuanced understanding of how emotion and cognition interact, moving beyond simplistic \"lizard brain\" explanations for behavior.",
+        "ja": "子どもの発達に関する最新の知見に関心を持つ東京の保護者へ。感情と認知がどのように相互作用するかについて、「爬虫類脳」といった単純な説明を超えた、より繊細な理解を深める一助となるでしょう。"
+      },
+      "vsJapanContext": {
+        "en": "This neuroscientific finding challenges a Western-centric model, and while Japan's MEXT curriculum doesn't explicitly reference \"lizard brain\" theory, a deeper understanding of integrated brain function could subtly influence future approaches to social-emotional learning in Japanese schools, including those considering 総合型選抜 (Sogogata Senbatsu — holistic admissions).",
+        "ja": "この神経科学的発見は欧米中心のモデルに異議を唱えるもので、文部科学省の学習指導要領が直接「爬虫類脳」に言及することはありませんが、脳の統合的機能への深い理解は、日本の学校（総合型選抜を考慮する学校を含む）における今後の社会情動的学習アプローチに微細な影響を与える可能性があります。"
+      },
+      "tokyoNote": {
+        "en": "Tokyo families often seek clear frameworks for understanding child behavior. This research reminds us that brain science is complex, encouraging a shift from rigid models to appreciating the dynamic, adaptive nature of a child's developing mind. It suggests that fostering resilience might be more about integrated support than about \"controlling\" primal urges.",
+        "ja": "東京の家庭では、子どもの行動を理解するための明確な枠組みが求められがちです。この研究は、脳科学が複雑であることを改めて示し、硬直したモデルから、子どもの発達途上の心が持つダイナミックで適応的な性質を評価することへと視点を転換するよう促します。原始的な衝動を「制御する」ことよりも、統合的なサポートを通じてレジリエンスを育むことの重要性を示唆しています。"
+      }
+    },
+    "source": {
+      "name": "ScienceDaily — Child Development",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260829235958.htm"
+    },
+    "sourceGuid": "https://www.sciencedaily.com/releases/2026/08/260829235958.htm",
+    "status": "published"
+  },
+  {
     "slug": "cleaner-air-sharper-minds-hepa-purifiers-linked-to-improved-brain-function",
     "category": "research",
     "issue": "Vol. 03",
@@ -3080,8 +3182,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#D5C9E2"
+      "src": "https://images.unsplash.com/photo-1456406644174-8ddd4cd52a06?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#D2C5E0"
     },
     "title": {
       "en": "Finnish Study Links Screen Time to Stronger Cognition in Teens",
@@ -5957,8 +6059,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1456406644174-8ddd4cd52a06?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#D2C5E0"
+      "src": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#D5C9E2"
     },
     "title": {
       "en": "The Gut-Brain Axis: How Nutrition Influences Memory Formation",
@@ -6161,8 +6263,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#DCD2E7"
+      "src": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#D6CDE2"
     },
     "title": {
       "en": "Dreams: Not Random Noise, But Active Memory and Emotion Processing",
@@ -6681,8 +6783,8 @@
     "readingMinutes": 6,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1561089489-f13d5e730d72?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#D2E4D5"
+      "src": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#CDE3CF"
     },
     "title": {
       "en": "AI Tutors May Overassist, Hindering Deep Learning",
@@ -7297,8 +7399,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#D0E4D3"
+      "src": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#CCE1CE"
     },
     "title": {
       "en": "Building Safer AI Tutors for Programming Education",
@@ -7605,8 +7707,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1456406644174-8ddd4cd52a06?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#D2C5E0"
+      "src": "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#DCD2E7"
     },
     "title": {
       "en": "Beyond Depression: A Constipation Drug's Unexpected Cognitive Boost",
@@ -7811,8 +7913,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1561089489-f13d5e730d72?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#D2E4D5"
+      "src": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#D0E4D3"
     },
     "title": {
       "en": "AI Tutors Step into Real Classrooms: Scalability Challenges Emerge",
@@ -8017,8 +8119,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1573164713619-24c711fe7878?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#C4DDC6"
+      "src": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#D0E4D3"
     },
     "title": {
       "en": "AI Tutors Show Bias, Limiting Access to Complex Knowledge for Marginalized Students",
@@ -8111,110 +8213,6 @@
       "url": "http://arxiv.org/abs/2607.11292v1"
     },
     "sourceGuid": "http://arxiv.org/abs/2607.11292v1",
-    "status": "published"
-  },
-  {
-    "slug": "brain-decisions-start-earlier-than-we-thought-a-dynamic-view-of-cognition",
-    "category": "research",
-    "issue": "Vol. 02",
-    "publishedAt": "2026-07-13T12:12:27.000Z",
-    "readingMinutes": 5,
-    "feature": true,
-    "cover": {
-      "src": "https://www.sciencedaily.com/images/1920/functional-brain-mapping.webp",
-      "tone": "#0c0c0c"
-    },
-    "title": {
-      "en": "Brain Decisions Start Earlier Than We Thought: A Dynamic View of Cognition",
-      "ja": "脳の意思決定は「もっと早く」始まる：認知の動的プロセスを示す新研究"
-    },
-    "dek": {
-      "en": "New research reveals primary sensory regions are shaped by higher brain areas through rapid feedback loops, challenging the traditional linear view of how the brain processes information and makes decisions.",
-      "ja": "感覚情報処理は一方通行ではない。高次脳領域が第一次感覚野にフィードバックし、意思決定がより早期から統合的に行われることが判明しました。"
-    },
-    "author": {
-      "en": "WORLD STUDY TOKYO Editors",
-      "ja": "WORLD STUDY TOKYO 編集部"
-    },
-    "location": {
-      "en": "July 13, 2026",
-      "ja": "2026年7月13日"
-    },
-    "tags": [
-      {
-        "en": "brain science",
-        "ja": "脳科学"
-      },
-      {
-        "en": "cognitive development",
-        "ja": "認知発達"
-      },
-      {
-        "en": "learning methods",
-        "ja": "学習法"
-      },
-      {
-        "en": "AI in education",
-        "ja": "教育AI"
-      }
-    ],
-    "body": {
-      "en": [
-        "A recent study by scientists, published on July 13, 2026, challenges long-held assumptions about how the brain makes decisions. The research suggests that the brain's decision-making process begins much earlier and is far more integrated than previously understood.",
-        "Traditionally, it was thought that sensory information (like what we see or hear) was processed in a linear fashion, moving from primary sensory regions (the parts of the brain that first receive raw sensory input) up to higher brain areas (regions responsible for complex thought and decision-making). This new finding, however, indicates a more dynamic interaction.",
-        "Instead of a one-way street, the study reveals that higher brain areas exert influence on primary sensory regions through rapid feedback loops (a system where information flows in both directions, allowing for constant adjustment). This means that even at the earliest stages of sensory processing, our brains are already being shaped by our higher-level intentions and expectations.",
-        "> \"even primary sensory regions are influenced by higher brain areas through rapid feedback loops, rather than simply passing information forward.\"",
-        "This redefines our understanding of cognitive function. It suggests that our perceptions are not merely passive receptions of external stimuli but are actively constructed through a continuous dialogue between different brain regions. This dynamic model has significant implications for how we understand learning and attention.",
-        "For families, this research underscores the idea that learning is not a simple input-output process. If the brain is constantly integrating sensory information with higher-level thought, then learning environments that encourage active engagement, critical thinking, and multi-sensory experiences may better align with our natural brain function. This perspective could lead to more effective educational strategies that foster deeper understanding and more robust decision-making skills in children.",
-        "Beyond human cognition, the scientists also noted that this more dynamic view of brain function could help engineers design future AI systems. By mimicking the brain's efficient feedback loops, AI could potentially think more like biological brains while using significantly less computational power, potentially leading to more sophisticated and energy-efficient AI tutors and learning tools in the future."
-      ],
-      "ja": [
-        "2026年7月13日に発表された新たな科学研究は、脳がどのように意思決定を行うかについての従来の理解に疑問を投げかけています。この研究は、脳の意思決定プロセスがこれまで考えられていたよりもはるかに早く始まり、より統合された形で進行することを示唆しています。",
-        "これまで、視覚や聴覚といった感覚情報は、第一次感覚野（視覚や聴覚などの情報が最初に入力される脳の領域）から高次脳領域（思考や意思決定を司る部分）へと一方通行で処理されると考えられてきました。しかし、今回の新しい発見は、より動的な相互作用が存在することを示しています。",
-        "研究によると、高次脳領域は迅速なフィードバックループ（情報が一方通行ではなく、双方向に影響し合う仕組み）を通じて、第一次感覚野に影響を与えていることが明らかになりました。これは、感覚情報の初期段階でさえ、私たちの高次な意図や期待によって脳がすでに情報を形成していることを意味します。",
-        "「第一次感覚野でさえ、単に情報を前方に送るだけでなく、高速なフィードバックループを通じて高次脳領域の影響を受けている」",
-        "この発見は、認知機能に対する私たちの理解を再定義します。私たちの知覚は、外部刺激をただ受動的に受け取るだけでなく、異なる脳領域間の継続的な対話を通じて積極的に構築されているという見方です。この動的なモデルは、学習や注意のメカニズムを理解する上で重要な意味を持ちます。",
-        "家庭の学びという観点から見ると、この研究は、学習が単純なインプットとアウトプットのプロセスではないことを強調しています。脳が感覚情報と高次思考を絶えず統合しているとすれば、積極的な関与、批判的思考、そして多感覚的な体験を促す学習環境は、子どもの自然な脳機能により適しているかもしれません。この視点は、子どもたちのより深い理解と強固な意思決定スキルを育む、より効果的な教育戦略につながる可能性があります。",
-        "人間の認知を超えて、科学者たちはこの脳機能の動的な見方が、将来のAIシステム設計に役立つ可能性も指摘しています。脳の効率的なフィードバックループを模倣することで、AIは生物学的脳により近い思考を、より少ない計算能力で実現できるようになるかもしれません。これは将来的に、より洗練された、エネルギー効率の高いAIチューターや学習ツールにつながる可能性を秘めています。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "This new brain research suggests that our brains don't just receive information passively and then decide what to do. Instead, even at the very first moment we sense something – like seeing an apple or hearing a sound – our higher-level thoughts and intentions are already shaping how we perceive it. Think of it like a child learning to ride a bicycle: they don't just follow instructions (feedforward); they constantly adjust their balance and steering based on immediate sensory feedback and their goal to stay upright (feedback loops). The brain is a continuous, two-way conversation, not a one-way street.",
-        "For Tokyo families, this understanding could subtly influence how we view \"good\" learning. If the brain is inherently integrated and dynamic, then learning approaches that emphasize active engagement, problem-solving, and connecting different types of information might be seen as more aligned with natural brain function. This could impact the design of future educational materials, from how juku structure their lessons to how international schools encourage interdisciplinary projects. It might also inform the development of more sophisticated AI tutors that can adapt to a child's real-time cognitive state, offering truly personalized feedback.",
-        "The direct impact on daily family life is likely 5-10 years away. This timeframe is gated by several factors: further replication and refinement of the research, the translation of neuroscience findings into pedagogical practices, and the development of educational technologies that can effectively leverage these insights. Major juku and innovative private schools might begin experimenting with new methodologies within this period, but broader curriculum changes would require MEXT (Ministry of Education, Culture, Sports, Science and Technology) to incorporate such principles into future revisions of the 学習指導要領 (National Curriculum Standards).",
-        "While a direct Japanese counterpart perfectly mirroring this specific brain research in educational practice doesn't yet exist, the adaptive learning platforms like Atama+ or すららネット are already moving towards personalized, data-driven feedback. However, these platforms primarily adapt content based on performance, not necessarily on the dynamic, real-time sensory-cognitive feedback loops described in this research. A closer conceptual parallel might be found in the project-based learning and integrated curricula of some international schools in Tokyo, or the N高等学校・S高等学校 (N High School / S High School) model, which emphasizes active learning and personalized pathways that encourage students to connect diverse information, though not explicitly based on this precise neuroscientific mechanism. The gap remains in integrating deep neuroscience directly into daily learning algorithms."
-      ],
-      "ja": [
-        "この最新の脳研究は、私たちの脳が情報をただ受け取るだけでなく、もっと能動的に、そして早期から意思決定に関わっていることを示唆しています。例えば、リンゴを見たときや音を聞いたとき、私たちの高次な思考や意図が、その感覚をどのように知覚するかをすでに形成しているというのです。これは、子どもが自転車に乗る練習をするのと似ています。単に指示（フィードフォワード）に従うだけでなく、転ばないという目標に向かって、即座の感覚フィードバックと自分の行動に基づいて、バランスやハンドリングを絶えず調整（フィードバックループ）しています。脳は一方通行ではなく、常に双方向の対話をしているのです。",
-        "東京の家庭にとって、この知見は「良い学び」の捉え方に微かな影響を与えるかもしれません。脳が本質的に統合的で動的であるならば、能動的な関与、問題解決、そして異なる種類の情報を結びつけることを重視する学習アプローチが、脳の自然な機能により合致していると見なされる可能性があります。これは、塾が授業を構成する方法から、インターナショナルスクールが学際的なプロジェクトを奨励する方法に至るまで、将来の教育教材のデザインに影響を与えるかもしれません。また、子どものリアルタイムの認知状態に適応し、真にパーソナライズされたフィードバックを提供できる、より洗練されたAIチューターの開発にもつながる可能性があります。",
-        "日々の家庭生活に直接的な影響が及ぶのは、おそらく5年から10年先になるでしょう。この時間軸は、さらなる研究の検証と深化、神経科学の知見が教育実践に翻訳されるプロセス、そしてこれらの洞察を効果的に活用できる教育技術の開発という複数の要因によって決まります。大手塾や革新的な私立学校は、この期間内に新しい教授法を試し始めるかもしれませんが、より広範なカリキュラムの変更には、文部科学省が将来の学習指導要領改訂にこうした原則を取り入れる必要があります。",
-        "この特定の脳研究を教育実践に直接反映した日本の類似の取り組みはまだありませんが、Atama+やすららネットのようなアダプティブラーニングプラットフォームは、パーソナライズされたデータ駆動型のフィードバック提供に向けてすでに動いています。しかし、これらのプラットフォームは主に成績に基づいてコンテンツを適応させるものであり、本研究が示すような動的でリアルタイムの感覚・認知フィードバックループを直接扱っているわけではありません。より概念的に近いのは、東京の一部のインターナショナルスクールやN高等学校・S高等学校（N高・S高）のプロジェクトベース学習や統合型カリキュラムに見られるかもしれません。これらは、多様な情報を結びつけることを奨励する能動的な学習と個別化された学習経路を重視していますが、この精密な神経科学的メカニズムに明示的に基づいているわけではありません。深い神経科学の知見を日々の学習アルゴリズムに直接統合する点においては、まだギャップが残っています。"
-      ]
-    },
-    "structured": {
-      "tagline": {
-        "en": "Brain's decisions are dynamic, not linear.",
-        "ja": "脳の意思決定は一方通行ではない。"
-      },
-      "whoForWhat": {
-        "en": "For Tokyo families interested in how children learn and process information, this research offers insights into the brain's integrated decision-making, potentially influencing future learning strategies and AI tools.",
-        "ja": "子どもの学習と情報処理に関心を持つ東京の保護者へ。脳の意思決定が統合的に行われるという新知見は、将来の学習戦略やAIツールに影響を与える可能性を示唆します。"
-      },
-      "vsJapanContext": {
-        "en": "This finding challenges the purely \"feedforward\" model often implicit in traditional rote learning approaches, suggesting future alignment with integrated learning promoted in some progressive Japanese schools and adaptive edtech platforms.",
-        "ja": "従来の詰め込み型学習に内在する「一方通行」のモデルに疑問を投げかけ、一部の先進的な日本の学校やアダプティブ型教育プラットフォームが推進する統合的学習との将来的な整合性を示唆します。"
-      },
-      "tokyoNote": {
-        "en": "This research on brain feedback loops highlights the importance of active, integrated learning. Tokyo parents should consider how current juku and school environments encourage not just memorization, but also dynamic interaction between sensory input and higher-order thinking, and what this means for future AI tutors.",
-        "ja": "脳のフィードバックループに関するこの研究は、能動的で統合的な学習の重要性を強調しています。東京の保護者の方々は、現在の塾や学校の環境が、単なる記憶だけでなく、感覚入力と高次思考の動的な相互作用をどれだけ促しているか、そしてこれが将来のAIチューターにどう影響するかを考えるきっかけになるでしょう。"
-      }
-    },
-    "source": {
-      "name": "ScienceDaily — Child Development",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260712011757.htm"
-    },
-    "sourceGuid": "https://www.sciencedaily.com/releases/2026/07/260712011757.htm",
     "status": "published"
   }
 ]
