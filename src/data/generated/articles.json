@@ -1,5 +1,211 @@
 [
   {
+    "slug": "beyond-distraction-how-adhd-may-foster-creative-thinking",
+    "category": "early-childhood",
+    "issue": "Vol. 04",
+    "publishedAt": "2026-09-03T03:44:06.000Z",
+    "readingMinutes": 5,
+    "feature": true,
+    "cover": {
+      "src": "https://www.sciencedaily.com/images/1920/colorful-creativity-brain-explosion.webp",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "Beyond Distraction: How ADHD May Foster Creative Thinking",
+      "ja": "「注意散漫」が創造性の源泉に？ ADHDと独創的思考の新たな関係"
+    },
+    "dek": {
+      "en": "Recent research suggests that the attention patterns often associated with ADHD might also enable a unique form of divergent thinking, opening new avenues for understanding and supporting children with diverse learning styles.",
+      "ja": "ADHD（注意欠陥・多動性障害）に見られる特有の注意パターンが、実は独創的な思考を促す可能性があるという研究が発表されました。多様な学び方を持つ子どもたちへの理解と支援に新たな視点をもたらします。"
+    },
+    "author": {
+      "en": "WORLD STUDY TOKYO Editors",
+      "ja": "WORLD STUDY TOKYO 編集部"
+    },
+    "location": {
+      "en": "Tokyo, Japan",
+      "ja": "東京、日本"
+    },
+    "tags": [
+      {
+        "en": "ADHD",
+        "ja": "ADHD"
+      },
+      {
+        "en": "Creativity",
+        "ja": "創造性"
+      },
+      {
+        "en": "Child Development",
+        "ja": "子どもの発達"
+      },
+      {
+        "en": "Learning Styles",
+        "ja": "学習スタイル"
+      }
+    ],
+    "body": {
+      "en": [
+        "Recent studies are exploring a nuanced perspective on attention deficit hyperactivity disorder (ADHD), suggesting that some of its characteristic attention patterns, often perceived as challenges, may actually contribute to enhanced creativity. Rather than simply being a deficit, this research posits that the brain's tendency to explore multiple ideas simultaneously could be a unique strength.",
+        "This shift in understanding is significant for how we approach learning and development. The mechanism proposed is that what researchers term “defocused attention” — a broader, less selective focus — allows individuals to make more unexpected connections between seemingly unrelated concepts. This divergent thinking is a cornerstone of creative problem-solving and innovation.",
+        "For children with ADHD, this means that their cognitive style, which might make it difficult to sustain attention on a single task, could simultaneously enable a richer, more expansive exploration of ideas. This broader search pattern in the brain could lead to novel insights that a more narrowly focused mind might overlook.",
+        "> Researchers think creative activities could potentially channel this “defocused attention” while helping strengthen the brain systems involved in focus and self-control.",
+        "The implications extend to educational practices. If certain creative activities can effectively channel this defocused attention, they might not only harness a child's natural inclination for broad exploration but also, over time, help strengthen the very brain systems responsible for focus and self-control. This suggests a potential pathway for intervention that integrates creative expression with cognitive development.",
+        "Further research is needed to identify which specific creative activities are most effective and how they can be integrated into daily routines or school curricula without compromising the development of focused attention skills. The challenge lies in finding a balance where the strengths of divergent thinking are nurtured, while also providing support for tasks that require sustained, directed focus.",
+        "This evolving understanding encourages educators and parents to look beyond conventional metrics of attention and consider the potential creative advantages inherent in diverse cognitive profiles. It prompts a re-evaluation of how learning environments can be designed to accommodate and celebrate a wider range of thinking styles."
+      ],
+      "ja": [
+        "最近の研究で、ADHD（注意欠陥・多動性障害）に見られる特徴的な注意パターンが、時に「課題」と捉えられがちである一方で、実は創造性を高める可能性が指摘されています。単なる注意力の欠如としてではなく、脳が複数のアイデアを同時に探求する傾向が、独自の強みとなりうるという新たな視点が提示されました。",
+        "この理解の転換は、子どもたちの学びと発達へのアプローチを大きく変える可能性があります。研究者たちが「焦点を絞らない注意（defocused attention）」と呼ぶ、より広範で選択的ではない注意のあり方が、一見無関係に見える概念間の予期せぬつながりを発見しやすくするというメカニズムが提唱されています。この拡散的思考は、創造的な問題解決やイノベーションの基礎となります。",
+        "ADHDを持つ子どもたちにとって、一つの課題に注意を集中し続けることが難しい認知スタイルが、同時にアイデアをより豊かに、広範囲に探求することを可能にするかもしれません。脳内でのこの広範な探索パターンは、より限定的な集中をする心では見過ごされがちな、斬新な洞察につながる可能性があるのです。",
+        "「研究者たちは、創造的な活動がこの『焦点を絞らない注意』をうまく導き、同時に集中力と自己抑制に関わる脳のシステムを強化するのに役立つと考えています。」",
+        "この研究は、教育現場での実践にも影響を与えそうです。特定の創造的な活動が「焦点を絞らない注意」を効果的に導くことができれば、それは子どもの広範な探索への生来の傾向を活かすだけでなく、長期的には集中力と自己抑制を司る脳のシステムそのものを強化するのに役立つかもしれません。これは、創造的表現と認知発達を統合する介入の可能性を示唆しています。",
+        "今後、どのような創造的活動が最も効果的であるか、また、集中的な注意力の育成を損なうことなく、それらを日常のルーティンや学校のカリキュラムにどのように組み込むことができるかについて、さらなる研究が必要です。拡散的思考の強みを育みつつ、持続的で方向性のある集中力を要する課題への支援も提供するというバランスを見つけることが課題となります。",
+        "この進化する理解は、教育者や保護者に対し、従来の注意力の指標だけでなく、多様な認知特性に内在する創造的な利点に目を向けるよう促します。それは、より幅広い思考スタイルに対応し、それを称賛する学習環境をどのように設計できるかという再評価を促すものです。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "This research offers a refreshing perspective for Tokyo families, suggesting that what might be perceived as a child's 'distractibility' could, in fact, be a unique cognitive strength. Instead of viewing a child who jumps between interests as simply lacking focus, we can consider the possibility that their brain is making connections across a broader landscape of ideas, much like a chef experimenting with unusual ingredient combinations to create a new dish.",
+        "For families in Tokyo, this finding could shift how they approach after-school activities or learning support. Rather than solely focusing on remediation for attention challenges, parents might explore art, music, coding, or project-based learning opportunities that encourage divergent thinking. This might influence choices between highly structured juku (cram schools) and international schools or alternative programs that value creativity and self-expression, potentially even affecting how university admissions (especially 総合型選抜, which assesses broader qualities) view a student's portfolio of diverse interests.",
+        "Such a shift in educational practice and societal perception is likely to be gradual. We might see initial changes within 3-5 years, particularly in international schools or progressive private schools in Tokyo that are already open to diverse learning styles. Broader adoption into mainstream juku curricula or MEXT (Ministry of Education, Culture, Sports, Science and Technology) guidelines, however, could take 5-10 years, gated by the need for more localized research and curriculum development.",
+        "While traditional Japanese education often emphasizes focused attention and structured learning, there are emerging counterparts. Institutions like N高等学校・S高等学校, with their flexible, project-based online learning and emphasis on individual exploration, or some of the more innovative international schools in Tokyo, are already fostering environments where diverse thinking styles can thrive. This research provides a scientific underpinning for the value of such approaches, suggesting a future where creativity is not just an extracurricular, but an integral part of cognitive development."
+      ],
+      "ja": [
+        "この研究は、東京で子育てをするご家庭にとって、非常に新鮮な視点を提供します。子どもの「注意散漫」と見なされがちな特性が、実は独自の認知的な強みである可能性を示唆しているのです。一つのことに集中できない子どもを単に「集中力がない」と捉えるのではなく、その脳が、まるでシェフが珍しい食材の組み合わせで新しい料理を生み出すように、より広範なアイデアの風景の中でつながりを見出していると考えることができます。",
+        "東京のご家庭にとって、この発見は習い事や学習支援へのアプローチを変えるかもしれません。注意力の課題に対する「克服」だけに焦点を当てるのではなく、アート、音楽、プログラミング、あるいはプロジェクトベースの学習など、拡散的思考を促す機会を探るようになる可能性があります。これは、非常に構造化された塾と、創造性や自己表現を重視するインターナショナルスクールやオルタナティブなプログラムとの選択に影響を与え、さらには大学入試（特に多様な資質を評価する総合型選抜）で、生徒の多様な関心のポートフォリオがどのように評価されるかにも影響を及ぼすかもしれません。",
+        "教育実践と社会の認識におけるこのような変化は、段階的に進むでしょう。多様な学習スタイルにすでに開かれている東京のインターナショナルスクールや先進的な私立学校では、今後3〜5年以内に初期的な変化が見られるかもしれません。しかし、主要な塾のカリキュラムや文部科学省のガイドラインへの広範な導入は、よりローカライズされた研究とカリキュラム開発が必要なため、5〜10年かかる可能性があります。",
+        "日本の伝統的な教育は、集中力と構造化された学習を重視する傾向がありますが、すでにこれに対応する動きも出ています。N高等学校・S高等学校のような、柔軟なプロジェクトベースのオンライン学習や個人の探求を重視する機関、あるいは東京の一部の革新的なインターナショナルスクールは、多様な思考スタイルが育つ環境をすでに育んでいます。この研究は、そうしたアプローチの価値に科学的な裏付けを与え、創造性が単なる課外活動ではなく、認知発達の不可欠な一部となる未来を示唆しています。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "ADHD's defocused attention may spark creative connections.",
+        "ja": "ADHDの「注意散漫」が創造性を育む可能性。"
+      },
+      "whoForWhat": {
+        "en": "For Tokyo families with young children or those navigating learning support, this research offers a new lens on how diverse attention patterns can be a strength, informing choices about educational environments that foster creativity.",
+        "ja": "幼いお子さんを持つご家庭や、学習支援を検討中の東京の保護者にとって、多様な注意パターンが強みとなりうることを示唆し、創造性を育む教育環境の選択に役立つ情報です。"
+      },
+      "vsJapanContext": {
+        "en": "This perspective diverges from Japan's traditional emphasis on focused, structured learning (as seen in juku and exam preparation), aligning more with the holistic approaches found in some international schools or programs like N高等学校 that value broader thinking.",
+        "ja": "日本の伝統的な集中型・構造化学習（塾や受験準備に見られる）とは異なる視点であり、国際バカロレア校やN高等学校のような、より広範な思考を評価するホリスティックなアプローチと共通点が見出せます。"
+      },
+      "tokyoNote": {
+        "en": "Tokyo parents often seek structured paths for academic success, but this research encourages considering how a child's unique attention style, even if challenging in some contexts, might be a powerful asset for creative thinking. The key for families here will be finding environments that balance nurturing this creativity with developing necessary focus skills, potentially through a mix of traditional and alternative learning experiences.",
+        "ja": "東京の保護者は学業での成功のために体系的な道筋を求めることが多いですが、この研究は、子どもの独自の注意スタイルが、ある文脈では課題であっても、創造的思考の強力な財産となりうることを示唆しています。東京のご家庭にとって重要なのは、この創造性を育むことと、必要な集中力を養うことのバランスを取る学習環境、例えば伝統的な教育とオルタナティブな学習体験の組み合わせを見つけることでしょう。"
+      }
+    },
+    "source": {
+      "name": "ScienceDaily — Child Development",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260831015150.htm"
+    },
+    "sourceGuid": "https://www.sciencedaily.com/releases/2026/08/260831015150.htm",
+    "status": "published"
+  },
+  {
+    "slug": "us-head-start-debates-english-only-policy-raising-concerns-for-dual-language-lea",
+    "category": "early-childhood",
+    "issue": "Vol. 04",
+    "publishedAt": "2026-09-03T18:00:00.000Z",
+    "readingMinutes": 6,
+    "feature": true,
+    "cover": {
+      "src": "https://i0.wp.com/hechingerreport.org/wp-content/uploads/2026/09/Florez-Translanguaging4-scaled.jpg?fit=1024%2C683&amp;ssl=1",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "US Head Start Debates English-Only Policy, Raising Concerns for Dual Language Learners",
+      "ja": "米国ヘッドスタート、英語のみ政策案で二言語学習児への懸念高まる"
+    },
+    "dek": {
+      "en": "A proposal to shift the federally funded Head Start preschool program towards an English-only model draws strong opposition from parents and program leaders who fear it would hinder the development of young dual language learners.",
+      "ja": "米国の連邦政府助成幼稚園プログラム「ヘッドスタート」で、英語のみの教育への転換案が浮上。二言語学習者である幼児の成長を妨げると、保護者やプログラム関係者から強い反対の声が上がっています。"
+    },
+    "author": {
+      "en": "WORLD STUDY TOKYO Editors",
+      "ja": "WORLD STUDY TOKYO 編集部"
+    },
+    "location": {
+      "en": "September 3, 2026",
+      "ja": "2026年9月3日"
+    },
+    "tags": [
+      {
+        "en": "Early Childhood Education",
+        "ja": "幼児教育"
+      },
+      {
+        "en": "Bilingualism",
+        "ja": "バイリンガリズム"
+      },
+      {
+        "en": "Language Acquisition",
+        "ja": "言語習得"
+      },
+      {
+        "en": "Preschool",
+        "ja": "未就学児教育"
+      }
+    ],
+    "body": {
+      "en": [
+        "In the United States, a recent proposal to mandate an English-only approach within the Head Start program — a federally funded preschool initiative for low-income families — has sparked considerable debate. This potential shift, reported in September 2026, has drawn strong criticism from both parents and educators, including program leaders like Ginger Williams, who oversees six Head Start sites in Snohomish County, Washington.",
+        "Head Start has historically played a vital role in supporting what it terms \"dual language learners\" (DLI) — children who are learning English while also developing their home language. The program has long been required to provide specialized support, such as bilingual staff and culturally relevant materials, to ensure these children thrive. The proposed English-only policy threatens to dismantle these established supports, potentially isolating children from their cultural heritage and hindering their cognitive development.",
+        "Critics argue that an English-only environment can set children back by forcing them to abandon their native language, which is foundational to their identity and early learning. Research consistently shows that strong development in a child's home language provides a robust base for acquiring a second language, rather than impeding it. Forcing a rapid transition to English can lead to academic struggles and emotional distress, as children may feel disconnected from their families and communities.",
+        "> \"It's just not sound educational practice to take away a child's home language,\" said Ginger Williams, highlighting the pedagogical consensus.",
+        "The number of children learning English in programs like Head Start has steadily increased over recent years, reflecting the growing linguistic diversity across the United States. This trend underscores the importance of policies that embrace and support multilingualism, recognizing it as an asset rather than a barrier. Educational experts emphasize that maintaining and developing a child's first language enriches their cognitive abilities, cultural understanding, and overall academic success.",
+        "Looking ahead, the outcome of this policy debate will have significant implications for early childhood education in the US, particularly for communities with diverse linguistic backgrounds. It highlights a fundamental tension between assimilationist approaches and those that champion the benefits of multilingualism from an early age. The discussion serves as a reminder that effective language education policies must be grounded in developmental science and cultural sensitivity, prioritizing the holistic well-being of young learners."
+      ],
+      "ja": [
+        "米国では、低所得家庭向けの連邦政府助成幼稚園プログラム「ヘッドスタート」において、英語のみの教育を義務化する案が最近浮上し、大きな議論を呼んでいます。2026年9月に報じられたこの潜在的な方針転換に対し、ワシントン州スノホミッシュ郡で6つのヘッドスタート施設を運営するジンジャー・ウィリアムズ氏をはじめ、保護者や教育者から強い批判の声が上がっています。",
+        "ヘッドスタートはこれまで、「二言語学習者（Dual Language Learners, DLL）」と呼ばれる、母語を育みながら英語を学ぶ子どもたちを支援する上で不可欠な役割を担ってきました。このプログラムは長らく、バイリンガルスタッフの配置や文化的に適切な教材提供など、専門的な支援を通じて子どもたちが健やかに成長できるよう努めてきました。今回の英語のみを義務化する案は、これらの確立された支援を解体し、子どもたちを文化的遺産から孤立させ、認知発達を阻害する可能性を秘めています。",
+        "批判派は、英語のみの環境が子どもたちの母語を放棄させることで、彼らの学習とアイデンティティの基盤を揺るがし、結果として発達を遅らせる可能性があると主張します。研究によって一貫して示されているのは、母語をしっかりと発達させることが、第二言語習得の強力な土台となることであり、むしろそれを妨げるものではないという点です。急激な英語への移行を強制することは、子どもたちが家族や地域社会とのつながりを失ったと感じ、学業面での苦戦や精神的ストレスにつながりかねません。",
+        "> 「子どもの母語を奪うことは、健全な教育実践とは言えません」と、ジンジャー・ウィリアムズ氏は教育学的なコンセンサスを強調しました。",
+        "ヘッドスタートのようなプログラムで英語を学ぶ子どもの数は、近年着実に増加しており、米国内における言語的多様性の高まりを反映しています。この傾向は、多言語主義を障壁ではなく資産として捉え、これを支援する政策の重要性を浮き彫りにしています。教育専門家は、子どもの第一言語を維持し発達させることが、彼らの認知能力、文化理解、そして全体的な学業成績を豊かにすると強調しています。",
+        "今後、この政策論争の結果は、米国における幼児教育、特に多様な言語背景を持つ地域社会に大きな影響を与えるでしょう。これは、同化主義的アプローチと、幼少期からの多言語主義の利点を擁護するアプローチとの間の根本的な緊張関係を浮き彫りにしています。この議論は、効果的な言語教育政策が発達科学と文化的感受性に基づき、幼い学習者の包括的な幸福を最優先すべきであるという再認識を促します。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "This US debate on Head Start's language policy offers a valuable lens for Tokyo families considering early English education. The core finding from developmental science is clear: supporting a child's home language is not a barrier to learning English; it's a foundation. Forcing an English-only environment too early, especially by suppressing the native language, can hinder a child's overall cognitive and emotional development.",
+        "For Tokyo families, this discussion resonates strongly, whether they are considering an international school, a bilingual domestic preschool, or early English lessons at a juku (cram school). The lesson is that preserving and nurturing the child's Japanese language skills is paramount, even as they acquire English. This insight could influence how parents evaluate the curriculum of early English programs, looking for those that respect and build upon a child's linguistic heritage.",
+        "We might see this impact within 3-5 years, particularly in the curriculum design of private elementary schools with international streams or bilingual programs, and potentially in the offerings of major English conversation schools or juku. The gating factor will be how readily Japanese educators and program developers integrate these research-backed principles into their pedagogical approaches, moving beyond simple exposure to English towards holistic language development.",
+        "In Japan, institutions like the British School in Tokyo or Aoba-Japan International School inherently embrace multilingualism, often supporting students in maintaining their home languages while immersed in English. For domestic contexts, programs like Benesse's Shinkenzemi or KUMON focus on Japanese literacy first, but as early English education grows, there's a need to explicitly integrate dual language support. While MEXT's curriculum guidelines for public elementary schools are still developing in this area, the private sector and international schools are already navigating these complexities, offering examples of how to foster bilingualism without sacrificing the child's linguistic roots."
+      ],
+      "ja": [
+        "米国ヘッドスタートの言語政策に関するこの議論は、東京で早期英語教育を検討しているご家庭にとって貴重な示唆を与えます。発達科学からの核心的な知見は明確です。子どもの母語を支援することは英語学習の障壁ではなく、むしろその基盤となります。特に母語を抑制しながら早期に英語のみの環境を強制することは、子どもの全体的な認知発達や情緒的発達を妨げる可能性があります。",
+        "東京のご家庭にとって、この議論は、インターナショナルスクール、バイリンガル教育を行う国内の幼稚園、あるいは学習塾での早期英語レッスンを検討する際にも強く響くでしょう。教訓は、英語を習得する際にも、子どもの日本語能力を維持し育むことが極めて重要であるということです。この洞察は、保護者が早期英語プログラムのカリキュラムを評価する際に影響を与え、子どもの言語的ルーツを尊重し、それを土台とするプログラムを選ぶ傾向を強めるかもしれません。",
+        "この影響は、今後3〜5年以内に現れる可能性があります。特に、国際学級やバイリンガルプログラムを持つ私立小学校のカリキュラム設計、そして主要な英会話教室や学習塾の提供するプログラムに変化が見られるかもしれません。鍵となるのは、日本の教育者やプログラム開発者が、単なる英語への接触を超え、ホリスティックな言語発達を目指す研究に基づいた原則をどれだけ迅速に教育アプローチに取り入れるかでしょう。",
+        "日本国内では、ブリティッシュ・スクール・イン東京やアオバジャパン・インターナショナルスクールのような国際学校が、本質的に多言語主義を受け入れ、英語に没頭しながらも生徒が母語を維持できるよう支援しています。国内の文脈では、ベネッセの進研ゼミや公文式がまず日本語の識字能力に焦点を当てていますが、早期英語教育が広がるにつれて、二言語支援を明確に組み込む必要性が高まっています。文部科学省の公立小学校向け学習指導要領はまだこの分野で発展途上ですが、私立部門や国際学校は既にこれらの複雑な課題に取り組んでおり、子どもの言語的ルーツを犠牲にすることなくバイリンガリズムを育む方法の事例を提供しています。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "US preschool English-only debate highlights value of home language.",
+        "ja": "米国の早期英語教育論争、母語の重要性を再認識。"
+      },
+      "whoForWhat": {
+        "en": "For a Tokyo family with a preschooler considering early English education, this story informs decisions about balancing native language development with second language acquisition.",
+        "ja": "早期英語教育を検討中の未就学児を持つ東京のご家庭にとって、母語と第二言語のバランスの取り方に関する意思決定に役立つ情報です。"
+      },
+      "vsJapanContext": {
+        "en": "While Japan's MEXT emphasizes English as a foreign language from elementary school, this US debate highlights the differing approach in international schools in Tokyo, which often support dual language learners from an early age.",
+        "ja": "日本の文部科学省が小学校からの外国語としての英語を重視する一方、この米国の議論は、東京のインターナショナルスクールが早期から二言語学習者を支援するアプローチと対照的です。"
+      },
+      "tokyoNote": {
+        "en": "This US debate underscores that effective early English education in Tokyo must prioritize a child's foundational Japanese language development. Programs that respect and build upon the native language are likely to yield better long-term outcomes than those pushing an English-only model.",
+        "ja": "この米国の議論は、東京における効果的な早期英語教育が、子どもの基盤となる日本語の発達を優先すべきであることを示唆しています。母語を尊重し、それを土台とするプログラムの方が、英語のみのモデルを推し進めるものよりも、長期的に良い結果をもたらすでしょう。"
+      }
+    },
+    "source": {
+      "name": "The Hechinger Report",
+      "url": "https://hechingerreport.org/english-only-head-start/"
+    },
+    "sourceGuid": "https://hechingerreport.org/?p=117769",
+    "status": "published"
+  },
+  {
     "slug": "financial-hardship-linked-to-faster-brain-aging",
     "category": "research",
     "issue": "Vol. 04",
@@ -3386,8 +3592,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1455390582262-044cdead277a?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#D9CFE5"
+      "src": "https://images.unsplash.com/photo-1456406644174-8ddd4cd52a06?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#D2C5E0"
     },
     "title": {
       "en": "Rewriting Childhood Memories to Overcome Fear of Failure",
@@ -3592,8 +3798,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1456406644174-8ddd4cd52a06?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#D2C5E0"
+      "src": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#D6CDE2"
     },
     "title": {
       "en": "Finnish Study Links Screen Time to Stronger Cognition in Teens",
@@ -6263,8 +6469,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#D6CDE2"
+      "src": "https://images.unsplash.com/photo-1532012197267-da84d127e765?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#D9CFE5"
     },
     "title": {
       "en": "AI Tutors: Helpfulness Isn't Always Pedagogical Guidance",
@@ -6365,8 +6571,8 @@
     "readingMinutes": 6,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1532012197267-da84d127e765?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#D9CFE5"
+      "src": "https://images.unsplash.com/photo-1573164713619-24c711fe7878?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#C4DDC6"
     },
     "title": {
       "en": "Beyond Error Detection: Evaluating AI Solutions for Deeper Learning",
@@ -6469,8 +6675,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#D6CDE2"
+      "src": "https://images.unsplash.com/photo-1455390582262-044cdead277a?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#D9CFE5"
     },
     "title": {
       "en": "The Gut-Brain Axis: How Nutrition Influences Memory Formation",
@@ -6673,8 +6879,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1542621334-a254cf47733d?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#D8CDE3"
+      "src": "https://images.unsplash.com/photo-1488998427799-e3362cec87c3?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#D3C7E1"
     },
     "title": {
       "en": "Dreams: Not Random Noise, But Active Memory and Emotion Processing",
@@ -7809,8 +8015,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1561089489-f13d5e730d72?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#D2E4D5"
+      "src": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#CDE3CF"
     },
     "title": {
       "en": "Building Safer AI Tutors for Programming Education",
@@ -8005,210 +8211,6 @@
       "url": "https://www.sciencedaily.com/releases/2026/07/260717033350.htm"
     },
     "sourceGuid": "https://www.sciencedaily.com/releases/2026/07/260717033350.htm",
-    "status": "published"
-  },
-  {
-    "slug": "constipation-drug-shows-promise-in-clearing-depression-related-brain-fog",
-    "category": "research",
-    "issue": "Vol. 02",
-    "publishedAt": "2026-07-16T00:49:09.000Z",
-    "readingMinutes": 4,
-    "feature": true,
-    "cover": {
-      "src": "https://www.sciencedaily.com/images/1920/woman-brain-fog-head-in-cloud.webp",
-      "tone": "#0c0c0c"
-    },
-    "title": {
-      "en": "Constipation Drug Shows Promise in Clearing Depression-Related Brain Fog",
-      "ja": "便秘薬がうつ病後の「脳の霧」を晴らす可能性、認知機能改善に期待"
-    },
-    "dek": {
-      "en": "A small clinical trial suggests an existing medication for constipation may improve memory, attention, and thinking speed in individuals recovering from depression, offering a potential new avenue for cognitive support.",
-      "ja": "既存の便秘薬が、うつ病から回復した人々の記憶力、注意力、思考速度を改善する可能性が小規模臨床試験で示されました。認知機能サポートへの新たな道が開かれるかもしれません。"
-    },
-    "author": {
-      "en": "WORLD STUDY TOKYO Editors",
-      "ja": "WORLD STUDY TOKYO 編集部"
-    },
-    "location": {
-      "en": "July 16, 2026",
-      "ja": "2026年7月16日"
-    },
-    "tags": [
-      {
-        "en": "Cognitive Science",
-        "ja": "認知科学"
-      },
-      {
-        "en": "Mental Health",
-        "ja": "メンタルヘルス"
-      },
-      {
-        "en": "Adolescent Development",
-        "ja": "青年期の発達"
-      },
-      {
-        "en": "Learning Support",
-        "ja": "学習サポート"
-      }
-    ],
-    "body": {
-      "en": [
-        "2026年7月16日、新たな研究が発表され、既存の便秘薬「プルカロプリド」が、うつ病から回復した後の「脳の霧」（思考力の低下）を改善する可能性が示されました。この発見は、認知機能の回復を助ける新しいアプローチとして注目されています。",
-        "この研究は、うつ病の既往がある人々を対象とした小規模な臨床試験として実施されました。参加者たちは約1週間にわたりプルカロプリドを服用し、記憶力、注意力、思考速度に関するテストで、プラセボ（偽薬）を服用したグループよりも優れた成績を示しました。これは、心の健康問題が認知機能に与える影響に対する理解を深める一歩となるでしょう。",
-        "プルカロプリドは、セロトニン受容体（神経伝達物質セロトニンが結合する部位）に作用する薬剤です。この受容体は腸だけでなく脳にも存在しており、今回の研究結果は、腸と脳の間に存在する密接なつながり、いわゆる「腸脳相関」が認知機能に影響を与える可能性を示唆しています。研究者たちは、この治療法において重大な副作用は見られなかったと報告しています。",
-        "> \"people with a history of depression who took the medication prucalopride for about a week performed better on tests of memory, attention, and thinking speed than those who received a placebo.\"",
-        "うつ病からの回復期には、集中力の低下や思考の鈍化といった認知機能の課題がしばしば残ります。これは学業成績や仕事のパフォーマンスに影響を及ぼし、日常生活の質を低下させる要因となりえます。今回の研究は、こうした課題を抱える人々にとって、新たな希望となるかもしれません。特に、受験を控える学生や、キャリア形成期の若者にとって、認知機能のサポートは重要な意味を持ちます。",
-        "しかし、この研究はまだ小規模な初期段階のものです。より大規模な臨床試験を通じて、その効果と安全性をさらに検証する必要があります。また、うつ病の治療薬としてではなく、認知機能改善に特化した用途として、どのような条件下で有効なのか、長期的な影響はどうなのかといった疑問も残されています。今後、この薬剤が教育や学習の現場にどのような影響を与えるか、引き続き注目が集まります。"
-      ],
-      "ja": [
-        "2026年7月16日、ScienceDaily の報道によると、既存の便秘薬がうつ病から回復した後にしばしば残る「脳の霧」（思考力の低下）を晴らすのに役立つ可能性が示されました。この薬はプルカロプリドという名称で、認知機能の改善に新たな道を開くかもしれません。",
-        "この発見は、うつ病の既往がある人々を対象とした小規模な臨床試験によって明らかになりました。約1週間にわたりプルカロプリドを服用した参加者は、記憶力、注意力、思考速度に関するテストにおいて、プラセボ（効果のない偽薬）を服用したグループよりも優れた成績を示しました。この結果は、心の健康が学習能力や日々の集中力に与える影響について、新たな視点を提供しています。",
-        "プルカロプリドは、セロトニン受容体（神経伝達物質セロトニンが結合する部位）に作用する薬です。この受容体は腸と脳の両方に存在しており、今回の研究は、腸と脳の間の複雑な相互作用、いわゆる「腸脳相関」が認知機能に影響を与える可能性を示唆しています。研究者たちは、今回の試験において顕著な副作用は確認されなかったと述べています。",
-        "> 「うつ病の既往がある人々が約1週間プルカロプリドを服用したところ、プラセボを服用した人々よりも記憶力、注意力、思考速度のテストで優れた成績を収めた」",
-        "うつ病からの回復期にある人々は、集中力の低下や思考の鈍化といった認知機能の課題に直面することが少なくありません。これは、学業や仕事のパフォーマンスに影響を及ぼし、日常生活の質を低下させる要因となります。今回の研究結果は、こうした課題を抱える人々、特に受験やキャリア形成に励む学生や若者にとって、新たなサポートの可能性を示すものです。",
-        "しかし、これはまだ初期段階の小規模な研究であり、その効果と安全性については、より大規模かつ長期的な臨床試験でさらに検証する必要があります。また、この薬がうつ病の治療薬としてではなく、認知機能改善の目的で、どのような条件や対象者に有効なのか、そして長期的な服用が学習や脳の発達にどのような影響を与えるのかといった点は、今後の研究課題となるでしょう。教育現場や家庭での学習サポートに、このような薬剤がどのように関わってくるのか、今後の動向が注目されます。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "This research, while preliminary, offers an interesting perspective for Tokyo families navigating the intense academic environment. The concept of a medication that could alleviate cognitive 'brain fog' after depression speaks to a growing concern about student mental health and academic pressure.",
-        "For families with children facing mental health challenges, particularly during demanding periods like junior high or university entrance exams (中学受験, 大学受験), improved memory and attention could significantly impact academic outcomes. This could influence discussions around holistic student support, potentially leading to new conversations with pediatricians or school counselors.",
-        "The practical impact for Tokyo families is likely 5-10 years away, contingent on successful larger-scale clinical trials and rigorous approval processes by Japan's Pharmaceuticals and Medical Devices Agency (PMDA). Even if approved, its integration into standard student mental health care would require extensive discussion within medical and educational communities.",
-        "While there isn't a direct pharmaceutical counterpart for cognitive enhancement in the Japanese educational context, major cram schools (塾) like SAPIX or Z-kai already offer extensive mental well-being support and counseling services, recognizing the link between mental health and academic performance. This drug could, in the long term, complement such non-pharmacological approaches, offering another tool in a comprehensive support strategy."
-      ],
-      "ja": [
-        "この研究はまだ初期段階ですが、学業競争が激しい東京で子育てをするご家庭にとって、興味深い示唆を与えます。うつ病後の「脳の霧」を和らげる薬の可能性は、生徒のメンタルヘルスと学業プレッシャーに対する懸念が高まる中で、特に注目されるでしょう。",
-        "中学受験や大学受験といった厳しい時期に、精神的な課題に直面しているお子さんを持つご家庭にとって、記憶力や注意力の改善は学業成績に大きな影響を与える可能性があります。これは、生徒の総合的なサポートに関する議論に影響を与え、小児科医やスクールカウンセラーとの新たな対話を生むかもしれません。",
-        "東京の家庭に具体的な影響が及ぶのは、大規模な臨床試験の成功と、日本の医薬品医療機器総合機構（PMDA）による厳格な承認プロセスを経るため、早くても5〜10年先になるでしょう。仮に承認されたとしても、学生のメンタルヘルスケアに組み込まれるには、医療および教育コミュニティ内での広範な議論が必要です。",
-        "日本の教育現場で、認知機能向上に特化した薬の直接的な前例はありませんが、SAPIX や Z会といった大手学習塾では、メンタルヘルスと学業成績の関連性を認識し、すでに手厚いカウンセリングやウェルビーイングサポートを提供しています。長期的には、このような薬が非薬物療法を補完し、総合的なサポート戦略の一つの選択肢となる可能性も考えられます。"
-      ]
-    },
-    "structured": {
-      "tagline": {
-        "en": "Constipation drug shows early promise for post-depression brain fog.",
-        "ja": "便秘薬がうつ病後の脳の霧に効果の可能性"
-      },
-      "whoForWhat": {
-        "en": "For Tokyo families with adolescents or young adults navigating academic pressures while managing mental health challenges, this research offers a glimpse into future cognitive support options.",
-        "ja": "学業のプレッシャーとメンタルヘルスの課題を抱える、東京の思春期・青年期のお子さんを持つご家庭が、将来の認知機能サポートの選択肢を考える上で役立つ情報です。"
-      },
-      "vsJapanContext": {
-        "en": "While Japan's MEXT curriculum does not explicitly address pharmaceutical interventions for cognitive function, this finding aligns with a growing domestic awareness of student mental health issues, particularly in high-stakes exam environments like 大学受験 and 中学受験.",
-        "ja": "文部科学省のカリキュラムで認知機能への薬物介入が直接的に扱われることはありませんが、大学受験や中学受験といった高負荷な環境下での生徒のメンタルヘルス問題に対する国内の意識向上と合致するものです。"
-      },
-      "tokyoNote": {
-        "en": "This is an interesting medical finding with potential long-term implications for cognitive support. For Tokyo families, the key is to watch how this research progresses through larger trials and regulatory approval, as direct application in the Japanese education context is years away.",
-        "ja": "認知機能サポートに繋がる可能性を秘めた興味深い医学研究です。東京の保護者の皆様にとっては、今後の大規模試験や薬事承認の動向を注視することが重要で、日本の教育現場で直接的に活用されるにはまだ時間がかかるでしょう。"
-      }
-    },
-    "source": {
-      "name": "ScienceDaily — Child Development",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260712011751.htm"
-    },
-    "sourceGuid": "https://www.sciencedaily.com/releases/2026/07/260712011751.htm",
-    "status": "published"
-  },
-  {
-    "slug": "beyond-depression-a-constipation-drugs-unexpected-cognitive-boost",
-    "category": "research",
-    "issue": "Vol. 02",
-    "publishedAt": "2026-07-16T00:49:09.000Z",
-    "readingMinutes": 5,
-    "feature": true,
-    "cover": {
-      "src": "https://images.unsplash.com/photo-1488998427799-e3362cec87c3?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#D3C7E1"
-    },
-    "title": {
-      "en": "Beyond Depression: A Constipation Drug's Unexpected Cognitive Boost",
-      "ja": "便秘薬が「脳の霧」を晴らす？ うつ病後の認知機能改善に新たな光"
-    },
-    "dek": {
-      "en": "A small clinical trial suggests that prucalopride, a medication typically used for chronic constipation, may help alleviate the persistent \"brain fog\" often experienced by individuals after depression, improving memory and attention.",
-      "ja": "慢性便秘の治療薬であるプルカロプリドが、うつ病後に残る「脳の霧」を軽減し、記憶力や注意力といった認知機能を改善する可能性が小規模な臨床試験で示されました。"
-    },
-    "author": {
-      "en": "WORLD STUDY TOKYO Editors",
-      "ja": "WORLD STUDY TOKYO 編集部"
-    },
-    "location": {
-      "en": "July 16, 2026",
-      "ja": "2026年7月16日"
-    },
-    "tags": [
-      {
-        "en": "Cognitive Science",
-        "ja": "認知科学"
-      },
-      {
-        "en": "Mental Health",
-        "ja": "メンタルヘルス"
-      },
-      {
-        "en": "Learning Barriers",
-        "ja": "学習障壁"
-      },
-      {
-        "en": "Pharmacology",
-        "ja": "薬理学"
-      }
-    ],
-    "body": {
-      "en": [
-        "A recent small clinical trial has brought to light an unexpected potential use for prucalopride, a medication commonly prescribed for chronic constipation. The study found that individuals with a history of depression who took this drug for approximately one week showed improved performance on tests measuring memory, attention, and thinking speed compared to those who received a placebo.",
-        "The phenomenon known as \"brain fog\" — a persistent feeling of mental sluggishness, difficulty concentrating, and slowed thinking — is a common and debilitating symptom that can linger long after the acute phase of depression has passed. This cognitive impairment can significantly affect a person's daily life, academic performance, and ability to engage with complex tasks.",
-        "Prucalopride's mechanism of action involves targeting a specific serotonin receptor (the 5-HT4 receptor) which is present in both the gut and the brain. Serotonin is a neurotransmitter known to play a crucial role in mood regulation, sleep, appetite, and cognitive functions. The dual presence of this receptor suggests a potential pathway through which a gut-focused medication could influence brain function.",
-        "Participants in the trial, all of whom had a history of depression, were administered either prucalopride or a placebo. Researchers carefully monitored their cognitive performance and observed no significant side effects attributable to the drug during the study period. This absence of notable adverse effects is an important consideration for any medication with potential neurological impacts.",
-        "> \"In a small clinical trial, people with a history of depression who took the medication prucalopride for about a week performed better on tests of memory, attention, and thinking speed than those who received a placebo.\"",
-        "While these findings are preliminary and stem from a small-scale study, they open a new avenue for exploring treatments for post-depressive cognitive dysfunction. Future research will need to involve larger and more diverse participant groups to confirm these effects, understand the optimal dosage, and investigate whether these cognitive benefits extend to other populations or conditions involving brain fog."
-      ],
-      "ja": [
-        "慢性便秘の治療薬として広く使われているプルカロプリドに、予期せぬ新たな用途の可能性が小規模な臨床試験で示されました。この研究では、うつ病の既往がある被験者が約1週間にわたりこの薬剤を服用したところ、記憶力、注意力、思考速度を測るテストで、プラセボを服用したグループよりも良好な成績を示したと報告されています。",
-        "「脳の霧（ブレインフォグ）」とは、うつ病の急性期が過ぎた後も残ることが多い、精神的なだるさ、集中力の低下、思考の鈍化といった症状を指します。この認知機能の障害は、日常生活、学業、そして複雑な課題に取り組む能力に深刻な影響を及ぼすことがあります。",
-        "プルカロプリドは、腸と脳の両方に存在する特定のセロトニン受容体（5-HT4受容体）に作用することで効果を発揮します。セロトニンは、気分調整、睡眠、食欲、そして認知機能において重要な役割を果たす神経伝達物質として知られています。この受容体が両方に存在するという事実は、腸に作用する薬剤が脳機能に影響を与える可能性を示唆しています。",
-        "今回の試験では、うつ病の既往がある参加者がプルカロプリドまたはプラセボのいずれかを投与されました。研究者たちは参加者の認知機能を注意深く監視し、試験期間中に薬剤に起因する重大な副作用は見られなかったと報告しています。これは、神経系に影響を与える可能性のある薬剤にとって重要な観察結果です。",
-        "> 「小規模な臨床試験で、うつ病の既往がある人々がプルカロプリドを約1週間服用したところ、プラセボを投与された人々よりも記憶力、注意力、思考速度のテストで優れた成績を示した。」",
-        "これらの知見は小規模な研究に基づく予備的なものですが、うつ病後の認知機能障害に対する治療法を模索する上で新たな道を開くものです。今後、より大規模で多様な参加者グループを対象とした研究を通じて、これらの効果の確認、最適な用量の特定、そして「脳の霧」を伴う他の集団や症状への認知機能改善効果が広がるかどうかの調査が必要となるでしょう。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "For Tokyo parents, the idea of a simple medication improving cognitive functions like memory and attention, especially after periods of mental strain, is certainly compelling. \"Brain fog\" — that feeling of being mentally sluggish, unable to focus, or thinking slowly — is something many students experience, particularly during intense study periods like preparing for university entrance exams. This research suggests a biological pathway to address such a state, moving beyond just rest or counseling.",
-        "This finding could have a plausible future impact on how we support students experiencing prolonged mental fatigue or post-depressive states. Imagine a high-schooler preparing for the 大学受験 (university entrance exams) who struggles with persistent brain fog, even after addressing underlying mood issues. A targeted pharmacological approach, if proven safe and effective, could help them regain crucial cognitive clarity, potentially influencing their study efficacy and overall well-being during a critical academic period.",
-        "The timeframe for such an impact in Japan would likely be 5 to 10 years. This is gated by several factors: first, the need for larger-scale clinical trials globally to validate these preliminary findings; second, specific studies in adolescent or young adult populations relevant to student demographics; and third, regulatory approval in Japan for this specific indication. Finally, it would require integration into the medical community's understanding of mental health and cognitive support, which often takes time.",
-        "Currently, support for cognitive difficulties in Japan often involves general mental health counseling, lifestyle adjustments, or in some cases, medications for specific conditions like ADHD. While university health centers (大学の保健センター) offer support, there isn't a widely recognized pharmacological treatment specifically for \"brain fog\" post-depression that targets general cognitive improvement. This research points to a novel approach that could eventually complement existing services, offering a more direct intervention for cognitive clarity beyond current options."
-      ],
-      "ja": [
-        "東京の保護者にとって、精神的な負担の後に生じる記憶力や注意力といった認知機能を、既存の薬剤が改善する可能性は非常に興味深いものです。「脳の霧」──精神的なだるさや集中力の欠如、思考の鈍化といった状態は、大学受験のような集中的な学習期間に多くの学生が経験するものです。この研究は、単なる休息やカウンセリングを超えて、そのような状態に対処する生物学的な経路を示唆しています。",
-        "この発見は、長期にわたる精神的疲労やうつ病後の状態にある学生をどのように支援するかについて、将来的に大きな影響を与える可能性があります。例えば、うつ病の根本的な問題が解決した後でも、 persistent な「脳の霧」に悩む大学受験を控えた高校生を想像してみてください。もし安全かつ効果的であることが証明されれば、このような標的を絞った薬理学的アプローチは、彼らが重要な学業期間中に不可欠な認知機能の明確さを取り戻すのに役立ち、学習効率と全体的な幸福感に影響を与えるかもしれません。",
-        "日本におけるこのような影響が現実となるまでの期間は、おそらく5年から10年でしょう。これにはいくつかの要因が影響します。まず、これらの予備的な知見を検証するための世界規模での大規模な臨床試験の必要性。次に、学生の人口統計に関連する青年期または若年成人集団での特定の研究。そして、日本におけるこの特定の適応症に対する規制当局の承認です。最終的には、精神衛生と認知機能サポートに関する医療界の理解に統合される必要があり、これには時間がかかるのが一般的です。",
-        "現在、日本における認知機能の困難に対する支援は、一般的な精神科カウンセリング、生活習慣の調整、あるいはADHDなどの特定の状態に対する投薬が中心です。大学の保健センター（大学の保健センター）はサポートを提供していますが、うつ病後の「脳の霧」に特化し、一般的な認知機能の改善を目的とした薬理学的治療は広く認識されていません。この研究は、既存のサービスを補完し、現在の選択肢を超えて認知機能の明確さに対するより直接的な介入を提供する可能性のある、新しいアプローチを示唆しています。"
-      ]
-    },
-    "structured": {
-      "tagline": {
-        "en": "Constipation drug shows promise for depression brain fog.",
-        "ja": "便秘薬がうつ病の「脳の霧」改善に期待。"
-      },
-      "whoForWhat": {
-        "en": "For Tokyo families whose high-schoolers or university students struggle with persistent mental fatigue or difficulty concentrating, this research offers a glimpse into potential future pharmacological support for cognitive clarity.",
-        "ja": "長引く精神的な疲労や集中力の低下に悩む東京の高校生や大学生の保護者にとって、この研究は認知機能の明確さに対する将来の薬理学的サポートの可能性を示唆します。"
-      },
-      "vsJapanContext": {
-        "en": "While mental health support for students in Japan is often focused on counseling or lifestyle changes, this research points to a pharmacological avenue for cognitive improvement that could complement existing approaches in university student health centers.",
-        "ja": "日本の学生向けメンタルヘルスケアがカウンセリングや生活習慣の改善に重点を置く中、この研究は大学の保健センターなどで既存のアプローチを補完しうる薬理学的な認知機能改善の可能性を示唆します。"
-      },
-      "tokyoNote": {
-        "en": "This study highlights how seemingly unrelated medical treatments might impact cognitive function, a critical factor for academic success in Japan's demanding educational environment. It reminds us to consider holistic well-being when supporting our children's learning.",
-        "ja": "一見無関係な治療薬が認知機能に影響を与える可能性を示唆する今回の研究は、学習環境が厳しい日本の教育現場で、学業成績を左右する重要な要素である認知機能への新たな視点を与えます。子どもの学びを支える上で、心身全体の健康を見つめることの重要性を改めて考えさせられます。"
-      }
-    },
-    "source": {
-      "name": "ScienceDaily — Educational Psychology",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260712011751.htm"
-    },
-    "sourceGuid": "https://www.sciencedaily.com/releases/2026/07/260712011751.htm",
     "status": "published"
   }
 ]
