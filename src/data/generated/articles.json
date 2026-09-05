@@ -1,5 +1,107 @@
 [
   {
+    "slug": "unveiling-the-brains-blueprint-new-discoveries-in-prenatal-development",
+    "category": "early-childhood",
+    "issue": "Vol. 04",
+    "publishedAt": "2026-09-04T06:04:06.000Z",
+    "readingMinutes": 4,
+    "feature": true,
+    "cover": {
+      "src": "https://www.sciencedaily.com/images/1920/thalamic-and-cortical-organoids.webp",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "Unveiling the Brain's Blueprint: New Discoveries in Prenatal Development",
+      "ja": "脳の設計図を解き明かす：胎児期の脳発達における新発見"
+    },
+    "dek": {
+      "en": "UCLA researchers identify two critical factors—glucose processing and thalamic signals—that guide how stem cells build the human brain before birth, shaping the foundation for future cognitive abilities.",
+      "ja": "UCLAの研究者たちが、胎児期にヒトの脳が形成される過程を司る2つの重要な要因（グルコース処理と視床からの信号）を特定しました。これは、将来の認知能力の基盤を形作る幹細胞の働きに光を当てるものです。"
+    },
+    "author": {
+      "en": "WORLD STUDY TOKYO Editors",
+      "ja": "WORLD STUDY TOKYO 編集部"
+    },
+    "location": {
+      "en": "Tokyo",
+      "ja": "東京"
+    },
+    "tags": [
+      {
+        "en": "brain development",
+        "ja": "脳の発達"
+      },
+      {
+        "en": "early childhood",
+        "ja": "幼児期"
+      },
+      {
+        "en": "neuroscience",
+        "ja": "神経科学"
+      },
+      {
+        "en": "cognition",
+        "ja": "認知"
+      }
+    ],
+    "body": {
+      "en": [
+        "UCLAの研究チームが、胎児期にヒトの脳が形成されるメカニズムに関する重要な発見を発表しました。彼らは、脳の大部分を生成する幹細胞である放射状グリア細胞が、どのようにグルコース（ブドウ糖）を処理するか、そして視床から送られる信号との物理的な接触によって、その挙動を変化させることを明らかにしました。この細胞の振る舞いが、生成される神経細胞の種類、特にヒトの脳で顕著な高次層神経細胞の形成に影響を与えるとのことです。",
+        "この研究は、脳の最も基本的な構成要素がどのように配置されるかという根源的な問いに答えるものです。放射状グリア細胞は、脳の最も外側の層である大脳皮質（思考、記憶、言語といった高次機能をつかさどる部分）の形成に不可欠な役割を担っています。今回の発見は、これらの細胞が単純な遺伝的プログラムだけでなく、胎児期の環境からの微細な信号によってもその機能を調整していることを示唆しています。",
+        "研究者たちは、放射状グリア細胞がグルコースを処理する方法が、細胞の増殖や分化（特定の種類の神経細胞へと変化すること）に直接影響を与えることを見出しました。さらに、脳の奥深くにある視床（感覚情報を大脳皮質へ中継する重要な部位）からの物理的な信号が、放射状グリア細胞に接触することで、どのタイプの神経細胞が作られるかを変化させる「隠れた指示」として機能していることが判明しました。",
+        "> \"Radial glia, stem cells responsible for producing much of the cerebral cortex, change their behavior depending on how they process glucose and on physical contact with signals arriving from the thalamus.\"",
+        "この発見は、脳の複雑な構造がいかにして精密に構築されるかについての理解を深めるものです。特に、ヒトの脳において発達が著しい高次層神経細胞の生成メカニズムが明らかになることで、将来的に神経発達障害の原因解明や、早期介入の可能性を探る基礎となることが期待されます。しかし、これらの知見が実際の医療や教育に直接応用されるまでには、さらなる長期的な研究と検証が必要です。",
+        "今回の研究は、私たちが生まれる前の、ごく初期の段階で、脳という最も複雑な器官がいかにしてその驚くべき能力の基盤を築くのかという、生命の神秘に一歩近づくものと言えるでしょう。この基礎的な理解が、未来の教育や子育てのあり方について、新たな視点をもたらす可能性を秘めています。"
+      ],
+      "ja": [
+        "UCLAの研究チームが、胎児期にヒトの脳が形成されるメカニズムに関する重要な発見を発表しました。彼らは、脳の大部分を生成する幹細胞である放射状グリア細胞（radial glia）が、どのようにグルコース（ブドウ糖）を処理するか、そして視床（thalamus）から送られる信号との物理的な接触によって、その挙動を変化させることを明らかにしました。この細胞の振る舞いが、生成される神経細胞の種類、特にヒトの脳で顕著な高次層神経細胞の形成に影響を与えるとのことです。",
+        "この研究は、脳の最も基本的な構成要素がどのように配置されるかという根源的な問いに答えるものです。放射状グリア細胞は、思考、記憶、言語といった高次機能をつかさどる脳の最も外側の層である大脳皮質（cerebral cortex）の形成に不可欠な役割を担っています。今回の発見は、これらの細胞が単純な遺伝的プログラムだけでなく、胎児期の環境からの微細な信号によってもその機能を調整していることを示唆しています。",
+        "研究者たちは、放射状グリア細胞がグルコースを処理する方法が、細胞の増殖や分化（特定の種類の神経細胞へと変化すること）に直接影響を与えることを見出しました。さらに、脳の奥深くにある視床（感覚情報を大脳皮質へ中継する重要な部位）からの物理的な信号が、放射状グリア細胞に接触することで、どのタイプの神経細胞が作られるかを変化させる「隠れた指示」として機能していることが判明しました。",
+        "「大脳皮質の大部分を生成する幹細胞である放射状グリアは、グルコースの処理方法と、視床から届く信号との物理的接触に応じて、その挙動を変化させる。」",
+        "この発見は、脳の複雑な構造がいかにして精密に構築されるかについての理解を深めるものです。特に、ヒトの脳において発達が著しい高次層神経細胞の生成メカニズムが明らかになることで、将来的に神経発達障害の原因解明や、早期介入の可能性を探る基礎となることが期待されます。しかし、これらの知見が実際の医療や教育に直接応用されるまでには、さらなる長期的な研究と検証が必要です。",
+        "今回の研究は、私たちが生まれる前の、ごく初期の段階で、脳という最も複雑な器官がいかにしてその驚くべき能力の基盤を築くのかという、生命の神秘に一歩近づくものと言えるでしょう。この基礎的な理解が、未来の教育や子育てのあり方について、新たな視点をもたらす可能性を秘めています。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "この研究は、私たちが生まれる前の、お腹の中にいる間に、脳がどのように形作られていくかという、生命の最も根源的な部分に光を当てるものです。例えば、家を建てる際に、基礎工事の段階でどのような材料を使い、どのような設計図に従うかで、完成する家の耐久性や機能が大きく変わるのと似ています。今回の「隠れた指示」とは、脳という複雑な建物を築くための、ごく初期の精密な設計プロセスが明らかになった、と捉えることができます。",
+        "東京で子育てをするご家庭にとって、この発見が直ちに子育ての方法や学習環境の選択に影響を与えることはありません。しかし、長期的な視点で見れば、子どもの学習能力や個性の基盤が、どれほど早い段階で、そしてどのようなメカニズムで形成されるのかという理解を深める上で重要な意味を持ちます。将来的に、胎児期の特定の栄養素や環境要因が、脳の発達に与える影響についての研究が進めば、より具体的な知見として還元される可能性を秘めています。",
+        "この種の基礎研究が、子育てや教育実践に直接的な変化をもたらすまでには、非常に長い時間が必要です。具体的な影響が見られるとすれば、それはおそらく10年から20年以上のスパンで、大規模な臨床研究や、倫理的な側面を含めた社会的な議論を経てからとなるでしょう。文部科学省の学習指導要領や、中学受験・大学受験の入試制度に直接的な影響を与えることは、現時点では想定されていません。",
+        "日本国内でも、理化学研究所（RIKEN）の脳科学総合研究センターや、東京大学、京都大学などの大学医学部・研究科では、胎児期から乳幼児期にかけての脳発達に関する基礎研究が活発に行われています。これらの機関は、今回のUCLAの研究と同様に、神経細胞の発生や回路形成のメカニズムを分子レベルから解明しようと努めています。現時点では、この特定の発見に直接対応する教育プログラムやサービスは存在しませんが、脳科学の進展が、長期的には子どもの発達支援や教育アプローチのあり方を再考するきっかけとなるでしょう。"
+      ],
+      "ja": [
+        "This research sheds light on the most fundamental aspects of life: how the brain forms while we are still in the womb. It's akin to understanding that when building a house, the choice of materials and the blueprint used during the foundational stage significantly determine the final structure's durability and function. These \"hidden instructions\" can be seen as the revelation of a precise, early design process for constructing the complex edifice that is the brain.",
+        "For Tokyo families, this discovery will not immediately change parenting methods or choices regarding learning environments. However, from a long-term perspective, it holds significant meaning for deepening our understanding of how a child's learning abilities and individuality are formed at such an early stage and through what mechanisms. In the future, if research progresses on the effects of specific prenatal nutrients or environmental factors on brain development, it may yield more concrete insights relevant to families.",
+        "It will take a very long time for this kind of basic research to directly translate into changes in parenting or educational practices. Any tangible impact would likely be seen over a span of 10 to 20 years or more, following extensive clinical research and societal discussions, including ethical considerations. There is no immediate anticipated impact on MEXT's curriculum guidelines or on the entrance examination systems for junior high or university admissions.",
+        "In Japan, institutions like the RIKEN Center for Brain Science, and university medical faculties and research departments at the University of Tokyo and Kyoto University, actively conduct basic research on brain development from the fetal to infancy stages. These institutions, similar to the UCLA study, strive to elucidate the mechanisms of neuronal generation and circuit formation at a molecular level. While no direct educational programs or services currently exist that specifically address this particular finding, advancements in brain science will, in the long term, provide an opportunity to rethink approaches to child development support and education."
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "New insights into how the human brain builds itself.",
+        "ja": "胎児期の脳形成を司る新たなメカニズム。"
+      },
+      "whoForWhat": {
+        "en": "For Tokyo parents curious about the very earliest stages of brain development, this research offers a glimpse into the fundamental processes that shape a child's future learning capacity.",
+        "ja": "胎児期の脳発達の根源的なメカニズムに関心のある東京の保護者へ。子どもの学習能力の基盤がどのように形成されるかを理解する一助となります。"
+      },
+      "vsJapanContext": {
+        "en": "While this foundational neuroscience research doesn't directly connect to current MEXT curriculum or juku methods, it aligns with Japan's robust university-level basic science research into human development and cognition.",
+        "ja": "この基礎的な脳科学研究は、文部科学省のカリキュラムや塾の指導法に直結するものではありませんが、日本の大学や研究機関が取り組むヒトの発達と認知に関する基礎科学研究と方向性を共有します。"
+      },
+      "tokyoNote": {
+        "en": "This is fundamental science, offering a window into the brain's earliest development. Tokyo families should view this as long-term foundational knowledge, unlikely to impact daily parenting or educational choices for many years, but crucial for understanding future advancements.",
+        "ja": "これは脳の最も初期の発達段階を解き明かす基礎科学であり、東京のご家庭にとっては、日々の育児や教育選択にすぐに影響するものではありません。しかし、将来的な進歩を理解するための重要な基盤知識として捉えるべきです。"
+      }
+    },
+    "source": {
+      "name": "ScienceDaily — Child Development",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260904000308.htm"
+    },
+    "sourceGuid": "https://www.sciencedaily.com/releases/2026/09/260904000308.htm",
+    "status": "published"
+  },
+  {
     "slug": "ai-literacy-is-not-enough-universities-must-teach-responsible-application",
     "category": "ai-edu",
     "issue": "Vol. 03",
@@ -6777,8 +6879,8 @@
     "readingMinutes": 6,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1573164713619-24c711fe7878?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#C4DDC6"
+      "src": "https://images.unsplash.com/photo-1593720213428-28a5b9e94613?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#C9E0CC"
     },
     "title": {
       "en": "Beyond Error Detection: Evaluating AI Solutions for Deeper Learning",
@@ -6881,8 +6983,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1532012197267-da84d127e765?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#D9CFE5"
+      "src": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#D6CDE2"
     },
     "title": {
       "en": "The Gut-Brain Axis: How Nutrition Influences Memory Formation",
@@ -7605,8 +7707,8 @@
     "readingMinutes": 6,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#CDE3CF"
+      "src": "https://images.unsplash.com/photo-1561089489-f13d5e730d72?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#D2E4D5"
     },
     "title": {
       "en": "AI Tutors May Overassist, Hindering Deep Learning",
@@ -8109,108 +8211,6 @@
       "url": "https://www.sciencedaily.com/releases/2026/07/260719035931.htm"
     },
     "sourceGuid": "https://www.sciencedaily.com/releases/2026/07/260719035931.htm",
-    "status": "published"
-  },
-  {
-    "slug": "political-review-of-us-education-grants-raises-concerns-for-future-research",
-    "category": "research",
-    "issue": "Vol. 02",
-    "publishedAt": "2026-07-20T10:00:00.000Z",
-    "readingMinutes": 5,
-    "feature": true,
-    "cover": {
-      "src": "https://i0.wp.com/hechingerreport.org/wp-content/uploads/2026/07/proof-omb-071726-scaled.jpg?fit=1024%2C683&amp;ssl=1",
-      "tone": "#0c0c0c"
-    },
-    "title": {
-      "en": "Political Review of US Education Grants Raises Concerns for Future Research",
-      "ja": "米国の教育研究助成金、政治的審査導入で研究の未来に懸念"
-    },
-    "dek": {
-      "en": "A proposed overhaul of federal grant rules in the US could allow political appointees to influence education research funding, potentially altering the direction of studies that inform learning practices worldwide.",
-      "ja": "米国で提案されている連邦助成金規則の変更は、政治任用者が教育研究の資金配分に影響を与え、世界の学習実践を形作る研究の方向性を変える可能性を指摘されています。"
-    },
-    "author": {
-      "en": "WORLD STUDY TOKYO Editors",
-      "ja": "WORLD STUDY TOKYO 編集部"
-    },
-    "location": {
-      "en": "Washington D.C., July 2026",
-      "ja": "ワシントンD.C.、2026年7月"
-    },
-    "tags": [
-      {
-        "en": "education policy",
-        "ja": "教育政策"
-      },
-      {
-        "en": "research funding",
-        "ja": "研究資金"
-      },
-      {
-        "en": "science of reading",
-        "ja": "読みの科学"
-      },
-      {
-        "en": "cognitive science",
-        "ja": "認知科学"
-      }
-    ],
-    "body": {
-      "en": [
-        "A significant concern has emerged within the American education research community regarding a proposed change to how federal grants are awarded. In July 2026, education researchers and organizations voiced warnings that a comprehensive overhaul of federal grant rules, which would introduce a new layer of review by political appointees, could fundamentally alter the landscape of what education topics get studied and funded.",
-        "This shift is particularly notable because much of the foundational work in education, such as the extensive research supporting the “science of reading” movement, has historically relied on decades of federally backed studies. This body of knowledge draws from diverse fields including cognitive science (how the mind learns), neuroscience (brain function in learning), psychology, linguistics, and direct classroom observations. The fear is that adding a political filter could steer research away from evidence-based inquiry towards topics favored by current administrations, potentially hindering the development of robust, long-term educational insights.",
-        "The proposed change involves a 100-page revision to the federal grant rulebook. Historically, grant decisions have largely been made through a peer-review process, where experts in the field evaluate proposals based on scientific merit and potential impact. Introducing political appointees into this process could lead to subjective criteria influencing funding, rather than purely objective research quality.",
-        "> Education research organizations say a proposed 100-page sweeping overhaul of federal grant rules, which would add a new review by political appointees, could make it harder to produce similar influential studies.",
-        "This potential redirection of research funding could have profound implications for future educational practices. For instance, if research into early childhood literacy or effective pedagogical methods becomes less prioritized in favor of other areas, the pipeline of new, evidence-based strategies for teachers and parents could slow significantly.",
-        "The long-term impact of such a policy remains to be seen. While the immediate focus is on the US context, the principle of independent, scientifically driven education research is universal. If political considerations begin to heavily influence what questions are asked and answered in education, it could affect the global knowledge base upon which many countries, including Japan, draw for their own educational reforms and practices. The debate highlights the delicate balance between public accountability and the necessity of academic freedom in scientific inquiry."
-      ],
-      "ja": [
-        "米国の教育研究界では、連邦政府の助成金配分方法に関する大きな懸念が浮上しています。2026年7月、教育研究者や関連団体は、連邦助成金規則の大規模な見直し案が、政治任用者による新たな審査プロセスを導入することで、教育研究の対象や方向性を根本的に変える可能性があると警鐘を鳴らしました。",
-        "この動きが注目されるのは、「読みの科学（science of reading ── 科学的根拠に基づいた読み書きの指導法）」運動を支えるような、数十年にわたる影響力のある研究の多くが、これまで連邦政府の支援を受けてきたからです。こうした研究は、認知科学（脳がどのように情報を処理し学習するか）、神経科学（学習時の脳機能）、心理学、言語学、そして実際の教室での観察など、多岐にわたる分野の知見を統合して構築されてきました。政治的なフィルターが加わることで、客観的な証拠に基づく探究ではなく、時の政権が重視するテーマに研究が偏り、長期的な教育的洞察の発展が阻害されるのではないかと懸念されています。",
-        "提案されている変更は、連邦助成金規則の約100ページにわたる改訂を伴います。これまでの助成金決定は、主にピアレビュー（専門家による相互評価）プロセスを通じて行われてきました。これは、分野の専門家が科学的メリットと潜在的な影響に基づいて提案を評価する仕組みです。このプロセスに政治任用者が関与することで、純粋な研究の質よりも主観的な基準が資金調達に影響を与える可能性が指摘されています。",
-        "教育研究団体は、政治任用者による新たな審査を追加する連邦助成金規則の抜本的な見直し案（約100ページ）は、同様の影響力のある研究を生み出すことを困難にする可能性があると述べています。",
-        "このような研究資金の方向転換は、将来の教育実践に深く影響を及ぼすかもしれません。例えば、もし幼児期の識字能力や効果的な教育法に関する研究が、他の分野に比べて優先順位が下がるとすれば、教師や保護者が活用できる、根拠に基づいた新しい戦略の供給が著しく滞る可能性があります。",
-        "この政策の長期的な影響はまだ不透明です。目下の焦点は米国にありますが、独立した科学的根拠に基づく教育研究という原則は普遍的です。もし教育における「何を問い、何に答えるか」という問いに政治的考慮が強く影響し始めると、日本を含む多くの国が教育改革や実践の参考にしているグローバルな知識基盤全体に影響が及ぶ可能性があります。この議論は、公共の説明責任と科学的探究における学術的自由の必要性との間のデリケートなバランスを浮き彫りにしています。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "Imagine that the research guiding how your child learns to read or how schools design their curriculum usually comes from independent scientists who follow strict rules about evidence. This news suggests that in the US, there's a push to let politicians have a say in which research projects get money. It's like deciding which ingredients go into a cake: instead of the baker (the scientist) choosing based on what makes the best cake, someone else (a politician) might say, \"Only use ingredients I prefer,\" even if it changes the cake's quality or taste. The worry is that this could mean less funding for important, long-term studies that truly help children learn.",
-        "For Tokyo families, this could subtly impact the global pool of knowledge from which Japanese educators and juku draw. If foundational research in areas like cognitive development or effective study methods slows down in the US, it might mean fewer new, evidence-backed techniques emerging globally. This could affect the pace at which innovative teaching practices are introduced into international schools in Tokyo, or even influence the long-term curriculum reforms discussed by MEXT, which often look to global best practices.",
-        "The direct impact on Tokyo families is likely to be long-term, perhaps 5-10 years, gated by how widely and deeply this policy change affects the global research output. If the US, a major producer of education research, significantly shifts its focus, it would take time for that ripple effect to be felt in new textbooks, teaching methodologies, or even the admissions criteria for international universities that value certain types of research-informed learning.",
-        "In Japan, institutions like the Benesse Educational Research and Development Institute (ベネッセ教育総合研究所) and research divisions within major juku (e.g., SAPIX, Z-kai) conduct their own research, often with a clear focus on practical application in the Japanese context. While not directly subject to US federal grant rules, the broader discussion about research independence and the balance between academic freedom and societal needs is a constant consideration for any educational research body, including those that inform MEXT policy and the curriculum for 大学入学共通テスト."
-      ],
-      "ja": [
-        "お子さまの読み書きの習得方法や学校のカリキュラム設計に関する研究は、通常、厳格な科学的根拠に基づいて独立した研究者によって進められます。今回のニュースは、米国でその研究資金の配分に政治家が関与する可能性が出てきた、という話です。例えるなら、美味しいケーキを作るために必要な材料を、パティシエ（研究者）が科学的に選ぶのではなく、別の誰か（政治家）が「私が好きな材料だけを使ってほしい」と指示するようなものです。その結果、ケーキの味や質が変わってしまうかもしれない、という懸念に似ています。本当に子どもたちの学びを助ける、重要で長期的な研究への資金が減るのではないかと危惧されています。",
-        "東京のご家庭にとって、これは日本の教育者や塾が参考にしている世界の知識基盤に、間接的に影響を与える可能性があります。もし米国で認知発達や効果的な学習法といった基礎研究の進展が鈍化すれば、世界的に見て新たな科学的根拠に基づく教育手法が生まれるペースが遅くなるかもしれません。これは、東京のインターナショナルスクールで導入される革新的な教育実践の速度に影響したり、あるいは文部科学省が世界の最先端事例を参考に検討する長期的な学習指導要領の改訂にも、間接的な影響を及ぼす可能性も考えられます。",
-        "東京のご家庭への直接的な影響は、おそらく長期的なものとなるでしょう。この政策変更が世界の研究成果にどれだけ広範かつ深く影響するかによって、5年から10年といったスパンで現れる可能性があります。教育研究の主要な生産国である米国が研究の焦点を大きく変えるならば、その波及効果が新しい教科書や指導法、あるいは特定のリサーチに基づいた学習を重視する海外大学の入試基準に反映されるまでには、時間を要するでしょう。",
-        "日本では、ベネッセ教育総合研究所や、SAPIX、Z会などの大手塾の研究部門が、日本の文脈に合わせた実践的な応用を重視した独自の研究を行っています。これらは米国の連邦助成金規則の直接的な対象ではありませんが、研究の独立性や、学術的自由と社会のニーズとのバランスに関する広範な議論は、文部科学省の政策や大学入学共通テストのカリキュラム策定に影響を与える研究機関にとっても常に考慮すべき点です。"
-      ]
-    },
-    "structured": {
-      "tagline": {
-        "en": "Political review could reshape education research priorities.",
-        "ja": "教育研究の方向性、政治的介入で変化の可能性。"
-      },
-      "whoForWhat": {
-        "en": "For Tokyo families wondering how global education research findings might evolve, especially concerning new insights into learning methods and child development that inform parenting choices and curriculum design.",
-        "ja": "世界の教育研究が今後どのように進展し、それが子育てやカリキュラム設計に役立つ新たな学習法や発達に関する知見にどう影響するかを知りたい東京の保護者へ。"
-      },
-      "vsJapanContext": {
-        "en": "While specific to US federal grants, this debate mirrors broader discussions about research independence and funding priorities, which in Japan could relate to MEXT's role in guiding national education research or the themes prioritized by institutions like ベネッセ教育総合研究所.",
-        "ja": "米国の連邦助成金に関する話ですが、研究の独立性や資金配分の優先順位に関する議論は、文部科学省が主導する日本の教育研究の方向性や、ベネッセ教育総合研究所のような機関が重視するテーマにも通じる部分があります。"
-      },
-      "tokyoNote": {
-        "en": "Tokyo parents should note that while this is a US-centric policy debate, the underlying concern about political influence on research funding is globally relevant. Japan's education research ecosystem, while different, also faces questions about how priorities are set and who funds what, which can indirectly affect the insights available for improving local learning environments.",
-        "ja": "この議論は米国固有の政策問題ですが、研究資金への政治的影響という根本的な懸念は世界共通です。日本の教育研究エコシステムも、文部科学省や民間団体による研究テーマの選定、資金配分のあり方について常に問われており、それが間接的に、私たちの家庭や学習環境を改善するための知見にどう影響するかを考えるきっかけとなります。"
-      }
-    },
-    "source": {
-      "name": "The Hechinger Report",
-      "url": "https://hechingerreport.org/proof-points-education-omb-comments/"
-    },
-    "sourceGuid": "https://hechingerreport.org/?p=117255",
     "status": "published"
   }
 ]
