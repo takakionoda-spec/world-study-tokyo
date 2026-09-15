@@ -1,5 +1,209 @@
 [
   {
+    "slug": "childcare-shortages-and-frozen-funding-a-global-challenge-for-working-parents",
+    "category": "early-childhood",
+    "issue": "Vol. 04",
+    "publishedAt": "2026-09-15T06:00:00.000Z",
+    "readingMinutes": 5,
+    "feature": true,
+    "cover": {
+      "src": "https://i0.wp.com/hechingerreport.org/wp-content/uploads/2026/09/EC-vouchers-2-scaled.jpg?fit=1024%2C683&amp;ssl=1",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "Childcare Shortages and Frozen Funding: A Global Challenge for Working Parents",
+      "ja": "保育サービス不足と助成金凍結：働く親が直面する世界共通の課題"
+    },
+    "dek": {
+      "en": "A report from Syracuse, New York, highlights how waitlists for childcare assistance programs are preventing mothers from working or advancing their careers, a challenge echoed in many urban centers globally.",
+      "ja": "ニューヨーク州シラキュースからの報告は、保育助成プログラムの待機リストが母親の就労やキャリアアップを阻む実態を浮き彫りにしています。これは世界中の都市で共通する課題です。"
+    },
+    "author": {
+      "en": "WORLD STUDY TOKYO Editors",
+      "ja": "WORLD STUDY TOKYO 編集部"
+    },
+    "location": {
+      "en": "Tokyo, September 15, 2026",
+      "ja": "東京、2026年9月15日"
+    },
+    "tags": [
+      {
+        "en": "childcare",
+        "ja": "保育"
+      },
+      {
+        "en": "working parents",
+        "ja": "共働き"
+      },
+      {
+        "en": "gender equality",
+        "ja": "ジェンダー平等"
+      },
+      {
+        "en": "family economics",
+        "ja": "家計"
+      }
+    ],
+    "body": {
+      "en": [
+        "A recent report, initially from Syracuse, New York, by The Hechinger Report on September 15, 2026, sheds light on a critical issue: the escalating waitlists for childcare assistance programs are actively hindering parents, particularly mothers, from participating fully in the workforce or pursuing career advancements. This local story serves as a stark illustration of a broader global challenge where the availability and affordability of quality childcare directly impact family economics and gender equality.",
+        "The core problem arises when state or municipal funding for such programs is frozen or insufficient. In Syracuse, this led to immediate repercussions, leaving low- and moderate-income families without the crucial financial support needed to cover childcare costs. For many, this support is the difference between being able to work and having to stay home, creating a significant barrier to economic stability and professional growth.",
+        "One poignant example is Edythe Smith, a single mother in Syracuse. The morning after her daughter's birth, she received the devastating news that state funding for childcare assistance had been frozen. Despite working full-time from home, the lack of affordable childcare options meant she faced an immediate hurdle in balancing her professional life with her new family responsibilities.",
+        "> \"State funding for a government program that helps low- and moderate-income families pay for child care had just been frozen in Syracuse, New York, where she lives.\"",
+        "This situation is not unique to Syracuse. Across many developed economies, including Japan, the demand for reliable and affordable childcare far outstrips supply. When parents, often mothers, are forced to reduce their working hours, forgo promotions, or leave the workforce entirely due to childcare constraints, it represents a significant loss of human capital and exacerbates existing gender pay gaps. It also impacts children, as family financial stress can ripple through household well-being.",
+        "The long-term implications extend beyond individual families. A constrained childcare sector can dampen economic productivity, as a substantial portion of the potential workforce remains underutilized. It also places additional pressure on social safety nets and can contribute to declining birth rates if parents perceive the challenges of raising children alongside a career as insurmountable. Addressing this requires not just increased funding, but also innovative approaches to childcare provision, including flexible models and employer partnerships."
+      ],
+      "ja": [
+        "2026年9月15日、ヘチンジャー・レポートが報じたニューヨーク州シラキュースの事例は、保育助成プログラムの待機リストが拡大し、特に母親の就労やキャリアアップを阻害しているという深刻な問題に光を当てています。この地域的な話は、質の高い保育の利用可能性と手頃な価格が、家計とジェンダー平等に直接影響を及ぼすという、より広範な世界共通の課題を如実に示しています。",
+        "問題の根源は、州や自治体による助成金の凍結や不足にあります。シラキュースでは、これが低・中所得層の家庭が保育費用を賄うために不可欠な経済的支援を受けられないという即座の事態を招きました。多くの家庭にとって、この支援は働くか家に留まるかの分かれ目であり、経済的安定とキャリア形成にとって大きな障壁となっています。",
+        "シラキュースに住むシングルマザー、エディス・スミスさんの事例は、その苦境を象徴しています。彼女は娘の出産翌朝、保育助成金の凍結という衝撃的な知らせを受けました。在宅でフルタイム勤務をしているにもかかわらず、手頃な価格の保育選択肢が不足しているため、仕事と新しい育児責任との両立に即座に困難を抱えることになりました。",
+        "> 「彼女が住むニューヨーク州シラキュースでは、低・中所得家庭の保育料を助成する州政府プログラムの資金が凍結されたばかりでした。」",
+        "この状況はシラキュースに限ったことではありません。日本を含む多くの先進国で、信頼できる手頃な価格の保育に対する需要が供給をはるかに上回っています。保育の制約によって、親（多くの場合、母親）が労働時間を短縮したり、昇進を諦めたり、あるいは完全に離職せざるを得ない場合、それは人的資本の大きな損失となり、既存の男女間の賃金格差をさらに拡大させます。また、家計の経済的ストレスは家庭全体の幸福にも波及し、子どもたちにも影響を与えます。",
+        "長期的な影響は個々の家庭を超えて広がります。保育セクターの制約は、潜在的な労働力の大部分が十分に活用されないため、経済生産性を低下させる可能性があります。また、親が仕事と子育ての両立を乗り越えがたい課題だと感じれば、社会保障制度へのさらなる負担や出生率の低下にもつながりかねません。この問題に対処するには、単に資金を増やすだけでなく、柔軟な保育モデルや企業との連携など、革新的な保育提供アプローチが求められます。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "This report from New York, while geographically distant, resonates deeply with the realities faced by Tokyo families. The core issue—the struggle to secure affordable and accessible childcare—is a daily concern for many parents here. When state funding is frozen or waitlists grow, it's not just a policy abstract; it translates directly into parents, particularly mothers, having to make difficult choices about their careers and family finances.",
+        "For Tokyo families, this global trend points to several plausible future impacts. We might see an intensified focus on employer-supported childcare options, or a greater push for flexible working arrangements that accommodate childcare needs. The pressure on *hoikuen* (daycare centers) waitlists could lead to more innovative private childcare solutions, or perhaps influence university admissions policies to recognize career breaks taken for childcare more favorably in holistic evaluations (総合型選抜).",
+        "The timeframe for such changes could vary. Employer-supported solutions or flexible work policies are already gaining traction and might see broader adoption within 1-3 years, driven by corporate demand for talent. However, significant structural changes to the *hoikuen* system or MEXT policies might take 5-10 years, gated by national policy debates and the need for large-scale infrastructure development.",
+        "Japan already has several initiatives addressing childcare, though challenges persist. The government has made efforts to reduce *hoikuen* waitlists, and major corporations like Shiseido have pioneered in-house childcare facilities. Furthermore, services like *Kodomono Mori* (こどもの森) and *Poppins* (ポピンズ) offer private daycare and babysitting, providing alternatives for families who can afford them. However, the fundamental tension between demand, affordability, and the societal expectation for maternal employment remains a significant area for ongoing discussion and policy evolution."
+      ],
+      "ja": [
+        "ニューヨークからのこの報告は、地理的には遠いものの、東京の家庭が直面する現実に深く共鳴するものです。手頃な価格で利用しやすい保育を確保するという根源的な問題は、多くの保護者にとって日常的な懸念事項です。州の助成金が凍結されたり、待機リストが伸びたりすることは、単なる政策上の抽象論ではなく、親、特に母親がキャリアと家計について難しい選択を迫られる事態に直結します。",
+        "東京の家庭にとって、この世界的な傾向はいくつかの将来的な影響をもたらす可能性があります。企業が支援する保育オプションへの注目が高まったり、保育ニーズに対応する柔軟な働き方への推進が強まったりするかもしれません。保育園の待機児童問題へのプレッシャーは、より革新的な民間保育ソリューションにつながるか、あるいは大学入試、特に総合型選抜において、育児のために取得したキャリアの中断をより好意的に評価する入試政策に影響を与える可能性もあります。",
+        "このような変化が起こるまでの期間は様々でしょう。企業支援のソリューションや柔軟な勤務形態はすでに注目されており、人材確保の企業側の需要に後押しされ、1〜3年以内に広く採用される可能性があります。しかし、保育園制度や文部科学省の政策における抜本的な構造改革は、国の政策議論と大規模なインフラ整備の必要性により、5〜10年かかるかもしれません。",
+        "日本にはすでに保育問題に対処するためのいくつかの取り組みがありますが、課題は依然として残っています。政府は保育園の待機児童解消に努め、資生堂のような大手企業は社内保育施設の先駆けとなっています。さらに、「こどもの森」や「ポピンズ」のようなサービスは、民間保育やベビーシッターを提供し、費用を負担できる家庭に代替案を提供しています。しかし、需要、手頃な価格、そして母親の就労に対する社会的な期待との間の根本的な緊張は、継続的な議論と政策進化にとって重要な領域であり続けています。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "Childcare waitlists limit mothers' work and career growth.",
+        "ja": "保育待機児童、母親のキャリアを阻む。"
+      },
+      "whoForWhat": {
+        "en": "For Tokyo families with infants or preschoolers, weighing career progression against the challenges of securing affordable childcare.",
+        "ja": "乳幼児を抱え、キャリア継続と保育環境確保の課題に直面する東京の保護者向け。"
+      },
+      "vsJapanContext": {
+        "en": "This mirrors Japan's persistent *hoikuen* (daycare center) waitlist issue, where securing a spot often dictates parental employment choices, despite government efforts to expand capacity.",
+        "ja": "日本の保育園待機児童問題と重なり、政府の拡充策にもかかわらず、親の就労選択に大きな影響を与える現状と共通します。"
+      },
+      "tokyoNote": {
+        "en": "While the specific policy context is American, the core challenge of childcare access profoundly impacts Tokyo families. The cost, availability, and quality of *hoikuen* or private childcare remain central to family planning and career decisions here. We must watch how public policy and corporate initiatives adapt to support working parents more effectively.",
+        "ja": "政策の具体的な背景はアメリカですが、保育アクセスという核心的な課題は東京の家庭に深く影響します。保育園や民間保育の費用、空き状況、質は、東京における家族計画とキャリア選択の中心にあります。公的政策と企業の取り組みが、働く親をより効果的に支援するためにどのように適応していくか、注目していく必要があります。"
+      }
+    },
+    "source": {
+      "name": "The Hechinger Report",
+      "url": "https://hechingerreport.org/waitlists-child-care-women-work-promotions/"
+    },
+    "sourceGuid": "https://hechingerreport.org/?p=117887",
+    "status": "published"
+  },
+  {
+    "slug": "the-hidden-catch-in-private-school-choice-for-students-with-disabilities",
+    "category": "admissions",
+    "issue": "Vol. 04",
+    "publishedAt": "2026-09-15T05:00:00.000Z",
+    "readingMinutes": 5,
+    "feature": true,
+    "cover": {
+      "src": "https://i0.wp.com/hechingerreport.org/wp-content/uploads/2026/09/k12-disability-voucher-1-scaled.jpg?fit=768%2C1024&amp;ssl=1",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "The Hidden Catch in Private School Choice for Students with Disabilities",
+      "ja": "障害を持つ生徒の私立学校選択：見過ごされがちな法的保護の壁"
+    },
+    "dek": {
+      "en": "A US report highlights how private schools, even with public funding, may not offer the same legal protections for students with disabilities as public institutions.",
+      "ja": "米国の報告書が示す、公的資金を受けている私立学校でも、障害を持つ生徒に対する法的保護が公立学校と同等ではない現実。"
+    },
+    "author": {
+      "en": "WORLD STUDY TOKYO Editors",
+      "ja": "WORLD STUDY TOKYO 編集部"
+    },
+    "location": {
+      "en": "Cincinnati, Ohio",
+      "ja": "オハイオ州シンシナティ"
+    },
+    "tags": [
+      {
+        "en": "Special Education",
+        "ja": "特別支援教育"
+      },
+      {
+        "en": "Private Schools",
+        "ja": "私立学校"
+      },
+      {
+        "en": "School Choice",
+        "ja": "学校選択"
+      },
+      {
+        "en": "Disability Support",
+        "ja": "障害者支援"
+      }
+    ],
+    "body": {
+      "en": [
+        "In late 2025, families in Ohio, US, discovered a significant limitation when using state-funded vouchers for private school tuition for students with disabilities. Mike Grimmer and Linda Kelly's granddaughter, Annabelle, was removed from Cincinnati Christian Schools just three months after enrolling in a program for students needing extra support.",
+        "The core issue, highlighted by a Hechinger Report investigation, is that private schools receiving public funds via voucher programs are often not bound by the same federal special education laws (like IDEA – Individuals with Disabilities Education Act) that mandate specific services and protections in public schools. This means private schools can expel students with disabilities if they deem their needs too complex or costly, even if the family is using public money to pay tuition.",
+        "While public schools are legally required to provide a Free Appropriate Public Education (FAPE) tailored to each student's Individualized Education Program (IEP), private schools typically are not. Vouchers, intended to expand choice, can inadvertently place families in a precarious position where their child's placement is less secure and the range of services narrower.",
+        "> \"their granddaughter could no longer attend the private school.\"",
+        "The report found that many parents, drawn by promises of smaller class sizes or specific programs, were unaware that by accepting a voucher for a private school, they were waiving their child's rights under federal special education law. This trade-off often becomes apparent only after a child is denied services or asked to leave.",
+        "This situation raises questions about equity and access for students with disabilities when public funds are channeled to institutions with different legal obligations. While vouchers aim to offer alternatives, the reality can be a loss of crucial protections and support for vulnerable students."
+      ],
+      "ja": [
+        "2025 年後半、米国オハイオ州で、障害のある生徒の保護者が、州の補助金（バウチャー）を使って私立学校に通わせる際に予期せぬ制約に直面していることが明らかになりました。マイク・グリマー氏とリンダ・ケリー氏の孫娘アナベルさんは、シンシナティ・クリスチャン・スクールに、特別な支援を必要とする生徒向けのプログラムにわずか 3 ヶ月通った後、退学を求められました。",
+        "Hechinger Report の調査が指摘するように、この問題の核心は、バウチャーを通じて公的資金を受け取る私立学校が、公立学校に義務付けられている連邦特別教育法（IDEA：障害者教育法など）と同じ法的拘束力を持たない点にあります。そのため、私立学校は、生徒のニーズが複雑すぎたり、費用がかかりすぎると判断した場合、たとえ公的資金で授業料が支払われていても、障害のある生徒の退学を求めることができるのです。",
+        "公立学校は、各生徒の個別教育計画（IEP）に基づき、適切な無償の公教育（FAPE）を提供する法的義務があります。しかし、私立学校には通常、この義務はありません。選択肢を広げることを目的としたバウチャー制度が、結果的に保護者を不安定な状況に追い込み、子どもの居場所が不安定になったり、利用できるサービスが限定されたりする可能性があります。",
+        "> 「孫娘はもはや私立学校に通うことができなかった」",
+        "多くの保護者は、少人数制クラスや特定のプログラムに魅力を感じて私立学校を選びますが、バウチャーを受け入れることで、連邦特別教育法に基づく子どもの権利を放棄していることに気づいていない、と報告書は指摘しています。この代償は、子どもが必要な支援を拒否されたり、退学を求められたりして初めて明らかになることが多いようです。",
+        "この状況は、公的資金が異なる法的義務を持つ機関に流れる際に、障害のある生徒の公平性とアクセスにどのような影響を与えるかという重要な問いを投げかけます。バウチャー制度は代替手段を提供することを目指しますが、現実には、支援を必要とする生徒にとって不可欠な保護と支援が失われることにつながる可能性があります。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "This news from the US reveals a crucial difference between public and private education systems when it comes to supporting children with disabilities. While public schools are generally bound by law to provide comprehensive special education services tailored to a child's needs, private schools, even when receiving public funds through programs like vouchers, often are not. This means a private school might not be equipped, or legally obligated, to provide the same level of support, potentially leading to a child being asked to leave if their needs are too complex. It's like enrolling a child in a sports club that promises individual coaching, only to find they can't accommodate a specific physical challenge that a public school's physical education program would be mandated to address.",
+        "For Tokyo families, this insight is relevant when considering school pathways for children with diverse learning needs. Whether a family is looking at a domestic private school (国内私立) or an international school (インターナショナルスクール), understanding the scope of their special education provision is critical. This could influence decisions about where to apply, the questions to ask during admissions, and how to budget for potential external support services. It highlights that \"choice\" doesn't always equate to \"equal access to comprehensive support\" across all institutions.",
+        "This is an issue that already exists today for Tokyo families. While Japan's legal framework for special needs education (特別支援教育) in public schools is robust, the provisions in private and international schools vary widely. Families often navigate this landscape by conducting thorough research and direct inquiries during the application process. Any shift in this dynamic would likely be slow, perhaps over 5-10 years, gated by evolving private school policies or, less likely, new legislation specific to private institutions' obligations.",
+        "In Japan, public elementary and junior high schools are legally required to provide special needs education, including access to special needs classes (特別支援学級) or individual support plans within regular classes. For private schools, while many have dedicated support staff or programs, there isn't a uniform legal mandate like in public schools. Some international schools in Tokyo, such as ASIJ or British School in Tokyo, have well-developed learning support departments, but their capacity and specific offerings can differ, and they are not under the same legal obligations as Japanese public schools regarding special education provision. Families often rely on word-of-mouth and direct engagement with admissions teams to understand the true extent of support."
+      ],
+      "ja": [
+        "米国からのこのニュースは、障害を持つお子さまを支援する上で、公立と私立の教育システム間に存在する重要な違いを浮き彫りにしています。公立学校は通常、お子さまのニーズに合わせた包括的な特別支援教育サービスを提供する法的義務を負っていますが、私立学校は、たとえバウチャーのような公的資金を受け取っていたとしても、同じ義務を負わないことが多いのです。これは、私立学校が、お子さまのニーズが複雑すぎる場合に、同レベルの支援を提供できない、あるいは法的に義務付けられていないため、退学を求める可能性があることを意味します。これは、公立学校の体育プログラムなら対応が義務付けられている特定の身体的課題に対し、個別のコーチングを約束したスポーツクラブが対応できないような状況に似ています。",
+        "東京のご家庭にとって、この知見は、多様な学習ニーズを持つお子さまの学校選択を考える上で重要です。国内の私立学校（国内私立）か、インターナショナルスクール（インターナショナルスクール）かに関わらず、それぞれの学校が提供する特別支援教育の範囲を理解することは不可欠です。これは、どの学校に出願するか、入学時にどのような質問をするべきか、そして外部のサポートサービスにどの程度の予算を割くかといった決定に影響を与える可能性があります。「選択肢」があるからといって、全ての機関で「包括的な支援への平等なアクセス」が保証されるわけではない、という現実を示しています。",
+        "この問題は、東京のご家庭にとって今日すでに存在しています。日本の公立学校における特別支援教育の法的枠組みは強固ですが、私立学校やインターナショナルスクールでの提供内容は多岐にわたります。ご家庭は、入学プロセス中に徹底的な調査と直接的な問い合わせを行うことで、この状況を乗り越えています。この力学に大きな変化が生じるとすれば、それはおそらく 5〜10 年という緩やかな期間で、私立学校のポリシーの進化、あるいは私立機関の義務に関する新たな法律（可能性は低いですが）によって左右されるでしょう。",
+        "日本では、公立の小中学校は、特別支援学級へのアクセスや通常学級内での個別支援計画など、特別支援教育を提供する法的義務があります。一方、私立学校では、多くの学校が専門のサポートスタッフやプログラムを設けていますが、公立学校のような統一された法的義務はありません。東京の一部のインターナショナルスクール、例えば ASIJ やブリティッシュ・スクール・イン東京などは、発達支援部門が充実していますが、その対応能力や具体的な提供内容は異なり、日本の公立学校が負う特別支援教育に関する法的義務とは異なります。ご家庭は、実際の支援の範囲を理解するために、口コミや入学担当者との直接の対話に頼ることが多いのが現状です。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "Private school choice for students with disabilities comes with risks.",
+        "ja": "障害のある子の私立校選択、法的保護に留意を。"
+      },
+      "whoForWhat": {
+        "en": "For Tokyo families considering private or international schools for children with diverse learning needs, this highlights the differing legal obligations for special education support.",
+        "ja": "多様な学びのニーズを持つお子さまのために私立校やインターナショナルスクールを検討する東京のご家庭が、特別支援教育における法的義務の違いを理解する一助となります。"
+      },
+      "vsJapanContext": {
+        "en": "Unlike Japan's public schools, which are legally obliged to provide special needs education (特別支援教育), private and international schools in Japan have varying levels of provision, without the same explicit legal mandates.",
+        "ja": "日本の公立学校は特別支援教育の提供を法的に義務付けられていますが、私立やインターナショナルスクールでは、その提供レベルが異なり、同等の明確な法的義務はありません。"
+      },
+      "tokyoNote": {
+        "en": "This report from the US is a reminder that while private schools offer diverse environments, their capacity and legal obligation to support students with disabilities can differ significantly from public institutions, a reality Tokyo families should consider when making school choices.",
+        "ja": "米国のこの報道は、私立学校が多様な学習環境を提供する一方で、障害のある生徒への支援能力や法的義務が公立学校と大きく異なる場合があることを示唆しており、東京のご家庭が学校選択をする上で考慮すべき点です。"
+      }
+    },
+    "source": {
+      "name": "The Hechinger Report",
+      "url": "https://hechingerreport.org/parents-of-students-with-disabilities-find-private-school-vouchers-come-with-a-catch/"
+    },
+    "sourceGuid": "https://hechingerreport.org/?p=117822",
+    "status": "published"
+  },
+  {
     "slug": "brains-hidden-wiring-may-protect-cognitive-sharpness-as-gray-matter-declines",
     "category": "research",
     "issue": "Vol. 04",
@@ -3600,8 +3804,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1493612276216-ee3925520721?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#F4DEC6"
+      "src": "https://images.unsplash.com/photo-1517842645767-c639042777db?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#F1D5BC"
     },
     "title": {
       "en": "AI Tutors Evolve: Boosting Engagement and Long-Term Learning Retention",
@@ -3804,8 +4008,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1531403009284-440f080d1e12?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#F4DCC4"
+      "src": "https://images.unsplash.com/photo-1517431105194-aaf95f6f47f0?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#F0D2B7"
     },
     "title": {
       "en": "Khan Academy's Blueprint for Better AI Tutors: A Data-Driven Approach",
@@ -4934,8 +5138,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#DCD2E7"
+      "src": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#D6CDE2"
     },
     "title": {
       "en": "Rewriting Childhood Memories to Overcome Fear of Failure",
@@ -5140,8 +5344,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#D6CDE2"
+      "src": "https://images.unsplash.com/photo-1532012197267-da84d127e765?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#D9CFE5"
     },
     "title": {
       "en": "Finnish Study Links Screen Time to Stronger Cognition in Teens",
@@ -5961,8 +6165,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1532012197267-da84d127e765?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#D9CFE5"
+      "src": "https://images.unsplash.com/photo-1531403009284-440f080d1e12?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#F4DCC4"
     },
     "title": {
       "en": "Seven Days of Meditation Shows Brain and Body Transformation",
@@ -7087,8 +7291,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517431105194-aaf95f6f47f0?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#F0D2B7"
+      "src": "https://images.unsplash.com/photo-1493612276216-ee3925520721?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#F4DEC6"
     },
     "title": {
       "en": "Beyond the AI Tutor: Understanding Generative AI's Three Roles in Learning",
@@ -7295,8 +7499,8 @@
     "readingMinutes": 6,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517842645767-c639042777db?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#F1D5BC"
+      "src": "https://images.unsplash.com/photo-1551434678-e076c223a692?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#CFE3D2"
     },
     "title": {
       "en": "AI-Powered Diagrams Offer Visual Clarity for Computer Science Learning",
@@ -7811,8 +8015,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1551434678-e076c223a692?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#CFE3D2"
+      "src": "https://images.unsplash.com/photo-1593720213428-28a5b9e94613?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#C9E0CC"
     },
     "title": {
       "en": "AI Tutors: Helpfulness Isn't Always Pedagogical Guidance",
@@ -7913,8 +8117,8 @@
     "readingMinutes": 6,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#CDE3CF"
+      "src": "https://images.unsplash.com/photo-1561089489-f13d5e730d72?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#D2E4D5"
     },
     "title": {
       "en": "Beyond Error Detection: Evaluating AI Solutions for Deeper Learning",
@@ -8007,210 +8211,6 @@
       "url": "http://arxiv.org/abs/2607.27586v1"
     },
     "sourceGuid": "http://arxiv.org/abs/2607.27586v1",
-    "status": "published"
-  },
-  {
-    "slug": "the-gut-brain-axis-how-nutrition-influences-memory-formation",
-    "category": "research",
-    "issue": "Vol. 02",
-    "publishedAt": "2026-07-29T12:20:24.000Z",
-    "readingMinutes": 5,
-    "feature": true,
-    "cover": {
-      "src": "https://images.unsplash.com/photo-1456406644174-8ddd4cd52a06?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#D2C5E0"
-    },
-    "title": {
-      "en": "The Gut-Brain Axis: How Nutrition Influences Memory Formation",
-      "ja": "腸と脳の連携：食事が記憶形成にどう影響するか"
-    },
-    "dek": {
-      "en": "New research in rats reveals that signals from the gut, particularly after consuming nutritious foods, can significantly enhance memory. This challenges the view of memory as solely a brain function and highlights the importance of diet for cognitive health.",
-      "ja": "ラットを用いた新たな研究により、腸から脳への信号、特に栄養価の高い食事を摂取した後が、記憶力を著しく向上させることが明らかになりました。これは記憶が脳だけの機能ではないことを示し、認知機能における食事の重要性を浮き彫りにします。"
-    },
-    "author": {
-      "en": "WORLD STUDY TOKYO Editors",
-      "ja": "WORLD STUDY TOKYO 編集部"
-    },
-    "location": {
-      "en": "TOKYO, July 29, 2026",
-      "ja": "東京、2026年7月29日"
-    },
-    "tags": [
-      {
-        "en": "nutrition",
-        "ja": "栄養"
-      },
-      {
-        "en": "memory",
-        "ja": "記憶"
-      },
-      {
-        "en": "cognitive science",
-        "ja": "認知科学"
-      },
-      {
-        "en": "child development",
-        "ja": "子どもの発達"
-      }
-    ],
-    "body": {
-      "en": [
-        "Recent research published in ScienceDaily, drawing on studies with rats, suggests a fascinating connection between our gut and our brain, particularly regarding memory formation. Scientists have found that signals from the digestive system can play a crucial role in consolidating experiences into lasting memories, especially those related to food and its nutritional value.",
-        "The study observed that rats exhibited stronger memory activity after consuming nutritious foods, a phenomenon not seen after they ingested sweet liquids lacking significant nutritional content. This indicates that the gut isn't just processing calories; it's actively communicating with the brain about the *quality* of what's consumed. This communication appears to be mediated by the vagus nerve (a major nerve extending from the brainstem to the abdomen, connecting internal organs to the brain), as blocking its function erased the memory-enhancing effect.",
-        "Researchers specifically noted that when the vagus nerve was blocked, the animals struggled to remember the locations where food had been placed. This highlights the nerve's critical role in the gut-brain axis (腸脳相関 — the bidirectional communication between the gut and the central nervous system), influencing how the brain registers and retains information linked to sustenance.",
-        "The findings also offered a cautionary note regarding long-term dietary habits. Diets consistently high in fat and sugar were shown to weaken this memory system over time. This suggests that while short-term nutritional intake can boost memory, a sustained unhealthy diet might actively impair the very pathways that help us learn and remember.",
-        "> \"Signals traveling from the gut to the brain may help turn meals into lasting memories.\"",
-        "This observation underscores the idea that memory isn't solely a function of the brain's internal processes but is deeply intertwined with physiological signals from the body. While these initial studies were conducted on rats, the implications for human learning and cognitive function are significant. It opens avenues for understanding how our dietary choices, from daily meals to after-school snacks, might directly influence our capacity to form and recall memories. Future research will likely explore these connections in humans, potentially guiding new nutritional recommendations for cognitive health."
-      ],
-      "ja": [
-        "最新の研究が、私たちの「腸」と「脳」の間に、記憶形成に深く関わる興味深い繋がりがあることを示唆しています。ScienceDaily に掲載されたラットを用いた研究によると、消化管からの信号が、特に食事とその栄養価に関連する経験を長期的な記憶として定着させる上で、重要な役割を果たす可能性があると報告されました。",
-        "研究チームは、栄養価の高い食べ物を摂取したラットが、栄養価の低い甘い液体を飲んだ場合と比較して、より強い記憶活動を示すことを観察しました。これは、腸が単にカロリーを処理するだけでなく、摂取したものの「質」について脳に活発に情報を伝えていることを示唆しています。このコミュニケーションは、迷走神経（脳幹から腹部にまで伸び、内臓と脳を繋ぐ主要な神経）によって媒介されているようで、この神経の機能を遮断すると、記憶増強効果が消失しました。",
-        "具体的には、迷走神経がブロックされたラットは、食べ物が置かれていた場所を記憶することが困難になったと研究者たちは指摘しています。このことは、迷走神経が腸脳相関（ちょうのうそうかん ── 消化管と中枢神経系の間の双方向のコミュニケーション）において極めて重要な役割を果たし、脳が栄養に関連する情報をどのように認識し、保持するかに影響を与えていることを浮き彫りにします。",
-        "さらに、この研究は長期的な食習慣に関する重要な警告も提示しています。高脂肪・高糖質の食事を継続的に摂ることで、この記憶システムが時間とともに弱まることが示されました。これは、一時的な栄養摂取が記憶を促進する一方で、不健康な食生活が学習や記憶を助ける経路そのものを積極的に損なう可能性があることを意味します。",
-        "「腸から脳へと伝わる信号が、食事を永続的な記憶に変えるのに役立つ可能性があります。」",
-        "この観察は、記憶が脳の内部プロセスのみに依存するのではなく、身体からの生理学的信号と深く結びついているという考えを強調しています。これらの初期研究はラットを対象としたものですが、人間の学習能力や認知機能への示唆は大きいと言えます。日々の食事から、塾の前の軽食に至るまで、私たちの食事が記憶の形成と想起能力にどのように直接影響するかを理解する新たな道を開くものです。今後、人間を対象とした研究が進むことで、認知機能の健康のための新しい栄養ガイドラインが生まれる可能性もあります。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "This research suggests that our gut doesn't just digest food; it actively \"talks\" to our brain, influencing how we remember things, especially what we eat. Imagine your child having a nutritious meal before studying — the signals from their stomach might actually help their brain \"save\" what they're learning more effectively. Conversely, just giving them a sugary drink might offer a temporary energy boost but won't provide the deeper signals needed for lasting memory. It's like the difference between a quick, shallow note and a deeply etched carving in the brain's memory bank.",
-        "For Tokyo families, this could mean rethinking the role of daily meals and snacks in supporting learning. It reinforces the importance of a balanced breakfast before school or a nutrient-rich snack before heading to juku (塾 — cram school). Instead of just focusing on convenience or quick energy, parents might consider how each meal contributes to their child's cognitive stamina and memory retention, particularly during intense study periods like junior high school entrance exam preparation (中学受験).",
-        "While these are rat studies, the implications for human dietary guidelines could emerge within 5-10 years, gated by further human clinical trials. However, the principle of prioritizing nutritious, balanced meals for cognitive health is something families can apply immediately. Major juku or school lunch programs might integrate these findings into their nutritional guidance within 3-5 years, especially if MEXT (文部科学省 — Japan's Ministry of Education, Culture, Sports, Science and Technology) issues updated recommendations on school meal composition.",
-        "Japan already has a strong foundation with its \"Shokuiku\" (食育 — food education) program and highly nutritious school lunch system (学校給食), which emphasizes balanced meals. Institutions like Benesse's Shinkenzemi (進研ゼミ) or Z-kai (Z会) often provide advice on study habits, but this research could lead to more specific guidance on nutrition for brain health. The focus on the gut-brain axis could further strengthen the existing cultural appreciation for wholesome, carefully prepared meals as integral to overall well-being and academic performance."
-      ],
-      "ja": [
-        "この研究は、私たちの腸が単に食べ物を消化するだけでなく、積極的に脳と「対話」し、特に食べたものに関する記憶の仕方に影響を与えていることを示唆しています。お子さんが勉強する前に栄養価の高い食事を摂ると想像してみてください。その胃からの信号が、脳が学んでいる内容をより効果的に「保存」する手助けをするかもしれません。逆に、砂糖が多いだけの飲み物では一時的なエネルギーは得られても、長期的な記憶に必要な深い信号は送られない可能性があります。これは、脳の記憶バンクに素早く書き込んだだけのメモと、深く刻み込まれた彫刻の違いのようなものです。",
-        "東京のご家庭にとって、これは日々の食事や間食が学習をサポートする役割を再考するきっかけになるかもしれません。学校に行く前のバランスの取れた朝食や、塾（じゅく）に向かう前の栄養価の高い軽食の重要性を再認識させるものです。単に便利さや手軽なエネルギー補給だけでなく、特に中学受験（ちゅうがくじゅけん）のような集中した学習期間中、それぞれの食事がお子さんの認知的な持久力と記憶定着にどう貢献するかを考慮するようになるかもしれません。",
-        "これらはラットでの研究ですが、人間での臨床試験が進めば、5〜10年以内に人間の食事ガイドラインに影響を与える可能性を秘めています。しかし、認知機能の健康のために栄養バランスの取れた食事を優先するという原則は、ご家庭で今日から実践できることです。文部科学省（もんぶかがくしょう）が学校給食の構成に関する推奨事項を更新すれば、主要な学習塾や学校給食プログラムがこれらの知見を3〜5年以内に栄養指導に取り入れるかもしれません。",
-        "日本には「食育」（しょくいく）プログラムや、栄養バランスを重視した学校給食（がっこうきゅうしょく）システムという強固な基盤が既にあります。ベネッセの進研ゼミ（しんけんゼミ）やZ会（ゼットかい）のような教育機関は学習習慣に関するアドバイスを提供していますが、この研究は脳の健康のための栄養について、より具体的な指針へと繋がる可能性があります。腸脳相関への注目は、バランスの取れた丁寧な食事が、単なる身体の健康だけでなく、学業成績を含む全体的なウェルビーイングに不可欠であるという既存の文化的な認識をさらに強化することでしょう。"
-      ]
-    },
-    "structured": {
-      "tagline": {
-        "en": "Your gut might help your brain remember.",
-        "ja": "腸が脳の記憶力に影響する可能性。"
-      },
-      "whoForWhat": {
-        "en": "For Tokyo families wondering how daily nutrition impacts their child's learning and memory, especially during study periods or exam preparation.",
-        "ja": "日々の食事が子どもの学習や記憶にどう影響するか、特に受験期や勉強中の食事を考える東京のご家庭へ。"
-      },
-      "vsJapanContext": {
-        "en": "This research aligns with Japan's emphasis on balanced school lunches (学校給食) and the \"Shokuiku\" (食育) program, suggesting a deeper biological basis for promoting healthy eating habits.",
-        "ja": "日本の学校給食や食育の考え方と合致する研究であり、健康的な食習慣が記憶力に与える生物学的な根拠を示唆します。"
-      },
-      "tokyoNote": {
-        "en": "Tokyo parents often seek ways to boost concentration for juku or exam prep. This finding, though preliminary, underscores that a balanced diet isn't just about physical health but directly supports cognitive function, far beyond simply avoiding sugary snacks.",
-        "ja": "塾通いや受験勉強で集中力を高めたいと願う東京の保護者にとって、これは示唆に富む研究です。単に甘いものを避けるだけでなく、バランスの取れた食事が身体だけでなく認知機能も直接支えるという点で、日々の献立への意識が高まるかもしれません。"
-      }
-    },
-    "source": {
-      "name": "ScienceDaily — Educational Psychology",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260729010713.htm"
-    },
-    "sourceGuid": "https://www.sciencedaily.com/releases/2026/07/260729010713.htm",
-    "status": "published"
-  },
-  {
-    "slug": "dreams-as-a-window-to-the-developing-mind",
-    "category": "early-childhood",
-    "issue": "Vol. 02",
-    "publishedAt": "2026-07-27T13:08:29.000Z",
-    "readingMinutes": 4,
-    "feature": true,
-    "cover": {
-      "src": "https://www.sciencedaily.com/images/1920/brain-dream-city-skyline.webp",
-      "tone": "#0c0c0c"
-    },
-    "title": {
-      "en": "Dreams as a Window to the Developing Mind",
-      "ja": "夢は子どもの心の窓：脳が現実を再構築するプロセス"
-    },
-    "dek": {
-      "en": "Recent research suggests dreams are not random noise, but a meaningful reflection of our inner world, shaped by personality and daily experiences.",
-      "ja": "最近の研究によると、夢は単なる無作為な脳の活動ではなく、私たちの内面世界や個性を映し出す意味深いものであり、日々の経験によって形作られています。"
-    },
-    "author": {
-      "en": "WORLD STUDY TOKYO Editors",
-      "ja": "WORLD STUDY TOKYO 編集部"
-    },
-    "location": {
-      "en": "Tokyo, Japan",
-      "ja": "東京、日本"
-    },
-    "tags": [
-      {
-        "en": "Dreams",
-        "ja": "夢"
-      },
-      {
-        "en": "Child Development",
-        "ja": "児童発達"
-      },
-      {
-        "en": "Cognitive Science",
-        "ja": "認知科学"
-      },
-      {
-        "en": "Sleep",
-        "ja": "睡眠"
-      }
-    ],
-    "body": {
-      "en": [
-        "Recent research, based on a large study of over 3,700 dream and waking reports, suggests that our dreams are far from random mental noise. Instead, what we experience during sleep is actively shaped by both our individual personalities and the world around us. This work challenges the traditional view of dreams as chaotic or meaningless by highlighting their structured nature.",
-        "The study found that the dreaming brain does not merely replay the events of our day. Instead, it engages in a complex process of mixing memories, emotions, imagined possibilities, and familiar settings to create vivid new scenarios. This creative synthesis suggests that dreams play a role in processing daily life, consolidating experiences, and even exploring potential futures, offering a unique lens into our subconscious.",
-        "> Rather than simply replaying daily events, the dreaming brain mixes memories, emotions, imagined possibilities, and familiar settings into vivid new scenarios.",
-        "This active construction of dream narratives means that the content of our dreams can offer insights into our emotional states, unresolved issues, or even our aspirations. For children, whose emotional and cognitive worlds are rapidly developing, their dreams might be a powerful indicator of how they are internalizing and making sense of their daily learning and social interactions.",
-        "Understanding that dreams are not arbitrary could shift how parents perceive their children's nighttime experiences. A recurring dream, for instance, might not be dismissed as mere fantasy but seen as the brain working through a particular emotion or situation. This perspective encourages a more empathetic and curious approach to children's sleep and their internal lives, recognizing the importance of a calm and stable environment for healthy cognitive processing.",
-        "While this research primarily focuses on the mechanics of dreaming, its implications extend to the broader understanding of brain development and emotional regulation in children. It underscores the profound link between waking experiences and the brain's nocturnal work, suggesting that rich, varied, and emotionally supportive daily environments contribute to a healthy internal world, both awake and asleep. Further research may explore how specific types of daily input influence dream content and, in turn, cognitive and emotional development."
-      ],
-      "ja": [
-        "最近の研究で、3,700 件以上の夢と覚醒時の報告を分析した大規模調査の結果、私たちの夢は決して無作為な脳の活動ではないことが示唆されました。睡眠中に経験する内容は、個人の性格と周囲の環境の両方によって積極的に形作られているというものです。この研究は、夢を混沌とした、あるいは意味のないものと捉える従来の考え方に異議を唱え、夢の構造的な性質を浮き彫りにしています。",
-        "この調査では、夢を見ている脳が単に日中の出来事を再生しているわけではないことが分かりました。むしろ、記憶、感情、想像上の可能性、そして慣れ親しんだ環境を複雑に混ぜ合わせ、鮮やかな新しいシナリオを創造するプロセスに従事しているのです。この創造的な統合は、夢が日々の生活を処理し、経験を統合し、さらには潜在的な未来を探求する役割を担っていることを示唆しており、私たちの潜在意識への独特な窓を提供します。",
-        "> 夢を見ている脳は、単に日々の出来事を再生するのではなく、記憶、感情、想像上の可能性、そして慣れ親しんだ環境を混ぜ合わせ、鮮やかな新しいシナリオを創造しているのです。",
-        "このように夢の物語が積極的に構築されることは、夢の内容が私たちの感情状態、未解決の問題、あるいは願望についての洞察を与えうることを意味します。感情や認知の世界が急速に発達している子どもたちにとって、夢は日々の学びや社会的な交流をどのように内面化し、理解しているかを示す強力な指標となるかもしれません。",
-        "夢が無作為ではないと理解することは、保護者が子どもの夜の経験をどのように捉えるかに変化をもたらす可能性があります。例えば、繰り返し見る夢は単なる空想として片付けられるのではなく、脳がある特定の感情や状況を処理している兆候と見なされるかもしれません。この視点は、子どもの睡眠とその内面生活に対して、より共感的で好奇心に満ちたアプローチを促し、健全な認知処理のために穏やかで安定した環境の重要性を認識することにつながります。",
-        "この研究は主に夢の仕組みに焦点を当てていますが、その示唆するところは、子どもの脳の発達と感情の調整に関するより広範な理解にまで及びます。日中の経験と脳の夜間における活動との深いつながりを強調し、豊かで多様な、そして感情的に支えられた日々の環境が、覚醒時も睡眠時も健全な内面世界に貢献することを示唆しています。今後の研究では、特定の種類の日中の情報が夢の内容にどのように影響し、それが認知および感情の発達にどのように関わるかを探求するかもしれません。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "This research helps us understand that a child's dreams are not just random pictures or scary monsters, but like their brain's own storytelling time. Imagine if your child spent the day building a Lego castle and then at night, their brain used those same Lego pieces — plus memories of a friend, a feeling of excitement, or a little frustration — to build a completely new, imaginative story. That's what dreams are doing: remixing daily life into something personal and meaningful, reflecting their personality and how they're processing their world.",
-        "For Tokyo families, this perspective might encourage a deeper appreciation for the quality of a child's daily experiences, knowing these feed into their nocturnal cognitive work. It could shift focus towards ensuring emotionally rich interactions, managing screen time before bed, and fostering calm evening routines. Parents might also feel more equipped to gently inquire about recurring dreams or nightmares, understanding them as signals from their child's inner world rather than mere fantasies to be dismissed.",
-        "The shift in understanding can begin for many families already today, simply by adopting this informed perspective. For broader integration into parenting guidance or early childhood education practices in Japan, we might see changes within 3-5 years, as child psychology experts and popular parenting media (like those from Benesse) incorporate these findings into their advice on children's sleep and emotional development.",
-        "While there isn't a direct \"dream education\" program in Japan, institutions like ベネッセ教育総合研究所 (Benesse Educational Research Institute) and major parenting magazines often publish articles on child psychology, sleep hygiene, and emotional development. This research aligns with their efforts to provide holistic guidance for parents, emphasizing the importance of a child's overall well-being and daily environment, which implicitly influences their internal cognitive processes, including dreaming."
-      ],
-      "ja": [
-        "この研究は、子どもの夢が単なるランダムな映像や怖い怪物を見るだけではないことを理解する助けになります。例えるなら、子どもが日中にレゴでお城を作ったとして、夜にはそのレゴブロックと、友達との記憶、ワクワクした気持ち、あるいは少しのフラストレーションといった感情を混ぜ合わせて、全く新しい想像力豊かな物語を脳の中で作り上げているようなものです。夢とは、日々の生活を個人的で意味のあるものへと再構築し、子どもの個性や世界をどう処理しているかを映し出しているのです。",
-        "東京のご家庭にとって、この視点は、子どもの日中の経験の質に対する認識を深めるきっかけとなるでしょう。なぜなら、それらが夜間の認知活動に影響を与えることがわかるからです。感情豊かな交流を促し、就寝前のスクリーンタイムを管理し、穏やかな夜のルーティンを育むことへと、焦点が移るかもしれません。また、保護者は、繰り返し見る夢や悪夢を単なる空想として片付けるのではなく、子どもの内面世界からのサインとして捉え、より優しく、好奇心を持って尋ねるようになるかもしれません。",
-        "このような理解の変化は、多くのご家庭で今日からでも始まります。この情報に基づいた視点を取り入れるだけで良いからです。日本において、子育てガイドや幼児教育の実践に広く統合されるまでには、3〜5年かかるかもしれません。子どもの睡眠や感情の発達に関する助言に、ベネッセのような子育てメディアや児童心理学の専門家がこれらの知見を組み込むにつれて、変化が見られるでしょう。",
-        "日本には直接的な「夢の教育」プログラムはありませんが、ベネッセ教育総合研究所や主要な子育て雑誌は、児童心理学、睡眠衛生、感情の発達に関する記事を頻繁に発行しています。この研究は、子どもの全体的な幸福と日々の環境の重要性を強調し、子どもの内面的な認知プロセス、つまり夢にも影響を与えるという、保護者への総合的なガイダンス提供の取り組みと合致しています。"
-      ]
-    },
-    "structured": {
-      "tagline": {
-        "en": "Dreams reflect inner world and daily life, not random.",
-        "ja": "夢は無作為でなく、内面と日々の生活を映す"
-      },
-      "whoForWhat": {
-        "en": "For Tokyo families with young children, this research offers a new lens to understand their child's sleep, emotional processing, and the profound connection between waking experiences and their internal world.",
-        "ja": "幼い子どもを持つ東京のご家庭が、子どもの睡眠や感情処理、日中の経験と内面世界との深いつながりを理解するための新たな視点を提供します。"
-      },
-      "vsJapanContext": {
-        "en": "This understanding aligns with the growing emphasis in Japanese child development literature, including publications from Benesse, on holistic child well-being and the importance of a nurturing daily environment for cognitive and emotional growth.",
-        "ja": "この知見は、ベネッセなどの出版物を含む日本の児童発達に関する文献で高まる、子どもの全人的な幸福と、認知・感情的成長のための豊かな日常環境の重要性への強調と合致しています。"
-      },
-      "tokyoNote": {
-        "en": "Tokyo parents often prioritize academic readiness, but this research reminds us that a child's internal world, shaped by daily experiences and processed in dreams, is equally vital. Ensuring a calm evening and emotionally supportive interactions can foster healthier development.",
-        "ja": "東京の保護者は学力準備を重視しがちですが、この研究は、日々の経験によって形作られ、夢の中で処理される子どもの内面世界も同様に重要であることを思い出させます。穏やかな夜と感情的に支えられた交流が、より健全な発達を育むでしょう。"
-      }
-    },
-    "source": {
-      "name": "ScienceDaily — Child Development",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260725105731.htm"
-    },
-    "sourceGuid": "https://www.sciencedaily.com/releases/2026/07/260725105731.htm",
     "status": "published"
   }
 ]
