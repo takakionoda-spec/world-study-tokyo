@@ -1,5 +1,107 @@
 [
   {
+    "slug": "reconstructing-sight-what-brain-activity-reveals-about-perception",
+    "category": "research",
+    "issue": "Vol. 04",
+    "publishedAt": "2026-09-16T12:33:18.000Z",
+    "readingMinutes": 5,
+    "feature": true,
+    "cover": {
+      "src": "https://www.sciencedaily.com/images/1920/mouse-brain-thoughts-video.webp",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "Reconstructing Sight: What Brain Activity Reveals About Perception",
+      "ja": "脳活動から「見ているもの」を再現：知覚の謎に迫る新たな一歩"
+    },
+    "dek": {
+      "en": "Scientists have successfully reconstructed video clips based solely on the brain activity of mice, offering new insights into how the brain processes visual information and shapes our reality.",
+      "ja": "マウスの脳活動のみから映像を再構築する研究が進展。脳が視覚情報をどのように処理し、現実の認識を形成するのかについて、新たな知見をもたらしています。"
+    },
+    "author": {
+      "en": "WORLD STUDY TOKYO Editors",
+      "ja": "WORLD STUDY TOKYO 編集部"
+    },
+    "location": {
+      "en": "TOKYO",
+      "ja": "東京"
+    },
+    "tags": [
+      {
+        "en": "neuroscience",
+        "ja": "神経科学"
+      },
+      {
+        "en": "perception",
+        "ja": "知覚"
+      },
+      {
+        "en": "brain science",
+        "ja": "脳科学"
+      },
+      {
+        "en": "learning research",
+        "ja": "学習研究"
+      }
+    ],
+    "body": {
+      "en": [
+        "科学者たちは最近、マウスの脳活動から10秒間の映像クリップを再構築するという画期的な成果を発表しました。この研究は、視覚野（脳が視覚情報を処理する主要な領域）のニューロンから発せられる信号を直接用いて行われました。",
+        "この進歩は、知覚という根本的なプロセスを理解するための新たな扉を開きます。単に脳活動を観察するだけでなく、動物が実際に何を見ていたかを積極的に解読することで、神経信号と視覚体験との間に直接的なつながりをもたらします。研究者たちは、脳が私たちの意識的な現実となる前に、見ているものをどのように「再形成」しているのかを明らかにすることを目指しています。",
+        "研究では、マウスが映像を見ている間の神経信号を記録し、その信号を計算モデルを用いて視覚出力へと逆変換するという手法が用いられました。これは、見るというプロセスの逆再生のようなもので、脳の内部記録から視覚体験を「再生」することを可能にします。",
+        "> This breakthrough could help reveal how the brain reshapes what we see before it becomes our perception of reality.",
+        "人間の学習にとって、この基礎研究は非常に重要です。脳が感覚入力から現実をどのように構築しているかをより深く理解できれば、視覚情報処理の障害、記憶形成、さらには異なる個人が同じ情報をどのように異なる方法で知覚するのかといったことへの理解を深めることができます。これは、主観的な経験の本質に触れる研究と言えるでしょう。",
+        "現在の研究はマウスと基本的な視覚再構築に限られていますが、長期的な可能性は計り知れません。将来的には、私たちの脳が複雑な視覚キューをどのように学習し解釈するのか、注意力が知覚をどのように変えるのか、そして視覚的な記憶がどのように符号化され、想起されるのかといった問いに光を当てる可能性があります。単に脳が見たものを再現するだけでなく、脳が「どのように」それを見たのかを理解することが究極の目標です。"
+      ],
+      "ja": [
+        "科学者たちは最近、マウスの脳活動のみから、10秒間の映像クリップを再構築するという画期的な成果を発表しました。この研究は、視覚野（脳が視覚情報を処理する主要な領域）のニューロンから発せられる信号を直接用いて行われました。",
+        "この進歩は、知覚という根本的なプロセスを理解するための新たな扉を開きます。単に脳活動を観察するだけでなく、動物が実際に何を見ていたかを積極的に解読することで、神経信号と視覚体験との間に直接的なつながりをもたらします。研究者たちは、脳が私たちの意識的な現実となる前に、見ているものをどのように「再形成」しているのかを明らかにすることを目指しています。",
+        "研究では、マウスが映像を見ている間の神経信号を記録し、その信号を計算モデルを用いて視覚出力へと逆変換するという手法が用いられました。これは、見るというプロセスの逆再生のようなもので、脳の内部記録から視覚体験を「再生」することを可能にします。",
+        "「このブレイクスルーは、脳が現実の認識となる前に、私たちが見ているものをどのように再形成しているのかを明らかにするのに役立つだろう」",
+        "人間の学習にとって、この基礎研究は非常に重要です。脳が感覚入力から現実をどのように構築しているかをより深く理解できれば、視覚情報処理の障害、記憶形成、さらには異なる個人が同じ情報をどのように異なる方法で知覚するのかといったことへの理解を深めることができます。これは、主観的な経験の本質に触れる研究と言えるでしょう。",
+        "現在の研究はマウスと基本的な視覚再構築に限られていますが、長期的な可能性は計り知れません。将来的には、私たちの脳が複雑な視覚キューをどのように学習し解釈するのか、注意力が知覚をどのように変えるのか、そして視覚的な記憶がどのように符号化され、想起されるのかといった問いに光を当てる可能性があります。単に脳が見たものを再現するだけでなく、脳が「どのように」それを見たのかを理解することが究極の目標です。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "This research is like scientists building a sophisticated \"mind-reading\" machine for mice, translating their brain signals directly into video. Imagine if you could watch a movie of what your child saw in their dreams, or how they mentally processed a new concept in a textbook. It's about getting closer to the raw, unfiltered experience of perception before it's interpreted by consciousness.",
+        "While direct application is distant, this foundational work could eventually influence how we understand and support learning. For Tokyo families, it might lead to new insights into how children with learning differences process visual information, or even how educational content could be designed to better align with the brain's natural perceptual mechanisms. It could also inform discussions around screen time and its impact on visual development.",
+        "This is very early-stage neuroscience. Any practical educational applications for humans are likely 10-20 years away, gated by significant advancements in non-invasive brain imaging technology and a deeper understanding of human brain function. We would first need to see successful replication in higher mammals, then in humans, and finally translation into applied learning science.",
+        "In Japan, institutions like the RIKEN Center for Brain Science are at the forefront of neuroscience research, exploring similar questions about perception and cognition. While they might not be directly \"reconstructing videos,\" their work on brain imaging and understanding neural circuits contributes to the same long-term goal of deciphering how the brain creates our reality, which underpins all learning."
+      ],
+      "ja": [
+        "この研究は、科学者がマウスのために高度な「心を読み取る」機械を作り、脳信号を直接映像に変換したようなものです。もしお子さんが夢で見たものや、教科書の新しい概念を頭の中でどのように処理したかを映像で見ることができたら、と想像してみてください。これは、意識によって解釈される前の、知覚の生々しい、フィルターされていない体験に近づくことなのです。",
+        "直接的な応用はまだ先ですが、この基礎研究は、私たちが学習を理解し、支援する方法に最終的に影響を与える可能性があります。東京の家庭にとっては、学習に困難を抱える子どもたちが視覚情報をどのように処理するのか、あるいは教育コンテンツが脳の自然な知覚メカニズムにより良く適合するようにどのように設計できるのかについて、新たな洞察をもたらすかもしれません。また、スクリーンタイムが視覚発達に与える影響についての議論にも情報を提供する可能性があります。",
+        "これは非常に初期段階の神経科学研究です。人間への実用的な教育応用は、非侵襲的な脳画像技術の著しい進歩と、人間の脳機能のより深い理解によって、おそらく10年から20年先のことになるでしょう。まず、より高等な哺乳類、次に人間での成功した再現、そして最終的に応用学習科学への転換が必要となります。",
+        "日本では、理化学研究所脳科学研究センターなどが神経科学研究の最前線におり、知覚と認知に関する同様の問いを探求しています。彼らが直接「映像を再構築」しているわけではないかもしれませんが、脳画像や神経回路の理解に関する研究は、すべての学習の根底にある、脳がどのように現実を創造するかを解読するという同じ長期目標に貢献しています。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "Brain activity reveals what mice saw, hinting at perception's secrets.",
+        "ja": "脳活動から「見たもの」を再現、知覚の謎解きへ。"
+      },
+      "whoForWhat": {
+        "en": "For Tokyo families curious about the cutting edge of brain science, this research offers a glimpse into how our brains construct reality, informing future understandings of learning and perception.",
+        "ja": "脳科学の最先端に興味を持つ東京の保護者へ。本研究は、脳がどのように現実を構築するかの一端を垣間見せ、学習と知覚の未来の理解を深める可能性を秘めています。"
+      },
+      "vsJapanContext": {
+        "en": "This fundamental neuroscience research, while not directly tied to Japan's MEXT curriculum or juku systems, aligns with the global push, including within Japan's RIKEN, to understand the brain's role in learning.",
+        "ja": "文部科学省のカリキュラムや塾システムに直接結びつくものではありませんが、この基礎的な神経科学研究は、理化学研究所を含む日本の研究機関における、学習における脳の役割を理解しようとする世界的な動きと軌を一にしています。"
+      },
+      "tokyoNote": {
+        "en": "This fascinating research offers a window into the biological basis of perception, a core element of all learning. While immediate educational tools are far off, understanding how the brain processes reality is foundational to tailoring future learning environments for Tokyo's diverse student population.",
+        "ja": "この興味深い研究は、あらゆる学習の根幹となる知覚の生物学的基盤を垣間見せてくれます。すぐに教育ツールに直結するわけではありませんが、脳が現実をどのように処理するかを理解することは、東京の多様な生徒に対応する将来の学習環境を設計するための基礎となります。"
+      }
+    },
+    "source": {
+      "name": "ScienceDaily — Child Development",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260914102449.htm"
+    },
+    "sourceGuid": "https://www.sciencedaily.com/releases/2026/09/260914102449.htm",
+    "status": "published"
+  },
+  {
     "slug": "childcare-shortages-and-frozen-funding-a-global-challenge-for-working-parents",
     "category": "early-childhood",
     "issue": "Vol. 04",
@@ -6777,8 +6879,8 @@
     "readingMinutes": 6,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1551434678-e076c223a692?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#CFE3D2"
+      "src": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#CDE3CF"
     },
     "title": {
       "en": "Beyond 'Helpful': Why AI Tutors Need to Be Truly Pedagogical",
@@ -8015,8 +8117,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1593720213428-28a5b9e94613?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#C9E0CC"
+      "src": "https://images.unsplash.com/photo-1573164713619-24c711fe7878?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#C4DDC6"
     },
     "title": {
       "en": "AI Tutors: Helpfulness Isn't Always Pedagogical Guidance",
@@ -8107,110 +8209,6 @@
       "url": "http://arxiv.org/abs/2607.28128v1"
     },
     "sourceGuid": "http://arxiv.org/abs/2607.28128v1",
-    "status": "published"
-  },
-  {
-    "slug": "beyond-error-detection-evaluating-ai-solutions-for-deeper-learning",
-    "category": "ai-edu",
-    "issue": "Vol. 02",
-    "publishedAt": "2026-07-30T02:08:29.000Z",
-    "readingMinutes": 6,
-    "feature": true,
-    "cover": {
-      "src": "https://images.unsplash.com/photo-1561089489-f13d5e730d72?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#D2E4D5"
-    },
-    "title": {
-      "en": "Beyond Error Detection: Evaluating AI Solutions for Deeper Learning",
-      "ja": "AI生成解答の評価学習：単なる誤り指摘を超えた深い理解へ"
-    },
-    "dek": {
-      "en": "A new study explores whether evaluating AI-generated solutions can be as effective as traditional problem-solving for deeper learning, finding nuanced results for conceptual understanding.",
-      "ja": "AIが生成した解答を評価する学習法が、従来の自力での問題解決と同等の学習効果をもたらすかを検証した研究。深い理解には工夫が必要であることが示唆されています。"
-    },
-    "author": {
-      "en": "WORLD STUDY TOKYO Editors",
-      "ja": "WORLD STUDY TOKYO 編集部"
-    },
-    "location": {
-      "en": "Tokyo, Japan",
-      "ja": "東京"
-    },
-    "tags": [
-      {
-        "en": "AI in Education",
-        "ja": "教育とAI"
-      },
-      {
-        "en": "Learning Methods",
-        "ja": "学習法"
-      },
-      {
-        "en": "Critical Thinking",
-        "ja": "批判的思考"
-      },
-      {
-        "en": "Study Habits",
-        "ja": "学習習慣"
-      }
-    ],
-    "body": {
-      "en": [
-        "As generative AI (GenAI) tools become increasingly sophisticated at producing solutions to complex problems, the education community is exploring new pedagogical approaches. A forthcoming preprint on arXiv, dated July 2026, presents findings from a randomized A/B crossover study conducted in a junior-level algorithms course. This research directly compared the impact of evaluating AI-generated solutions against traditional problem-solving on student learning outcomes.",
-        "The study, involving 220 students, addressed a critical question: In an era where AI can quickly solve assignments, should students focus on generating their own solutions or on critically evaluating those produced by AI? For six assignments, student working groups were tasked either with directly solving challenging algorithmic problems or with evaluating often-flawed GenAI-generated solutions. Midway through the semester, the roles were reversed for the groups, allowing for a robust comparison.",
-        "The researchers found that there were no statistically significant differences in student performance on midterm scores, final exam scores, or overall course grades between the two approaches. Even when examining exam problems structurally aligned with the homework interventions, the outcomes remained consistent. This suggests that, at a broad level, an evaluation-centered approach did not lead to a measurable decline in overall academic performance.",
-        "However, a closer look revealed some important nuances. Students did receive significantly higher homework scores when they were evaluating GenAI-generated solutions, indicating a localized advantage in task completion. Yet, this benefit did not translate into deeper conceptual understanding or improved performance on summative assessments that required transfer of knowledge.",
-        "> \"GenAI evaluation redistributes student effort from open-ended solution construction toward verification, diagnosis, and judgment, but does not automatically produce stronger conceptual transfer.\"",
-        "Survey data further illuminated student perceptions and behaviors. Most students reported no significant change in their study habits in response to the intervention. Interestingly, for the subset of students who consciously adapted their study strategies to the new evaluation tasks, the GenAI-evaluation assignments were rated as significantly more helpful. This highlights the importance of student agency and metacognition (the ability to reflect on one's own thinking and learning processes) in leveraging new learning tools.",
-        "The findings suggest that while GenAI evaluation activities can be integrated into coursework without broad performance losses, achieving meaningful learning gains requires more than simple error diagnosis. Educators must provide deliberate \"scaffolding\" — structured support and guidance — that pushes students to move beyond merely identifying mistakes to deeply understanding the underlying concepts and principles. This could involve tasks like explaining *why* an AI solution is flawed, proposing alternative correct approaches, or comparing the efficiency of different solutions."
-      ],
-      "ja": [
-        "生成AI（GenAI）ツールが複雑な問題の解答作成においてますます高度になるにつれ、教育界では新たな教育アプローチが模索されています。先日arXivにプレプリントとして公開された（2026年7月付）研究は、大学のアルゴリズムコースで行われたランダム化A/Bクロスオーバー研究の結果を提示しています。この研究は、AIが生成した解答を評価することと、従来の問題解決法が学生の学習成果に与える影響を直接比較しました。",
-        "220名の学生を対象としたこの研究は、「AIが瞬時に課題を解決できる時代に、学生は自力で解答を作成すべきか、それともAIが生成した解答を批判的に評価すべきか」という重要な問いに取り組みました。6つの課題において、学生のグループは、難解なアルゴリズム問題を直接解くか、しばしば誤りを含むAI生成解答を評価するかのいずれかに取り組み、学期途中でその役割を交代しました。",
-        "研究者たちは、中間試験の点数、期末試験の点数、および総合的なコース成績において、両アプローチ間に統計的に有意な差がないことを発見しました。宿題と構造的に一致する試験問題においても、結果は同様でした。このことは、大局的に見れば、評価中心のアプローチが学業成績の著しい低下には繋がらなかったことを示唆しています。",
-        "しかし、詳細を見るといくつかの重要なニュアンスが明らかになりました。学生はAI生成解答を評価する課題で、より高い宿題の点数を獲得しましたが、この局所的な利点は、より深い概念理解や知識の転移を必要とする最終的な評価での成績向上には繋がりませんでした。",
-        "「生成AIの評価は、学生の努力を、自由な解答作成から検証、診断、判断へと再配分しますが、自動的に強力な概念転移を生み出すわけではありません。」",
-        "アンケートデータは、学生の認識と行動をさらに明らかにしました。ほとんどの学生は、この介入によって学習習慣に大きな変化はなかったと報告しています。興味深いことに、新しい評価課題に合わせて学習戦略を意識的に「適応させた」学生のサブセットでは、AI評価課題がはるかに役立つと評価されました。これは、新しい学習ツールを活用する上で、学生自身の主体性とメタ認知（自身の思考や学習プロセスを振り返る能力）の重要性を示しています。",
-        "これらの知見は、AI評価活動を授業に導入しても広範な学業成績の損失はないものの、有意義な学習効果を得るには、単なる誤り指摘以上のものが必要であることを示唆しています。教育者は、学生が単に間違いを特定するだけでなく、その根底にある概念や原理を深く理解するよう促す、意図的な「足場かけ（scaffolding）」—構造化された支援と指導—を提供する必要があります。これには、AIの解答がなぜ誤っているのかを説明させたり、別の正しいアプローチを提案させたり、異なる解答の効率性を比較させたりするような課題が考えられます。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "This research from a computer science course offers a valuable perspective for Tokyo families navigating the increasing presence of AI in learning. Imagine your child being given a problem, and instead of solving it from scratch, they are presented with an AI-generated answer that might contain subtle errors. Their task is to find those errors, explain *why* they are errors, and perhaps suggest a better solution. The study suggests that while this evaluation task can lead to higher homework scores, it doesn't automatically translate into a deeper understanding of the subject matter or the ability to apply that knowledge to new problems, unless there's careful guidance.",
-        "For Tokyo families, this finding has several plausible future impacts. In the realm of entrance exams like 中学受験 (junior high entrance exams) or 大学受験 (university entrance exams), if AI tools become common for homework and practice, simply using them to check answers or find errors might not be enough. Students will need to be explicitly taught how to critically analyze AI outputs. For those considering international schools or IB programs, where critical thinking and analytical skills are highly valued, tasks involving AI evaluation could be integrated into project-based learning, potentially influencing how assignments are designed and assessed.",
-        "The shift in emphasis from problem-solving to evaluating AI solutions could begin to be felt within the next 3-5 years. This timeframe is largely gated by two factors: first, how quickly major juku (cram schools) like SAPIX or Yotsuya Otsuka incorporate AI tools into their curriculum with sophisticated pedagogical designs, and second, whether Japan's MEXT (Ministry of Education, Culture, Sports, Science and Technology) provides clear guidance on integrating AI into the national curriculum and assessment frameworks.",
-        "While there isn't a direct Japanese counterpart to this specific research method being widely implemented yet, services like Atama+ already provide personalized problem sets and adaptive learning paths. The next logical step for such platforms would be to offer AI-generated *solutions* for students to critique, rather than just problems to solve. Similarly, N高等学校 (N High School) and S高等学校 (S High School), with their focus on online learning and project-based approaches, are well-positioned to experiment with and implement such sophisticated AI evaluation tasks in their programming or logic courses, pushing students beyond simple error detection towards genuine conceptual mastery."
-      ],
-      "ja": [
-        "コンピューターサイエンス教育におけるこの研究は、AIが学習現場に浸透しつつある現状に直面する東京のご家庭にとって、貴重な視点を提供します。お子さんが問題を与えられた時、ゼロから解く代わりに、微妙な誤りを含むかもしれないAI生成の解答を渡され、その誤りを見つけて「なぜそれが誤りなのか」を説明し、より良い解決策を提案する、という課題に取り組む姿を想像してみてください。研究が示唆するのは、このような「評価する」学習は、宿題の点数を上げる効果はあるものの、慎重な指導がない限り、科目への深い理解や、新しい問題に応用する能力に自動的に繋がるわけではない、ということです。",
-        "東京の家庭にとって、この発見はいくつかの将来的な影響をもたらす可能性があります。中学受験や大学受験といった入試の文脈で、AIツールが宿題や演習で一般的になったとしても、単にAIの解答をチェックしたり、誤りを見つけたりするだけでは不十分かもしれません。生徒たちは、AIの出力物を批判的に分析する方法を明確に教わる必要があるでしょう。インターナショナルスクールやIBプログラムのように、批判的思考力や分析力が重視される教育環境では、AI評価の課題がプロジェクトベース学習に組み込まれ、課題の設計や評価方法に影響を与える可能性があります。",
-        "問題解決からAI解答の評価へと重点が移行する動きは、今後3〜5年以内に具体的に感じられるようになるかもしれません。この期間は主に二つの要因によって左右されます。一つは、SAPIXや四谷大塚のような大手学習塾が、AIツールを洗練された指導設計とともにカリキュラムにどれだけ迅速に取り入れるか。もう一つは、文部科学省がAIの教育現場への統合と評価枠組みについて、明確な指針を示すかどうかです。",
-        "この特定の研究方法が日本で広く導入されている直接的な事例はまだありませんが、Atama+のようなアダプティブラーニングのサービスは、すでに個別最適化された問題セットと学習パスを提供しています。これらのプラットフォームにとって次の論理的なステップは、単に問題を出すだけでなく、学生が批判的に評価するためのAI生成「解答」を提供することでしょう。同様に、オンライン学習とプロジェクトベースのアプローチに注力するN高等学校やS高等学校は、プログラミングや論理的思考のコースにおいて、このような高度なAI評価課題を実験的に導入し、学生を単なる誤り指摘から真の概念習得へと導く可能性があります。"
-      ]
-    },
-    "structured": {
-      "tagline": {
-        "en": "AI evaluation in learning: not a silver bullet.",
-        "ja": "AI評価学習：深い理解への道は工夫次第。"
-      },
-      "whoForWhat": {
-        "en": "For Tokyo parents considering how AI tools might impact their child's study habits, especially in fields requiring critical problem-solving and analytical skills.",
-        "ja": "AIツールが子どもの学習習慣にどう影響するか、特に批判的思考力や分析力が求められる分野での学びに関心を持つ東京の保護者へ。"
-      },
-      "vsJapanContext": {
-        "en": "This research from a computer science course suggests that simply evaluating AI output won't replace deep problem-solving, a nuance important for understanding how juku like SAPIX or Z-kai might integrate AI into their rigorous curricula.",
-        "ja": "米国の大学のコンピューターサイエンス教育における研究ですが、単にAIの出力評価だけでは深い問題解決能力は育たないという示唆は、SAPIXやZ会のような日本の大手塾がAIをカリキュラムにどう組み込むかを考える上で重要です。"
-      },
-      "tokyoNote": {
-        "en": "Tokyo families are increasingly exploring AI tools for learning. This study reminds us that effective integration isn't just about access to AI, but about thoughtful pedagogical design that encourages genuine conceptual transfer, a challenge for both juku and international schools here.",
-        "ja": "東京のご家庭でもAIを学習ツールとして検討する機会が増えています。本研究は、AIの導入だけでなく、深い概念理解を促す慎重な指導設計が不可欠であることを示唆しており、これは日本の塾にとってもインターナショナルスクールにとっても重要な課題です。"
-      }
-    },
-    "source": {
-      "name": "arXiv cs.CY",
-      "url": "http://arxiv.org/abs/2607.27586v1"
-    },
-    "sourceGuid": "http://arxiv.org/abs/2607.27586v1",
     "status": "published"
   }
 ]

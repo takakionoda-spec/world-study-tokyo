@@ -1,5 +1,7 @@
 {
   "seen": [
+    "https://hechingerreport.org/?p=117874",
+    "https://www.sciencedaily.com/releases/2026/09/260914102449.htm",
     "https://hechingerreport.org/?p=117822",
     "https://hechingerreport.org/?p=117887",
     "https://hechingerreport.org/?p=117867",
@@ -182,7 +184,7 @@
     "urn:id:8909",
     "tag:theconversation.com,2011:article/284069"
   ],
-  "lastRunAt": "2026-09-15T22:56:15.679Z",
-  "lastSuccessAt": "2026-09-15T22:56:15.679Z",
-  "totalRuns": 101
+  "lastRunAt": "2026-09-16T22:59:58.281Z",
+  "lastSuccessAt": "2026-09-16T22:59:58.281Z",
+  "totalRuns": 102
 }
