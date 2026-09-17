@@ -1,5 +1,107 @@
 [
   {
+    "slug": "us-proposal-to-shift-childcare-subsidies-towards-stay-at-home-parents",
+    "category": "early-childhood",
+    "issue": "Vol. 04",
+    "publishedAt": "2026-09-17T18:00:00.000Z",
+    "readingMinutes": 5,
+    "feature": true,
+    "cover": {
+      "src": "https://i0.wp.com/hechingerreport.org/wp-content/uploads/2026/09/mader-vouchers-01.jpg?fit=1024%2C682&amp;ssl=1",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "US Proposal to Shift Childcare Subsidies Towards Stay-at-Home Parents",
+      "ja": "保育支援の新たな視点：米国で浮上する「専業主婦（夫）家庭への助成金」案"
+    },
+    "dek": {
+      "en": "A recent proposal in the United States suggests reallocating childcare subsidies to directly support parents who choose to stay home, raising questions about family work-life balance and the future of early childhood care.",
+      "ja": "米国で、子育て支援策として保育施設への補助金ではなく、家庭で子どもを育てる親への直接的な助成を検討する提案が浮上。家庭の働き方や子育ての選択肢にどのような影響を与えるか、議論を呼んでいます。"
+    },
+    "author": {
+      "en": "WORLD STUDY TOKYO Editors",
+      "ja": "WORLD STUDY TOKYO 編集部"
+    },
+    "location": {
+      "en": "September 17, 2026",
+      "ja": "2026年9月17日"
+    },
+    "tags": [
+      {
+        "en": "Childcare",
+        "ja": "育児"
+      },
+      {
+        "en": "Subsidies",
+        "ja": "補助金"
+      },
+      {
+        "en": "Parental Choice",
+        "ja": "親の選択"
+      },
+      {
+        "en": "Early Childhood",
+        "ja": "幼児期"
+      }
+    ],
+    "body": {
+      "en": [
+        "A recent proposal in the United States suggests a significant shift in how childcare is financially supported, moving away from primarily subsidizing formal care providers towards directly assisting parents who choose to stay home with their children. This discussion, emerging in political discourse, aims to address the high cost and often bureaucratic hurdles families face in accessing existing childcare assistance programs.",
+        "Currently, many government childcare assistance programs in the US are designed to help working parents afford licensed daycare centers or other formal care settings. However, as highlighted by stories like that of a Texas mother who spent nearly two years on a waitlist for assistance, and a New York mother juggling full-time work with infant care, the current system can be difficult to navigate and insufficient for many families. The proposed shift would offer financial incentives that could make it more feasible for one parent to remain at home, potentially easing the burden on families struggling with both childcare costs and availability.",
+        "> Bonnie Albrecht’s path to accessing a government child care assistance program was long (the Texas mother spent nearly two years on a waitlist) and bureaucratic (involving seven pay stubs and countless phone calls).",
+        "This approach represents a philosophical departure from policies that predominantly encourage parental employment outside the home. By offering direct subsidies or tax credits to stay-at-home parents, the proposal acknowledges the economic value of home-based care. Proponents argue this could give parents more genuine choice in how they raise their young children, rather than being financially compelled to seek external care. It also implicitly values the role of a parent as the primary caregiver, a perspective that has historically been part of broader societal debates about family structure and gender roles.",
+        "However, such a shift could have significant ramifications for the formal childcare sector. If a substantial number of families opt for home-based care due to financial incentives, demand for daycare centers and preschools could decrease, potentially leading to closures or reduced services. This raises concerns about the availability of high-quality early childhood education for families who still require or prefer it, and the professional development of early childhood educators. The debate also touches on whether home-based care, without structured educational components, adequately prepares children for school compared to well-regulated early learning environments.",
+        "The proposal underscores an ongoing tension in many countries: how best to support families in their critical early years, balancing parental choice, economic realities, and the developmental needs of children. Future discussions will likely focus on the precise design of such subsidies, their potential impact on workforce participation, especially for women, and the broader societal value placed on different forms of childcare. The long-term effects on child development outcomes and the sustainability of both home-based and formal care systems will be key areas of observation."
+      ],
+      "ja": [
+        "米国で、子育て支援のあり方について新たな提案が議論されています。これは、これまで主に保育施設に支給されてきた補助金を、家庭で子育てをする親への直接的な財政支援へと転換する可能性を示唆するものです。この提案は、既存の保育支援プログラムが抱える高額な費用や煩雑な手続きといった課題に対応しようとする動きとして注目されています。",
+        "現在、米国における政府の子育て支援プログラムの多くは、共働き世帯が認可された保育施設などの公式なケアを利用できるよう、費用の一部を補助する形で運用されています。しかし、テキサス州のある母親が補助金を得るまでに2年近く待機したり、ニューヨーク州の母親がフルタイムの仕事と乳児の育児を両立させたりする事例が示すように、現行制度は利用が難しく、多くの家庭にとって十分ではないのが実情です。今回の提案は、親の一方が家庭で子育てをする選択肢を財政的に支援することで、高額な保育費用や施設不足に悩む家庭の負担を軽減することを目指しています。",
+        "「テキサス州のボニー・アルブレヒトさんが政府の保育支援プログラムにたどり着くまでの道のりは長く（2年近く待機リストに載っていた）、そして官僚的だった（7枚の給与明細と数えきれないほどの電話を要した）。」",
+        "このアプローチは、親が家庭の外で働くことを奨励する既存の政策とは一線を画す、考え方の転換を意味します。専業主婦（夫）の親に直接補助金や税額控除を提供することで、家庭内での育児の経済的価値を認めようとするものです。支持者たちは、これにより親が経済的な理由で外部の保育施設を選ぶのではなく、幼い子どもをどのように育てるかについて、より本質的な選択肢を持てるようになると主張しています。また、親が主要な養育者であるという役割を重視する視点も含まれており、これは家族のあり方やジェンダー役割に関する社会的な議論とも深く関連しています。",
+        "しかし、このような政策転換は、公式な保育部門に大きな影響を与える可能性があります。もし多くの家庭が財政的なインセンティブによって家庭での育児を選択した場合、保育園や幼稚園への需要が減少し、施設の閉鎖やサービス縮小につながる恐れがあります。これは、引き続き外部の保育を必要とする家庭や、それを望む家庭にとって、質の高い幼児教育の機会が失われることへの懸念を生じさせます。また、構造化された教育要素を持たない家庭での育児が、適切に管理された早期学習環境と比較して、子どもたちの就学準備として十分であるかどうかも議論の焦点となります。",
+        "この提案は、多くの国が抱える根源的な問いを浮き彫りにしています。それは、親の選択、経済的現実、そして子どもの発達ニーズのバランスを取りながら、人生の初期段階にある家族をどのように支援するのが最も良いのかという点です。今後の議論では、このような補助金制度の具体的な設計、特に女性の労働参加への潜在的な影響、そして異なる形態の育児に社会が与える価値が焦点となるでしょう。子どもの発達への長期的な影響や、家庭内育児と公式な保育システム双方の持続可能性も、引き続き注目すべき重要な分野です。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "This US proposal highlights a fundamental debate about the role of government in supporting early childhood. Instead of funding daycare centers directly, which is common in many countries including Japan, this idea is to give financial aid directly to parents who choose to stay home. Imagine a family weighing the cost of a hoikuen (licensed daycare) or yochien (kindergarten) against the income one parent might forgo to stay home. This proposal aims to make staying home a more financially viable option, treating home-based care as an economically recognized form of childcare.",
+        "For Tokyo families, this discussion could influence how we think about the balance between work and family, and the value placed on different childcare arrangements. While Japan's system heavily favors formal childcare to support dual-income households, a global conversation about directly supporting stay-at-home parents might prompt reflection on whether current policies truly offer diverse choices. It could feed into discussions about family budgets, parental leave extensions, or even the design of future tax incentives, especially for families with very young children.",
+        "A direct policy shift like this is unlikely to be adopted in Japan within the next 5-10 years. Japan's social and economic policies have long emphasized increasing female workforce participation and expanding formal childcare capacity. However, the underlying idea of valuing home-based care might slowly enter policy discussions over a 10-15 year horizon, particularly if birth rates continue to decline and the government seeks new ways to support families, potentially gated by shifts in public opinion or a major demographic policy review by the Ministry of Health, Labour and Welfare (厚生労働省).",
+        "Japan's current system primarily supports formal childcare through subsidies for hoikuen (保育園) and yochien (幼稚園), and offers some tax deductions like the spousal deduction (haigusha kojo / 配偶者控除) which indirectly benefits single-earner households. However, there isn't a direct program explicitly designed to provide financial subsidies for the act of staying home to care for a child. While the spousal deduction offers some financial relief, it doesn't equate to a direct childcare subsidy. The closest adjacent player might be discussions around increasing parental leave benefits, but even those are tied to employment rather than direct support for non-working parents."
+      ],
+      "ja": [
+        "今回の米国の提案は、幼児期の育児支援における政府の役割について、根本的な議論を提起しています。日本を含む多くの国で一般的な、保育施設への直接的な補助金ではなく、家庭で子どもを育てる親に直接財政支援を行うという考え方です。これは、たとえば夫婦の一方が仕事を辞めて家庭で子育てをする場合、その失われる収入と、保育園や幼稚園の費用を天秤にかけるような状況を想像すると分かりやすいでしょう。この提案は、家庭での育児を経済的に成立しやすい選択肢とし、家庭内でのケアも社会的に認められる育児形態として評価しようとするものです。",
+        "東京の家庭にとって、この議論は、仕事と家庭のバランス、そして多様な育児形態への価値観について考えるきっかけとなるかもしれません。日本の制度は共働き世帯を支援するために公式な保育を重視していますが、専業主婦（夫）の親を直接支援するという世界の議論は、現在の政策が本当に多様な選択肢を提供しているのかという問い直しを促す可能性があります。特に幼い子どもを持つ家庭にとって、家計、育児休業の延長、あるいは将来的な税制優遇策の設計に関する議論に影響を与えることも考えられます。",
+        "このような直接的な政策転換が日本で今後5〜10年以内に採用される可能性は低いでしょう。日本の社会経済政策は、長らく女性の労働参加促進と公式な保育施設の拡充を重視してきました。しかし、家庭での育児の価値を再評価するという根底にある考え方は、10〜15年という長期的な視点で見れば、政策議論にゆっくりと影響を与えるかもしれません。特に少子化が進行し、政府が家族支援の新たな方法を模索する中で、世論の変化や厚生労働省による大規模な人口政策の見直しがきっかけとなる可能性はあります。",
+        "日本の現在の制度は、保育園や幼稚園への補助金を通じて公式な保育を主に支援しており、配偶者控除のような税制上の優遇措置が、間接的に片働き世帯を利する形となっています。しかし、米国で議論されているような「家庭で子どもをケアするために仕事を休むこと」自体に直接的な財政補助を行うプログラムは存在しません。配偶者控除はある程度の経済的支援にはなりますが、直接的な育児補助とは異なります。最も近い議論としては育児休業給付の拡充がありますが、これもあくまで雇用に紐づくものであり、非就労の親への直接支援とは一線を画します。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "Shifting childcare subsidies to support stay-at-home parents.",
+        "ja": "専業主婦（夫）家庭への育児助成案が浮上。"
+      },
+      "whoForWhat": {
+        "en": "For Tokyo families with young children, this proposal offers a new perspective on balancing parental employment with childcare, influencing decisions about hoikuen versus home care.",
+        "ja": "幼い子どもを持つ東京の家庭が、共働きと家庭での育児のバランスを考え、保育園利用か家庭でのケアか選択する際の新たな視点を提供する。"
+      },
+      "vsJapanContext": {
+        "en": "While Japan's MHLW policies prioritize expanding formal hoikuen and yochien to boost female workforce participation, this US proposal challenges that model by directly valuing home-based care, diverging from Japan's current approach.",
+        "ja": "日本の厚生労働省政策が女性の労働参加促進のため保育園・幼稚園拡充を重視する中、この米国提案は家庭内ケアを直接評価し、日本の現行アプローチとは異なる。"
+      },
+      "tokyoNote": {
+        "en": "Tokyo parents grappling with childcare waitlists and costs might find this discussion interesting, though a direct shift in Japan's policy is unlikely soon. It highlights a global debate about valuing diverse family choices.",
+        "ja": "保育園の待機児童問題や費用に悩む東京の保護者にとって興味深い議論ですが、日本での直接的な政策転換は当面考えにくいでしょう。多様な家族の選択肢を評価する世界的な議論の一端を示しています。"
+      }
+    },
+    "source": {
+      "name": "The Hechinger Report",
+      "url": "https://hechingerreport.org/trump-proposal-could-shift-child-care-subsidies-to-stay-at-home-parents/"
+    },
+    "sourceGuid": "https://hechingerreport.org/?p=117925",
+    "status": "published"
+  },
+  {
     "slug": "reconstructing-sight-what-brain-activity-reveals-about-perception",
     "category": "research",
     "issue": "Vol. 04",
@@ -6879,8 +6981,8 @@
     "readingMinutes": 6,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#CDE3CF"
+      "src": "https://images.unsplash.com/photo-1551434678-e076c223a692?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#CFE3D2"
     },
     "title": {
       "en": "Beyond 'Helpful': Why AI Tutors Need to Be Truly Pedagogical",
@@ -7601,8 +7703,8 @@
     "readingMinutes": 6,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1551434678-e076c223a692?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#CFE3D2"
+      "src": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#C8DFCB"
     },
     "title": {
       "en": "AI-Powered Diagrams Offer Visual Clarity for Computer Science Learning",
@@ -8107,108 +8209,6 @@
       "url": "https://www.sciencedaily.com/releases/2026/07/260729051540.htm"
     },
     "sourceGuid": "https://www.sciencedaily.com/releases/2026/07/260729051540.htm",
-    "status": "published"
-  },
-  {
-    "slug": "ai-tutors-helpfulness-isnt-always-pedagogical-guidance",
-    "category": "ai-edu",
-    "issue": "Vol. 02",
-    "publishedAt": "2026-07-30T12:37:28.000Z",
-    "readingMinutes": 5,
-    "feature": true,
-    "cover": {
-      "src": "https://images.unsplash.com/photo-1573164713619-24c711fe7878?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#C4DDC6"
-    },
-    "title": {
-      "en": "AI Tutors: Helpfulness Isn't Always Pedagogical Guidance",
-      "ja": "AIチューターの「役立つ」と「教える」の違い：評価の新たな視点"
-    },
-    "dek": {
-      "en": "A new study reveals that general 'helpfulness' metrics fail to capture the true pedagogical value of AI tutors, emphasizing the need for evaluation methods that focus on fostering independent learning.",
-      "ja": "AIチューターの評価において、単なる「役立つ度合い」では真の教育的価値を測れないという研究結果。自立した学習を促すための評価基準が求められています。"
-    },
-    "author": {
-      "en": "WORLD STUDY TOKYO Editors",
-      "ja": "WORLD STUDY TOKYO 編集部"
-    },
-    "location": {
-      "en": "TOKYO",
-      "ja": "東京"
-    },
-    "tags": [
-      {
-        "en": "AI",
-        "ja": "AI"
-      },
-      {
-        "en": "AI Tutor",
-        "ja": "AIチューター"
-      },
-      {
-        "en": "EdTech",
-        "ja": "エドテック"
-      },
-      {
-        "en": "Learning Methods",
-        "ja": "学習方法"
-      }
-    ],
-    "body": {
-      "en": [
-        "A recent study published on arXiv (Computers and Society) on July 30, 2026, challenges the common assumption that an AI tutor's \"helpfulness\" directly correlates with its educational effectiveness. Researchers investigated how well large language models (LLMs) — the underlying technology for many AI tutors — can distinguish between simply providing answers and offering genuine pedagogical guidance that fosters learning.",
-        "The core problem, as identified by the study, is a measurement challenge: can a general-purpose helpfulness rubric truly differentiate between direct answer-giving and guidance designed to promote a student's independent thought? To explore this, the study compared different AI tutor \"policies\" — one more conversational and prone to giving direct answers, another more pedagogically focused on guiding the student — all built on the same underlying LLM. These policies interacted with a fixed, simulated student, and their performance was judged by other advanced LLMs, specifically Claude Opus 4.8 as the primary judge, with GPT-5.6 Sol used for a robustness audit.",
-        "The findings were striking. While the AI tutor policies did not differ significantly when judged purely on \"helpfulness,\" they were perfectly separated when evaluated using a \"pedagogy-targeted\" rubric. This suggests that a general assessment of helpfulness fails to capture the nuances of effective teaching. Moreover, the helpfulness rankings could even reverse depending on which LLM judge was used, highlighting the unreliability of this metric for pedagogical evaluation.",
-        "> In this controlled setting, general-purpose helpfulness is not a reliable pedagogy signal.",
-        "Crucially, the study also incorporated \"deterministic detectors\" to measure the impact on student learning. It found that turns where the AI tutor revealed the answer were consistently followed by less independent student work in the subsequent turn, across all tutor bases. This result was invariant, meaning it held true regardless of the LLM judge. This direct link between answer-giving and reduced student effort underscores the importance of a truly pedagogical approach.",
-        "The implications are clear for the development and deployment of AI tutors. Rather than relying on broad \"helpfulness\" scores, developers and educators should prioritize evaluation methods that use specific, pedagogy-targeted rubrics. These should be paired with process measures that track actual student engagement and independent work, ensuring that AI tools genuinely support learning rather than merely serving as sophisticated answer machines. This shift in evaluation could lead to more effective AI learning companions that truly empower students."
-      ],
-      "ja": [
-        "2026年7月30日に arXiv (Computers and Society) で公開された新しい研究は、AIチューターの「役立つ度合い」が、必ずしもその教育効果と直結しないという、これまでの常識に一石を投じています。研究者たちは、多くのAIチューターの基盤となっている大規模言語モデル（LLM）が、単に答えを提供する行為と、生徒の自立的な学習を促す真の教育的指導を、どれだけ正確に区別できるかを調査しました。",
-        "研究が指摘する核心的な問題は、評価の難しさです。一般的な「役立つ度合い」の評価基準で、直接的な答えを与えることと、生徒の思考を促す指導的アプローチを本当に区別できるのでしょうか。この問いに答えるため、研究では同じ基盤LLM上に構築された、異なるAIチューターの「方針」を比較しました。一つはより会話的で直接的な答えを与えがちなもの、もう一つは生徒を指導することに焦点を当てた教育的なアプローチです。これらは固定されたシミュレーション上の生徒と対話し、そのパフォーマンスはClaude Opus 4.8を主評価者、GPT-5.6 Solを堅牢性確認のための副評価者とする他の高度なLLMによって評価されました。",
-        "結果は示唆に富むものでした。純粋な「役立つ度合い」で評価した場合、AIチューターの各方針間に大きな差は見られませんでした。しかし、「指導的であるか」に特化した評価基準を用いると、両者の間には明確な差が確認されました。これは、一般的な「役立つ度合い」の評価では、効果的な指導の機微を捉えきれないことを示唆しています。さらに、評価を行うLLMの種類によって「役立つ度合い」の順位が逆転することさえあり、この指標が教育的評価として信頼性に欠けることが浮き彫りになりました。",
-        "「この管理された設定において、汎用的な『役立つ度合い』は信頼できる指導のシグナルではない。」",
-        "さらに重要な点として、研究は生徒の学習への影響を測る「決定論的検出器」も導入しました。その結果、AIチューターが答えを明かした場面では、その後の生徒の自立的な学習行動が consistently 減少することが、全てのチューター基盤で確認されました。この結果は評価するLLMに依存せず一貫しており、答えを与えることと生徒の努力が減少することの直接的な関連性を示しています。これは、真に教育的なアプローチの重要性を浮き彫りにします。",
-        "AIチューターの開発と導入における示唆は明確です。広範な「役立つ度合い」のスコアに頼るのではなく、開発者や教育者は、より具体的で「指導的効果」に焦点を当てた評価方法を優先すべきです。これには、実際の生徒の関与度や自立的な学習行動を追跡するプロセス測定を組み合わせる必要があります。これにより、AIツールが単なる高度な「答えの機械」としてではなく、真に生徒の学びを支援する存在となるよう、評価のあり方を転換できるでしょう。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "This research offers a crucial insight for Tokyo parents navigating the growing landscape of AI learning tools. Simply put, an AI tutor that gives you the right answer quickly might feel helpful in the moment, much like a friend telling you the solution to a puzzle. But true pedagogical value lies in the process of guiding the student to discover the answer themselves, fostering deeper understanding and independent problem-solving skills.",
-        "For Tokyo families, this could significantly impact how they choose and utilize AI tutors, especially for children preparing for entrance exams (中学受験, 大学受験) or those in international school programs. Platforms focused on rote memorization or quick fixes might appear \"helpful,\" but they may inadvertently undermine the very independent thinking skills valued in comprehensive admissions (総合型選抜) and higher education. Parents might start scrutinizing AI tools not just for correct answers, but for how they prompt, question, and scaffold learning.",
-        "This shift in evaluation could begin to be felt within 1-2 years, primarily within the advanced edtech sector and among international schools in Tokyo that are early adopters of AI. A broader impact, potentially influencing major juku or MEXT's approach to digital learning guidelines (学習指導要領), would likely take 3-5 years, gated by the need for domestic replication studies or official policy discussions.",
-        "In Japan, services like Atama+ and すららネット already focus on adaptive learning and identifying student weaknesses, aligning with the spirit of personalized guidance. However, this study suggests an even deeper layer of pedagogical design and evaluation is needed to ensure AI truly fosters independent thought, rather than just optimizing for correct answers. The emphasis on independent work in traditional systems like Kumon, where students work through problems autonomously, provides a useful lens through which to view AI's role: to guide, not to simply provide."
-      ],
-      "ja": [
-        "この研究は、AI学習ツールの普及が進む中で、東京の保護者にとって極めて重要な示唆を与えています。簡単に言えば、AIチューターがすぐに正しい答えを教えてくれることは、一時的に「役立つ」と感じるかもしれません。しかし、真の教育的価値は、生徒が自力で答えを見つけ出すプロセスを導き、より深い理解と自立的な問題解決能力を育むことにあります。",
-        "東京のご家庭にとって、これはAIチューターの選び方や活用法に大きな影響を与える可能性があります。中学受験や大学受験、あるいはインターナショナルスクールのプログラムで学ぶお子さんを持つ保護者にとって、単なる丸暗記や即答に特化したプラットフォームは「役立つ」ように見えても、総合型選抜や高等教育で重視される自立的な思考力を阻害する可能性があります。保護者は、AIツールが正しい答えを出すだけでなく、どのように質問を投げかけ、思考を促し、学習を足場固めしているか、その指導モデルをより深く吟味するようになるでしょう。",
-        "このような評価の転換は、今後1〜2年以内に、先進的なエドテック企業や、AI導入に積極的な都内のインターナショナルスクールから、まず感じられるようになるでしょう。より広範な影響、例えば大手学習塾や文部科学省のデジタル学習ガイドライン（学習指導要領）への影響は、国内での追試研究や政策議論の進展を待つ必要があり、3〜5年かかる可能性があります。",
-        "国内では、Atama+やすららネットのようなサービスが、すでにアダプティブラーニングや弱点克服に焦点を当てており、個別指導の精神と方向性は一致しています。しかし、本研究は、AIが単に正解を最適化するだけでなく、真に自立的な思考を育むために、さらに深いレベルの教育設計と評価が必要であることを示唆しています。公文式のように、生徒が自律的に問題を解き進めることを重視する伝統的な学習システムは、AIの役割を「単に提供する」のではなく「導く」ものとして捉える上で、有効な視点を提供してくれるでしょう。"
-      ]
-    },
-    "structured": {
-      "tagline": {
-        "en": "AI tutor helpfulness isn't pedagogy.",
-        "ja": "AIチューターの「役立つ」は「教える」ではない"
-      },
-      "whoForWhat": {
-        "en": "For Tokyo families considering AI tutors, this study helps distinguish genuinely educational platforms from those that merely provide answers, guiding their choices for effective learning support.",
-        "ja": "AIチューターの導入を検討している東京の保護者にとって、単に答えを教えるものと、真に学習を促すものを見分けるための示唆を与え、効果的な学習支援を選ぶ指針となります。"
-      },
-      "vsJapanContext": {
-        "en": "This research highlights a challenge for Japanese edtech developers like Atama+ or すららネット, which must integrate robust pedagogical evaluation beyond simple user satisfaction to align with the depth of learning valued in Japanese education.",
-        "ja": "本研究は、Atama+やすららネットのような日本のエドテック企業が、単なるユーザー満足度を超えた、堅牢な指導効果の評価を組み込む必要性を示唆し、日本の教育が重視する深い学びへの対応を促します。"
-      },
-      "tokyoNote": {
-        "en": "Tokyo parents should note that while many AI tools promise 'personalized learning,' this study suggests we need to scrutinize their underlying pedagogical models. For juku or international schools integrating AI, prioritizing deep learning over quick answers will be key.",
-        "ja": "東京の保護者は、『個別最適化された学び』を謳うAIツールが多い中で、その裏にある指導モデルを吟味する必要があるでしょう。塾やインターナショナルスクールがAIを導入する際も、単なる即答ではなく、深い学びを促す設計が重要になります。"
-      }
-    },
-    "source": {
-      "name": "arXiv cs.CY",
-      "url": "http://arxiv.org/abs/2607.28128v1"
-    },
-    "sourceGuid": "http://arxiv.org/abs/2607.28128v1",
     "status": "published"
   }
 ]
