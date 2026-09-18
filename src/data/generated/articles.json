@@ -1,5 +1,109 @@
 [
   {
+    "slug": "the-rising-cost-of-higher-education-a-global-challenge-for-families",
+    "category": "admissions",
+    "issue": "Vol. 04",
+    "publishedAt": "2026-09-16T05:00:00.000Z",
+    "readingMinutes": 5,
+    "feature": true,
+    "cover": {
+      "src": "https://i0.wp.com/hechingerreport.org/wp-content/uploads/2026/09/oped-Garimella-090826-scaled.jpg?fit=1024%2C683&amp;ssl=1",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "The Rising Cost of Higher Education: A Global Challenge for Families",
+      "ja": "高騰する高等教育費：世界共通の家族の課題"
+    },
+    "dek": {
+      "en": "A US college president calls for better cost control in higher education, highlighting the immense sacrifices families make. This global conversation resonates with Tokyo parents navigating their children's educational journeys.",
+      "ja": "米国の大学学長が、高等教育機関に対し費用抑制の改善を訴えました。家族が教育のために払う多大な犠牲に光を当てるこの議論は、子どもの教育を考える東京の保護者にとっても深く響くものです。"
+    },
+    "author": {
+      "en": "WORLD STUDY TOKYO Editors",
+      "ja": "WORLD STUDY TOKYO 編集部"
+    },
+    "location": {
+      "en": "TOKYO",
+      "ja": "東京"
+    },
+    "tags": [
+      {
+        "en": "Higher Education",
+        "ja": "高等教育"
+      },
+      {
+        "en": "Tuition Costs",
+        "ja": "学費"
+      },
+      {
+        "en": "Family Finance",
+        "ja": "家計"
+      },
+      {
+        "en": "Admissions",
+        "ja": "入試"
+      }
+    ],
+    "body": {
+      "en": [
+        "In a recent dispatch, a US college president voiced a critical concern for higher education institutions: the escalating cost of tuition and the extraordinary sacrifices families make to send their children to college. The president noted that millions of American parents and caregivers work overtime, postpone retirement, and take on debt, all driven by the belief that higher education opens doors to opportunities their children might not otherwise have.",
+        "This sentiment reflects a widespread anxiety among families globally, who view higher education as a vital investment in their children's future. While the scale of tuition fees and student debt in the United States is particularly pronounced, the underlying pressure on families to finance educational pathways is a universal experience. The piece argues that colleges themselves bear a responsibility to manage these costs more effectively, rather than placing an ever-increasing burden on students and their parents.",
+        "The dispatch underscores that students, too, are making significant compromises. Many juggle night jobs, weekend work, and family responsibilities, often borrowing substantial amounts to finance their studies. This financial strain can impact academic performance, mental well-being, and the overall quality of the college experience, turning what should be a period of growth and exploration into one of constant financial worry.",
+        "> \"Every fall, millions of American parents and caregivers make extraordinary sacrifices to send a child to college. They work overtime, postpone retirement, take on debt or set aside other priorities because they believe higher education can create opportunities they never had.\"",
+        "The call for institutions to control costs better suggests a shift in perspective, moving beyond simply raising tuition to cover expenses. It implies a need for universities to re-evaluate their operational models, administrative overheads, and the value proposition they offer. This could involve exploring more efficient delivery methods, leveraging technology, or rethinking the scope of services provided to students.",
+        "While the specific context is the US higher education system, the core message — that the financial burden of education should not solely rest on families, and institutions have a role to play in affordability — holds relevance across borders. It invites a broader conversation about the societal value of education, who pays for it, and how educational systems can remain accessible and equitable without compromising quality.",
+        "Looking ahead, this discussion may prompt more robust debates within national education systems about public funding for universities, the role of scholarships and financial aid, and the accountability of institutions for their spending. For families, it reinforces the need for careful financial planning and a thorough assessment of the long-term value and affordability of different educational paths, whether domestic or international."
+      ],
+      "ja": [
+        "先日発表された米国の大学学長による論説は、高等教育機関が直面する重要な懸念、すなわち学費の高騰と、子どもを大学に送るために家族が払う並外れた犠牲について言及しました。学長は、何百万もの米国の保護者が、高等教育が子どもたちに新たな機会をもたらすと信じ、残業し、退職を遅らせ、借金を抱えていると指摘しています。",
+        "この感情は、子どもの未来への不可欠な投資として高等教育を捉える、世界中の家族に共通する不安を反映しています。米国の学費と学生ローンの規模は特に顕著ですが、教育費を捻出するための家族への根強いプレッシャーは普遍的な経験です。この論説は、大学自体がこれらの費用をより効果的に管理する責任を負うべきであり、学生や保護者に負担を押し付け続けるべきではないと主張しています。",
+        "論説は、学生自身も大きな犠牲を払っていることを強調します。多くの学生が夜間や週末に働き、家族の責任をこなしながら、学費のために多額の借金をしています。この経済的負担は、学業成績、精神的健康、そして大学生活全体の質に影響を及ぼし、成長と探求の期間であるはずの時間を、絶え間ない金銭的心配の期間に変えてしまう可能性があります。",
+        "> 「毎年秋、何百万もの米国の保護者や介護者が、子どもを大学に送るために並外れた犠牲を払います。彼らは残業し、退職を遅らせ、借金を抱え、あるいは他の優先事項を後回しにします。なぜなら、高等教育が彼らにはなかった機会を創造できると信じているからです。」",
+        "機関が費用をより良く管理すべきという提言は、単に費用を賄うために学費を値上げする以上の視点の転換を示唆しています。これは、大学がその運営モデル、管理経費、そして学生に提供する価値提案を再評価する必要があることを意味します。より効率的な提供方法を模索したり、テクノロジーを活用したり、学生に提供されるサービスの範囲を再考したりする可能性も含まれるでしょう。",
+        "特定の文脈は米国の高等教育システムですが、その核心的なメッセージ — 教育の経済的負担が家族だけに課されるべきではなく、機関も手頃な価格を維持する役割を果たすべきである — は国境を越えて関連性を持っています。これは、教育の社会的価値、誰がその費用を負担するのか、そして教育システムが質を損なうことなくアクセス可能で公平であり続ける方法についての、より広範な議論を促すものです。",
+        "今後、この議論は、大学への公的資金、奨学金や財政援助の役割、そして機関の支出に対する説明責任について、各国の教育システム内でより活発な議論を引き起こすかもしれません。家族にとっては、国内外を問わず、異なる教育経路の長期的な価値と費用対効果を慎重に評価し、入念な資金計画を立てる必要性を再認識させるものとなるでしょう。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "The US college president's call for universities to control costs better, driven by the immense sacrifices families make, is a stark reminder of the global challenge of financing higher education. For Tokyo families, while Japanese university tuition fees are generally lower than in the US, the total cost of a child's education, especially when factoring in extensive juku attendance for competitive admissions, can be equally daunting. This piece highlights that education is a significant, often multi-decade, family investment.",
+        "For Tokyo families, this discussion directly impacts choices around university pathways. It raises questions about the long-term financial viability of pursuing overseas universities, which often come with higher tuition and living costs. Domestically, it could influence the perceived value of private versus public universities, and the extent to which families are willing to invest in expensive entrance exam preparation (中学受験、大学受験のための塾) to secure a spot in a top institution.",
+        "The awareness of rising education costs is already present in Japan, particularly for those considering international education. However, a systemic shift in how Japanese universities manage costs or how MEXT (文部科学省) approaches public funding and tuition reform might take 5-10 years. Such changes would be gated by national policy discussions and the ability of universities to adapt their operational models, which historically move slowly. For families, the immediate impact is on their financial planning and assessment of educational ROI.",
+        "In Japan, while the specific debate around college presidents addressing tuition might not be as public, the underlying concern about education costs is very much alive. Institutions like JASSO (日本学生支援機構) provide student loans and scholarships, mirroring the financial aid discussions in the US. Furthermore, the significant investment families make in preparation for competitive entrance exams through major cram schools such as SAPIX (サピックス), Yotsuya Otsuka (四谷大塚), or Kawaijuku (河合塾) demonstrates a similar level of parental sacrifice and financial commitment to education, albeit through a different cost structure."
+      ],
+      "ja": [
+        "米国の大学学長が、家族が払う多大な犠牲を背景に、大学が費用をより良く管理すべきだと訴えたことは、高等教育の資金調達という世界的な課題を改めて浮き彫りにします。東京の家庭にとって、日本の大学の授業料は一般的に米国よりも低いものの、競争の激しい入試のための多額の塾代を含めると、子どもの教育にかかる総費用は同様に途方もないものになりえます。この記事は、教育が家族にとっての重要な、しばしば数十年間にわたる投資であることを示唆しています。",
+        "東京の家庭にとって、この議論は大学進路の選択に直接影響を与えます。授業料や生活費がより高額になる海外大学への進学の、長期的な財政的実行可能性について疑問を投げかけます。国内においては、私立大学と国立・公立大学の価値認識、そして一流大学への入学を確保するために、高額な中学受験や大学受験の準備（塾）にどれだけ投資するかという家族の意欲に影響を与える可能性があります。",
+        "教育費の高騰に対する認識は、特に国際教育を検討している家庭においては、すでに日本にも存在します。しかし、日本の大学が費用を管理する方法や、文部科学省が公的資金や授業料改革にどのように取り組むかといったシステム全体の変化には、5年から10年かかるかもしれません。このような変化は、国の政策議論と、歴史的に動きが遅い大学の運営モデル適応能力によって左右されるでしょう。家族にとっての当面の影響は、財務計画と教育投資に対するリターンの評価にあります。",
+        "日本では、大学学長が授業料について公に議論するような状況は米国ほど一般的ではないかもしれませんが、教育費に関する根本的な懸念は非常に現実的です。日本学生支援機構（JASSO）のような機関が奨学金や学生ローンを提供しており、これは米国の財政援助に関する議論と類似しています。さらに、SAPIX（サピックス）、四谷大塚、河合塾といった大手進学塾を通じた競争の激しい入試準備への家族の多大な投資は、異なる費用構造ではあるものの、教育への親の犠牲と経済的コミットメントが米国と同様のレベルであることを示しています。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "Higher education costs: a global burden on families.",
+        "ja": "高まる教育費：家族にかかる世界共通の重荷"
+      },
+      "whoForWhat": {
+        "en": "For Tokyo families with high schoolers considering overseas universities or navigating the significant costs of domestic higher education pathways, this story frames the global financial pressures on educational investment.",
+        "ja": "海外大学を検討している高校生のいる家庭や、国内の高等教育経路にかかる多大な費用に直面する東京の家庭にとって、教育投資における世界的な財政的プレッシャーを理解する一助となります。"
+      },
+      "vsJapanContext": {
+        "en": "This mirrors the intense financial commitment Japanese families make for competitive entrance exam preparation through major juku like SAPIX or Kawaijuku, highlighting a universal parental sacrifice for educational opportunity.",
+        "ja": "SAPIXや河合塾のような大手学習塾を通じた、日本の家庭の競争の激しい中学受験・大学受験準備にかかる多大な経済的負担と重なり、教育機会への普遍的な親の犠牲を示唆します。"
+      },
+      "tokyoNote": {
+        "en": "While US tuition figures are extreme, Tokyo parents also face a significant financial commitment for education. This piece reminds us that the value proposition of any educational pathway—domestic private, public, or international—must be carefully weighed against its total cost, not just tuition.",
+        "ja": "米国の授業料は極端ですが、東京の保護者も教育への多大な経済的コミットメントに直面しています。この論説は、国内私立、公立、国際を問わず、あらゆる教育経路の価値提案を、単なる授業料だけでなく、総費用と照らし合わせて慎重に検討する必要があることを示唆しています。"
+      }
+    },
+    "source": {
+      "name": "The Hechinger Report",
+      "url": "https://hechingerreport.org/opinion-controlling-college-costs/"
+    },
+    "sourceGuid": "https://hechingerreport.org/?p=117874",
+    "status": "published"
+  },
+  {
     "slug": "us-proposal-to-shift-childcare-subsidies-towards-stay-at-home-parents",
     "category": "early-childhood",
     "issue": "Vol. 04",
@@ -6981,8 +7085,8 @@
     "readingMinutes": 6,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1551434678-e076c223a692?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#CFE3D2"
+      "src": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#CCE1CE"
     },
     "title": {
       "en": "Beyond 'Helpful': Why AI Tutors Need to Be Truly Pedagogical",
@@ -7703,8 +7807,8 @@
     "readingMinutes": 6,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#C8DFCB"
+      "src": "https://images.unsplash.com/photo-1593720213428-28a5b9e94613?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#C9E0CC"
     },
     "title": {
       "en": "AI-Powered Diagrams Offer Visual Clarity for Computer Science Learning",
@@ -8107,108 +8211,6 @@
       "url": "https://www.sciencedaily.com/releases/2026/07/260729051529.htm"
     },
     "sourceGuid": "https://www.sciencedaily.com/releases/2026/07/260729051529.htm",
-    "status": "published"
-  },
-  {
-    "slug": "ai-detects-early-brain-aging-signs-during-sleep-signals-dementia-risk",
-    "category": "research",
-    "issue": "Vol. 02",
-    "publishedAt": "2026-07-31T07:05:12.000Z",
-    "readingMinutes": 4,
-    "feature": true,
-    "cover": {
-      "src": "https://www.sciencedaily.com/images/1920/sleep-therapy-brain-delta-waves.webp",
-      "tone": "#0c0c0c"
-    },
-    "title": {
-      "en": "AI Detects Early Brain Aging Signs During Sleep, Signals Dementia Risk",
-      "ja": "睡眠中の脳波からAIが「脳の老化」を早期検出、認知症リスクとの関連を示唆"
-    },
-    "dek": {
-      "en": "A new study reveals that machine learning can identify signs of accelerated brain aging from sleep EEG recordings, potentially offering a pre-symptomatic indicator for dementia risk years before memory issues arise.",
-      "ja": "最新の研究により、機械学習が睡眠中の脳波記録から加速した脳の老化の兆候を特定できることが判明しました。これは、記憶障害が発生する何年も前に、認知症リスクの早期指標となる可能性を秘めています。"
-    },
-    "author": {
-      "en": "WORLD STUDY TOKYO Editors",
-      "ja": "WORLD STUDY TOKYO 編集部"
-    },
-    "location": {
-      "en": "TOKYO, July 31, 2026",
-      "ja": "東京, 2026年7月31日"
-    },
-    "tags": [
-      {
-        "en": "AI in Health",
-        "ja": "AIと健康"
-      },
-      {
-        "en": "Cognitive Science",
-        "ja": "認知科学"
-      },
-      {
-        "en": "Brain Health",
-        "ja": "脳の健康"
-      },
-      {
-        "en": "Aging",
-        "ja": "老化"
-      }
-    ],
-    "body": {
-      "en": [
-        "2026年7月31日、ある研究チームは、AIを用いた分析により、人の睡眠中の脳活動が実年齢よりも早く老化しているかどうかを特定できると発表しました。この研究は、約7,000人の成人から得られた脳波（EEG）記録を機械学習で解析し、実年齢よりも「脳年齢」が高いことが、その後の認知症リスクと強く関連していることを示しています。",
-        "この発見は、認知症の兆候が記憶障害として現れるずっと以前に、脳の健康状態に関する重要な手がかりを得られる可能性を示唆しています。研究によると、AIが推定する脳年齢が実年齢よりも10年高いごとに、認知症リスクが約40%増加するという具体的な関連性が明らかになりました。これは、脳の機能的な健康状態を非侵襲的に評価する新たな道を開くものです。",
-        "研究者たちは、このAIモデルが睡眠中に記録された脳波の複雑なパターンを分析し、特定の「脳年齢」を割り出す仕組みを構築しました。脳波（Electroencephalography - 脳の電気活動を頭皮上から記録する検査）は、脳の活動状態を反映するバイオマーカーとして知られていますが、AIがその微細な変化を捉えることで、従来の診断では見過ごされがちな早期の老化サインを検出できるようになります。",
-        "> \"A person’s sleeping brain may reveal warning signs of dementia long before memory problems begin.\"",
-        "この技術が将来的に実用化されれば、定期的な脳波測定によって、個々人の認知機能の健康状態を長期的にモニタリングすることが可能になるかもしれません。早期にリスクを特定できれば、生活習慣の改善や新たな介入方法の開発など、認知症予防に向けたより積極的なアプローチを検討する機会が生まれます。",
-        "しかし、この研究はまだ初期段階であり、AIが導き出す「脳年齢」が認知症の診断基準として確立されるまでには、さらなる大規模な検証と臨床試験が必要です。また、この技術を広く普及させるためには、脳波測定の簡便化や、倫理的な側面、そして早期発見がもたらす心理的影響についても慎重な議論が求められます。"
-      ],
-      "ja": [
-        "2026年7月31日、ある研究チームが、人工知能（AI）を用いた分析により、人の睡眠中の脳活動が実年齢よりも早く老化しているかどうかを特定できると発表しました。この研究では、約7,000人の成人から得られた脳波（EEG）記録を機械学習（AIが大量のデータからパターンを学習し、予測や判断を行う技術）で解析し、実年齢よりも「脳年齢」が高いことが、その後の認知症リスクと強く関連していることを示しています。",
-        "この発見は、認知症の兆候が記憶障害として現れるずっと以前に、脳の健康状態に関する重要な手がかりを得られる可能性を示唆するものです。研究によると、AIが推定する脳年齢が実年齢よりも10年高いごとに、認知症リスクが約40%増加するという具体的な関連性が明らかになりました。これは、脳の機能的な健康状態を、現時点では非侵襲的な方法で評価する新たな道を開くものとして注目されます。",
-        "研究者たちは、このAIモデルが睡眠中に記録された脳波の複雑なパターンを分析し、特定の「脳年齢」を割り出す仕組みを構築しました。脳波（Electroencephalography - 脳の電気活動を頭皮上から記録する検査）は、脳の活動状態を反映するバイオマーカーとして知られていますが、AIがその微細な変化を捉えることで、従来の診断では見過ごされがちな早期の老化サインを検出できるようになります。",
-        "> 「人の睡眠中の脳は、記憶障害が始まるずっと前から認知症の警告サインを示す可能性がある」",
-        "この技術が将来的に実用化されれば、定期的な脳波測定によって、個々人の認知機能の健康状態を長期的にモニタリングすることが可能になるかもしれません。早期にリスクを特定できれば、生活習慣の改善や新たな介入方法の開発など、認知症予防に向けたより積極的なアプローチを検討する機会が生まれます。",
-        "しかし、この研究はまだ初期段階であり、AIが導き出す「脳年齢」が認知症の診断基準として確立されるまでには、さらなる大規模な検証と臨床試験が必要です。また、この技術を広く普及させるためには、脳波測定の簡便化や、早期発見がもたらす心理的影響、そしてデータプライバシーなどの倫理的な側面についても慎重な議論が求められます。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "この研究は、AIが私たちの脳の健康を深く理解する上で新たな可能性を開くことを示しています。睡眠中の脳波から「脳年齢」を推定し、それが実年齢よりも高い場合に将来の認知症リスクと関連するという発見は、まるで健康診断で血糖値や血圧を測るように、脳の健康も数値で早期に把握できる未来を想像させます。",
-        "東京で子育てをするご家庭にとって、この技術は将来的な家族の健康管理、特に高齢の親御さんの認知機能の維持や、自身の認知機能への意識を高めるきっかけになるかもしれません。幼少期からの質の高い睡眠や、脳を活性化させる学習習慣が、生涯にわたる認知機能の健康にどう影響するかという視点も、より重要になるでしょう。",
-        "この技術が東京の家庭で日常的に利用できるようになるまでには、まだ5年から10年程度の時間が必要かもしれません。主なゲート要因は、医療機器としての承認プロセス、そして一般家庭でも手軽に使えるような非侵襲的で安価な脳波測定デバイスの開発とその普及です。まずは専門医療機関での導入が進み、その後、家庭向けサービスへと展開されるでしょう。",
-        "日本国内では、高齢化社会の課題に対応するため、理化学研究所や国立長寿医療研究センターなどが認知症の早期診断や予防に関する研究を活発に進めています。また、睡眠トラッカーやスマートウォッチのようなウェアラブルデバイスを開発する企業（例えばパナソニックやオムロンなど）が、将来的にはこの種の脳波モニタリング機能を統合する可能性も考えられます。教育分野では直接的な類似はありませんが、生涯学習を支援するベネッセ教育総合研究所のような機関が、脳科学の知見を学習プログラムに応用する動きと間接的に重なるかもしれません。"
-      ],
-      "ja": [
-        "この研究は、AIが私たちの脳の健康を深く理解する上で新たな可能性を開くことを示しています。睡眠中の脳波から「脳年齢」を推定し、それが実年齢よりも高い場合に将来の認知症リスクと関連するという発見は、まるで健康診断で血糖値や血圧を測るように、脳の健康も数値で早期に把握できる未来を想像させます。",
-        "東京で子育てをするご家庭にとって、この技術は将来的な家族の健康管理、特に高齢の親御さんの認知機能の維持や、自身の認知機能への意識を高めるきっかけになるかもしれません。幼少期からの質の高い睡眠や、脳を活性化させる学習習慣が、生涯にわたる認知機能の健康にどう影響するかという視点も、より重要になるでしょう。",
-        "この技術が東京の家庭で日常的に利用できるようになるまでには、まだ5年から10年程度の時間が必要かもしれません。主なゲート要因は、医療機器としての承認プロセス、そして一般家庭でも手軽に使えるような非侵襲的で安価な脳波測定デバイスの開発とその普及です。まずは専門医療機関での導入が進み、その後、家庭向けサービスへと展開されるでしょう。",
-        "日本国内では、高齢化社会の課題に対応するため、理化学研究所や国立長寿医療研究センターなどが認知症の早期診断や予防に関する研究を活発に進めています。また、睡眠トラッカーやスマートウォッチのようなウェアラブルデバイスを開発する企業（例えばパナソニックやオムロンなど）が、将来的にはこの種の脳波モニタリング機能を統合する可能性も考えられます。教育分野では直接的な類似はありませんが、生涯学習を支援するベネッセ教育総合研究所のような機関が、脳科学の知見を学習プログラムに応用する動きと間接的に重なるかもしれません。"
-      ]
-    },
-    "structured": {
-      "tagline": {
-        "en": "AI analyzes sleep EEG to find early signs of brain aging.",
-        "ja": "AIが睡眠脳波から脳の老化を早期発見。"
-      },
-      "whoForWhat": {
-        "en": "For Tokyo families concerned about long-term cognitive health and the potential of AI in early disease detection for family members of all ages.",
-        "ja": "長期的な認知機能の健康に関心があり、AIによる早期疾病検出の可能性に注目する東京のご家庭へ。"
-      },
-      "vsJapanContext": {
-        "en": "This research aligns with Japan's strong focus on healthy longevity and advanced medical technology, complementing efforts by institutions like RIKEN in brain science and companies developing health monitoring devices.",
-        "ja": "日本の長寿社会と先進医療技術への注力と一致し、理化学研究所の脳科学研究や健康モニタリング機器開発企業（例：パナソニック）の取り組みを補完するものです。"
-      },
-      "tokyoNote": {
-        "en": "While direct application in education is distant, this highlights the long-term importance of brain health from childhood. Tokyo families might see this technology integrated into health checks or home monitoring devices in the future, influencing discussions on lifestyle and cognitive well-being across generations.",
-        "ja": "教育への直接的な応用はまだ先ですが、幼少期からの脳の健康維持の重要性を再認識させます。東京のご家庭では、将来的にこの技術が健康診断や家庭用モニタリングデバイスに組み込まれ、世代を超えたライフスタイルや認知機能の健康に関する議論に影響を与える可能性があります。"
-      }
-    },
-    "source": {
-      "name": "ScienceDaily — Child Development",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260729051540.htm"
-    },
-    "sourceGuid": "https://www.sciencedaily.com/releases/2026/07/260729051540.htm",
     "status": "published"
   }
 ]
