@@ -1,5 +1,111 @@
 [
   {
+    "slug": "ai-tutors-boost-active-learning-in-programming-through-self-explanation-feedback",
+    "category": "ai-edu",
+    "issue": "Vol. 04",
+    "publishedAt": "2026-09-18T15:55:01.000Z",
+    "readingMinutes": 6,
+    "feature": true,
+    "cover": {
+      "src": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#D0E4D3"
+    },
+    "title": {
+      "en": "AI Tutors Boost Active Learning in Programming Through Self-Explanation Feedback",
+      "ja": "AIチューターがプログラミング学習を変革：自己説明への即時フィードバックで能動的学習を促進"
+    },
+    "dek": {
+      "en": "New research shows large language models can effectively assess student explanations, leading to deeper understanding and persistence in coding education.",
+      "ja": "最新研究が示すのは、LLMが学生の自己説明を正確に評価し、コーディング学習における理解度と粘り強さを向上させる可能性です。"
+    },
+    "author": {
+      "en": "WORLD STUDY TOKYO Editors",
+      "ja": "WORLD STUDY TOKYO 編集部"
+    },
+    "location": {
+      "en": "Tokyo, September 18, 2026",
+      "ja": "東京、2026年9月18日"
+    },
+    "tags": [
+      {
+        "en": "AI in Education",
+        "ja": "教育AI"
+      },
+      {
+        "en": "Programming Education",
+        "ja": "プログラミング教育"
+      },
+      {
+        "en": "Self-Explanation",
+        "ja": "自己説明"
+      },
+      {
+        "en": "Personalized Learning",
+        "ja": "個別最適化学習"
+      }
+    ],
+    "body": {
+      "en": [
+        "A recent preprint published on arXiv in September 2026 describes a new AI-powered tutor designed to help students learn introductory programming more effectively. Researchers developed a system called ESSE, which leverages large language models (LLMs) to provide immediate feedback on students' self-explanations of programming examples.",
+        "Learning to code often involves studying \"worked examples\"—step-by-step solutions to problems. However, simply reading these solutions can be a passive activity. The study highlights the power of \"self-explanation\" (articulating one's understanding of a problem and its solution process to oneself), a learning method known to deepen comprehension. Traditionally, providing personalized, timely feedback on these free-form explanations has been difficult to scale.",
+        "ESSE addresses this challenge by integrating an LLM to act as an automated tutor. In an introductory Java course, students using ESSE explained individual lines of code within worked examples. The system then provided immediate feedback on the correctness and completeness of their explanations, encouraging them to refine their understanding.",
+        "The research focused on two key questions. First, could the LLM accurately judge student explanations? By comparing the LLM's assessments against those of both a domain expert and a group of non-expert human raters, the study found the LLM's judgments were sufficiently reliable to power the tutor, despite some systematic differences.",
+        "Second, did the LLM-based tutoring benefit students? The findings were encouraging.",
+        "> their explanations grow more complete and conceptually richer across attempts",
+        "Students who received feedback from ESSE were more likely to persist and revise their explanations rather than giving up. Their explanations became notably more complete and conceptually richer over successive attempts. The researchers concluded that students showed clear evidence of learning, indicating that LLM-powered assessment can indeed foster active study habits in programming.",
+        "This work suggests a significant step towards scalable, personalized learning experiences, particularly in fields like computer science where detailed conceptual understanding is crucial. The ability of AI to provide nuanced, real-time feedback on complex thought processes could reshape how students approach problem-solving and deep learning across various subjects."
+      ],
+      "ja": [
+        "2026年9月付でarXivに公開された最新のプレプリント論文で、AIを活用した新しいチューターシステムが紹介されました。これは、プログラミング初心者がより効果的に学習できるよう設計されたものです。研究者たちは、大規模言語モデル（LLM）の能力を活用し、学生がプログラミングの「模範解答」（worked examples）を自己説明する際に、即座にフィードバックを提供する「ESSE」というシステムを開発しました。",
+        "プログラミング学習では、問題の解決プロセスを段階的に示す「模範解答」を学ぶことがよくあります。しかし、単にこれを読むだけでは受動的な学習になりがちです。本研究では、「自己説明」（self-explanation ── 問題と解答のプロセスを自分自身に説明し、理解を深める能動的な学習法）の重要性が強調されています。この方法は学習効果を高めることが知られていますが、これまで自由記述の自己説明に対し、個別かつタイムリーなフィードバックを大規模に提供することは困難でした。",
+        "ESSEはこの課題に対し、LLMを自動チューターとして活用することで対応しました。Javaの入門コースでESSEを導入したところ、学生は模範解答の各コード行について自分の理解を説明しました。システムは学生の説明の正確性と網羅性に対し、即座にフィードバックを提供し、彼らが理解を深めるよう促しました。",
+        "研究では、主に2つの問いが検証されました。第一に、LLMは学生の自己説明を人間と同程度に正確に評価できるか。専門家と非専門家グループによる人間の評価と比較した結果、LLMの評価はチューターとして機能するのに十分な信頼性があることが示されました。第二に、このLLMベースのチューターは学生の学習に利益をもたらすか。",
+        "結果は非常に有望でした。",
+        "「彼らの説明は、試行を繰り返すうちに、より完全で概念的に豊かなものへと成長していきました」",
+        "ESSEからのフィードバックを受けた学生は、説明を途中で諦めることなく、粘り強く修正を重ねる傾向が見られました。彼らの説明は、試行を繰り返すうちに、より完全で概念的に豊かなものへと成長していきました。研究者たちは、LLMによる評価が、プログラミング学習における能動的な学習習慣を効果的に促進することを示唆しています。",
+        "この研究は、特にコンピューターサイエンスのように詳細な概念理解が不可欠な分野において、スケーラブルで個別化された学習体験への大きな一歩を示唆しています。AIが複雑な思考プロセスに対し、きめ細かくリアルタイムなフィードバックを提供できる能力は、学生が問題解決や深い学習に取り組む方法を根本的に変える可能性を秘めていると言えるでしょう。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "This research highlights how AI can move beyond just providing answers, instead guiding students to actively construct their own understanding. Imagine a dedicated tutor who not only points out where you went wrong in a coding problem but also asks you to explain your thought process for each line, then gives instant, specific feedback on that explanation. This active self-reflection, driven by AI, is the core of what ESSE offers.",
+        "For Tokyo families, this could significantly impact how children learn complex subjects, especially in STEM fields. As coding education becomes more prevalent, from after-school classes to specialized high school tracks, an AI tutor like ESSE could offer personalized support that traditional classroom settings or even most juku cannot easily replicate. It could be particularly valuable for students pursuing International Baccalaureate (IB) or Advanced Placement (AP) computer science, where conceptual depth and independent problem-solving are emphasized.",
+        "We might see such AI-powered self-explanation tools integrated into major online learning platforms or specialized coding academies within the next 3-5 years. The widespread adoption would likely be gated by the development of robust Japanese language models capable of similar nuanced feedback, and the willingness of domestic education providers to integrate such advanced AI into their curriculum, potentially influencing how entrance exams for STEM university programs evaluate problem-solving skills.",
+        "While no direct Japanese counterpart offers this exact level of AI-driven self-explanation feedback for programming, platforms like Atama+ and すららネット already focus on personalized learning paths and adaptive quizzing. The key difference here is the AI's ability to assess and guide the *process of explanation* rather than just the correctness of an answer, a gap that future Japanese edtech could aim to fill to enhance deeper learning."
+      ],
+      "ja": [
+        "この研究は、AIが単に解答を提供するだけでなく、学生が自ら理解を構築するプロセスを導く可能性を示しています。まるで専属の家庭教師が、プログラミング問題の間違いを指摘するだけでなく、各コード行に対する思考プロセスを説明させ、その説明に対して即座に、きめ細やかなフィードバックを与えるようなものです。AIが駆動するこの能動的な自己省察こそが、ESSEが提供する学習体験の中核と言えるでしょう。",
+        "東京のご家庭にとって、これは特にSTEM分野のような複雑な科目の学習方法に大きな影響を与える可能性があります。プログラミング教育が、放課後学習から専門高校のコースまで、ますます普及する中で、ESSEのようなAIチューターは、従来の教室環境や一般的な塾では提供しにくい個別化されたサポートを提供できます。特に、概念的な深さと独立した問題解決能力が重視される国際バカロレア（IB）やAP（Advanced Placement）のコンピューターサイエンスを学ぶ学生にとって、非常に価値のあるツールとなり得ます。",
+        "このようなAIを活用した自己説明型学習ツールは、今後3〜5年以内に、主要なオンライン学習プラットフォームや専門的なプログラミングスクールに統合される可能性があります。普及の鍵となるのは、同様のきめ細やかなフィードバックを日本語で提供できる堅牢なLLMの開発と、国内の教育機関がこのような先進的なAIをカリキュラムに組み込む意欲です。将来的には、STEM系大学の入試における問題解決能力の評価方法にも影響を与えるかもしれません。",
+        "現在、日本国内でプログラミングの自己説明に対するAI駆動のフィードバックを直接提供するサービスはまだありませんが、Atama+やすららネットのようなプラットフォームは、個別最適化された学習パスやアダプティブな問題演習に注力しています。ESSEとの決定的な違いは、単に解答の正誤だけでなく、AIが「説明のプロセス」自体を評価し、導く点にあります。このギャップを、日本の今後のエドテックが埋めることで、より深い学習を促進する可能性を秘めていると言えるでしょう。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "AI gives instant feedback on student explanations in coding.",
+        "ja": "AIがコード説明に即時フィードバック。"
+      },
+      "whoForWhat": {
+        "en": "For a Tokyo family with a middle or high schooler interested in programming or computer science, this news informs how future coding education might offer personalized, deep learning support.",
+        "ja": "プログラミングやコンピューターサイエンスに興味を持つ中高生がいる東京のご家庭にとって、将来のコーディング教育がどのように個別化された深い学びを支援するかを示唆します。"
+      },
+      "vsJapanContext": {
+        "en": "While Japanese platforms like Atama+ offer adaptive learning, this AI tutor's focus on assessing free-text self-explanations represents a more advanced feedback mechanism not yet widely adopted in domestic juku or online learning services.",
+        "ja": "Atama+のようなアダプティブラーニングを提供する日本国内のプラットフォームがある中で、このAIチューターの自由記述の自己説明を評価するアプローチは、国内の塾やオンライン学習サービスではまだ広く普及していない高度なフィードバックメカニズムです。"
+      },
+      "tokyoNote": {
+        "en": "This research suggests a future where AI tutors don't just correct answers but guide thinking processes. For Tokyo families, this could mean more accessible, high-quality personalized learning for coding, potentially influencing preparation for STEM university admissions or international school computer science programs without relying solely on expensive human tutors.",
+        "ja": "この研究は、AIチューターが単に解答を修正するだけでなく、思考プロセスを導く未来を示唆します。東京のご家庭にとって、これは高価な人的チューターに頼ることなく、プログラミングの質の高い個別学習がより身近になる可能性があり、STEM系大学入試やインターナショナルスクールのコンピューターサイエンスプログラムの準備にも影響を与えるかもしれません。"
+      }
+    },
+    "source": {
+      "name": "arXiv cs.CY",
+      "url": "http://arxiv.org/abs/2608.25180v2"
+    },
+    "sourceGuid": "http://arxiv.org/abs/2608.25180v2",
+    "status": "published"
+  },
+  {
     "slug": "the-rising-cost-of-higher-education-a-global-challenge-for-families",
     "category": "admissions",
     "issue": "Vol. 04",
@@ -7085,8 +7191,8 @@
     "readingMinutes": 6,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1551434678-e076c223a692?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#CFE3D2"
+      "src": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#CDE3CF"
     },
     "title": {
       "en": "Beyond 'Helpful': Why AI Tutors Need to Be Truly Pedagogical",
@@ -7807,8 +7913,8 @@
     "readingMinutes": 6,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1561089489-f13d5e730d72?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#D2E4D5"
+      "src": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#CDE3CF"
     },
     "title": {
       "en": "AI-Powered Diagrams Offer Visual Clarity for Computer Science Learning",
@@ -8107,110 +8213,6 @@
       "url": "https://psyche.co/notes-to-self/in-praise-of-the-not-quite-friends-who-make-us-smile"
     },
     "sourceGuid": "urn:id:9019",
-    "status": "published"
-  },
-  {
-    "slug": "scientists-uncover-genetic-link-to-sleeps-impact-on-brain-health",
-    "category": "research",
-    "issue": "Vol. 02",
-    "publishedAt": "2026-07-31T12:20:43.000Z",
-    "readingMinutes": 6,
-    "feature": true,
-    "cover": {
-      "src": "https://www.sciencedaily.com/images/1920/man-sleeping-with-stars.webp",
-      "tone": "#0c0c0c"
-    },
-    "title": {
-      "en": "Scientists Uncover Genetic Link to Sleep's Impact on Brain Health",
-      "ja": "睡眠が脳に与える影響、遺伝子が関与か：研究が示す個別性の重要性"
-    },
-    "dek": {
-      "en": "New research suggests that a specific gene influences how effectively the brain's overnight cleaning system operates, meaning some individuals may be more vulnerable to the cognitive effects of poor sleep.",
-      "ja": "脳の夜間クリーニングシステムに関わる特定の遺伝子が、睡眠不足が脳に与える影響の度合いを左右する可能性があります。これにより、睡眠の質が脳機能に及ぼす影響には個人差があることが示唆されています。"
-    },
-    "author": {
-      "en": "WORLD STUDY TOKYO Editors",
-      "ja": "WORLD STUDY TOKYO 編集部"
-    },
-    "location": {
-      "en": "Tokyo, Japan",
-      "ja": "東京、日本"
-    },
-    "tags": [
-      {
-        "en": "sleep",
-        "ja": "睡眠"
-      },
-      {
-        "en": "brain health",
-        "ja": "脳の健康"
-      },
-      {
-        "en": "genetics",
-        "ja": "遺伝"
-      },
-      {
-        "en": "cognitive function",
-        "ja": "認知機能"
-      }
-    ],
-    "body": {
-      "en": [
-        "Recent findings by scientists suggest a genetic factor that modulates how profoundly sleep quality impacts overall brain health and cognitive function. Published in a recent study, this research highlights a gene that plays a crucial role in the brain's natural \"cleaning\" process that occurs during sleep.",
-        "This discovery helps to explain why some individuals appear more resilient to occasional poor sleep, bouncing back quickly, while others experience more pronounced cognitive fogginess, reduced learning capacity, or even long-term brain changes. The core mechanism involves an underlying biological process where a specific gene influences the efficiency of clearing metabolic waste products from the brain.",
-        "During sleep, the brain actively flushes out waste products that accumulate throughout the day. This vital process, sometimes referred to as the glymphatic system (脳の老廃物除去システム), is essential for maintaining brain health and optimal cognitive function. The study identified a particular gene that, when present in certain variations, can make this cleaning system less efficient.",
-        "For individuals carrying these genetic variations, insufficient or poor-quality sleep could have a significantly more detrimental effect on their brain function. While the original dispatch pointed to implications for Alzheimer's-related changes, the findings broadly underscore the importance of sleep for general cognitive function, learning, and memory at all ages, from childhood development through adulthood.",
-        "> The findings point toward more personalized strategies based on both genetics and sleep habits.",
-        "Understanding these genetic predispositions could lead to more personalized advice on sleep habits, moving beyond a \"one size fits all\" approach. For children, this implies that some may inherently require more consistent, high-quality sleep to maintain optimal learning capacity, emotional regulation, and overall brain development, compared to their peers. This research reinforces that the quality and quantity of sleep are not just about feeling rested, but about fundamental brain maintenance.",
-        "This discovery opens new pathways for future research into personalized sleep interventions and a deeper understanding of individual differences in brain resilience. Further studies will explore how these genetic factors interact with lifestyle and environmental influences to shape brain development and cognitive health throughout the lifespan."
-      ],
-      "ja": [
-        "最近の研究で、睡眠の質が脳全体の健康と認知機能にどれほど深く影響するかを左右する遺伝的要因が示唆されました。この研究は、睡眠中に脳で行われる自然な「クリーニング」プロセスに重要な役割を果たす特定の遺伝子に焦点を当てています。",
-        "この発見は、なぜ一部の人が一時的な睡眠不足から比較的早く回復する一方で、他の人がより顕著な認知機能の低下や学習能力の低下、あるいは長期的な脳の変化を経験するのかを説明する一助となります。その核心にあるメカニズムは、特定の遺伝子が脳から代謝老廃物を除去する効率に影響を与えるという生物学的プロセスです。",
-        "睡眠中、脳は日中に蓄積された老廃物を積極的に排出します。この重要なプロセスは、グリンパティック系（脳の老廃物除去システム）とも呼ばれ、脳の健康と最適な認知機能を維持するために不可欠です。今回の研究では、特定の遺伝子が、ある種の変異を持つ場合に、このクリーニングシステムの効率を低下させる可能性があることが特定されました。",
-        "これらの遺伝的変異を持つ人にとっては、不十分な睡眠や質の悪い睡眠が、脳機能に著しく悪影響を及ぼす可能性があります。元の記事ではアルツハイマー病関連の変化への影響が指摘されていましたが、この発見は、幼少期の脳の発達から成人期に至るまで、あらゆる年齢における一般的な認知機能、学習、記憶にとって睡眠がいかに重要であるかを広く強調しています。",
-        "「遺伝的要因と睡眠習慣に基づいた、よりパーソナルな予防戦略へと道を開くものです」",
-        "このような遺伝的素因を理解することは、「万人向け」ではない、よりパーソナルな睡眠習慣に関するアドバイスへとつながる可能性があります。子どもたちにとっては、一部の子どもたちが、他の子どもたちよりも、最適な学習能力、感情の調整、そして全体的な脳の発達を維持するためにより一貫した質の高い睡眠を必要とする可能性があることを示唆しています。この研究は、睡眠の質と量が単に休息感を得るだけでなく、脳の基本的なメンテナンスにとっていかに重要であるかを再認識させます。",
-        "この発見は、パーソナルな睡眠介入に関する今後の研究や、脳の回復力における個人差のより深い理解への新しい道を開きます。さらなる研究では、これらの遺伝的要因がライフスタイルや環境的影響とどのように相互作用し、生涯にわたる脳の発達と認知健康を形成するかが探求されるでしょう。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "Imagine your child's brain has a dedicated cleaning crew that works every night while they sleep. This research suggests that for some children, due to their unique genetic makeup, this cleaning crew might be a bit slower or less efficient. This means if they don't get enough high-quality sleep, the 'mess' (metabolic waste products) builds up more quickly, potentially affecting how clearly they think, learn, and regulate their emotions the next day.",
-        "For Tokyo families, this insight could subtly shift how we approach children's sleep. Instead of simply aiming for a universal \"8 hours of sleep,\" parents might start observing if their child seems particularly sensitive to sleep deprivation, regardless of how many hours they get. This could influence decisions around demanding juku schedules, late-night study sessions, or screen time before bed, encouraging a re-evaluation of how much sleep can truly be sacrificed for academic pursuits, especially for children who might be genetically predisposed to needing more restorative sleep.",
-        "While this genetic understanding is profound, translating it into widespread public health advice or personalized interventions will take time. We might see growing awareness within 3-5 years, perhaps through health-focused media or specialized clinics offering genetic insights. However, integration into broader educational policy, such as MEXT (文部科学省) guidelines or school curricula, would likely take 5-10 years, requiring larger-scale domestic studies and a consensus among experts.",
-        "In Japan, there's often a cultural tendency to prioritize perseverance and study, sometimes at the expense of sleep, particularly for students preparing for 中学受験 (junior high entrance exams) or 大学受験 (university entrance exams). While institutions like ベネッセ教育総合研究所 (Benesse Educational Research Institute) or 公文教育研究会 (Kumon Educational Japan) offer general advice on healthy study habits, this genetic insight adds a layer of individualization not typically emphasized. Currently, the focus is more on general sleep hygiene; this research suggests a deeper, more personalized approach might be needed, moving beyond generic advice to understanding individual biological needs for optimal brain function."
-      ],
-      "ja": [
-        "お子さまの脳には、寝ている間に働く夜間のお掃除隊がいると想像してみてください。今回の研究は、お子さまの遺伝的特徴によっては、このお掃除隊の働きが元々少し遅かったり、効率が悪かったりする可能性があることを示唆しています。つまり、質の良い十分な睡眠が取れないと、「汚れ」（代謝老廃物）がより早く蓄積し、翌日の思考の明晰さ、学習能力、感情の調整などに影響を与える可能性があるということです。",
-        "東京で子育てをするご家庭にとって、この知見は子どもの睡眠への向き合い方を少し変えるかもしれません。単に「8時間睡眠」という普遍的な目標を追うだけでなく、親御さんはお子さまが睡眠不足に特に敏感かどうかを観察し始めるかもしれません。これは、塾の厳しいスケジュール、深夜の学習、就寝前のスクリーンタイムなどに関する決定に影響を与え、特に遺伝的に回復力の高い睡眠をより必要とする可能性のあるお子さまにとって、学業のためにどこまで睡眠を犠牲にできるかという再評価を促すでしょう。",
-        "この遺伝的理解は非常に深いものですが、それが広く公衆衛生のアドバイスやパーソナルな介入にまで広がるには時間がかかります。健康に特化したメディアや、遺伝的知見を提供する専門クリニックを通じて、3〜5年以内には認識が高まるかもしれません。しかし、文部科学省のガイドラインや学校のカリキュラムといったより広範な教育政策に統合されるには、国内での大規模な研究と専門家間の合意が必要となり、5〜10年かかる可能性が高いでしょう。",
-        "日本では、特に中学受験や大学受験を控えた生徒の間で、時に睡眠を犠牲にしてでも忍耐力と学習を優先する文化的傾向があります。ベネッセ教育総合研究所や公文教育研究会のような機関は、健康的な学習習慣に関する一般的なアドバイスを提供していますが、今回の遺伝的知見は、これまであまり強調されてこなかった個人の特性という層を追加します。現在は一般的な睡眠衛生に焦点が当てられていますが、この研究は、最適な脳機能のために、一般的なアドバイスを超えた、より深くパーソナルなアプローチが必要である可能性を示唆しています。"
-      ]
-    },
-    "structured": {
-      "tagline": {
-        "en": "Genetics shape how sleep cleanses the brain.",
-        "ja": "睡眠の脳クリーニング、遺伝子が影響"
-      },
-      "whoForWhat": {
-        "en": "For Tokyo parents balancing academic demands with their child's well-being, this research offers insight into why some children may need more consistent, quality sleep to thrive academically and emotionally.",
-        "ja": "学業と子どもの健康のバランスを考える東京の保護者にとって、なぜ一部の子どもが学業的・感情的に成長するために、より一貫した質の高い睡眠を必要とするのかについての洞察を提供します。"
-      },
-      "vsJapanContext": {
-        "en": "This finding contrasts with the common Japanese cultural tendency to prioritize study over sleep, suggesting that a \"one size fits all\" approach to sleep may not be optimal, particularly when considering individual genetic differences.",
-        "ja": "睡眠よりも学習を優先しがちな日本の文化的傾向とは対照的に、この研究は、特に個人の遺伝的差異を考慮した場合、睡眠に関する「万人向け」のアプローチが必ずしも最適ではない可能性を示唆しています。"
-      },
-      "tokyoNote": {
-        "en": "This research highlights that sleep needs are deeply individual. While Tokyo's intense academic environment often pushes children to sacrifice sleep, understanding these genetic differences could prompt parents to advocate for more personalized sleep routines, recognizing that for some children, quality sleep is non-negotiable for cognitive performance.",
-        "ja": "睡眠の必要性は深く個人差があることを示すこの研究は、東京の厳しい学業環境が子どもたちに睡眠を犠牲にさせる傾向がある中で、親御さんがよりパーソナルな睡眠習慣を提唱するきっかけとなるかもしれません。一部の子どもたちにとって、質の高い睡眠は認知能力のために不可欠だと理解することが重要です。"
-      }
-    },
-    "source": {
-      "name": "ScienceDaily — Child Development",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260729051529.htm"
-    },
-    "sourceGuid": "https://www.sciencedaily.com/releases/2026/07/260729051529.htm",
     "status": "published"
   }
 ]
