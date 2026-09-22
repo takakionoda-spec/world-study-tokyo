@@ -1,5 +1,315 @@
 [
   {
+    "slug": "caffeines-hidden-toll-on-restorative-sleep",
+    "category": "research",
+    "issue": "Vol. 04",
+    "publishedAt": "2026-09-22T13:42:49.000Z",
+    "readingMinutes": 5,
+    "feature": true,
+    "cover": {
+      "src": "https://www.sciencedaily.com/images/1920/sleep-man-brain-spine-nervous-system.webp",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "Caffeine's Hidden Toll on Restorative Sleep",
+      "ja": "眠りを妨げないカフェインも、深い睡眠の質を低下させる可能性"
+    },
+    "dek": {
+      "en": "New research indicates that coffee can impair deep sleep quality, even when it doesn't overtly keep you awake, impacting cognitive recovery for some individuals.",
+      "ja": "新しい研究によると、コーヒーは覚醒を直接妨げなくても、深い睡眠の質を損なう可能性があり、一部の人では認知回復に影響を与えます。"
+    },
+    "author": {
+      "en": "WORLD STUDY TOKYO Editors",
+      "ja": "WORLD STUDY TOKYO 編集部"
+    },
+    "location": {
+      "en": "September 22, 2026",
+      "ja": "2026年9月22日"
+    },
+    "tags": [
+      {
+        "en": "Caffeine",
+        "ja": "カフェイン"
+      },
+      {
+        "en": "Sleep",
+        "ja": "睡眠"
+      },
+      {
+        "en": "Deep Sleep",
+        "ja": "深い睡眠"
+      },
+      {
+        "en": "Cognitive Function",
+        "ja": "認知機能"
+      }
+    ],
+    "body": {
+      "en": [
+        "A recent study published in ScienceDaily on September 22, 2026, reveals that caffeine can significantly disrupt the quality of sleep, even if individuals report falling asleep normally and staying in bed for a full eight hours. The research indicates that the impact is not just about wakefulness, but about the deeper, restorative stages of sleep.",
+        "Using electroencephalogram (EEG) recordings, researchers observed a reduction in slow brain waves, which are crucial for deep sleep. This deep sleep phase is essential for cognitive functions such as memory consolidation, emotional regulation, and physical recovery. When this phase is compromised, individuals may wake up feeling less refreshed, despite having spent adequate time in bed.",
+        "The key finding is that caffeine's influence extends beyond its immediate stimulating effect. It appears to alter the brain's natural sleep architecture, making sleep less efficient.",
+        "> \"Caffeine may make sleep less restorative even when you fall asleep normally and stay in bed for eight hours, with EEG recordings revealing fewer of the slow brain waves associated with deep sleep.\"",
+        "This suggests that the body metabolizes caffeine in ways that interfere with the brain's ability to enter and maintain deep sleep cycles, even hours after consumption.",
+        "The study also emphasizes significant individual variability in caffeine sensitivity. For some people, even caffeine consumed earlier in the day, perhaps with a morning coffee or an afternoon tea, could still affect nighttime recovery. This means that a \"normal\" caffeine habit for one person might be detrimental to another's sleep quality without them realizing it.",
+        "For parents and students, understanding this subtle effect is important. Adequate, restorative sleep is a cornerstone of effective learning, problem-solving, and emotional resilience. If sleep quality is subtly degraded, it could impact academic performance, focus during study, and even daily mood, creating a cycle of fatigue that is not easily attributed to caffeine.",
+        "While the study doesn't suggest eliminating caffeine entirely, it prompts a re-evaluation of consumption habits. Further research could explore the precise thresholds of caffeine intake and timing that impact different individuals, and whether specific genetic factors play a role in sensitivity. For now, it underscores the importance of mindful caffeine use, especially for those experiencing persistent fatigue despite sufficient time in bed."
+      ],
+      "ja": [
+        "ScienceDailyが2026年9月22日に発表した最新の研究によると、カフェインは、たとえ摂取者が通常通り眠りにつき、8時間ベッドで過ごしたと報告しても、睡眠の質を著しく低下させる可能性があることが明らかになりました。この研究は、カフェインの影響が単なる覚醒状態の維持にとどまらず、より深く、回復に重要な睡眠段階に及ぶことを示唆しています。",
+        "研究者たちは、脳波計（EEG）を用いた測定により、深い睡眠に不可欠な徐波（slow brain waves）の減少を観察しました。深い睡眠は、記憶の定着、感情の調整、身体の回復といった重要な認知機能にとって極めて重要です。この段階が損なわれると、十分な睡眠時間を確保したにもかかわらず、目覚めたときにすっきりしない感覚が残ることがあります。",
+        "この研究の主要な発見は、カフェインの影響がその即時的な覚醒作用を超えて広がるという点です。カフェインは脳の自然な睡眠構造を変化させ、睡眠の効率を低下させるようです。",
+        "「カフェインは、通常通り眠りにつき、8時間ベッドで過ごしても、睡眠の回復力を低下させる可能性があり、脳波測定では深い睡眠に関連する徐波が減少していることが明らかになりました。」",
+        "これは、カフェインが摂取から数時間後であっても、脳が深い睡眠サイクルに入り、それを維持する能力を妨害する形で代謝されることを示唆しています。",
+        "研究ではまた、カフェインに対する感受性に個人差が大きいことも強調されています。人によっては、朝のコーヒーや午後の紅茶など、日中の早い時間に摂取したカフェインでさえ、夜間の回復に影響を及ぼす可能性があります。これは、ある人にとっては「普通の」カフェイン習慣が、自覚がないまま別の人の睡眠の質を損ねているかもしれないことを意味します。",
+        "保護者や学生にとって、この微妙な影響を理解することは重要です。十分な回復的な睡眠は、効果的な学習、問題解決能力、感情的な回復力の基盤となります。睡眠の質が目に見えない形で低下している場合、学業成績、学習中の集中力、さらには日々の気分にまで影響を及ぼし、カフェインとは結びつけにくい疲労のサイクルを生み出す可能性があります。",
+        "この研究は、カフェイン摂取を完全にやめることを推奨するものではありませんが、その摂取習慣を見直すきっかけを与えます。今後の研究では、カフェイン摂取の正確な閾値やタイミングが個人に与える影響、特定の遺伝的要因が感受性に果たす役割などがさらに探求されるでしょう。現時点では、十分な睡眠時間を取っているにもかかわらず疲労が続く場合、カフェイン摂取に意識を向けることの重要性を強調しています。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "Many Tokyo parents rely on coffee or energy drinks to power through busy days. This research suggests that even if you can fall asleep easily after your last cup, the caffeine might still be quietly sabotaging the quality of your deep sleep. Imagine your brain trying to defragment its hard drive overnight; caffeine makes that process less efficient, leaving you feeling tired even after a full night in bed.",
+        "This insight could influence how families manage their evening routines, particularly for parents supporting children through intense study periods like 中学受験 (junior high entrance exams) or 高校受験 (high school entrance exams). If parents are subtly sleep-deprived, their patience, focus, and ability to support their children's learning could be affected. It might also shift advice given to high school students preparing for 大学受験 (university entrance exams) regarding their afternoon study drinks.",
+        "This awareness is likely to spread within 1-2 years, primarily through health and wellness media, and potentially influence parental advice blogs and some private tutoring centers (塾) that offer holistic support. Broader behavioral shifts might take longer, perhaps 3-5 years, as people experiment with personal caffeine cut-off times.",
+        "While no specific Japanese institution directly addresses this nuance in caffeine's effect on sleep quality, the concept of optimizing daily routines for peak performance is already deeply embedded in programs like Z会 (Z-kai) or ベネッセ進研ゼミ (Benesse Shinken Seminar), which often provide study habit guidance. This research offers a new, science-backed layer to that existing emphasis on holistic well-being."
+      ],
+      "ja": [
+        "多くの東京の保護者の方々は、忙しい日々を乗り切るためにコーヒーやエナジードリンクに頼ることがあるでしょう。この研究は、たとえ最後のカフェイン摂取後、問題なく眠りにつけたとしても、実はそのカフェインが、眠りの「質」の中でも特に重要な深い睡眠を静かに妨げている可能性を示唆しています。これは、まるで寝ている間に脳が日中の情報を整理する作業（デフラグ）をしているとして、カフェインがその作業効率を落とし、結果的に十分寝たはずなのに疲れが残る状態を生み出しているようなものです。",
+        "この知見は、中学受験や高校受験といった集中を要する時期に子どもを支える保護者の夜の過ごし方に影響を与えるかもしれません。保護者自身が微妙な睡眠不足に陥っていると、子どもの学習をサポートする際の忍耐力や集中力が低下する可能性があります。また、大学受験を控えた高校生が午後にとる勉強中の飲み物についても、新たな視点からアドバイスがされるようになるかもしれません。",
+        "このような知見は、健康やウェルネス関連のメディアを通じて、1〜2年以内に広く知られるようになるでしょう。また、一部の学習塾や個別指導塾が、学力だけでなく生活習慣全体をサポートする文脈で、この情報を取り入れる可能性もあります。より広範な行動変容、例えば個人のカフェイン摂取の最終時間を意識するような変化は、3〜5年かけて徐々に浸透していくと考えられます。",
+        "カフェインの睡眠の質への微妙な影響について直接的に取り組む日本の機関は現状では限定的ですが、Z会やベネッセ進研ゼミのように、学習習慣や生活リズムの最適化を重視するプログラムは既に多く存在します。この研究結果は、既存の学習支援プログラムが「生活習慣の質」を語る際に、科学的根拠に基づいた新たな視点を提供し、より具体的なアドバイスへと繋がる可能性を秘めていると言えるでしょう。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "Coffee may reduce deep sleep without keeping you awake.",
+        "ja": "眠れるカフェインも、深い睡眠の質を落とす。"
+      },
+      "whoForWhat": {
+        "en": "For Tokyo parents managing demanding schedules and seeking optimal cognitive function, this research offers insights into how even moderate caffeine intake might subtly affect sleep quality and daily focus.",
+        "ja": "多忙なスケジュールをこなし、最適な認知機能を求める東京の保護者にとって、この研究は適度なカフェイン摂取が睡眠の質や日中の集中力に微妙に影響を与えうる洞察を提供します。"
+      },
+      "vsJapanContext": {
+        "en": "While Japan's work culture often normalizes late nights and reliance on stimulants, this finding challenges the common assumption that falling asleep easily means caffeine isn't impacting sleep quality.",
+        "ja": "日本の労働文化では深夜まで働き、カフェインに頼ることが一般的ですが、この研究は「すぐに眠れるならカフェインは睡眠に影響しない」という一般的な認識に疑問を投げかけます。"
+      },
+      "tokyoNote": {
+        "en": "This research highlights that perceived sleep is not always actual restorative sleep. For Tokyo families balancing busy lives, understanding caffeine's nuanced effects can inform daily habits that truly support well-being and learning.",
+        "ja": "この研究は、自覚のある睡眠と実際の回復的な睡眠が異なることを示唆しています。多忙な東京のご家庭にとって、カフェインの微妙な影響を理解することは、真にウェルビーイングと学習を支える日々の習慣を見直すきっかけとなるでしょう。"
+      }
+    },
+    "source": {
+      "name": "ScienceDaily — Child Development",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260922005719.htm"
+    },
+    "sourceGuid": "https://www.sciencedaily.com/releases/2026/09/260922005719.htm",
+    "status": "published"
+  },
+  {
+    "slug": "long-covids-shadow-on-learning-brain-scans-point-to-dopamine-link",
+    "category": "research",
+    "issue": "Vol. 04",
+    "publishedAt": "2026-09-22T03:48:58.000Z",
+    "readingMinutes": 5,
+    "feature": true,
+    "cover": {
+      "src": "https://www.sciencedaily.com/images/1920/brain-scan-glitch-disease.webp",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "Long COVID's Shadow on Learning: Brain Scans Point to Dopamine Link",
+      "ja": "学習に影響する「ブレインフォグ」：コロナ後遺症、脳スキャンでドーパミン関連の損傷示唆"
+    },
+    "dek": {
+      "en": "New research suggests persistent fatigue and brain fog in long COVID patients may stem from damage to dopamine-releasing neurons, offering a clearer path toward targeted treatments for cognitive challenges.",
+      "ja": "コロナ後遺症による疲労感や「ブレインフォグ」が、脳内のドーパミン放出ニューロンの損傷に起因する可能性が示されました。認知機能の課題に対する新たな治療法開発への道を開く発見です。"
+    },
+    "author": {
+      "en": "WORLD STUDY TOKYO Editors",
+      "ja": "WORLD STUDY TOKYO 編集部"
+    },
+    "location": {
+      "en": "Tokyo, September 22, 2026",
+      "ja": "東京、2026年9月22日"
+    },
+    "tags": [
+      {
+        "en": "Long COVID",
+        "ja": "コロナ後遺症"
+      },
+      {
+        "en": "Brain Fog",
+        "ja": "ブレインフォグ"
+      },
+      {
+        "en": "Cognitive Function",
+        "ja": "認知機能"
+      },
+      {
+        "en": "Dopamine",
+        "ja": "ドーパミン"
+      }
+    ],
+    "body": {
+      "en": [
+        "Researchers have identified a potential neurological cause for the persistent fatigue, low motivation, and memory difficulties experienced by individuals with long COVID. Published on September 22, 2026, the findings suggest that the condition may involve damage to dopamine-releasing neurons in the brain, providing a clearer understanding of the underlying mechanisms behind these debilitating symptoms.",
+        "Dopamine is a crucial neurotransmitter that plays a key role in motivation, reward, movement, and cognitive functions like memory and attention. When its signaling is disrupted, individuals can experience a wide range of symptoms that directly impact their ability to learn, concentrate, and engage with daily tasks. The study utilized advanced brain imaging techniques to observe these subtle changes in the brains of long COVID patients.",
+        "This discovery helps explain why traditional approaches to managing fatigue or cognitive issues have often been ineffective for long COVID sufferers. If the root cause is indeed damage to specific neuronal pathways, then treatments targeting the brain's dopamine system could offer more effective relief than general symptom management.",
+        "> \"Long COVID may damage dopamine releasing neurons in the brain, potentially explaining persistent fatigue, low motivation, slowed movement, and memory difficulties.\"",
+        "The research points towards the possibility of developing new pharmacological interventions or neurorehabilitation strategies designed to restore dopamine function. Such treatments could significantly improve the quality of life for those struggling with long COVID's cognitive and motivational challenges, helping them regain their academic and professional capabilities.",
+        "While promising, this research is an initial step. Further studies are needed to confirm these findings in larger and more diverse populations, and to develop and test specific dopamine-targeting therapies. Understanding the precise nature and extent of the damage, and how it can be reversed or mitigated, remains a critical area of ongoing investigation. The implications for students and learners, particularly those navigating demanding academic environments, are considerable, as even subtle cognitive impairments can hinder progress."
+      ],
+      "ja": [
+        "コロナ後遺症に悩む人々が経験する慢性的な疲労感、意欲の低下、記憶力の困難について、研究者たちはその神経学的な原因を特定する可能性のある手がかりを見つけました。2026年9月22日に発表されたこの研究は、コロナ後遺症が脳内のドーパミン放出ニューロンに損傷を与える可能性を示唆しており、これらの症状の根底にあるメカニズムをより深く理解する手助けとなります。",
+        "ドーパミンは、モチベーション、報酬、運動、そして記憶や注意などの認知機能において重要な役割を果たす神経伝達物質です。そのシグナル伝達が阻害されると、個人は学習、集中、日常業務への取り組み能力に直接影響を与える様々な症状を経験する可能性があります。この研究では、高度な脳画像技術を用いて、コロナ後遺症患者の脳におけるこれらの微細な変化を観察しました。",
+        "この発見は、なぜコロナ後遺症による疲労や認知機能の課題に対する従来の対処法が効果的でなかったのかを説明する一助となります。もし根本原因が特定の神経経路の損傷にあるとすれば、脳のドーパミンシステムを標的とした治療法が、一般的な対症療法よりも効果的な緩和策となる可能性があります。",
+        "> 「コロナ後遺症は脳内のドーパミン放出ニューロンを損傷し、持続的な疲労、意欲低下、動作緩慢、記憶障害を説明する可能性があります。」",
+        "この研究は、ドーパミン機能を回復させることを目的とした新しい薬理学的介入や神経リハビリテーション戦略の開発の可能性を示唆しています。このような治療法は、コロナ後遺症による認知機能や意欲の課題に苦しむ人々の生活の質を大幅に改善し、彼らが学業や職業上の能力を取り戻す手助けとなるでしょう。",
+        "この発見は有望であるものの、まだ最初の段階です。より大規模で多様な集団での研究を通じて、これらの知見を確認し、具体的なドーパミン標的療法を開発しテストする必要があります。損傷の正確な性質と程度、そしてそれをどのように回復または軽減できるかを理解することは、現在進行中の重要な研究分野です。特に、要求の厳しい学業環境で学ぶ学生や学習者にとって、たとえ軽微な認知機能障害であっても学習の進歩を妨げる可能性があるため、この研究の示唆するところは大きいと言えます。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "This research offers a concrete, biological explanation for why some students might struggle with concentration and motivation after recovering from an illness like COVID-19. Imagine a student who feels like their brain is wading through mud, or who simply can't find the energy to start homework, even if they want to. This isn't just a lack of effort; it could be a physical disruption in how their brain handles motivation and memory.",
+        "For Tokyo families, this finding could eventually lead to more targeted support for students. If therapies emerge that can restore dopamine function, it might change how schools, and even juku, approach students who are struggling with long-term cognitive after-effects of illness. It could also influence how university admissions committees view academic records from students who have experienced such challenges, potentially encouraging more understanding for applicants who show dips in performance due to health.",
+        "While the research is promising, practical applications for families are likely 3 to 5 years away, at a minimum. This timeframe is gated by the need for further clinical trials to develop and validate specific treatments, followed by their approval and widespread availability. Educational institutions would then need to adapt their support systems, which could take additional time.",
+        "In Japan, while there isn't a direct counterpart specifically for long COVID-related dopamine dysfunction, institutions like Benesse Education Research Institute closely monitor global health and learning trends. Some international schools in Tokyo, with their emphasis on student well-being and individualized support, might be quicker to integrate findings like this into their student care plans, compared to more traditional domestic schools which often focus heavily on academic performance metrics alone. However, broad changes in educational policy or juku curriculum would likely require national guidelines from the Ministry of Education, Culture, Sports, Science and Technology (MEXT)."
+      ],
+      "ja": [
+        "この研究は、コロナウイルス感染症のような病気から回復した後も、なぜ一部の学生が集中力やモチベーションの維持に苦しむのかについて、具体的な生物学的説明を提供します。例えば、頭の中に霧がかかったように感じたり、宿題を始めたいのに体が動かないと感じたりする生徒がいたとします。これは単なる努力不足ではなく、脳がモチベーションや記憶を処理する方法に物理的な障害がある可能性を示唆しています。",
+        "東京のご家庭にとって、この発見は将来的に生徒へのより的を絞ったサポートにつながる可能性があります。ドーパミン機能を回復させる治療法が開発されれば、学校や塾が長期的な病気の後遺症による認知機能の課題を抱える生徒にどのように接するかが変わるかもしれません。また、大学入試委員会が、健康上の理由で学業成績に一時的な低下が見られた出願者の評価をどのように行うかにも影響を与え、より理解のある選考につながる可能性も考えられます。",
+        "この研究は有望ですが、家庭での具体的な応用には、少なくとも3年から5年程度の時間が必要でしょう。この期間は、特定の治療法を開発・検証するためのさらなる臨床試験、その後の承認、そして広範な普及にかかる時間によって決まります。教育機関が支援体制を適応させるには、さらに時間がかかる可能性があります。",
+        "日本において、コロナ後遺症に特化したドーパミン機能不全への直接的な対応はまだ確立されていませんが、ベネッセ教育総合研究所のような機関は世界の健康と学習トレンドを注視しています。東京の一部のインターナショナルスクールは、生徒のウェルビーイングと個別サポートを重視する傾向があるため、このような研究結果を生徒ケア計画に迅速に取り入れる可能性があります。しかし、教育政策や大手学習塾のカリキュラムに広範な変更が加わるには、文部科学省からの全国的なガイドラインが必要となるでしょう。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "Long COVID's brain fog linked to dopamine neuron damage.",
+        "ja": "コロナ後遺症のブレインフォグ、ドーパミン損傷の可能性。"
+      },
+      "whoForWhat": {
+        "en": "For a Tokyo family with a high schooler experiencing persistent fatigue or concentration issues after illness, this research offers hope for future treatments that could restore learning stamina and focus.",
+        "ja": "病気の後も疲労感や集中力の問題を抱える高校生を持つ東京のご家庭にとって、学習意欲と集中力を回復させる将来の治療法に希望を与える研究です。"
+      },
+      "vsJapanContext": {
+        "en": "While Japanese schools and juku offer general support for illness, this research highlights a specific neurological pathway that current systems may not explicitly address, potentially leading to more targeted interventions than typically available.",
+        "ja": "日本の学校や塾は病気への一般的なサポートを提供しますが、この研究は既存のシステムでは明示的に対応されていない神経経路を示しており、将来的に現在よりも的を絞った介入につながる可能性があります。"
+      },
+      "tokyoNote": {
+        "en": "This finding is important for Tokyo parents, as it shifts the conversation from 'lack of effort' to a biological cause for post-illness cognitive issues. It underscores the need for a nuanced understanding of student well-being beyond just academic performance, a perspective that some international schools in Tokyo are already integrating.",
+        "ja": "この発見は、病後の認知機能の問題を「努力不足」ではなく生物学的な原因として捉える点で、東京の保護者にとって重要です。学業成績だけでなく、生徒のウェルビーイングを多角的に理解する必要性を示しており、東京の一部のインターナショナルスクールでは既にこの視点を取り入れています。"
+      }
+    },
+    "source": {
+      "name": "ScienceDaily — Educational Psychology",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260920222412.htm"
+    },
+    "sourceGuid": "https://www.sciencedaily.com/releases/2026/09/260920222412.htm",
+    "status": "published"
+  },
+  {
+    "slug": "ai-video-tutors-move-beyond-production-to-true-learning-support",
+    "category": "ai-edu",
+    "issue": "Vol. 04",
+    "publishedAt": "2026-09-21T04:10:48.000Z",
+    "readingMinutes": 5,
+    "feature": true,
+    "cover": {
+      "src": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#CDE3CF"
+    },
+    "title": {
+      "en": "AI Video Tutors Move Beyond Production to True Learning Support",
+      "ja": "生成AIビデオチューター、単なるコンテンツ制作から「学びの支援」へ進化"
+    },
+    "dek": {
+      "en": "New research introduces PIVOT, a framework for generative AI to create educational STEM videos that embed pedagogical principles, offering not just content but also assessment and misconception correction.",
+      "ja": "新たな研究で、教育学の原則を組み込んだ生成AIビデオチューター「PIVOT」が登場。STEM分野の教育動画を制作するだけでなく、学習者の理解度評価や誤解の修正までを支援します。"
+    },
+    "author": {
+      "en": "WORLD STUDY TOKYO Editors",
+      "ja": "WORLD STUDY TOKYO 編集部"
+    },
+    "location": {
+      "en": "TOKYO",
+      "ja": "東京"
+    },
+    "tags": [
+      {
+        "en": "AI in Education",
+        "ja": "教育AI"
+      },
+      {
+        "en": "Personalized Learning",
+        "ja": "個別最適化学習"
+      },
+      {
+        "en": "STEM Education",
+        "ja": "STEM教育"
+      },
+      {
+        "en": "EdTech",
+        "ja": "エドテック"
+      }
+    ],
+    "body": {
+      "en": [
+        "Recent advancements in AI are profoundly changing how educational content is created. New research, published on arXiv in September 2026, introduces a novel generative AI video tutoring framework called PIVOT (Pedagogy-guided Instructional VideO Tutoring). This framework is designed not just to produce visually coherent educational videos but specifically to support learning effectively in STEM (Science, Technology, Engineering, and Mathematics) subjects.",
+        "Historically, AI-generated educational videos have often focused on visual appeal and information delivery. However, many of these lacked explicit pedagogical structure (design principles that guide how students learn), reliable quality control, and mechanisms for assessing learner understanding or addressing misconceptions. PIVOT aims to solve these challenges by drawing inspiration from conventional teaching workflows, ensuring that the AI acts as a true instructional partner.",
+        "The core innovation of PIVOT is its integration of pedagogical principles throughout the entire video generation pipeline. It first uses instructional principles to guide storyboard generation, ensuring the content is structured for optimal learning. Then, it produces \"verified multimodal videos\" through code-centric generation and a pedagogical verification harness, which checks if the video aligns with educational objectives. Finally, these videos are connected with assessment tools and misconception-aware remediation, providing targeted support to learners.",
+        "> \"generative systems should be evaluated and designed not only by what they produce, but also by how they support teaching practices, learner understanding, and corrective feedback.\"",
+        "Experiments and expert evaluations across four STEM domains demonstrated PIVOT's effectiveness. The framework produced educational videos with pedagogically aligned content, clear and engaging presentations, coherent instructional flow, and a high perceived effectiveness for learning. These findings suggest that AI can move beyond being a mere information provider to becoming an effective 'teacher' that actively facilitates understanding.",
+        "This research highlights a \"human-centered\" perspective on educational content generation. It argues that generative AI systems should be evaluated and designed not only by the quality of what they produce but also by how well they support teaching practices, enhance learner understanding, and provide corrective feedback. This approach paves the way for AI to deliver more personalized and impactful learning experiences, fostering deeper engagement and improved outcomes."
+      ],
+      "ja": [
+        "AI技術の最近の進歩は、教育コンテンツの制作方法に大きな変化をもたらしています。2026年9月にarXivで発表された最新の研究では、PIVOT（Pedagogy-guided Instructional VideO Tutoring）と呼ばれる生成AIビデオチューターの新しいフレームワークが紹介されました。これは、単に視覚的に魅力的な教育動画を生成するだけでなく、STEM（科学、技術、工学、数学）分野の学習を効果的に支援することに特化して設計されています。",
+        "これまでの生成AIによる教育動画は、コンテンツの見た目や情報伝達に主眼が置かれがちでした。しかし、その多くには明確な教育学的構造（生徒がどのように学ぶべきかを考慮した設計）や信頼できる品質管理、さらには学習者の理解度を評価したり、誤解を修正したりする仕組みが不足していました。PIVOTは、この課題を解決するため、従来の教師の指導プロセスからヒントを得て開発され、AIが真の指導パートナーとなることを目指しています。",
+        "PIVOTの最大の特徴は、教育学の原則を動画生成の全工程に統合している点です。まず、指導の目的に基づいてストーリーボード（動画の構成案）を生成し、最適な学習のためにコンテンツが構成されるようにします。次に、コード中心の生成と教育学的検証（動画が教育目標に沿っているかを確認するプロセス）を通じて、多角的で検証済みの動画コンテンツを作成します。そして最終的に、これらの動画を理解度評価や、学習者の誤解を特定して修正するための個別指導と結びつけます。",
+        "> 「生成システムは、何を生み出すかだけでなく、教育実践、学習者の理解、そして修正フィードバックをどのように支援するかによって評価・設計されるべきである」",
+        "このフレームワークは、STEM分野の4つの領域で実験と専門家による評価が行われました。その結果、PIVOTによって生成された教育動画は、教育学的に適切で、明確かつ魅力的な表現を持ち、一貫した学習の流れを提供し、学習効果が高いと評価されました。これは、AIが単なる情報提供者ではなく、学習者の理解を積極的に促進する効果的な「教師」としての役割を担い始める可能性を示唆しています。",
+        "この研究は、教育コンテンツ生成における「人間中心」の視点の重要性を強調しています。生成AIシステムは、単に何を生成するかだけでなく、それが実際の指導実践、学習者の理解、そして適切なフィードバックをどのように支援するかという観点から評価・設計されるべきだという考え方です。これにより、AIがよりパーソナライズされ、効果的な学習体験を提供し、深い学習への関与と成果の向上を促進するための道筋が見えてきます。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "For Tokyo families, this research on PIVOT offers a glimpse into how AI could genuinely enhance learning, moving beyond simple content creation. Imagine an AI not just explaining a math problem, but structuring the explanation like a seasoned juku teacher, anticipating common pitfalls, and then checking if your child truly understood it, offering tailored follow-up if not. It's the difference between watching a random YouTube tutorial and having a dedicated, pedagogically informed tutor.",
+        "The plausible future impact for Tokyo families could be significant in several domains. For those navigating 中学受験 (junior high school entrance exams) or 高校受験 (high school entrance exams), pedagogically sound AI tutors could provide highly personalized, effective supplementary learning for STEM subjects at home, potentially reducing reliance on expensive private tutoring. For students in international schools or those aiming for 海外大学 (overseas universities), this could mean access to high-quality, adaptive STEM instruction that complements their curriculum, especially in areas like IB (International Baccalaureate) or AP (Advanced Placement) where deep conceptual understanding is critical.",
+        "We might see this technology begin to influence the Japanese education landscape within 3–5 years. Its widespread adoption is gated by major edtech players like Atama+ or ベネッセ (Benesse) integrating such frameworks into their offerings, or by MEXT (Ministry of Education, Culture, Sports, Science and Technology) recognizing the value of such pedagogically rich AI for the 学習指導要領 (Course of Study) and common assessment reforms. Early adopters among private schools or juku might experiment sooner.",
+        "In Japan, companies like Atama+ and すららネット (Surala Net) are already pioneers in AI-driven personalized learning, adapting content to individual student needs. While they excel at adaptive learning paths and assessment, PIVOT's innovation lies in embedding deep pedagogical principles directly into the *generation* of video content itself. This adds a layer of instructional quality that could elevate existing platforms, making AI tutors not just adaptive, but also inherently better teachers."
+      ],
+      "ja": [
+        "東京で子育てをするご家庭にとって、このPIVOTの研究は、AIが単なるコンテンツ制作を超えて、いかに真に学びを深める支援となりうるかを示唆しています。例えば、AIが単に数学の問題を解説するだけでなく、熟練した塾の先生のように解説の構成を練り、子どもがつまずきやすい点を予測し、理解度を確認して、もし分からなければ個別に合わせた補習まで提供するイメージです。これは、無作為なYouTubeの解説動画を見るのと、教育学に基づいた専門のチューターがいることとの違いに例えられます。",
+        "東京のご家庭への影響は、いくつかの面で大きい可能性があります。中学受験や高校受験を控えるお子さんを持つご家庭では、STEM分野において、教育学的に優れたAIチューターが、高額な個別指導塾への依存を減らしつつ、質の高いパーソナルな補習を提供できるようになるかもしれません。また、インターナショナルスクールに通う生徒や海外大学を目指す生徒にとっては、IB（国際バカロレア）やAP（アドバンスト・プレイスメント）のような深い概念理解が求められるカリキュラムにおいて、既存の学習を補完する適応型STEM指導へのアクセスが広がる可能性があります。",
+        "この技術が日本の教育現場に影響を与え始めるのは、3年から5年以内と見ています。普及の鍵となるのは、Atama+やベネッセのような主要なエドテック企業が、この種のフレームワークを自社サービスに組み込むかどうか、あるいは文部科学省が、学習指導要領や共通テスト改革において、教育学的に豊かなAIの価値を認識し、その活用を推進するかどうかでしょう。一部の私立学校や塾では、より早く導入実験を行う可能性もあります。",
+        "日本国内では、Atama+やすららネットなどが、AIを活用した個別最適化された学習パスを提供し、すでに先駆的な役割を担っています。これらのプラットフォームは適応型学習や評価において優れていますが、PIVOTの革新性は、ビデオコンテンツの「生成」自体に深い教育学的原則を埋め込む点にあります。これにより、既存のプラットフォームの指導品質をさらに高め、AIチューターが単に適応的であるだけでなく、本質的により優れた「教師」となる可能性を秘めていると言えるでしょう。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "AI video tutors embed pedagogy for true learning, not just content.",
+        "ja": "AIビデオチューター、教育学を内包し真の学びを支援。"
+      },
+      "whoForWhat": {
+        "en": "For a Tokyo family seeking effective STEM learning support, this research explores how AI can offer personalized, pedagogically sound video instruction that goes beyond simple content delivery.",
+        "ja": "STEM分野で効果的な学習支援を求める東京のご家庭にとって、AIがいかに単なるコンテンツ提供を超え、個別最適化された教育学に基づく動画指導を提供できるかを示唆する研究です。"
+      },
+      "vsJapanContext": {
+        "en": "This research aligns with the direction of Japanese edtech leaders like Atama+ and Surala Net, who are already pioneers in AI-driven personalized learning, by adding a layer of deep pedagogical structure to AI-generated video content.",
+        "ja": "Atama+やすららネットなど、AIを活用した個別最適化学習の先駆者である国内エドテック企業の方向性と合致し、AI生成動画コンテンツに深い教育学的構造を組み込むことで、その進化の可能性を示しています。"
+      },
+      "tokyoNote": {
+        "en": "While AI tutors are already emerging, the PIVOT framework emphasizes that true educational value comes from embedding pedagogical design, not just advanced AI. Tokyo families should look for AI tools that transparently explain their teaching methodology, not just their content generation capabilities.",
+        "ja": "AIチューターは既に登場していますが、PIVOTは単に高度なAIではなく、教育学に基づいた設計こそが真の教育的価値を生むと強調します。東京のご家庭は、コンテンツ生成能力だけでなく、その指導方法論が明確に説明されているAIツールに注目すべきでしょう。"
+      }
+    },
+    "source": {
+      "name": "arXiv cs.CY",
+      "url": "http://arxiv.org/abs/2609.24083v1"
+    },
+    "sourceGuid": "http://arxiv.org/abs/2609.24083v1",
+    "status": "published"
+  },
+  {
     "slug": "ai-tutors-boost-active-learning-in-programming-through-self-explanation-feedback",
     "category": "ai-edu",
     "issue": "Vol. 04",
@@ -1555,8 +1865,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#D0E4D3"
+      "src": "https://images.unsplash.com/photo-1561089489-f13d5e730d72?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#D2E4D5"
     },
     "title": {
       "en": "Enhancing Programming Education with Safe AI Tutors",
@@ -3095,8 +3405,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1561089489-f13d5e730d72?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#D2E4D5"
+      "src": "https://images.unsplash.com/photo-1573164713619-24c711fe7878?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#C4DDC6"
     },
     "title": {
       "en": "AI Tutor Nudges Students Towards Deeper Learning Through Self-Explanation",
@@ -4218,8 +4528,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517842645767-c639042777db?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#F1D5BC"
+      "src": "https://images.unsplash.com/photo-1551434678-e076c223a692?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#CFE3D2"
     },
     "title": {
       "en": "AI Tutors Evolve: Boosting Engagement and Long-Term Learning Retention",
@@ -4422,8 +4732,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517431105194-aaf95f6f47f0?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#F0D2B7"
+      "src": "https://images.unsplash.com/photo-1453738773917-9c3eff1db985?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#F5DDC3"
     },
     "title": {
       "en": "Khan Academy's Blueprint for Better AI Tutors: A Data-Driven Approach",
@@ -5966,8 +6276,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1573164713619-24c711fe7878?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#C4DDC6"
+      "src": "https://images.unsplash.com/photo-1517431105194-aaf95f6f47f0?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#F0D2B7"
     },
     "title": {
       "en": "AI Language Models Show Hidden Costs for Non-English Languages in Education",
@@ -7191,8 +7501,8 @@
     "readingMinutes": 6,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#CDE3CF"
+      "src": "https://images.unsplash.com/photo-1593720213428-28a5b9e94613?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#C9E0CC"
     },
     "title": {
       "en": "Beyond 'Helpful': Why AI Tutors Need to Be Truly Pedagogical",
@@ -7499,8 +7809,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1453738773917-9c3eff1db985?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#F5DDC3"
+      "src": "https://images.unsplash.com/photo-1517842645767-c639042777db?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#F1D5BC"
     },
     "title": {
       "en": "Beyond the First Lesson: New Benchmark Challenges AI Tutors to Sustain Quality Over Time",
@@ -7903,316 +8213,6 @@
       "url": "https://www.sciencedaily.com/releases/2026/08/260803080902.htm"
     },
     "sourceGuid": "https://www.sciencedaily.com/releases/2026/08/260803080902.htm",
-    "status": "published"
-  },
-  {
-    "slug": "ai-powered-diagrams-offer-visual-clarity-for-computer-science-learning",
-    "category": "ai-edu",
-    "issue": "Vol. 03",
-    "publishedAt": "2026-08-01T19:52:00.000Z",
-    "readingMinutes": 6,
-    "feature": true,
-    "cover": {
-      "src": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#CDE3CF"
-    },
-    "title": {
-      "en": "AI-Powered Diagrams Offer Visual Clarity for Computer Science Learning",
-      "ja": "AIによる図解がコンピュータサイエンス学習に視覚的明瞭さをもたらす"
-    },
-    "dek": {
-      "en": "A new AI tool called BoilerSketch leverages generative AI to create structured diagrams, helping students visualize complex programming concepts and easing the burden on teaching assistants.",
-      "ja": "「BoilerSketch」と名付けられた新しいAIツールが、生成AIを活用して構造化された図解を自動生成。複雑なプログラミング概念の理解を助け、指導者の負担軽減にも貢献します。"
-    },
-    "author": {
-      "en": "WORLD STUDY TOKYO Editors",
-      "ja": "WORLD STUDY TOKYO 編集部"
-    },
-    "location": {
-      "en": "TOKYO",
-      "ja": "東京"
-    },
-    "tags": [
-      {
-        "en": "AI in Education",
-        "ja": "教育AI"
-      },
-      {
-        "en": "Computer Science",
-        "ja": "コンピュータサイエンス"
-      },
-      {
-        "en": "Visual Learning",
-        "ja": "視覚学習"
-      },
-      {
-        "en": "Diagrams",
-        "ja": "図解"
-      }
-    ],
-    "body": {
-      "en": [
-        "A forthcoming preprint, \"BoilerSketch,\" slated for publication in August 2026, introduces an innovative AI-powered system designed to enhance the learning of foundational computer science (CS1/early CS2) concepts. Developed by a team of researchers, this tool aims to address a critical bottleneck in large introductory programming courses: the challenge of providing clear, visual explanations for abstract ideas.",
-        "Many questions students encounter in early computing courses are best clarified through diagrams rather than extensive text. However, most existing AI tutoring tools are text-centric and often struggle to generate accurate, pedagogically sound visual aids. BoilerSketch tackles this by offering a \"diagram-first\" approach, allowing students to better grasp how different parts of a program or system interact.",
-        "The system operates with a dual-pane interface, combining a chat function with a pen-enabled whiteboard. Students can sketch out their understanding or questions, and the generative AI (GenAI), specifically prompted, then produces structured diagrams, such as Mermaid diagrams (a text-based tool for creating flowcharts and sequence diagrams). This method ensures that the visuals are not only accurate but also consistent and useful for learning.",
-        "Crucially, BoilerSketch is designed with academic integrity in mind. It focuses purely on conceptual explanation, deliberately forbidding the generation of executable code or direct debugging assistance. Furthermore, it incorporates a human-in-the-loop workflow, meaning teaching assistants (TAs) remain supervisory figures who can monitor student sessions and intervene if an AI-generated response requires correction, deeper discussion, or escalation to live support.",
-        "An expert evaluation involving 21 instructional staff from a large programming course confirmed the system's potential. Participants used BoilerSketch to answer representative questions and provided feedback through a post-use survey.",
-        "> Two-thirds rated the system at least moderately helpful for conceptual understanding and at least moderately useful for typical support tasks.",
-        "While staff found the strongest value in routine diagram-based explanations, they also noted limitations in diagram depth and its applicability to more advanced topics. The researchers conclude with practical guidance for integrating such supervised, diagram-first GenAI support into early computing education, emphasizing clear scope-and-escalation rules and robust prompt-as-policy guardrails."
-      ],
-      "ja": [
-        "2026年8月に発表予定のプレプリント論文「BoilerSketch」は、コンピュータサイエンス（CS1/CS2、大学初年度レベルのプログラミング基礎科目）の基礎概念学習を強化するために設計された、革新的なAIシステムを紹介しています。ある研究チームによって開発されたこのツールは、大規模な入門プログラミング講座が直面する重要な課題、すなわち抽象的な概念に対する明確な視覚的説明の提供というボトルネックを解消することを目指しています。",
-        "初級のコンピュータサイエンスコースで学生が抱く多くの疑問は、長文のテキストよりも図解によって最もよく明確になります。しかし、既存のAIチューターツールの大半はテキスト中心であり、正確で教育的に有用な視覚補助を生成するのが苦手でした。BoilerSketchは「図解優先」のアプローチを採用することでこの課題に取り組み、学生がプログラムやシステムの各要素がどのように相互作用するかをより深く理解できるようにします。",
-        "このシステムは、チャット機能とペン入力対応のホワイトボードを組み合わせたデュアルペインインターフェースで動作します。学生は自分の理解や疑問をスケッチとして表現でき、これを受けて生成AI（GenAI、テキストや画像などを自動で作り出す人工知能）が、Mermaid図（テキストベースでフローチャートやシーケンス図などを記述できる作図言語）のような構造化された図を生成します。この方法により、視覚情報が正確であるだけでなく、一貫性があり学習に役立つことが保証されます。",
-        "重要なのは、BoilerSketchが学術的誠実さを考慮して設計されている点です。概念的な説明に特化し、実行可能なコードの生成や直接的なデバッグ支援は意図的に禁止されています。さらに、ティーチングアシスタント（TA）が学生のセッションを監視し、AIが生成した回答に修正、より深い議論、あるいはライブでのサポートへのエスカレーションが必要な場合に介入できる「ヒューマン・イン・ザ・ループ（AIの判断に人間の確認や介入を組み込む仕組み）」のワークフローが組み込まれています。",
-        "大規模なプログラミング講座の指導スタッフ21名を対象とした専門家評価では、このシステムの可能性が確認されました。参加者はBoilerSketchを使って代表的な質問に答え、使用後のアンケートを通じてフィードバックを提供しました。",
-        "「指導スタッフの3分の2が、概念理解に少なくとも中程度に役立ち、一般的なサポート業務に少なくとも中程度に有用であると評価しました。」",
-        "スタッフは日常的な図解説明において最も価値を見出しましたが、図の深さやより高度なトピックへの適用には限界があることも指摘しました。研究者たちは、このような監視付きの図解優先型GenAIサポートを初級のコンピュータ教育に統合するための実践的なガイダンスを提示し、明確な適用範囲とエスカレーションルール、そして堅牢な「プロンプトを方針とする」ガードレールの重要性を強調しています。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "This AI tool helps students visualize abstract computer science concepts through diagrams. Think of it like a child learning complex structures by building with blocks, or understanding intricate rules of a board game through visual aids. Having an AI that can instantly generate these tailored diagrams is akin to having a personalized visual tutor at hand, making abstract ideas more concrete and approachable.",
-        "For Tokyo families, this innovation could significantly impact children learning programming, whether in online coding schools, international school curricula like the IB Computer Science program, or in preparation for university STEM admissions both domestically and abroad. By making abstract concepts easier to visualize, it could lower the barrier to entry for complex subjects, potentially reducing frustration and increasing engagement in computational thinking.",
-        "We might see this approach integrated into Japanese educational settings within three to five years. Its adoption would likely be gated by major Japanese edtech platforms (such as Atama+ or すららネット) incorporating similar AI functionalities into their offerings, or by large juku that provide programming education. The pace will also depend on how the Ministry of Education, Culture, Sports, Science and Technology (MEXT) formulates guidelines for AI integration into the curriculum.",
-        "While Japan has platforms like Atama+ that leverage AI for personalized learning, a direct counterpart specifically for AI-generated *structured diagrams* in computer science education is not yet prevalent. However, institutions such as N高等学校 (N High School) or KADOKAWA Dwango, known for their focus on online learning and modern skill acquisition, could be early adopters or developers of such visual AI tools. The clear need for visual aids in abstract subjects suggests this area will see rapid development."
-      ],
-      "ja": [
-        "このAIツールは、コンピュータサイエンスのような抽象的な概念を、図解を通じて視覚的に理解する手助けをします。これは、子どもが複雑なブロック構造を組み立てて学ぶ感覚や、盤面図で将棋の駒の動きを理解するようなものです。AIがこれらのオーダーメイドの図を瞬時に生成してくれるのは、まるでパーソナルな視覚的家庭教師が手元にいるようなもので、抽象的な概念をより具体的で親しみやすいものにしてくれるでしょう。",
-        "東京の家庭にとって、この革新は、オンラインのプログラミング教室、インターナショナルスクールのIBコンピュータサイエンスプログラム、あるいは国内外の大学STEM系学部への受験準備など、子どもたちのプログラミング学習に大きな影響を与える可能性があります。抽象的な概念が視覚的に理解しやすくなることで、複雑な科目の学習ハードルが下がり、挫折感を減らし、計算的思考への関与を高めることが期待されます。",
-        "このアプローチが日本の教育現場に導入されるのは、3年から5年以内と予測されます。その実現は、Atama+やすららネットといった日本の主要なエドテックプラットフォームが同様のAI機能をサービスに組み込むか、またはプログラミング教育を提供する大手塾が採用するかどうかにかかっています。また、文部科学省（文科省）がAIのカリキュラム統合に関するガイドラインをどのように策定するかも、その速度に影響を与えるでしょう。",
-        "日本にはAIを活用した個別最適化学習を提供するAtama+のようなプラットフォームはありますが、コンピュータサイエンス教育に特化して「構造化された図解」をAIが生成する直接的な類似サービスはまだ広く普及していません。しかし、オンライン学習や現代的なスキル習得に力を入れているN高等学校（N高）やKADOKAWA Dwangoのような教育機関は、このような視覚的AIツールの早期導入者または開発者となる可能性があります。抽象的な科目の学習における視覚補助の明確なニーズを考えると、この分野は急速な発展を遂げるでしょう。"
-      ]
-    },
-    "structured": {
-      "tagline": {
-        "en": "AI draws diagrams to explain coding concepts",
-        "ja": "AIがプログラミング概念を図解、学習を視覚的に支援"
-      },
-      "whoForWhat": {
-        "en": "For Tokyo families with middle or high schoolers exploring computer science or preparing for STEM university admissions, this research suggests new ways AI can clarify abstract coding concepts.",
-        "ja": "コンピュータサイエンスを学ぶ中高生を持つ東京の家庭、またはSTEM系大学進学を目指すお子さんにとって、AIが抽象的なプログラミング概念を視覚的に説明する新しい可能性を示唆します。"
-      },
-      "vsJapanContext": {
-        "en": "This approach diverges from traditional Japanese programming education, which often relies on text-heavy explanations, by emphasizing visual understanding crucial for complex algorithms.",
-        "ja": "日本のプログラミング教育がしばしばテキスト中心の説明に偏る中で、このアプローチは複雑なアルゴリズム理解に不可欠な視覚的理解を重視しており、既存の学習方法と一線を画します。"
-      },
-      "tokyoNote": {
-        "en": "While AI tutors are gaining traction in Japan, the focus on diagrammatic explanations for abstract subjects like CS is a key differentiator. Tokyo parents should watch for edtech platforms to integrate such visual AI to support deeper conceptual understanding beyond just coding syntax.",
-        "ja": "日本でもAIチューターの活用が進む中、コンピュータサイエンスのような抽象的な科目における図解説明の重視は特筆すべき点です。東京の保護者の方々は、単なるコードの文法だけでなく、より深い概念理解を支援する視覚的AIが教育プラットフォームに組み込まれる動きに注目すべきでしょう。"
-      }
-    },
-    "source": {
-      "name": "arXiv cs.CY",
-      "url": "http://arxiv.org/abs/2608.00844v1"
-    },
-    "sourceGuid": "http://arxiv.org/abs/2608.00844v1",
-    "status": "published"
-  },
-  {
-    "slug": "consistent-daily-routines-linked-to-better-well-being-and-less-depression",
-    "category": "research",
-    "issue": "Vol. 02",
-    "publishedAt": "2026-07-31T01:37:25.000Z",
-    "readingMinutes": 4,
-    "feature": true,
-    "cover": {
-      "src": "https://www.sciencedaily.com/images/1920/happy-and-sad-balloon-faces-depression.webp",
-      "tone": "#0c0c0c"
-    },
-    "title": {
-      "en": "Consistent Daily Routines Linked to Better Well-being and Less Depression",
-      "ja": "規則正しい生活習慣が心身の健康と抑うつ感の軽減につながる可能性"
-    },
-    "dek": {
-      "en": "New research highlights how consistent timing for waking, eating, socializing, and sleeping strengthens the body's internal clock, offering a simple path to improved mental and physical health.",
-      "ja": "起床、食事、交流、睡眠の時間を一定に保つことが、体の体内時計を強化し、精神的・身体的健康の向上に繋がるという研究が発表されました。"
-    },
-    "author": {
-      "en": "WORLD STUDY TOKYO Editors",
-      "ja": "WORLD STUDY TOKYO 編集部"
-    },
-    "location": {
-      "en": "July 31, 2026",
-      "ja": "2026年7月31日"
-    },
-    "tags": [
-      {
-        "en": "Routines",
-        "ja": "生活習慣"
-      },
-      {
-        "en": "Well-being",
-        "ja": "心身の健康"
-      },
-      {
-        "en": "Circadian Rhythm",
-        "ja": "体内時計"
-      },
-      {
-        "en": "Parenting",
-        "ja": "子育て"
-      }
-    ],
-    "body": {
-      "en": [
-        "Researchers recently identified a strong link between maintaining a consistent daily schedule and improved well-being, including reduced pain and depression. This finding, reported in July 2026, suggests that regular routines for fundamental activities like waking, eating, socializing, and sleeping can significantly impact health, regardless of the perceived quality of sleep.",
-        "The study points to the body’s internal clock (circadian rhythm) as a key factor. By adhering to a predictable routine, individuals help reinforce this natural rhythm, which governs various physiological processes. Disruptions to this rhythm, often termed “social jet lag” (生活リズムの乱れによる身体的負担), can arise from inconsistent schedules and lead to negative health outcomes.",
-        "The findings indicate that consistent timing for these activities was associated with better well-being, even when the quality of sleep itself varied. This suggests that the *regularity* of the schedule might be as important as, or even more important than, the amount or perceived quality of sleep.",
-        "> \"consistent times for waking, eating, socializing, and sleeping were linked to better well-being regardless of sleep quality.\"",
-        "For instance, waking up at the same time each day, eating meals at similar hours, and engaging in social activities predictably can signal to the body when to be alert and when to prepare for rest. This consistency helps to synchronize the body’s various systems, from hormone release to digestion and body temperature regulation.",
-        "While the study particularly noted benefits for older adults with insomnia, the underlying principles are broadly applicable. Establishing predictable routines from childhood can help build a robust internal clock, potentially fostering long-term resilience against mood disorders and physical discomfort. This offers a straightforward, accessible strategy for enhancing overall health.",
-        "Understanding the profound impact of daily rhythms encourages a re-evaluation of modern lifestyles, which often prioritize flexibility over consistency. Future research might explore how different types of routines, or interventions designed to restore rhythm, could be integrated into public health strategies or educational settings to support well-being across all age groups."
-      ],
-      "ja": [
-        "2026年7月に発表された研究で、日々の規則正しいスケジュールが心身の健康、特に痛みや抑うつ感の軽減に深く関連していることが明らかになりました。起床、食事、交流、睡眠といった基本的な生活活動の時間を一定に保つことが、睡眠の質が良いかどうかにかかわらず、幸福度の向上に寄与すると示されています。",
-        "この研究の鍵は、私たちの体内に備わる「体内時計」（サーカディアンリズム）です。毎日同じリズムで生活することで、体内時計が強化され、身体の様々な機能が最適に働くようになります。しかし、週末の寝だめや夜更かしなどで平日と生活リズムが大きくずれると、「社会的時差ぼけ」（社会的な活動によって生じる体内時計の乱れ）と呼ばれる状態になり、健康に悪影響を及ぼす可能性があります。",
-        "研究者たちは、睡眠の質自体が良いかどうかに関わらず、生活リズムの規則性が幸福度と強く結びついていることを見出しました。これは、単に長く寝るだけでなく、毎日同じ時間に寝起きし、食事を摂ることが、心身の安定にとって重要であることを示唆しています。",
-        "> 「起床、食事、交流、睡眠の時間を一定に保つことは、睡眠の質に関わらず幸福度の向上に繋がった」",
-        "例えば、毎日決まった時間に起き、朝食を摂り、日中に活動し、夜には体を休める準備を始める。このような一貫したシグナルが体全体に送られることで、ホルモン分泌や消化機能、体温調節といった生理的なプロセスがスムーズに調整されます。",
-        "この知見は、特に不眠に悩む高齢者で顕著な効果が認められましたが、その根本的な原理はあらゆる年代に応用できるものです。幼少期から規則正しい生活習慣を身につけることは、将来にわたる心身の健康の基盤を築く上で、計り知れない価値があると言えるでしょう。これは、全体的な健康を向上させるための、シンプルで実践しやすい戦略となります。",
-        "現代社会では、柔軟な働き方や多様なライフスタイルが重視される一方で、この研究は規則性の持つ重要性を改めて浮き彫りにします。今後は、教育現場や公衆衛生の分野で、どのようにして効果的に生活リズムを整えるサポートができるか、具体的な実践方法が模索され、あらゆる年代のウェルビーイング向上に貢献することが期待されます。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "Imagine your child’s body having an internal clock, much like a finely tuned watch. This research reminds us that keeping that watch wound and consistent — by waking, eating, and sleeping at roughly the same times each day — is crucial for their overall health. It’s less about getting a perfect eight hours of sleep every night, and more about the steady rhythm of daily life. Think of it like a train schedule: even if one train is slightly delayed, if the overall system runs on a predictable timetable, things generally flow better.",
-        "For Tokyo families, this insight could influence how parents structure after-school activities, particularly around juku (cram school) schedules or club activities. It might lead to a greater emphasis on consistent mealtimes and bedtimes, even on weekends, to avoid the “social jet lag” that can disrupt a child's internal clock. This could also inform choices about international schools that might have different daily structures compared to local schools.",
-        "The impact on family routines could begin almost immediately, as parents become more aware of the benefits of consistent schedules. Wider institutional changes, such as juku or schools adjusting their evening schedules to better support students' circadian rhythms, might take 3-5 years, gated by broader discussions within the education sector about student well-being beyond academic performance.",
-        "While no specific Japanese institution directly champions \"circadian rhythm-based scheduling\" as a core offering, many traditional Japanese parenting practices inherently emphasize routine. Public health initiatives by the Ministry of Health, Labour and Welfare (厚生労働省) often promote regular sleep and meal habits for children. Services like ベネッセ進研ゼミ or Z会, which provide structured study plans, could potentially integrate advice on daily rhythm management more explicitly into their guidance for students and parents."
-      ],
-      "ja": [
-        "お子さまの体には、精密な時計のような「体内時計」が備わっていると想像してみてください。今回の研究は、この時計を毎日同じ時間に動かし続けること、つまり起床、食事、睡眠といった日々の活動をほぼ一定の時刻で行うことが、心身の健康にとって非常に重要だと教えてくれます。これは、毎晩必ず8時間寝る、といった睡眠の「量」だけでなく、日々の生活の「リズム」が安定していることの大切さを示唆しています。例えるなら、毎日決まった時間に運行する電車のように、全体の運行スケジュールが安定していれば、多少の遅延があっても全体としてはスムーズに機能する、という感覚に近いでしょう。",
-        "東京のご家庭にとって、この知見は、塾や習い事、部活動といった放課後のスケジュールを組む際の考え方に影響を与えるかもしれません。週末に大きく睡眠時間がずれる「社会的時差ぼけ」を避けるため、休日も平日と近い時間に起床し、食事を摂るといった工夫がより意識されるようになるでしょう。また、国内外の学校選びにおいて、その学校の生活リズムやカリキュラムが、子どもの体内時計にどのように影響するかという視点が加わる可能性もあります。",
-        "家庭での日々のルーティンへの意識は、この研究を知ればすぐにでも変化が始まる可能性があります。塾や学校が子どもの体内時計を考慮したカリキュラムや時間割を導入するような、より大きな制度的変化には、教育現場全体での生徒のウェルビーイング（幸福）に関する議論が深まることが前提となり、3〜5年程度の時間を要するかもしれません。",
-        "日本の教育機関やサービスで、直接的に「体内時計を重視したスケジュール管理」を前面に打ち出しているところはまだ多くありません。しかし、文部科学省の「早寝早起き朝ごはん」運動のように、規則正しい生活習慣を推奨する取り組みは古くから存在します。また、公文式や学研のような学習塾では、毎日決まった時間に学習する習慣を重視しており、その意味では規則性の大切さを間接的に伝えています。今後は、ベネッセ教育総合研究所などが、この研究成果を日本の家庭生活にどう落とし込むか、具体的な提案をしていくかもしれません。"
-      ]
-    },
-    "structured": {
-      "tagline": {
-        "en": "Regular routines link to less pain and depression.",
-        "ja": "規則正しい生活が心身の健康を支える。"
-      },
-      "whoForWhat": {
-        "en": "For any Tokyo family seeking to build stable daily routines for children, this research highlights how consistent schedules for sleep, meals, and social activities can profoundly impact long-term well-being and emotional health.",
-        "ja": "お子さまの心身の安定を願う東京のご家庭へ。規則正しい睡眠、食事、活動のルーティンが、長期的な幸福感と精神的な健康にどう影響するかを示唆する研究です。"
-      },
-      "vsJapanContext": {
-        "en": "While Japanese culture often values routine, the demands of juku and club activities can lead to \"social jet lag\" for children, making this finding particularly relevant for families navigating intense academic schedules.",
-        "ja": "日本では規則正しい生活が重んじられる一方で、塾や部活動の多忙なスケジュールが子どもたちの「社会的時差ぼけ」を引き起こすことがあります。この研究は、日本の家庭が抱える課題に一石を投じます。"
-      },
-      "tokyoNote": {
-        "en": "This finding underscores that even small, consistent adjustments to daily rhythms can yield significant health benefits. For Tokyo families balancing busy lives, prioritizing a predictable schedule might be a more accessible path to well-being than focusing solely on sleep quantity.",
-        "ja": "多忙な東京のご家庭にとって、この研究は日々の小さなリズムの調整が、睡眠時間以上に健康に大きな影響を与える可能性を示唆します。睡眠の量だけでなく、規則正しい生活習慣を意識することが、心身の安定への現実的な一歩となるでしょう。"
-      }
-    },
-    "source": {
-      "name": "ScienceDaily — Child Development",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260729010705.htm"
-    },
-    "sourceGuid": "https://www.sciencedaily.com/releases/2026/07/260729010705.htm",
-    "status": "published"
-  },
-  {
-    "slug": "beyond-friendship-the-korean-concept-of-jeong-and-its-role-in-childrens-sense-of",
-    "category": "early-childhood",
-    "issue": "Vol. 02",
-    "publishedAt": "2026-07-31T10:00:00.000Z",
-    "readingMinutes": 5,
-    "feature": true,
-    "cover": {
-      "src": "https://images.unsplash.com/photo-1490818387583-1baba5e638af?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#FCDCE0"
-    },
-    "title": {
-      "en": "Beyond Friendship: The Korean Concept of 'Jeong' and Its Role in Children's Sense of Belonging",
-      "ja": "友情を超えた絆：「情（チョン）」が育む子どもの居場所感"
-    },
-    "dek": {
-      "en": "The Korean concept of 'jeong' describes a deep, often unspoken emotional connection forged through shared experiences. Understanding this unique bond can offer new perspectives on how children form attachments and find their place in the world.",
-      "ja": "韓国の「情（チョン）」は、共有された経験を通じて育まれる、深く言葉にならない感情的なつながりを指します。この独特な絆を理解することは、子どもがどのように愛着を形成し、世界の中で自分の居場所を見つけるかについて、新たな視点を与えてくれるでしょう。"
-    },
-    "author": {
-      "en": "WORLD STUDY TOKYO Editors",
-      "ja": "WORLD STUDY TOKYO 編集部"
-    },
-    "location": {
-      "en": "SEOUL, South Korea – July 31, 2026",
-      "ja": "韓国、ソウル – 2026年7月31日"
-    },
-    "tags": [
-      {
-        "en": "Social-Emotional Learning",
-        "ja": "社会情動的学習"
-      },
-      {
-        "en": "Child Development",
-        "ja": "子どもの発達"
-      },
-      {
-        "en": "Community",
-        "ja": "コミュニティ"
-      },
-      {
-        "en": "Parenting Trends",
-        "ja": "子育てトレンド"
-      }
-    ],
-    "body": {
-      "en": [
-        "A recent exploration in Psyche highlighted the profound Korean concept of 'jeong,' an intricate emotional bond that extends beyond conventional notions of friendship or love. This idea, which describes a deep attachment and sense of belonging cultivated through shared time and experiences, even with those who are not intimately close, offers a unique lens through which to view human connection.",
-        "Unlike the explicit declarations often associated with Western relationships, 'jeong' often manifests as an unspoken understanding, a mutual feeling of care and responsibility that develops organically. It's the comfort found in routine interactions, the warmth derived from consistent presence, and the subtle recognition of shared humanity. For children, this concept is particularly resonant as they navigate their early social landscapes, learning to connect with peers, caregivers, and their wider community.",
-        "The article suggests that recognizing 'jeong' can help us appreciate the importance of these 'not-quite-friends' or familiar faces in our daily lives. For a child, this might be the consistent presence of a classmate, a neighborhood shopkeeper, or a regular participant at the local playground. These seemingly peripheral relationships contribute significantly to a child's sense of security and belonging, fostering an environment where they feel seen and connected, even without intense emotional intimacy.",
-        "> \"Jeong is a bond of affection, attachment and belonging that can be shared with anyone, from your closest kin to a stranger on the bus, and it develops over time, often without conscious effort.\"",
-        "This understanding challenges the common focus on intense, exclusive friendships as the sole measure of social success. Instead, it invites us to value the broader tapestry of connections that enrich a child's life. It emphasizes the cumulative effect of small, consistent interactions in building a resilient social fabric, crucial for emotional well-being and a secure self-identity.",
-        "For parents and educators, cultivating an environment that allows for the natural formation of 'jeong' could mean prioritizing stable, long-term group settings, whether in preschools, after-school activities, or community groups. It suggests that a consistent presence of familiar faces and shared routines can be just as vital as explicit social skills training in helping children feel truly at home in their social worlds. This perspective encourages a holistic view of a child's social development, recognizing the power of enduring, subtle bonds."
-      ],
-      "ja": [
-        "Psycheに掲載された最近の考察は、友情や愛情といった従来の概念を超えた、韓国の奥深い感情的つながり「情（チョン）」に光を当てました。この概念は、親密な関係ではない人々との間でも、共有された時間や経験を通じて育まれる深い愛着と帰属意識を指し、人間のつながりを理解するための独特な視点を提供します。",
-        "西洋の関係性でよく見られる明確な意思表示とは異なり、「情」はしばしば言葉にならない理解、つまり自然に育まれる相互の思いやりと責任感として現れます。それは日常的な交流の中に見出す安らぎであり、一貫した存在から得られる温かさであり、共有された人間性を認識する繊細な感覚です。子どもたちにとって、この概念は初期の社会環境を navigated する上で特に響くもので、仲間、養育者、そしてより広いコミュニティとのつながり方を学ぶ過程に深く関わります。",
-        "記事は、「情」を認識することが、私たちの日常生活における「親友とまではいかないけれど大切な人々」や見慣れた顔の重要性を理解するのに役立つと示唆しています。子どもにとって、これはクラスメイト、近所の店主、あるいは地元の公園でいつも見かける人々の継続的な存在かもしれません。これらの表面的に見える関係性が、子どもの安心感と帰属意識に大きく貢献し、たとえ深い感情的な親密さがなくても、自分が見守られ、つながっていると感じる環境を育みます。",
-        "> 「情とは、最も近い親族からバスの見知らぬ人まで、誰とでも共有できる愛情、愛着、帰属意識の絆であり、多くの場合、意識的な努力なしに時間をかけて育まれるものです。」",
-        "この理解は、社会的な成功の唯一の尺度として、集中的で排他的な友情に焦点を当てる一般的な考え方に異議を唱えます。代わりに、子どもの人生を豊かにする広範な人間関係のタペストリーを評価するよう促します。それは、小さな一貫した交流が、感情的な幸福と確固たる自己同一性にとって不可欠な、強固な社会構造を築く上で累積的な効果を持つことを強調します。",
-        "保護者や教育者にとって、「情」が自然に形成される環境を育むことは、保育園、学童保育、地域グループなど、安定した長期的な集団環境を優先することを意味するかもしれません。子どもたちが社会の中で真に居場所を見つけるためには、明確な社会性スキルの訓練と同じくらい、見慣れた顔の継続的な存在と共有されたルーティンが不可欠であると示唆しています。この視点は、子どもの社会性発達を全体的に捉え、持続的で繊細な絆の力を認識するよう促します。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "The concept of 'jeong' offers a refreshing perspective for Tokyo families. In a city where children often navigate diverse social circles — from local hoikuen or yochien to juku and international schools — understanding these unspoken, persistent bonds can be incredibly valuable. It's not just about having a best friend, but about the comfort derived from the familiar faces at the local park, the consistent presence of a teacher, or the shared rhythm of a community activity.",
-        "For Tokyo parents, this might shift the focus from solely cultivating 'strong' friendships to valuing the broader network of connections that support a child's emotional well-being. It encourages thinking about how sustained participation in a local sports club, a neighborhood art class, or even regular visits to the same family restaurant can foster a deep sense of belonging for children, beyond the explicit social interactions.",
-        "This emphasis on 'jeong' is not a new trend to be adopted, but rather an existing, often unacknowledged, element of many Japanese social contexts. It's already at play today in how children develop a sense of 'wa' (harmony and belonging) within their school classes or after-school clubs. The impact for families might be felt within 1-2 years, as parenting discussions increasingly emphasize holistic well-being over purely academic or competitive metrics.",
-        "In Japan, this concept resonates with the implicit understanding of community and belonging fostered in many traditional settings. While not explicitly named 'jeong,' the idea of 'en' (縁 — karmic connection or destiny) or the deep bonds formed within a 'ba' (場 — a shared space or context like a school, juku, or local community) reflects a similar appreciation for sustained, often unspoken, relationships. This contrasts with some modern educational trends that might overemphasize individual achievement, reminding us of the enduring power of collective warmth."
-      ],
-      "ja": [
-        "「情（チョン）」の概念は、東京で子育てをするご家庭に新鮮な視点をもたらします。地元の保育園や幼稚園、塾、インターナショナルスクールなど、多様な社会の中で子どもたちが成長するこの街で、言葉にならない持続的な絆を理解することは非常に価値があります。それは単に「親友がいること」だけでなく、近所の公園で見慣れた顔、先生の一貫した存在、あるいは地域活動の共有されたリズムから得られる安心感についてです。",
-        "東京の保護者にとって、これは「強い友情」を育むことだけに焦点を当てるのではなく、子どもの情緒的な幸福を支えるより広範なつながりのネットワークを大切にする方向へと意識を転換させるかもしれません。地域のスポーツクラブ、近所の絵画教室、あるいは同じファミリーレストランへの定期的な訪問が、明確な社会交流を超えて、子どもたちの深い帰属意識をどのように育むかを考えるきっかけになるでしょう。",
-        "この「情」への重点は、新たに導入すべきトレンドというよりも、日本の多くの社会文脈にすでに存在し、しばしば意識されていない要素です。それは、子どもたちが学校のクラスや放課後のクラブ活動で「和」の感覚（調和と帰属意識）を育む方法として、すでに今日から機能しています。保護者への影響は、学業成績や競争的な指標だけでなく、全体的な幸福を重視する子育ての議論が深まるにつれて、1〜2年以内に感じられるかもしれません。",
-        "日本では、この概念は多くの伝統的な環境で育まれるコミュニティと帰属意識の暗黙の理解と共鳴します。「情」と明示的に名付けられてはいませんが、「縁」という考え方や、「場」（学校、塾、地域コミュニティなどの共有された空間や文脈）の中で形成される深い絆は、持続的でしばしば言葉にならない関係性への同様の評価を反映しています。これは、個人の達成を過度に強調する一部の現代的な教育トレンドとは対照的であり、集団的な温かさの enduring な力を私たちに思い出させます。"
-      ]
-    },
-    "structured": {
-      "tagline": {
-        "en": "Jeong: The power of unspoken bonds in a child's world.",
-        "ja": "子どもの世界を支える「情」という名の、言葉にならない絆。"
-      },
-      "whoForWhat": {
-        "en": "For Tokyo families with young children, this piece offers a new lens to understand how their child forms a sense of belonging in various community settings, from preschool to neighborhood activities, beyond just close friendships.",
-        "ja": "東京で子育てをするご家庭が、未就学児から地域の活動まで、子どもが親しい友人関係だけでなく、多様なコミュニティの中でどのように居場所を形成していくかを理解するための新たな視点を提供します。"
-      },
-      "vsJapanContext": {
-        "en": "This concept aligns with the Japanese value of 'wa' (harmony) and the importance of group belonging in early childhood education, though 'jeong' emphasizes a deeper, often unspoken, emotional attachment cultivated through shared presence rather than explicit group consensus.",
-        "ja": "この概念は、日本の「和」の価値観や幼児教育における集団帰属の重要性と共通しますが、「情」は明確な集団合意よりも、共有された存在を通じて育まれる、より深く、しばしば言葉にならない感情的な愛着を強調します。"
-      },
-      "tokyoNote": {
-        "en": "Understanding 'jeong' helps Tokyo parents appreciate the subtle, persistent connections that support their child's well-being in a fast-paced city. It highlights that the consistent presence of familiar faces in a hoikuen or juku can be as crucial as a child's closest friends, fostering a deep sense of security and belonging.",
-        "ja": "「情」を理解することは、東京の保護者が、目まぐるしい都市生活の中で子どもの幸福を支える、繊細で持続的なつながりの価値を再認識するのに役立ちます。保育園や塾で見慣れた顔の一貫した存在が、子どもの親友と同じくらい重要であり、深い安心感と帰属意識を育むことを示唆しています。"
-      }
-    },
-    "source": {
-      "name": "Psyche",
-      "url": "https://psyche.co/notes-to-self/in-praise-of-the-not-quite-friends-who-make-us-smile"
-    },
-    "sourceGuid": "urn:id:9019",
     "status": "published"
   }
 ]
