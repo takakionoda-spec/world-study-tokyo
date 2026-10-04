@@ -1,5 +1,107 @@
 [
   {
+    "slug": "daily-rhythms-and-brain-health-lessons-from-stroke-recovery",
+    "category": "early-childhood",
+    "issue": "Vol. 04",
+    "publishedAt": "2026-09-28T08:35:12.000Z",
+    "readingMinutes": 4,
+    "feature": true,
+    "cover": {
+      "src": "https://www.sciencedaily.com/images/1920/circadian-rhythm-body-clock-sleep-science-close-up.webp",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "Daily Rhythms and Brain Health: Lessons from Stroke Recovery",
+      "ja": "脳の健康と日々のリズム：脳卒中研究から見えてくる学び"
+    },
+    "dek": {
+      "en": "New research in mice suggests that strengthening natural daily rhythms can significantly improve brain recovery after a stroke by enhancing waste removal and reducing inflammation, offering insights into the broader importance of consistent routines for cognitive function.",
+      "ja": "マウス研究で、体の自然な日々のリズムを強化することが脳卒中後の脳の回復を助け、脳の老廃物除去と炎症抑制に効果があることが示されました。これは、認知機能における規則正しい生活リズムの重要性を示唆しています。"
+    },
+    "author": {
+      "en": "WORLD STUDY TOKYO Editors",
+      "ja": "WORLD STUDY TOKYO 編集部"
+    },
+    "location": {
+      "en": "TOKYO (September 28, 2026)",
+      "ja": "東京（2026年9月28日）"
+    },
+    "tags": [
+      {
+        "en": "Brain Health",
+        "ja": "脳の健康"
+      },
+      {
+        "en": "Circadian Rhythms",
+        "ja": "概日リズム"
+      },
+      {
+        "en": "Sleep",
+        "ja": "睡眠"
+      },
+      {
+        "en": "Child Development",
+        "ja": "子どもの発達"
+      }
+    ],
+    "body": {
+      "en": [
+        "Recent findings from a study involving mice, published in late September 2026, indicate that strengthening the body’s natural daily rhythms can significantly aid brain recovery following a stroke. This research highlights the critical role of circadian rhythms (生物が持つ約24時間の周期で変動する生理機能) in maintaining brain health and function.",
+        "The study revealed that by reinforcing these daily rhythms, researchers observed improvements in the brain's waste-clearing system and a reduction in lingering inflammation. These mechanisms are vital for neural repair and overall brain well-being. What makes this finding particularly noteworthy is that the approach proved effective even when treatment began three days after the stroke, suggesting a potential for interventions well beyond the immediate post-stroke period.",
+        "While this research focuses on stroke recovery, its implications extend to understanding the fundamental importance of consistent routines for general brain health, especially during development. A well-regulated circadian rhythm ensures optimal functioning of the brain's glymphatic system (睡眠中に脳内の老廃物を排出するシステム), which is responsible for clearing metabolic byproducts that accumulate throughout the day. Disruptions to this rhythm can impair this essential cleaning process, potentially leading to inflammation and reduced cognitive clarity.",
+        "> \"Strengthening the body’s natural daily rhythms helped mice recover after stroke by improving the brain’s waste-clearing system and reducing lingering inflammation.\"",
+        "For children, consistent sleep schedules and predictable daily routines are crucial for supporting their developing brains. These rhythms contribute to better memory consolidation, improved attention, and enhanced emotional regulation. The mouse study reinforces the biological basis for prioritizing stable daily patterns to foster a healthy, resilient brain.",
+        "Looking ahead, these findings could pave the way for new circadian-based therapies for stroke patients. More broadly, they underscore the need for further research into how environmental factors and lifestyle choices impact our biological clocks, and consequently, our cognitive health. While direct human applications for stroke recovery are still years away, the underlying message about the power of daily rhythms for brain function is already clear."
+      ],
+      "ja": [
+        "2026年9月下旬に発表されたマウスを用いた最新の研究で、体の自然な日々のリズムを強化することが脳卒中後の脳の回復を大幅に助ける可能性が示されました。この研究は、生体が持つ約24時間の周期で変動する生理機能である概日リズム（circadian rhythms）が、脳の健康と機能維持にいかに重要であるかを浮き彫りにしています。",
+        "研究によると、日々のリズムを強化することで、脳内の老廃物を除去するシステムが改善され、残存する炎症が軽減されることが観察されました。これらのメカニズムは、神経の修復と脳全体の健康にとって極めて重要です。特に注目すべきは、脳卒中発生から3日後に治療を開始した場合でもこのアプローチが効果を示した点です。これは、発症直後だけでなく、より長期的な回復支援の可能性を示唆しています。",
+        "この研究は脳卒中後の回復に焦点を当てていますが、その示唆は、特に発達段階にある脳にとって、規則正しい生活リズムが全体的な脳の健康にいかに根本的に重要であるかを理解する上で広範に及びます。適切に調整された概日リズムは、日中に蓄積される代謝副産物を除去する役割を担う脳のグリンパティックシステム（glymphatic system ── 睡眠中に脳内の老廃物を排出するシステム）の最適な機能に貢献します。このリズムが乱れると、この重要なクリーンアッププロセスが損なわれ、炎症や認知機能の低下につながる可能性があります。",
+        "> 「体の自然な日々のリズムを強化することは、脳の老廃物除去システムを改善し、残存する炎症を軽減することで、脳卒中後のマウスの回復を助けました。」",
+        "子どもたちにとって、一貫した睡眠スケジュールと予測可能な日々のルーティンは、発達中の脳をサポートするために不可欠です。これらのリズムは、記憶の定着、注意力の向上、感情調整能力の強化に貢献します。今回のマウス研究は、健康で回復力のある脳を育むために、安定した日々のパターンを優先することの生物学的な根拠を裏付けるものです。",
+        "今後、これらの知見は、概日リズムに基づいた新たな脳卒中治療法の開発につながる可能性があります。より広範には、環境要因やライフスタイルが私たちの体内時計、ひいては認知機能の健康にどのように影響するかについて、さらなる研究が必要であることを強調しています。脳卒中回復への直接的なヒトへの応用はまだ数年先ですが、脳機能における日々のリズムの重要性に関する根底にあるメッセージはすでに明確です。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "This research, though on stroke recovery in mice, offers a powerful reminder for Tokyo families about the fundamental importance of consistent daily rhythms for brain health. Think of it like this: just as a house needs regular cleaning to function well, your child's brain needs consistent sleep and wake times to clear out the 'waste' that builds up during the day. When these rhythms are stable, the brain can work more efficiently, leading to better focus and learning.",
+        "For Tokyo families, this finding could reinforce the push for more predictable routines. It might influence how parents think about late-night cramming for juku, the timing of extracurricular activities, or even screen time before bed. Understanding that there's a biological cleaning system at work during sleep could shift priorities, making consistent sleep a non-negotiable part of a child's learning strategy, rather than an optional luxury.",
+        "While direct therapeutic applications for humans are 5–10 years away, gated by extensive clinical trials, the core message about the benefits of consistent rhythms is relevant today. Some international schools in Tokyo already emphasize robust sleep hygiene, but broader adoption, especially within the context of intense entrance exam preparation, might take 3–5 years, influenced by how major juku and MEXT address the issue.",
+        "Japan has long promoted the '早寝早起き朝ごはん' (early to bed, early to rise, eat breakfast) campaign, recognizing the importance of these habits. However, the reality of demanding academic schedules, particularly for 中学受験 and 高校受験, often pushes against natural sleep patterns. This new research provides a strong scientific backing for what campaigns like '早寝早起き朝ごはん' advocate, highlighting the biological cost of disrupting those rhythms even in healthy, developing brains."
+      ],
+      "ja": [
+        "この研究はマウスの脳卒中回復に関するものですが、東京のご家庭にとって、脳の健康における規則正しい日々のリズムの根本的な重要性を力強く再認識させてくれます。例えるなら、家が定期的な掃除で快適に保たれるように、お子さんの脳も、日中に蓄積された「老廃物」をクリアにするために、一貫した睡眠と覚醒のリズムを必要としているのです。このリズムが安定していれば、脳はより効率的に機能し、集中力や学習能力の向上につながります。",
+        "東京の家庭にとって、この発見はより予測可能なルーティンを重視する動きを後押しするかもしれません。深夜までの塾での学習、課外活動の時間配分、あるいは就寝前のスクリーンタイムについて、保護者の考え方に影響を与える可能性もあります。睡眠中に脳内で生物学的なクリーンアップシステムが働いているという理解は、優先順位を変え、一貫した睡眠を、オプションの贅沢ではなく、お子さんの学習戦略における不可欠な要素と捉えるきっかけになるでしょう。",
+        "ヒトへの直接的な治療応用は、大規模な臨床試験を経て5〜10年先になるでしょうが、規則正しいリズムの恩恵に関する核となるメッセージは今日から関連性があります。東京の一部のインターナショナルスクールではすでに質の高い睡眠衛生を重視していますが、特に激しい受験準備の文脈でのより広範な採用は、大手学習塾や文部科学省がこの問題にどう取り組むかによって、3〜5年かかるかもしれません。",
+        "日本では古くから「早寝早起き朝ごはん」キャンペーンが推進されており、これらの習慣の重要性は認識されてきました。しかし、中学受験や高校受験といった厳しい学業スケジュールは、しばしば自然な睡眠パターンと衝突します。今回の新しい研究は、「早寝早起き朝ごはん」が提唱する内容に強力な科学的根拠を与え、健康で発達中の脳であっても、これらのリズムを乱すことの生物学的な代償を浮き彫りにしています。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "Consistent daily rhythms are key for brain health and learning.",
+        "ja": "脳の健康と学習には日々のリズムが重要。"
+      },
+      "whoForWhat": {
+        "en": "For a Tokyo family with children of any age, this story underscores the fundamental importance of consistent sleep schedules and daily routines in supporting their child's developing brain and optimizing learning capacity.",
+        "ja": "あらゆる年齢のお子さんを持つ東京の家庭にとって、この研究は、子どもの発達中の脳をサポートし、学習能力を最適化するために、一貫した睡眠スケジュールと日々のルーティンの根本的な重要性を示唆しています。"
+      },
+      "vsJapanContext": {
+        "en": "While Japan's '早寝早起き朝ごはん' campaign promotes healthy rhythms, this research provides deeper scientific evidence for why those routines are critical, contrasting with the high-pressure juku and club activity schedules that often disrupt natural sleep patterns.",
+        "ja": "日本では「早寝早起き朝ごはん」運動が健康的なリズムを推奨していますが、この研究は、なぜこれらのルーティンが重要なのかについてより深い科学的根拠を提供し、自然な睡眠パターンを乱しがちな高負荷な塾や部活動のスケジュールと対照的な視点を与えます。"
+      },
+      "tokyoNote": {
+        "en": "This research provides a scientific lens on why consistent daily rhythms are non-negotiable for brain health. Tokyo parents should consider how demanding academic and extracurricular schedules might impact their child's biological clock, and prioritize sleep as a fundamental aspect of learning, not just rest.",
+        "ja": "この研究は、一貫した日々のリズムが脳の健康に不可欠である理由を科学的に示しています。東京の保護者は、多忙な学業や課外活動のスケジュールがお子さんの体内時計にどう影響するかを考慮し、睡眠を単なる休息ではなく、学習の根幹として優先すべきです。"
+      }
+    },
+    "source": {
+      "name": "ScienceDaily — Child Development",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260924020407.htm"
+    },
+    "sourceGuid": "https://www.sciencedaily.com/releases/2026/09/260924020407.htm",
+    "status": "published"
+  },
+  {
     "slug": "the-hidden-costs-of-early-learning-when-educators-fund-classrooms",
     "category": "early-childhood",
     "issue": "Vol. 05",
@@ -6382,8 +6484,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#C8DFCB"
+      "src": "https://images.unsplash.com/photo-1551434678-e076c223a692?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#CFE3D2"
     },
     "title": {
       "en": "AI Tutors Evolve: Boosting Engagement and Long-Term Learning Retention",
@@ -6586,8 +6688,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#CCE1CE"
+      "src": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#D0E4D3"
     },
     "title": {
       "en": "Khan Academy's Blueprint for Better AI Tutors: A Data-Driven Approach",
@@ -8120,108 +8222,6 @@
       "url": "https://hechingerreport.org/proof-points-ai-mastery-learning/"
     },
     "sourceGuid": "https://hechingerreport.org/?p=117472",
-    "status": "published"
-  },
-  {
-    "slug": "ai-language-models-show-hidden-costs-for-non-english-languages-in-education",
-    "category": "ai-edu",
-    "issue": "Vol. 03",
-    "publishedAt": "2026-08-10T02:51:04.000Z",
-    "readingMinutes": 5,
-    "feature": true,
-    "cover": {
-      "src": "https://images.unsplash.com/photo-1493612276216-ee3925520721?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#F4DEC6"
-    },
-    "title": {
-      "en": "AI Language Models Show Hidden Costs for Non-English Languages in Education",
-      "ja": "AI言語モデルの隠れたコスト：英語以外の言語で教育格差の懸念"
-    },
-    "dek": {
-      "en": "New research reveals that AI language models process different languages at vastly different costs, potentially creating an equity barrier for educational tools in underserved language communities.",
-      "ja": "最新の研究が、AI言語モデルが言語によって処理コストに大きな差があることを明らかにしました。これは、リソースの少ない言語コミュニティにおける教育ツールの公平性に影響を与える可能性があります。"
-    },
-    "author": {
-      "en": "WORLD STUDY TOKYO Editors",
-      "ja": "WORLD STUDY TOKYO 編集部"
-    },
-    "location": {
-      "en": "August 10, 2026",
-      "ja": "2026年8月10日"
-    },
-    "tags": [
-      {
-        "en": "AI",
-        "ja": "AI"
-      },
-      {
-        "en": "Language Models",
-        "ja": "言語モデル"
-      },
-      {
-        "en": "Education Equity",
-        "ja": "教育の公平性"
-      },
-      {
-        "en": "Multilingual Learning",
-        "ja": "多言語学習"
-      }
-    ],
-    "body": {
-      "en": [
-        "A recent preprint published on arXiv in August 2026 introduces the \"Tokenization Equity Audit (TEA),\" revealing a significant disparity in how large language models (LLMs) process different languages. The research highlights that semantically identical content can require substantially different token counts across languages, leading to varied API costs, latency, and usable context lengths before an AI model is invoked.",
-        "This finding is particularly relevant as LLMs are increasingly deployed as general-purpose educational and technical assistance systems. The core issue lies in \"tokenization\" (トークン化 — the process by which AI breaks down text into smaller units, or tokens, for processing). Some languages, due to their linguistic structure or the way tokenizers are trained, demand a much higher token count than English to convey the same meaning. This directly impacts the operational cost for developers and users, slows down response times, and limits the amount of information an AI can process in a single interaction (context length).",
-        "The TEA benchmark evaluated three widely used tokenizers: GPT-4o's o200k base, Qwen2.5-7B, and Mistral-7B. Researchers tested these on a 120-item Python debugging corpus that was translated from English into Bengali, Hindi, Arabic, Tamil, and Yoruba. The results showed that Bengali, for example, required 1.56 times as many GPT-4o tokens as English for the same content. This effectively reduces a nominal 128,000-token context window (AI's capacity to process information in one go) to an effective 82,000-token English-equivalent capacity for Bengali.",
-        "The disparities were even more pronounced with other models; for Qwen2.5 and Mistral tokenizers, Bengali required up to 4.5 times the English token count. Interestingly, Yoruba, despite using the Latin script similar to English, exhibited the highest GPT-4o tokenization premium at 2.37 times, indicating that script family alone does not explain this inequity.",
-        "> \"tokenization can create measurable economic and functional barriers, highlighting the need to treat tokenization as an equity-relevant infrastructure layer for underserved language communities, particularly where educational systems depend on low-cost or offline-capable AI tools.\"",
-        "These findings underscore that tokenization is not merely a technical detail but a critical \"equity-relevant infrastructure layer.\" For AI tools to truly democratize education globally, especially in regions relying on affordable or offline solutions, these linguistic biases must be addressed. Future AI development needs to focus on more equitable tokenization strategies or pricing models that account for these disparities, ensuring that language does not become a barrier to accessing advanced learning tools."
-      ],
-      "ja": [
-        "2026年8月に arXiv で公開された最新のプレプリント論文が、「Tokenization Equity Audit (TEA)」という新たな評価基準を導入し、大規模言語モデル（LLM）が言語によって異なる処理コストと効率を持つ「トークン化」の問題を指摘しました。この研究は、セマンティック（意味的）に同じ内容であっても、言語によって AI が必要とするトークン数に大きな差があり、それが API の利用コスト、処理速度（レイテンシー）、そして AI が一度に処理できる情報量（コンテキスト長）に影響を与えることを明らかにしています。",
-        "この発見は、LLM が教育支援システムや技術支援ツールとして広く利用されるようになる中で特に重要です。問題の核心は「トークン化」（AI がテキストを処理するために、単語や文字のまとまりといった小さな単位に分割するプロセス）にあります。特定の言語は、その構造やトークナイザー（トークン化を行うプログラム）の学習方法により、英語と同じ情報を伝えるために著しく多くのトークンを必要とします。これは開発者や利用者の API 利用コストに直接影響を与え、応答速度を低下させ、AI が一度に処理できる情報量（コンテキスト長）を制限します。",
-        "TEA ベンチマークは、GPT-4o の o200k ベース、Qwen2.5-7B、Mistral-7B という広く使われている 3 種類のトークナイザーを評価しました。研究チームは、英語の Python デバッグコーパス 120 項目をベンガル語、ヒンディー語、アラビア語、タミル語、ヨルバ語に翻訳し、比較を行いました。その結果、ベンガル語は同じ内容を GPT-4o で処理するために英語の 1.56 倍のトークンを必要とすることが判明しました。これは、名目上 128,000 トークンのコンテキストウィンドウ（AI が一度に処理できる情報の量）が、ベンガル語では実質的に英語換算で 82,000 トークン分の情報しか処理できないことを意味します。",
-        "他のモデルではさらに顕著な差が見られ、Qwen2.5 と Mistral のトークナイザーでは、ベンガル語は英語の最大 4.5 倍のトークン数が必要でした。興味深いことに、英語と同じラテン文字を使用するヨルバ語も、GPT-4o で 2.37 倍という高いトークン化プレミアムを示しました。これは、トークン化の不公平が文字体系の違いだけでは説明できないことを示唆しています。",
-        "「トークン化は、測定可能な経済的および機能的障壁を生み出す可能性があり、特に教育システムが低コストまたはオフライン対応の AI ツールに依存している場合、十分なサービスを受けていない言語コミュニティにとって、トークン化を公平性に関連するインフラ層として扱う必要性を浮き彫りにしています。」",
-        "これらの知見は、トークン化が単なる技術的な詳細ではなく、教育における「公平性に関連する重要なインフラ層」であることを強調しています。AI ツールが世界中で教育を真に民主化するためには、特に手頃な価格やオフラインでの利用が求められる地域において、これらの言語的バイアスに対処する必要があります。今後の AI 開発では、より公平なトークン化戦略や、これらの格差を考慮した料金体系の導入が求められ、言語が高度な学習ツールへのアクセス障壁とならないようにすることが重要です。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "This research highlights that when your child uses an AI tutor or learning app, the underlying technology might be \"charging\" more for certain languages, even if the content is the same. Imagine a book that costs more to print just because of the language it's written in, even though it has the same number of words. This is what's happening with AI and tokenization, an invisible but significant cost factor.",
-        "While English and Japanese are generally well-supported by current AI models, this finding is crucial for Tokyo families considering multilingual education pathways. If a child is learning a less-resourced language (e.g., as a heritage language or for future international opportunities), AI learning tools in that language might be less performant or more expensive, affecting the quality and accessibility of their learning experience. It also raises questions about the long-term cost implications for schools or juku that might integrate AI tools for diverse language learners.",
-        "The impact on mainstream Japanese and English AI education will be minimal in the short term (within 1-2 years), as these languages are high-resource. However, for families specifically seeking AI support in other languages, this disparity is already present. Widespread change would require 3-5 years, gated by major AI model providers (like OpenAI, Google) actively redesigning their tokenizers or pricing structures for equity, or by MEXT considering multilingual equity in future edtech procurement guidelines.",
-        "In Japan, services like Atama+ and すららネット primarily focus on Japanese and English content, where tokenization issues are less pronounced. However, for international schools in Tokyo or families using AI for heritage language maintenance (e.g., Korean, Chinese, or other Southeast Asian languages), the underlying \"cost\" of AI processing in those languages could be a hidden factor. While not a direct Japanese counterpart, the challenge mirrors the broader issue of ensuring equitable access to educational resources for all languages, a goal that the Ministry of Education, Culture, Sports, Science and Technology (MEXT) aims for in its digital transformation initiatives for education."
-      ],
-      "ja": [
-        "この研究は、お子さんが AI チューターや学習アプリを使う際、その裏側の技術が、同じ内容でも特定の言語に対して「より多くのコスト」をかけている可能性を示唆しています。たとえるなら、同じ情報量の本でも、使われている言語によって印刷コストが大きく変わってしまうようなものです。これが AI におけるトークン化と、言語間の見えにくいながらも重要なコストの不均衡です。",
-        "英語と日本語は現状の AI モデルで比較的よくサポートされていますが、この研究結果は、多言語教育を検討している東京のご家庭にとって重要です。もしお子さんが、学習リソースが少ない言語（例えば、継承語として、あるいは将来の国際的な機会のために）を学んでいる場合、その言語の AI 学習ツールは性能が劣ったり、費用が高くなったりする可能性があります。これは学習体験の質やアクセスしやすさに影響を与えかねません。また、多様な言語を学ぶ生徒のために AI ツールを導入する学校や塾にとっても、長期的なコストに影響する可能性があります。",
-        "主流の日本語や英語での AI 教育への短期的な影響（1～2年以内）は小さいでしょう。これらの言語はすでに十分なリソースがあるためです。しかし、他の言語での AI サポートを具体的に求めているご家庭にとっては、この格差はすでに存在します。広範な変化が起きるには、主要な AI モデル提供者（OpenAI、Googleなど）が公平性を考慮したトークナイザーや料金体系を再設計するか、文部科学省が将来の教育テック調達ガイドラインで多言語の公平性を考慮するか、といった大きな動きが必要で、3～5年程度かかるでしょう。",
-        "日本では、Atama+ やすららネットといったサービスは主に日本語と英語のコンテンツに焦点を当てており、トークン化の問題は顕著ではありません。しかし、東京のインターナショナルスクールや、継承語（例えば韓国語、中国語、その他の東南アジア言語）の学習に AI を利用しているご家庭にとっては、それらの言語での AI 処理の「隠れたコスト」が考慮すべき要素となりえます。直接的な日本の対応機関ではありませんが、この課題は、文部科学省が推進する教育のデジタル化において、すべての言語の学習者に対する公平な教育リソースへのアクセスを確保するという広範な目標と関連しています。"
-      ]
-    },
-    "structured": {
-      "tagline": {
-        "en": "AI language costs vary by language.",
-        "ja": "AIの言語処理コスト、言語間で大きな差。"
-      },
-      "whoForWhat": {
-        "en": "For a Tokyo family considering AI tutors or learning apps for children studying multiple languages, especially those beyond English and Japanese, this research highlights potential hidden costs and performance limitations.",
-        "ja": "英語や日本語以外の言語でAIチューターや学習アプリの利用を検討している東京のご家庭が、隠れたコストや性能差を理解する上で役立つ情報です。"
-      },
-      "vsJapanContext": {
-        "en": "While major Japanese edtech platforms like Atama+ and Z-kai primarily support Japanese and English, this global finding on tokenization equity suggests that AI tools for less-resourced languages could be more expensive or less effective, a factor not yet widely addressed in Japan's edtech landscape.",
-        "ja": "Atama+やZ会のような日本の主要エドテックは日本語と英語が中心ですが、このトークン化の公平性に関する国際的な知見は、リソースの少ない言語向けのAIツールがより高価または非効率になる可能性を示しており、日本のエドテック業界ではまだ十分に議論されていません。"
-      },
-      "tokyoNote": {
-        "en": "Tokyo families should be aware that while Japanese and English AI tools are well-optimized, AI for other languages might incur higher operational costs, potentially affecting pricing or feature availability. This is a crucial, often invisible, factor for multilingual households.",
-        "ja": "日本語や英語のAIツールは最適化されていますが、他の言語のAI利用にはより高い運用コストがかかる可能性があり、価格や機能に影響が出ることがあります。多言語家庭にとって、これは見えにくいながらも重要な要素です。"
-      }
-    },
-    "source": {
-      "name": "arXiv cs.CY",
-      "url": "http://arxiv.org/abs/2608.09046v1"
-    },
-    "sourceGuid": "http://arxiv.org/abs/2608.09046v1",
     "status": "published"
   }
 ]
