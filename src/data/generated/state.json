@@ -1,5 +1,6 @@
 {
   "seen": [
+    "tag:theconversation.com,2011:article/293547",
     "https://hechingerreport.org/?p=118109",
     "urn:id:9047",
     "urn:id:9136",
@@ -223,7 +224,7 @@
     "urn:id:8909",
     "tag:theconversation.com,2011:article/284069"
   ],
-  "lastRunAt": "2026-10-09T00:26:49.620Z",
-  "lastSuccessAt": "2026-10-08T00:14:39.901Z",
-  "totalRuns": 124
+  "lastRunAt": "2026-10-10T00:04:21.830Z",
+  "lastSuccessAt": "2026-10-10T00:04:21.830Z",
+  "totalRuns": 125
 }
