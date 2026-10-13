@@ -1,5 +1,107 @@
 [
   {
+    "slug": "daily-routines-build-resilience-a-study-on-stress-and-psychological-flexibility",
+    "category": "research",
+    "issue": "Vol. 05",
+    "publishedAt": "2026-10-13T09:19:27.000Z",
+    "readingMinutes": 4,
+    "feature": true,
+    "cover": {
+      "src": "https://www.sciencedaily.com/images/1920/stress-anxiety-depression-glowing-brain.webp",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "Daily Routines Build Resilience: A Study on Stress and Psychological Flexibility",
+      "ja": "日々の習慣が回復力を育む：ストレスと心理的柔軟性に関する研究"
+    },
+    "dek": {
+      "en": "A Binghamton University study reveals how consistent daily habits—from breakfast to sleep—significantly enhance one's ability to adapt to stress, fostering psychological flexibility.",
+      "ja": "ビンガムトン大学の研究が、朝食や睡眠といった一貫した日々の習慣がストレスへの適応能力を著しく高め、「心理的柔軟性」を育むことを明らかにしました。"
+    },
+    "author": {
+      "en": "WORLD STUDY TOKYO Editors",
+      "ja": "WORLD STUDY TOKYO 編集部"
+    },
+    "location": {
+      "en": "TOKYO, October 2026",
+      "ja": "東京、2026年10月"
+    },
+    "tags": [
+      {
+        "en": "well-being",
+        "ja": "ウェルビーイング"
+      },
+      {
+        "en": "stress management",
+        "ja": "ストレスマネジメント"
+      },
+      {
+        "en": "daily routines",
+        "ja": "生活習慣"
+      },
+      {
+        "en": "child development",
+        "ja": "子どもの発達"
+      }
+    ],
+    "body": {
+      "en": [
+        "A recent study from Binghamton University, published in October 2026, suggests that everyday routines significantly influence an individual's ability to handle stress. Researchers found a strong link between consistent healthy habits and improved psychological flexibility (the capacity to adapt to life's challenges), which helps people navigate stressful situations more effectively.",
+        "The study, involving approximately 400 college students, identified several key lifestyle factors. Regular breakfast, consistent exercise, sufficient sleep, and even fish oil supplementation were associated with a greater ability to manage and adapt to stress. Conversely, poor sleep and unhealthy eating habits correlated with reduced resilience and a diminished capacity to respond constructively to challenges.",
+        "Psychological flexibility is not simply about avoiding stress, but about responding to it in a constructive manner. The findings indicate that foundational daily practices build a buffer against daily pressures. These habits create a stable physiological and mental environment, allowing individuals to approach problems with an open mind rather than being overwhelmed by difficulties.",
+        "This research underscores the importance of basic self-care, which is often overlooked in the context of demanding academic or personal lives. It suggests that equipping students with tools to manage stress might begin not with complex psychological interventions, but with reinforcing fundamental routines like starting the day with a nourishing meal or ensuring adequate rest each night.",
+        "> \"Your daily routine could have a bigger impact on your ability to handle stress than you realize.\"",
+        "The study highlights that fostering resilience is a continuous process, built through small, consistent choices rather than grand, occasional efforts. While this research focused on college students, the principles of routine and well-being are fundamental at all ages. Future studies could explore how these habits are best cultivated in younger children and how early interventions might build lifelong psychological flexibility, especially in demanding academic environments."
+      ],
+      "ja": [
+        "2026年10月に発表されたビンガムトン大学の研究は、日々の生活習慣が個人のストレス対処能力に大きく影響するという知見を示しました。研究者たちは、健康的な習慣を継続することが「心理的柔軟性」（しなやかに状況に適応し、困難な状況下でも前向きな行動を選択する能力）を高め、ストレスの多い状況に効果的に対処するのに役立つことを発見しました。",
+        "約400人の大学生を対象としたこの研究では、いくつかの重要なライフスタイル要因が特定されました。具体的には、毎日の朝食、定期的な運動、十分な睡眠、さらには魚油の摂取が、ストレスを管理し適応する能力の向上と関連していました。その一方で、睡眠不足や不健康な食習慣は、回復力の低下や課題に建設的に対応する能力の減退と結びついていたと報告されています。",
+        "心理的柔軟性とは、単にストレスを避けることではなく、ストレスに対して建設的な方法で対応する能力を指します。今回の研究結果は、基本的な日々の実践が、日常のプレッシャーに対する緩衝材となることを示唆しています。これらの習慣は、生理学的および精神的に安定した環境を作り出し、個人が困難に圧倒されることなく、開かれた心で問題に取り組むことを可能にします。",
+        "この研究は、学業や個人的な生活が多忙な中で見過ごされがちな、基本的なセルフケアの重要性を強調しています。学生がストレスを管理するためのツールを身につけることは、複雑な心理的介入からではなく、栄養のある朝食で一日を始めることや、毎晩十分な休息を確保するといった基本的なルーティンを強化することから始まる可能性があることを示唆しています。",
+        "「あなたの毎日のルーティンは、あなたが思っている以上にストレスへの対処能力に大きな影響を与える可能性があります。」",
+        "この研究は、回復力を育むことが、大々的な一時的な努力ではなく、小さな一貫した選択を通じて築かれる継続的なプロセスであることを示唆しています。この研究は大学生に焦点を当てていますが、ルーティンとウェルビーイングの原則はあらゆる年齢層にとって基礎的なものです。将来の研究では、これらの習慣が幼い子どもたちにどのように最も効果的に育まれるか、また早期の介入が、特に要求の多い学業環境において、生涯にわたる心理的柔軟性をどのように構築できるかを探求するかもしれません。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "This study essentially tells us that how we start and end our days, and what we put into our bodies, directly affects our ability to stay calm and adapt when things get tough. Think of it like a child learning to ride a bike: consistent small efforts—balancing, pedaling, falling, and getting back up—build confidence and skill far more effectively than one intense, infrequent lesson. Similarly, daily habits like a regular breakfast or enough sleep aren't just about physical health; they're building blocks for mental resilience, helping children bend without breaking under pressure.",
+        "For Tokyo families, this could subtly shift how we view success and preparation. Instead of solely focusing on academic achievement or exam scores, there might be a growing recognition of the holistic foundation that supports learning. We might see families placing more emphasis on structured family mealtimes, consistent bedtimes even for older children, or incorporating simple physical activity into daily routines, rather than just adding more study hours or cram school sessions. This could influence choices between international schools that often emphasize well-being, and domestic schools with more traditional academic pressures.",
+        "This shift is likely to be gradual, perhaps within 3-5 years, gated by a broader societal understanding and market response. Major juku or international schools might begin to explicitly integrate \"well-being\" or \"resilience-building\" programs that go beyond just academics, potentially influencing their curriculum design or student support services. However, it requires a cultural shift in how parents and institutions perceive the interplay between lifestyle and academic performance, which takes time to permeate.",
+        "While not a direct counterpart in terms of specific programs, some initiatives in Japan already touch on this. For instance, the emphasis on \"早寝早起き朝ごはん\" (early to bed, early to rise, eat breakfast) campaigns promoted by local education boards and some schools aligns with these findings. Additionally, institutions like N高等学校 and S高等学校, known for their flexible learning environments, often encourage students to manage their own schedules, implicitly fostering self-care habits. However, a more explicit integration of \"psychological flexibility\" as a core developmental goal, supported by specific daily routines, is still nascent compared to the traditional focus on academic rigor."
+      ],
+      "ja": [
+        "この研究が教えてくれるのは、私たちが一日をどう始め、どう終えるか、そして何を食べるかが、困難な状況に直面したときに落ち着いて適応する能力に直接影響するということです。これは、子どもが自転車の乗り方を学ぶのと似ています。バランスを取り、ペダルをこぎ、転んで、また立ち上がるという一貫した小さな努力が、一度の集中的なレッスンよりもはるかに効果的に自信とスキルを築きます。同様に、毎日の朝食や十分な睡眠といった習慣は、単に身体の健康のためだけでなく、精神的な回復力の土台を築き、子どもたちがプレッシャーの下で折れることなくしなやかに対応できるよう助けるのです。",
+        "東京のご家庭にとって、これは成功や準備に対する見方を微妙に変える可能性があります。学業成績や試験の点数だけに焦点を当てるのではなく、学習を支えるホリスティックな基盤への認識が高まるかもしれません。家族で食卓を囲む時間を大切にしたり、年長の子どもでも一貫した就寝時間を設けたり、あるいは単に勉強時間を増やしたり塾に通わせたりするだけでなく、日々のルーティンに簡単な身体活動を取り入れたりすることに、より重点を置くようになるかもしれません。これは、ウェルビーイングを重視するインターナショナルスクールと、より伝統的な学業プレッシャーのある国内学校との選択にも影響を与える可能性があります。",
+        "この変化は、より広範な社会の理解と市場の反応に左右され、おそらく3〜5年かけて徐々に進むでしょう。大手塾やインターナショナルスクールが、学業だけでなく「ウェルビーイング」や「回復力育成」プログラムを明確にカリキュラムや生徒支援サービスに組み込み始める可能性もあります。しかし、ライフスタイルと学業成績の相互作用に対する保護者や機関の認識を変えるには、文化的なシフトが必要であり、それには時間がかかります。",
+        "日本には、この研究の知見と完全に一致する特定のプログラムはまだ少ないかもしれませんが、関連する取り組みは存在します。例えば、地方の教育委員会や一部の学校が推進する「早寝早起き朝ごはん」運動は、これらの発見と軌を一にしています。また、N高等学校やS高等学校のような柔軟な学習環境を提供する学校は、生徒自身がスケジュールを管理することを奨励しており、暗黙のうちにセルフケアの習慣を育んでいます。しかし、「心理的柔軟性」を具体的な日々のルーティンで支える中核的な発達目標として明確に統合する動きは、従来の学業重視の姿勢と比較すると、まだ始まったばかりと言えるでしょう。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "Daily routines build psychological flexibility, reducing stress.",
+        "ja": "日々の習慣が心理的柔軟性を育み、ストレスに強くする。"
+      },
+      "whoForWhat": {
+        "en": "For Tokyo families with children of all ages, this study offers insights into how consistent daily routines, from breakfast to sleep, can build resilience against academic and life stress.",
+        "ja": "東京で子育てをするご家庭にとって、朝食から睡眠まで一貫した日々の習慣が、学業や生活のストレスに対する回復力をどのように育むかについて示唆を与えます。"
+      },
+      "vsJapanContext": {
+        "en": "While Japan's education system often emphasizes rigorous academic preparation, this research highlights the often-underestimated role of basic lifestyle habits, contrasting with a potential focus on sheer study hours.",
+        "ja": "日本の教育システムが学業の厳しさに焦点を当てがちな中で、この研究は基本的な生活習慣の役割を強調し、単なる学習時間だけではない回復力育成の視点を提供します。"
+      },
+      "tokyoNote": {
+        "en": "Tokyo parents often navigate intense schedules for their children. This finding reminds us that even amid juku and extracurriculars, prioritizing foundational habits like a consistent morning routine and adequate sleep offers a powerful, accessible tool for well-being.",
+        "ja": "東京の保護者は、子どもの多忙なスケジュール管理に日々向き合っています。この研究は、塾や習い事が多い中でも、一貫した朝のルーティンや十分な睡眠といった基本的な習慣を優先することが、子どもの心の健康にとって強力な基盤となることを示唆しています。"
+      }
+    },
+    "source": {
+      "name": "ScienceDaily — Child Development",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261012185023.htm"
+    },
+    "sourceGuid": "https://www.sciencedaily.com/releases/2026/10/261012185023.htm",
+    "status": "published"
+  },
+  {
     "slug": "new-insights-into-memory-a-protein-and-amino-acids-role-in-cognitive-function",
     "category": "research",
     "issue": "Vol. 05",
@@ -923,8 +1025,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1488998427799-e3362cec87c3?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#D3C7E1"
+      "src": "https://images.unsplash.com/photo-1532012197267-da84d127e765?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#D9CFE5"
     },
     "title": {
       "en": "Beyond Practice: How Post-Learning Nerve Activity Shapes Long-Term Skill",
@@ -4837,8 +4939,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1532012197267-da84d127e765?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#D9CFE5"
+      "src": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#D6CDE2"
     },
     "title": {
       "en": "Sea Squirt Compound Shows Promise for Memory and Learning in Aging Mice",
@@ -7199,8 +7301,8 @@
     "readingMinutes": 6,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#D6CDE2"
+      "src": "https://images.unsplash.com/photo-1531403009284-440f080d1e12?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#F4DCC4"
     },
     "title": {
       "en": "Depression, Neurogenesis, and Learning: A New Perspective on Memory",
@@ -7604,8 +7706,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#CCE1CE"
+      "src": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#D0E4D3"
     },
     "title": {
       "en": "AI Tutors Evolve: Boosting Engagement and Long-Term Learning Retention",
@@ -7808,8 +7910,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#C8DFCB"
+      "src": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#CCE1CE"
     },
     "title": {
       "en": "Khan Academy's Blueprint for Better AI Tutors: A Data-Driven Approach",
@@ -7912,8 +8014,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#CCE1CE"
+      "src": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#D0E4D3"
     },
     "title": {
       "en": "AI Tutors Learn to 'Think Like Students': Modeling the 'Why' Behind Learning",
@@ -8106,108 +8208,6 @@
       "url": "https://www.sciencedaily.com/releases/2026/08/260819041224.htm"
     },
     "sourceGuid": "https://www.sciencedaily.com/releases/2026/08/260819041224.htm",
-    "status": "published"
-  },
-  {
-    "slug": "beyond-the-clinic-rethinking-early-childhood-developmental-screening",
-    "category": "early-childhood",
-    "issue": "Vol. 03",
-    "publishedAt": "2026-08-20T18:00:00.000Z",
-    "readingMinutes": 5,
-    "feature": true,
-    "cover": {
-      "src": "https://i0.wp.com/hechingerreport.org/wp-content/uploads/2026/08/EC-screeners-4-scaled.jpg?fit=1024%2C683&amp;ssl=1",
-      "tone": "#0c0c0c"
-    },
-    "title": {
-      "en": "Beyond the Clinic: Rethinking Early Childhood Developmental Screening",
-      "ja": "診察室の外へ：乳幼児の発達スクリーニング再考"
-    },
-    "dek": {
-      "en": "Pediatrician visits for young children can be overwhelming. New discussions suggest that developmental screenings might be more effective in familiar, less clinical settings, offering a clearer picture of a child's natural development.",
-      "ja": "乳幼児期の小児科受診は、保護者にとって時に大きな負担となります。新たな議論では、発達スクリーニングを慣れ親しんだ環境で行うことで、子どもの自然な発達をより正確に把握できる可能性が指摘されています。"
-    },
-    "author": {
-      "en": "WORLD STUDY TOKYO Editors",
-      "ja": "WORLD STUDY TOKYO 編集部"
-    },
-    "location": {
-      "en": "August 20, 2026",
-      "ja": "2026年8月20日"
-    },
-    "tags": [
-      {
-        "en": "early childhood",
-        "ja": "早期幼児教育"
-      },
-      {
-        "en": "child development",
-        "ja": "子どもの発達"
-      },
-      {
-        "en": "parenting",
-        "ja": "子育て"
-      },
-      {
-        "en": "health check-ups",
-        "ja": "健診"
-      }
-    ],
-    "body": {
-      "en": [
-        "A recent discussion from The Hechinger Report highlights a growing conversation around developmental screening (発達スクリーニング — an assessment to check a child's developmental milestones according to their age) for young children, suggesting that these crucial assessments might be more effective when conducted outside the traditional doctor’s office. This perspective, emerging from observations in early childhood care, points to the potential benefits of alternative settings for identifying developmental milestones.",
-        "For many parents, pediatrician visits during a child's early years can feel rushed and overwhelming. Amidst growth charts and vaccinations, the focused attention required for thorough developmental screening can be difficult to achieve. The article touches on the common experience of parents trying to manage a restless infant while simultaneously engaging in vital conversations about their child's development.",
-        "> Like many parents, I remember visits to the pediatrician’s office in my daughter’s earliest years as overwhelming — a swirl of weights and measurements, rushed conversations about sleep training, breastfeeding and tummy time, all while trying to keep the featured attraction (my wiggly baby) from derailing everything.",
-        "The core idea is that a child's natural behavior, and thus potential developmental delays, might be more clearly observed in a familiar, less clinical environment. Community centers, libraries, or even home visits by trained professionals could offer a more relaxed setting where children feel comfortable and parents can communicate their observations without pressure. This approach could lead to earlier identification of needs, ensuring children receive timely support.",
-        "The current model often relies on parents accurately recalling and reporting specific behaviors, which can be challenging under stress. Moving screenings to settings integrated into a family's daily life could reduce this burden. It allows for observations over time, rather than a snapshot during a brief appointment, potentially capturing a more accurate picture of a child's developmental trajectory.",
-        "While the pediatrician's role remains central for medical care, this discussion suggests that the *location* of developmental screening could be diversified to better serve families. The goal is to make these essential checks more accessible and less stressful, ultimately supporting early intervention efforts that are critical for a child's long-term well-being and learning journey."
-      ],
-      "ja": [
-        "米国の教育メディアである The Hechinger Report が最近提起した議論は、乳幼児の発達スクリーニング（子どもの成長段階に応じた発達の節目を確認する検査）が、従来の小児科医の診察室以外で行われることで、より効果的になる可能性を示唆しています。この視点は、早期幼児教育の現場での観察から生まれ、代替的な環境での評価が持つ潜在的な利点に焦点を当てています。",
-        "多くの保護者にとって、子どもの幼少期における小児科受診は、体重測定や予防接種、授乳や寝かしつけに関する短い会話など、多岐にわたる情報が詰め込まれ、圧倒されるような経験になりがちです。診察室という限られた時間と空間の中で、発達スクリーニングという重要な評価を正確に行うことは、保護者にとっても子どもにとっても負担が大きい場合があります。",
-        "「多くの保護者と同様に、私も娘の幼少期の小児科受診は、体重測定や計測、寝かしつけや授乳、腹ばいの時間についての慌ただしい会話が渦巻き、その間ずっと主役（うちの落ち着きのない赤ちゃん）が全てを台無しにしないよう奮闘する、圧倒されるような経験だったと記憶しています。」",
-        "この議論の核心は、子どもの自然な行動、ひいては潜在的な発達の遅れが、より慣れた、臨床的ではない環境で観察されることで、より明確になるかもしれないという点です。地域のコミュニティセンター、図書館、あるいは訓練を受けた専門家による家庭訪問などが、子どもがリラックスし、保護者がプレッシャーなく観察結果を伝えられる、より穏やかな場を提供できる可能性があります。このアプローチにより、ニーズの早期特定につながり、子どもが必要なサポートを適時に受けられるようになることが期待されます。",
-        "現在のモデルでは、多くの場合、保護者が特定の行動を正確に思い出し、報告することに依存しており、ストレス下ではそれが困難になることがあります。スクリーニングを家族の日常生活に溶け込んだ場所で行うことで、この負担を軽減できるかもしれません。短い診察時間での一瞬の観察ではなく、時間をかけて観察することで、子どもの発達の軌跡をより正確に捉えることが可能になるでしょう。",
-        "小児科医が医療ケアの中心的な役割を担うことに変わりはありませんが、この議論は、発達スクリーニングの「場所」を多様化することで、家族へのより良いサービス提供につながる可能性を示唆しています。目標は、これらの不可欠なチェックをよりアクセスしやすく、ストレスの少ないものにし、最終的に子どもの長期的な幸福と学習の道のりにとって極めて重要な早期介入の取り組みを支援することです。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "The core idea here is that observing a child's development in a familiar, comfortable setting — like a community playgroup or even at home — might give a clearer picture than a quick check-up in a busy doctor's office. Imagine trying to see if a toddler can stack blocks or respond to their name when they're shy and overwhelmed by a new environment; it's much easier to assess when they're relaxed and playing as usual. This approach suggests moving beyond the formal, often stressful, medical setting for these developmental milestones.",
-        "For Tokyo families, this could mean that beyond the regular municipal health checks (乳幼児健診), childcare centers (保育園) and kindergartens (幼稚園) might play an even more active role in informal developmental observation. Perhaps more community-based initiatives, like parent-child gathering spaces (子育てひろば) or public libraries, could offer structured play sessions with trained staff who can subtly note developmental progress or areas needing attention, without it feeling like a formal test.",
-        "This shift is likely to be gradual, perhaps over 3-5 years. It would be gated by local government initiatives and the willingness of childcare providers to integrate such practices. Given Japan's robust system of municipal health checks and the dedicated staff in childcare settings, the framework for collaboration already exists, but expanding the *scope* of observation in these non-medical settings would require training and policy adjustments from local education boards or health departments.",
-        "Japan already has an excellent system of municipal health check-ups (乳幼児健診) at 4 months, 10 months, 1 year 6 months, and 3 years, often conducted at community health centers. Additionally, many childcare centers and kindergartens have dedicated staff who observe children daily. The concept here aligns with existing child consultation centers (児童相談所) or 子育て支援センター, but emphasizes *proactive, less formal* screening in everyday environments. While the structure is different, the underlying principle of comprehensive child development support is well-established in Japan."
-      ],
-      "ja": [
-        "この議論の核心は、子どもの発達を、忙しい小児科の診察室での短いチェックアップではなく、慣れ親しんだ安心できる環境、例えば地域の遊び場や家庭で観察する方が、より正確な全体像を把握できるかもしれないという点です。新しい環境で緊張している幼児がブロックを積んだり、自分の名前に反応したりするかどうかを見るのは難しいですが、リラックスして普段通りに遊んでいる時の方が、はるかに評価しやすいでしょう。このアプローチは、発達のマイルストーンを確認する場を、形式的で時にストレスの多い医療環境から広げることを示唆しています。",
-        "東京で子育てをするご家庭にとって、これは定期的な乳幼児健診（市区町村が実施する健康診断）に加え、保育園や幼稚園が子どもの発達を非公式に観察する上で、さらに積極的な役割を果たす可能性を意味します。あるいは、子育てひろばや地域の図書館といったコミュニティスペースで、専門スタッフが配置された遊びのセッションが提供され、子どもたちの発達の進捗や注意すべき点を、formal な検査とは感じさせずにさりげなく把握するような取り組みが増えるかもしれません。",
-        "このような変化は、おそらく今後 3〜5 年かけて徐々に進むと予想されます。これは、自治体の取り組みや、保育・教育機関がこうした実践を導入する意欲に左右されるでしょう。日本には、充実した乳幼児健診のシステムがあり、保育現場にも専門のスタッフがいるため、連携の基盤は既に存在します。しかし、医療機関以外の場での観察範囲を拡大するには、地方自治体の教育委員会や保健部門による研修や政策調整が必要となるでしょう。",
-        "日本には、4ヶ月、10ヶ月、1歳6ヶ月、3歳時に地域保健センターなどで実施される優れた乳幼児健診のシステムが既にあります。また、多くの保育園や幼稚園には、日々子どもたちを観察する専門の職員がいます。この概念は、既存の児童相談所や子育て支援センターの機能と共通する部分がありますが、より「予防的で非公式な」日常環境でのスクリーニングを強調する点で異なります。構造は異なっても、子どもの発達を総合的に支援するという根本的な原則は、日本においてもしっかりと確立されています。"
-      ]
-    },
-    "structured": {
-      "tagline": {
-        "en": "Rethinking developmental screening for young children.",
-        "ja": "乳幼児健診、診察室以外の選択肢"
-      },
-      "whoForWhat": {
-        "en": "For Tokyo parents of infants and preschoolers navigating routine health checks and seeking less stressful ways to monitor their child's early development.",
-        "ja": "乳幼児期の定期健診を控える東京の保護者が、子どもの発達をより穏やかに見守る方法を検討する際に役立つ情報です。"
-      },
-      "vsJapanContext": {
-        "en": "This idea aligns with Japan's existing municipal health check-up system (乳幼児健診), which often uses community centers, but suggests a deeper integration of developmental observation into everyday settings like childcare facilities.",
-        "ja": "日本の乳幼児健診は地域保健センターで行われることも多いですが、本稿はさらに保育園や幼稚園など、子どもの日常に近い場所での発達観察の統合を提案する点で、既存システムとの連携や進化の可能性を示唆します。"
-      },
-      "tokyoNote": {
-        "en": "Tokyo families often face time constraints and crowded clinics for child health checks. Exploring community-based or even digital screening tools could alleviate stress and provide more accurate insights into a child's development in their natural environment, complementing traditional medical visits.",
-        "ja": ""
-      }
-    },
-    "source": {
-      "name": "The Hechinger Report",
-      "url": "https://hechingerreport.org/developmental-screening-outside-the-doctors-office/"
-    },
-    "sourceGuid": "https://hechingerreport.org/?p=117627",
     "status": "published"
   }
 ]
