@@ -1,5 +1,203 @@
 [
   {
+    "slug": "youth-protein-shows-promise-in-rejuvenating-brain-cells-in-aging-mice",
+    "category": "research",
+    "issue": "Vol. 05",
+    "publishedAt": "2026-10-18T03:27:40.000Z",
+    "readingMinutes": 5,
+    "feature": true,
+    "cover": {
+      "src": "https://images.unsplash.com/photo-1542621334-a254cf47733d?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#D8CDE3"
+    },
+    "title": {
+      "en": "Youth Protein Shows Promise in Rejuvenating Brain Cells in Aging Mice",
+      "ja": "「若さのタンパク質」が加齢脳細胞を活性化、マウス研究で示唆"
+    },
+    "dek": {
+      "en": "New research identifies a protein that helps the brain’s immune cells function more effectively in older mice, potentially opening avenues for understanding cognitive health across the lifespan.",
+      "ja": "加齢したマウスの脳免疫細胞を活性化させるタンパク質が特定されました。生涯にわたる認知機能の健康を理解する新たな道を開く可能性のある研究です。"
+    },
+    "author": {
+      "en": "WORLD STUDY TOKYO Editors",
+      "ja": "WORLD STUDY TOKYO 編集部"
+    },
+    "location": {
+      "en": "Tokyo, October 18, 2026",
+      "ja": "東京、2026年10月18日"
+    },
+    "tags": [
+      {
+        "en": "Brain Health",
+        "ja": "脳の健康"
+      },
+      {
+        "en": "Cognitive Science",
+        "ja": "認知科学"
+      },
+      {
+        "en": "Aging",
+        "ja": "加齢"
+      },
+      {
+        "en": "Research",
+        "ja": "研究"
+      }
+    ],
+    "body": {
+      "en": [
+        "科学者たちは、若さと関連するあるタンパク質が、加齢に伴う脳の免疫細胞の機能低下を防ぐのに役立つことを発見しました。この研究は、マウスを用いた実験で、年齢を重ねた脳細胞を再び若々しく機能させる可能性を示唆しています。",
+        "この「若さのタンパク質」は、具体的にはCD22と呼ばれるもので、脳の免疫細胞であるミクログリア（脳内の老廃物除去や炎症抑制を担う細胞）の表面で活動します。加齢とともにミクログリアは効率を失い、脳内に老廃物が蓄積したり、慢性的な炎症が起きたりすることが知られています。これはアルツハイマー病などの神経変性疾患の一因と考えられています。",
+        "研究チームは、高齢のマウスにこのCD22タンパク質を補充することで、ミクログリアの機能が著しく改善されることを確認しました。これにより、脳内の不要な老廃物を除去する能力が高まり、炎症の兆候が減少したのです。",
+        "> Restoring the protein in older mice improved the cells’ ability to clear debris and reduced signs of inflammation, raising hopes for future treatments targeting brain aging and Alzheimer’s disease.",
+        "この発見は、脳の加齢プロセスに対する理解を深める上で重要な一歩です。ミクログリアの機能を維持・回復させることが、認知機能の低下を防ぐ新たな治療戦略につながる可能性を秘めています。しかし、現時点ではマウスでの研究段階であり、ヒトへの応用にはさらなる研究と長い年月が必要です。",
+        "今後の研究では、このタンパク質がヒトの脳でどのように作用するか、そして安全かつ効果的にその機能を調整する方法が探求されるでしょう。脳の健康を生涯にわたって維持するための、新たな予防法や治療法の開発に繋がる可能性が期待されます。"
+      ],
+      "ja": [
+        "2026年10月、科学者たちは、若々しさと関連する特定のタンパク質が、加齢によって衰える脳の免疫細胞を保護するのに役立つことを発見しました。この研究は、高齢マウスにおいてこのタンパク質を補充することで、細胞が老廃物を除去する能力を向上させ、炎症の兆候を減少させることを示しています。",
+        "この発見は、脳の加齢とアルツハイマー病を標的とする将来の治療法に希望をもたらすものです。脳の免疫細胞であるミクログリア（脳内の老廃物除去や炎症抑制を担う細胞）は、加齢とともにその機能が低下し、脳内に不要な物質が蓄積したり、慢性的な炎症が起きたりすることが知られています。",
+        "研究によると、この「若さのタンパク質」がミクログリアの表面で活動し、その機能を維持・回復させることで、脳の健康が保たれるメカニズムが示唆されています。高齢のマウスでこのタンパク質のレベルを回復させると、ミクログリアがより効率的に機能し、脳環境を清潔に保つ能力が向上しました。",
+        "> 加齢したマウスにおいてこのタンパク質を回復させたところ、細胞の老廃物除去能力が向上し、炎症の兆候が減少しました。",
+        "この研究結果は、脳の健康を生涯にわたって維持するための新たなアプローチを考える上で重要です。特に、ミクログリアの機能を標的とすることで、認知機能の低下や神経変性疾患の進行を遅らせる可能性が考えられます。ただし、これは現時点ではマウスでの初期段階の研究であり、ヒトへの直接的な応用にはまだ多くの検証が必要です。",
+        "今後、このタンパク質がヒトの脳にどのように作用するのか、またその機能を安全に操作できるのかについて、さらなる研究が求められます。将来的には、脳の健康を保ち、生涯学習の基盤となる認知機能を維持するための画期的な治療法や予防法の開発につながるかもしれません。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "This research, though currently in mice, offers a fascinating glimpse into the biological mechanisms of brain aging. For Tokyo parents, it's akin to understanding that a well-maintained home has a robust cleaning crew. Just as we ensure children learn healthy habits for their physical bodies, this science suggests that sustaining the 'clean-up crew' of the brain, the microglia, could be key to long-term cognitive vitality.",
+        "While direct applications for children are decades away, this finding could eventually influence how we think about lifelong learning and cognitive resilience. For families considering how to support their children's long-term academic and professional journeys, understanding the foundational science of brain health becomes increasingly relevant. It might one day inform discussions around preventative strategies for maintaining sharp minds well into adulthood.",
+        "Any practical impact on Tokyo families would be far in the future, likely 10-15 years or more, gated by extensive human clinical trials and regulatory approval for any potential therapeutic interventions. It's not something that will change juku curricula or international school admissions next year, but rather a long-term scientific development.",
+        "In Japan, institutions like RIKEN (理化学研究所) and the National Center for Geriatrics and Gerontology (国立長寿医療研究センター) are actively engaged in cutting-edge research on aging and brain health, often collaborating internationally. While this specific 'youth protein' finding comes from overseas, the underlying focus on understanding and combating age-related cognitive decline aligns with significant research efforts already underway in Japan, aiming to support a healthy, active aging society."
+      ],
+      "ja": [
+        "この研究はまだマウス段階ですが、脳の加齢メカニズムについて興味深い示唆を与えてくれます。東京の保護者の皆様にとって、これはまるで、家が清潔に保たれているのは優秀な掃除係がいるからだと理解するようなものです。子どもたちが健康な身体を作るための習慣を学ぶように、脳の「掃除係」であるミクログリアの機能を維持することが、長期的な認知機能の活力に繋がる可能性を示唆しています。",
+        "子どもたちへの直接的な応用はまだ何十年も先の話ですが、この発見は将来的に、生涯学習や認知レジリエンス（回復力）に対する私たちの考え方に影響を与えるかもしれません。お子様の長期的な学業やキャリアをサポートすることを考えるご家庭にとって、脳の健康の基礎科学を理解することは、ますます重要になってきます。将来的に、成人期になっても高い認知能力を維持するための予防戦略に関する議論に役立つ可能性も秘めています。",
+        "東京のご家庭への具体的な影響は非常に遠い未来、おそらく10年から15年以上先になるでしょう。これは、広範なヒト臨床試験と、潜在的な治療法に対する規制当局の承認が必要となるためです。来年すぐに塾のカリキュラムやインターナショナルスクールの入学基準が変わるような話ではなく、長期的な科学的進展として捉えるべきでしょう。",
+        "日本国内では、理化学研究所や国立長寿医療研究センターといった機関が、加齢と脳の健康に関する最先端の研究に積極的に取り組んでおり、国際的な共同研究も盛んです。今回の「若さのタンパク質」に関する特定の発見は海外発ですが、加齢に伴う認知機能低下を理解し、克服しようとする根本的なアプローチは、日本の高齢化社会を支えるための重要な研究努力と方向性を同じくしています。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "Protein identified to rejuvenate aging brain cells in mice",
+        "ja": "若さのタンパク質、加齢脳細胞を活性化（マウス研究）"
+      },
+      "whoForWhat": {
+        "en": "For Tokyo families interested in the cutting edge of brain health research, this finding offers a glimpse into the future of maintaining cognitive function throughout life.",
+        "ja": "脳の健康研究の最先端に関心を持つ東京のご家庭へ。生涯にわたる認知機能維持の未来を垣間見る研究です。"
+      },
+      "vsJapanContext": {
+        "en": "This research from overseas scientists aligns with global efforts, including those at Japan's RIKEN, to understand and combat age-related cognitive decline, though direct applications are far off.",
+        "ja": "海外の研究者によるこの発見は、理化学研究所を含む日本の機関が進める加齢性認知機能低下の解明と対策に向けた世界的な取り組みと方向性を同じくしますが、実用化はまだ遠い道のりです。"
+      },
+      "tokyoNote": {
+        "en": "While this is early-stage research in mice, it highlights the long-term importance of brain health for learning. Tokyo families should view this as foundational science that could eventually influence broader discussions on healthy aging and cognitive maintenance, rather than an immediate change to educational practices.",
+        "ja": "これはマウスでの初期研究ですが、生涯にわたる学習における脳の健康の重要性を示唆しています。東京のご家庭には、教育実践をすぐに変えるものではなく、将来的に健康的な加齢と認知機能維持に関する議論に影響を与える可能性のある基礎科学として捉えていただきたいです。"
+      }
+    },
+    "source": {
+      "name": "ScienceDaily — Child Development",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261016070646.htm"
+    },
+    "sourceGuid": "https://www.sciencedaily.com/releases/2026/10/261016070646.htm",
+    "status": "published"
+  },
+  {
+    "slug": "new-brain-map-reveals-hidden-complexity-of-learning-and-thought",
+    "category": "research",
+    "issue": "Vol. 05",
+    "publishedAt": "2026-10-13T05:00:55.000Z",
+    "readingMinutes": 4,
+    "feature": true,
+    "cover": {
+      "src": "https://www.sciencedaily.com/images/1920/lipizones-in-mouse-brain.webp",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "New Brain Map Reveals Hidden Complexity of Learning and Thought",
+      "ja": "脳の隠れた地図が示す学習と思考の新たな複雑性"
+    },
+    "dek": {
+      "en": "A recent study has unveiled 539 distinct chemical zones in the brain's lipid structure, challenging previous assumptions about how our brains are organized and hinting at new avenues for understanding cognition.",
+      "ja": "最新の研究が、脳の脂質構造に 539 の異なる化学的領域を発見し、従来の脳組織の理解を覆しました。これは、認知の仕組みを解明する新たな道を開く可能性を示唆しています。"
+    },
+    "author": {
+      "en": "WORLD STUDY TOKYO Editors",
+      "ja": "WORLD STUDY TOKYO 編集部"
+    },
+    "location": {
+      "en": "Tokyo, October 13, 2026",
+      "ja": "東京, 2026年10月13日"
+    },
+    "tags": [
+      {
+        "en": "Brain Science",
+        "ja": "脳科学"
+      },
+      {
+        "en": "Cognitive Development",
+        "ja": "認知発達"
+      },
+      {
+        "en": "Neuroscience",
+        "ja": "神経科学"
+      }
+    ],
+    "body": {
+      "en": [
+        "Scientists have recently created the first detailed 3D map of the brain's lipids, the fatty molecules crucial for its structure and communication. This work, based on millions of measurements from mouse brains, revealed a previously hidden layer of organization, identifying 539 distinct chemical zones. This new understanding challenges traditional brain maps that have overlooked these intricate patterns and boundaries.",
+        "The significance of this discovery lies in its potential to deepen our understanding of how the brain functions, learns, and develops. Lipids are not just passive structural components; they play active roles in neural signaling and maintaining brain health. By mapping their precise distribution, researchers can begin to connect specific lipid compositions to particular brain functions, potentially shedding light on everything from memory formation to emotional regulation. The study specifically highlighted that even white matter (the part of the brain that covers nerve fibers and efficiently transmits information), long considered relatively uniform, contains a complex patchwork of chemically distinct regions.",
+        "> Scientists have uncovered a hidden layer of organization in the brain by creating the first detailed 3D map of its lipids.",
+        "This new \"chemical atlas\" of the brain could eventually inform new approaches to understanding neurodevelopmental conditions and learning differences. If certain lipid patterns are associated with specific cognitive strengths or challenges, future research might explore targeted interventions or even personalized learning strategies. For now, it provides a more granular view of the brain's fundamental building blocks, suggesting that our current understanding of brain regions might be too simplistic.",
+        "While the initial research was conducted on mouse brains, the principles of lipid organization are fundamental to mammalian brains, suggesting similar complexities likely exist in human brains. The next steps will involve validating these findings in human tissue and exploring the functional implications of these newly identified zones. Understanding these lipid \"fingerprints\" could offer new insights into how early experiences, nutrition, and environmental factors might subtly shape brain development and learning capacities."
+      ],
+      "ja": [
+        "科学者たちは最近、脳の脂質（脳の構造と神経間の情報伝達に不可欠な脂肪分子）の詳細な 3D マップを初めて作成しました。マウスの脳から得られた数百万もの測定データに基づくこの研究は、これまで見過ごされてきた脳の組織層を明らかにし、539 の異なる化学的領域を特定しました。この新しい発見は、従来の脳地図が捉えきれていなかった複雑なパターンと境界線の存在を提示し、これまでの脳の理解を問い直すものです。",
+        "この発見の重要性は、脳がどのように機能し、学習し、発達するのかについての理解を深める可能性を秘めている点にあります。脂質は単なる受動的な構造要素ではなく、神経信号の伝達や脳の健康維持において能動的な役割を果たしています。その正確な分布をマッピングすることで、研究者たちは特定の脂質組成と特定の脳機能を結びつけ始め、記憶形成から感情調節に至るまで、あらゆる側面を解明する手がかりを得られるかもしれません。特にこの研究では、これまで比較的均一だと考えられていた白質（脳の神経線維を覆い、情報伝達を効率化する部分）でさえ、化学的に異なる領域の複雑なパッチワークを含んでいることが強調されました。",
+        "「科学者たちは、脳の脂質の詳細な3Dマップを作成することで、脳の隠れた組織層を発見しました。」",
+        "この新たな「脳の化学地図」は、将来的には神経発達上の特性や学習の違いを理解するための新しいアプローチにつながる可能性があります。もし特定の脂質パターンが特定の認知能力の強みや課題と関連しているならば、将来の研究ではターゲットを絞った介入や、個々人に合わせた学習戦略が検討されるかもしれません。現時点では、脳の基本的な構成要素についてより詳細な視点を提供しており、脳領域に関する現在の理解が単純すぎる可能性を示唆しています。",
+        "今回の初期研究はマウスの脳で行われましたが、脂質の組織化の原則は哺乳類の脳に共通するものであり、人間の脳にも同様の複雑性が存在すると考えられます。次のステップでは、これらの発見を人間の組織で検証し、新たに特定された領域の機能的意味を探ることが課題となるでしょう。これらの脂質の「指紋」を理解することは、幼少期の経験、栄養、環境要因が脳の発達と学習能力をどのように微妙に形成するかについて、新たな洞察をもたらす可能性があります。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "Imagine your child's brain isn't just a simple collection of big rooms (like the hippocampus for memory) but also has tiny, specialized cupboards and drawers within those rooms, each filled with slightly different tools (lipids). This study found those tiny, specialized compartments that we didn't know existed, even in areas we thought were just simple wiring. It means the brain's internal machinery is far more intricate than we previously understood, with specific chemical \"recipes\" in different spots.",
+        "This deep understanding of brain chemistry could eventually influence how we approach early childhood education or support learning differences. For instance, if certain lipid profiles are linked to how children process language or develop executive function (higher-order cognitive abilities such as goal setting, planning, execution, and self-regulation), it might, in the very long term, inform personalized learning environments or dietary considerations, though this is far off. It also reinforces the idea that brain development is highly nuanced and individualized.",
+        "The direct impact on daily parenting or learning methods in Tokyo is likely 10-15 years away, at minimum. This is fundamental research on mice. It would first need to be replicated in human brains, then linked to observable cognitive functions, and only then might it inform educational practices or interventions. This is gated by significant further research and clinical translation.",
+        "While no direct Japanese counterpart exists for this specific lipid mapping research, institutions like the Benesse Educational Research Institute (ベネッセ教育総合研究所) or academic centers at universities like the University of Tokyo (東京大学) or Keio University (慶應義塾大学) conduct extensive research into child development and cognitive science. Their work often integrates global findings into the Japanese context, but this specific type of molecular brain mapping is still very much in the realm of basic science, awaiting broader application."
+      ],
+      "ja": [
+        "お子さまの脳を、記憶を司る海馬のような大きな部屋の集まりとしてだけでなく、その部屋の中にさらに小さな専門的な戸棚や引き出しがあり、それぞれに少しずつ異なる道具（脂質）が詰まっていると想像してみてください。今回の研究は、これまで単純な配線だと考えられていた領域にさえ、私たちが知らなかったような、そうした小さな専門区画を発見しました。これは、脳の内部構造がこれまで理解していたよりもはるかに複雑で、特定の化学的な「レシピ」が異なる場所に存在することを示しています。",
+        "脳化学に関するこの深い理解は、将来的には幼児教育へのアプローチや、学習上の特性を持つ子どもたちへの支援方法に影響を与える可能性があります。例えば、特定の脂質プロファイルが、子どもが言語を処理する方法や、目標設定、計画、実行、そして自己制御といった高次の認知能力であるエグゼクティブ・ファンクションの発達と関連しているとすれば、非常に長い目で見て、個別化された学習環境や食生活への配慮に役立つかもしれません。ただし、これはまだ遠い未来の話です。この発見はまた、脳の発達が極めて繊細で個別性が高いという考え方を補強するものでもあります。",
+        "東京での日々の育児や学習方法に直接的な影響が出るのは、少なくとも 10〜15 年先になるでしょう。これはマウスを対象とした基礎研究であり、まず人間の脳で再現され、その後、観察可能な認知機能と結びつけられ、その上で初めて教育実践や介入に情報を提供できる可能性があります。これは、さらなる大規模な研究と臨床応用によって段階的に進むものです。",
+        "この特定の脂質マッピング研究に直接的な日本の研究機関はまだありませんが、ベネッセ教育総合研究所や、東京大学、慶應義塾大学などの学術機関は、子どもの発達と認知科学に関する広範な研究を行っています。彼らの研究は、世界の知見を日本の文脈に統合することが多いですが、今回の分子レベルの脳マッピングのような基礎科学は、まだ幅広い応用に向けての初期段階にあります。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "Brain map reveals hidden complexity in learning.",
+        "ja": "脳の新たな地図が示す学習の隠れた複雑性。"
+      },
+      "whoForWhat": {
+        "en": "For Tokyo parents curious about the fundamental building blocks of learning, this research offers a glimpse into how deeply intricate the brain's chemical organization truly is, influencing future understanding of child development.",
+        "ja": "学習の根源的な仕組みに関心を持つ東京の保護者へ。この研究は、脳の化学的組織がいかに複雑であるかを示し、将来の子どもの発達理解に影響を与える可能性があります。"
+      },
+      "vsJapanContext": {
+        "en": "This is fundamental neuroscience research that doesn't directly connect to current MEXT curriculum or juku methods, but it underpins the scientific understanding of cognitive development that informs global educational research.",
+        "ja": "文部科学省のカリキュラムや塾の学習法に直接関連するものではありませんが、認知発達に関する科学的理解の基礎を築くものであり、世界の教育研究を支える知見です。"
+      },
+      "tokyoNote": {
+        "en": "This fascinating discovery reminds us that the brain's complexity far exceeds our current grasp. While direct application to Tokyo's classrooms or juku is distant, it underscores the profound individuality of brain development and the potential for highly personalized learning insights in the long term.",
+        "ja": "この魅力的な発見は、脳の複雑さが私たちの理解をはるかに超えていることを改めて示します。東京の教育現場や塾に直接応用されるのはまだ先の話ですが、脳の発達の深い個別性と、長期的にはパーソナライズされた学習への洞察の可能性を強調しています。"
+      }
+    },
+    "source": {
+      "name": "ScienceDaily — Child Development",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261012185011.htm"
+    },
+    "sourceGuid": "https://www.sciencedaily.com/releases/2026/10/261012185011.htm",
+    "status": "published"
+  },
+  {
     "slug": "deep-sleep-more-than-rest-its-key-to-growth-and-brain-function",
     "category": "early-childhood",
     "issue": "Vol. 05",
@@ -111,8 +309,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1573164713619-24c711fe7878?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#C4DDC6"
+      "src": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#C8DFCB"
     },
     "title": {
       "en": "Making AI Tutors Transparent: A New Framework for Understanding Educational Dialogues",
@@ -3803,8 +4001,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1455390582262-044cdead277a?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#F6E0CA"
+      "src": "https://images.unsplash.com/photo-1517842645767-c639042777db?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#F1D5BC"
     },
     "title": {
       "en": "A Vision for Low-Cost, Local AI Language Learning Emerges",
@@ -4007,8 +4205,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#C8DFCB"
+      "src": "https://images.unsplash.com/photo-1593720213428-28a5b9e94613?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#C9E0CC"
     },
     "title": {
       "en": "Synthetic Study Data: A Hidden Flaw in Tracking Student Habits",
@@ -4731,8 +4929,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1593720213428-28a5b9e94613?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#C9E0CC"
+      "src": "https://images.unsplash.com/photo-1455390582262-044cdead277a?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#F6E0CA"
     },
     "title": {
       "en": "AI Video Tutors Move Beyond Production to True Learning Support",
@@ -6381,8 +6579,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517842645767-c639042777db?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#F1D5BC"
+      "src": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#D0E4D3"
     },
     "title": {
       "en": "Enhancing Programming Education with Safe AI Tutors",
@@ -7101,8 +7299,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1456406644174-8ddd4cd52a06?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#D2C5E0"
+      "src": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#D6CDE2"
     },
     "title": {
       "en": "Financial Hardship in Early Life Linked to Faster Brain Aging",
@@ -7613,8 +7811,8 @@
     "readingMinutes": 3,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#DCD2E7"
+      "src": "https://images.unsplash.com/photo-1455390582262-044cdead277a?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#D9CFE5"
     },
     "title": {
       "en": "Unseen Sleep Disruptions May Signal Future Alzheimer's Risk",
@@ -7921,8 +8119,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#C8DFCB"
+      "src": "https://images.unsplash.com/photo-1593720213428-28a5b9e94613?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#C9E0CC"
     },
     "title": {
       "en": "AI Tutor Nudges Students Towards Deeper Learning Through Self-Explanation",
@@ -8015,210 +8213,6 @@
       "url": "http://arxiv.org/abs/2608.25180v1"
     },
     "sourceGuid": "http://arxiv.org/abs/2608.25180v1",
-    "status": "published"
-  },
-  {
-    "slug": "rethinking-decision-making-your-choices-may-emerge-from-interaction-not-a-centra",
-    "category": "research",
-    "issue": "Vol. 03",
-    "publishedAt": "2026-08-25T17:53:28.000Z",
-    "readingMinutes": 5,
-    "feature": true,
-    "cover": {
-      "src": "https://www.sciencedaily.com/images/1920/neuroscience-brain-perception-processing.webp",
-      "tone": "#0c0c0c"
-    },
-    "title": {
-      "en": "Rethinking Decision-Making: Your Choices May Emerge from Interaction, Not a Central Command",
-      "ja": "「意思決定」は脳の司令部から生まれるのか？ 新たな視点が示す、選択の多角的な起源"
-    },
-    "dek": {
-      "en": "New neuroscience research challenges the traditional view of a brain-based command center for decisions, suggesting choices arise from continuous interplay with our body and environment.",
-      "ja": "脳が意思決定の「司令官」であるという従来の考え方に、神経科学者が異議を唱えています。私たちの選択は、知覚、運動、身体、そして周囲の世界との継続的な相互作用から生まれるのかもしれません。"
-    },
-    "author": {
-      "en": "WORLD STUDY TOKYO Editors",
-      "ja": "WORLD STUDY TOKYO 編集部"
-    },
-    "location": {
-      "en": "Tokyo, Japan",
-      "ja": "日本、東京"
-    },
-    "tags": [
-      {
-        "en": "Cognitive Science",
-        "ja": "認知科学"
-      },
-      {
-        "en": "Child Development",
-        "ja": "子どもの発達"
-      },
-      {
-        "en": "Decision Making",
-        "ja": "意思決定"
-      },
-      {
-        "en": "Executive Function",
-        "ja": "実行機能"
-      }
-    ],
-    "body": {
-      "en": [
-        "A recent perspective from a neuroscientist is challenging the long-held idea that our brains contain a central system solely responsible for \"making\" our decisions. Instead of a singular command center, this research suggests that what we experience as choosing may actually emerge from a dynamic and continuous interaction involving our perceptions, movements, bodily states, and the world around us.",
-        "This shift in understanding moves away from a purely internal, mentalistic view of decision-making towards a more integrated and embodied perspective. For parents and educators, this has profound implications for how we understand and foster a child's autonomy, problem-solving abilities, and overall cognitive development. It suggests that \"making a good decision\" isn't just about internal deliberation, but about a child's active engagement with their environment.",
-        "Consider a child learning to navigate a new playground. Their choice to climb a ladder, slide down, or play in the sand isn't a pre-programmed command from a specific brain region. Rather, it's a continuous loop of sensory input (seeing the ladder's height), bodily feedback (feeling their balance), motor action (reaching for a rung), and environmental response (the ladder's stability). The \"decision\" to climb emerges organically from this ongoing, real-time interaction.",
-        "> \"What we experience as choosing may instead emerge from the continuous interaction of perception, movement, the body, and the world around us.\"",
-        "This emergent view has significant implications for how we foster executive functions (高次認知機能 — planning, problem-solving, and self-control). If decisions are not just top-down commands, then providing rich, interactive environments and ample opportunities for physical exploration and hands-on engagement becomes critical. It underscores that active learning, movement, and real-world problem-solving are not merely supplementary, but fundamental to developing robust cognitive skills.",
-        "Future research will likely delve deeper into how these continuous interactions are integrated over time and what role conscious reflection plays in refining these emergent choices. For educational practices, this perspective could encourage pedagogical approaches that prioritize active exploration, experiential learning, and integrated physical and mental engagement over purely abstract or passive instruction."
-      ],
-      "ja": [
-        "私たちの脳の中に、意思決定を「下す」中央システムが存在するという従来の考え方に、ある神経科学者が疑問を投げかけています。この新たな視点では、私たちが「選ぶ」と認識する行為は、脳の単一の司令部からではなく、知覚、運動、身体の状態、そして周囲の世界との継続的な相互作用から生まれる可能性が示唆されています。",
-        "この理解の転換は、意思決定を純粋に内面的な思考プロセスとして捉えるのではなく、身体全体と環境が一体となった、より統合的で動的な現象として見直すものです。保護者や教育者にとって、これは子どもの自律性、問題解決能力、そして全体的な認知発達をどのように育むかについて、重要な示唆を与えます。良い「決断」をするとは、単に頭の中で考えるだけでなく、子どもが環境と積極的に関わることによって生まれるものだ、と捉えることができます。",
-        "例えば、新しい公園で遊ぶ子どもが、はしごを登るか、滑り台を滑るか、砂場で遊ぶかを選ぶ場面を想像してみてください。これは、脳の特定の領域からの事前にプログラムされた命令によるものではありません。むしろ、目から入る情報（はしごの高さを見る）、身体のフィードバック（バランスを感じる）、運動行動（手すりに手を伸ばす）、そして環境からの反応（はしごの安定性）といった、感覚入力、身体、運動、環境が常に循環し、相互に影響し合う中で「決断」が自然と生まれるのです。",
-        "「私たちが選択として経験することは、知覚、運動、身体、そして周囲の世界との継続的な相互作用から生まれるのかもしれない」",
-        "この「創発的（emergent）」な意思決定の考え方は、計画性や自己制御といった実行機能（目標に向かって行動を計画し、衝動を抑える高次認知機能）の育成にも大きな意味を持ちます。もし意思決定が単なるトップダウンの命令ではないのなら、子どもたちに豊かな相互作用の機会、身体を使った探求、そして実践的な体験を提供することが、これらの認知能力を育む上で不可欠となります。能動的な学び、身体活動、そして現実世界での問題解決が、単なる補足ではなく、強固な認知スキルを育む上での基礎であるという点を強調しています。",
-        "今後の研究では、これらの継続的な相互作用が時間とともにどのように統合され、意識的な思考がその創発的な選択プロセスにどのように関与するのかがさらに深掘りされるでしょう。教育実践の現場では、この視点から、単なる抽象的な知識伝達や受動的な学習ではなく、能動的な探求、体験学習、そして身体と精神が統合された学びを重視するアプローチが一段と奨励されるかもしれません。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "We often imagine our brain as a central command center, dictating all our decisions. However, this research suggests that our choices aren't just \"made\" by a single brain region. Instead, they emerge dynamically from a constant interplay of what we perceive (sight, sound), how we move, our body's internal state (like hunger or fatigue), and the environment around us. Think of it like a sports game: the next move isn't solely decided by the coach's command, but emerges from the real-time interactions of all players, the ball's position, and the opponents' movements.",
-        "If this perspective gains traction in education, it could influence how Tokyo families approach learning. For instance, developing \"critical thinking\" or \"judgment skills\" — often emphasized in junior high and university entrance exams — might involve more than just desk-based study. It could highlight the importance of physical activity, hands-on experiences, and varied environments for genuine cognitive development. It also lends scientific backing to inquiry-based learning and project-based approaches common in international schools.",
-        "It will likely take time for such fundamental neuroscience findings to translate into widespread educational practice in Japan. We might see initial pilot programs in progressive schools abroad within 3-5 years, followed by their evaluation. For these insights to influence MEXT's curriculum guidelines or be integrated into major juku (cram school) programs, a longer timeframe of 5-10 years, contingent on domestic research and curriculum development, is more realistic. However, some forward-thinking domestic private schools and international schools in Tokyo already implicitly embrace similar principles.",
-        "In Japan, schools like N高等学校 and S高等学校 emphasize practical learning through programming, project work, and club activities, which aligns with the idea of decision-making emerging from the interaction between body and environment. While different from rote learning methods like Kumon or Gakken, educational institutions and programs that promote children's active inquiry and experiential learning are likely to be early adopters of insights from this kind of research."
-      ],
-      "ja": [
-        "これまで私たちは、脳の中に「司令官」がいて、あらゆる意思決定を下していると考えがちでした。しかしこの研究は、選択という行為は、脳だけでなく、目から入る情報（知覚）、体の動き（運動）、お腹が空いたなどの体の状態、そして周囲の環境といった、様々な要素が常に影響し合いながら、その瞬間に「湧き上がってくる」ものだという見方を提示しています。まるでサッカーの試合で、監督の指示だけでなく、選手一人ひとりの動き、ボールの位置、相手選手の配置など、刻々と変わる状況全体から次のプレーが生まれるようなものです。",
-        "この考え方が教育現場に浸透すれば、東京のご家庭の子育てにも影響があるでしょう。例えば、中学受験や大学受験で求められる「思考力」や「判断力」を育む上で、単に机に向かって考えるだけでなく、体を動かす体験や、多様な環境での試行錯誤の機会がより重視されるようになるかもしれません。また、インターナショナルスクールで盛んな探求型学習やプロジェクト学習の意義が、脳科学の視点からも裏付けられることになります。",
-        "このような基礎研究の知見が日本の教育実践に具体的に反映されるまでには、まだ時間がかかると考えられます。まず海外の教育現場で実践例が生まれ、その効果が検証されるのに3〜5年。その後、文部科学省の学習指導要領改訂や、大手学習塾のカリキュラム開発に影響を与えるまでには、さらに5〜10年程度のスパンが必要でしょう。ただし、一部の先進的な国内私立校やインターナショナルスクールでは、すでに同様の理念で学びの場が設計されています。",
-        "日本では、N高等学校・S高等学校が、座学だけでなくプログラミングやプロジェクト学習、部活動などを通じた実践的な学びを重視しており、この「身体と環境との相互作用から生まれる意思決定」という考え方と通じる部分があります。また、公文式や学研教室のような反復学習とは異なるアプローチとして、子どもの主体的な探求を促す教育機関やプログラムが、この研究の示唆をいち早く取り入れていく可能性があります。"
-      ]
-    },
-    "structured": {
-      "tagline": {
-        "en": "Decisions emerge from interaction, not just the brain.",
-        "ja": "意思決定は脳だけでなく、身体と環境の相互作用から生まれる。"
-      },
-      "whoForWhat": {
-        "en": "For Tokyo families with children of all ages, this research offers a new lens on how children learn to make choices and develop executive functions, emphasizing active engagement over passive instruction.",
-        "ja": "あらゆる年齢の子どもを持つ東京のご家庭にとって、この研究は、子どもがどのように意思決定を行い、実行機能を育むかについての新たな視点を提供し、受動的な学習ではなく能動的な関わりの重要性を強調します。"
-      },
-      "vsJapanContext": {
-        "en": "This perspective challenges the traditional emphasis on purely academic, desk-based learning common in some juku, suggesting that physical and environmental interaction are fundamental to cognitive development, aligning more with inquiry-based international school curricula.",
-        "ja": "一部の学習塾で一般的な、机上での学力偏重型学習に対し、身体と環境との相互作用が認知発達の基礎であると示唆するこの研究は、探求型学習を重視するインターナショナルスクールのカリキュラムとより合致するでしょう。"
-      },
-      "tokyoNote": {
-        "en": "This interesting research prompts Tokyo parents to consider that \"smart choices\" might be cultivated not just through mental exercises, but also by providing rich, interactive environments. While MEXT curriculum reforms are slow, some progressive Japanese schools and international schools already embody these principles, offering a counterpoint to rote learning.",
-        "ja": "この興味深い研究は、東京の保護者に対し、「賢い選択」が単なる頭脳訓練だけでなく、豊かな相互作用環境の提供によっても育まれる可能性を示唆します。文科省のカリキュラム改訂は緩やかですが、一部の先進的な国内校やインターナショナルスクールでは、既にこれらの原則を取り入れた学習が実践されており、詰め込み型学習への対抗軸となり得ます。"
-      }
-    },
-    "source": {
-      "name": "ScienceDaily — Child Development",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260823094148.htm"
-    },
-    "sourceGuid": "https://www.sciencedaily.com/releases/2026/08/260823094148.htm",
-    "status": "published"
-  },
-  {
-    "slug": "the-rise-of-youtuber-college-admissions-mentors",
-    "category": "admissions",
-    "issue": "Vol. 03",
-    "publishedAt": "2026-08-25T21:00:00.000Z",
-    "readingMinutes": 5,
-    "feature": true,
-    "cover": {
-      "src": "https://wp.technologyreview.com/wp-content/uploads/2026/08/GoharKhan2_courtesy-photo-thumb.jpg?resize=1200,600",
-      "tone": "#0c0c0c"
-    },
-    "title": {
-      "en": "The Rise of YouTuber College Admissions Mentors",
-      "ja": "大学受験指導、YouTuberが新たな担い手に"
-    },
-    "dek": {
-      "en": "Online creators are carving out a significant role in guiding students through the complex university admissions process, offering accessible and relatable advice.",
-      "ja": "複雑な大学受験プロセスにおいて、オンラインクリエイターが学生を導く重要な役割を担い始めています。彼らはアクセスしやすく、共感を呼ぶアドバイスを提供しています。"
-    },
-    "author": {
-      "en": "WORLD STUDY TOKYO Editors",
-      "ja": "WORLD STUDY TOKYO 編集部"
-    },
-    "location": {
-      "en": "TOKYO, August 25, 2026",
-      "ja": "東京, 2026年8月25日"
-    },
-    "tags": [
-      {
-        "en": "Admissions",
-        "ja": "入試"
-      },
-      {
-        "en": "Online Learning",
-        "ja": "オンライン学習"
-      },
-      {
-        "en": "Higher Education",
-        "ja": "高等教育"
-      },
-      {
-        "en": "Mentorship",
-        "ja": "メンターシップ"
-      }
-    ],
-    "body": {
-      "en": [
-        "The landscape of college admissions guidance is steadily evolving, with online platforms emerging as central hubs for prospective students seeking advice. MIT Technology Review recently highlighted this trend, observing how a YouTuber has successfully established a niche as a college admissions mentor, signaling a shift in how young people access crucial information for their higher education journeys.",
-        "This phenomenon reflects a growing demand for more relatable and accessible guidance beyond traditional counselors or formal preparatory institutions. Students often find the peer-to-peer insights offered by these online mentors more authentic and practical, especially when navigating the nuanced requirements of applications such as personal essays and interviews. This democratization of information empowers students, particularly those without easy access to expensive private consultants.",
-        "A YouTuber's approach typically involves breaking down complex application components, sharing personal experiences, and curating relevant resources. Their 'niche' often means focusing on specific types of universities, application strategies (e.g., test-optional pathways), or even particular majors, offering targeted advice that might not be readily available in a general counseling session.",
-        "> \"The shift from formal counseling to peer-led digital guidance marks a significant change in how students prepare for university.\"",
-        "While the informal nature of these channels offers authenticity, it also raises questions about the consistency and accuracy of the advice. Unlike professional guidance, which adheres to established best practices and ethical standards, online content can vary widely in quality and may not always be up-to-date with the latest admissions policies. Students and parents are therefore encouraged to cross-reference information and seek diverse perspectives.",
-        "Looking ahead, the rise of online admissions mentors suggests a future where traditional educational institutions and preparatory schools may need to integrate more digital strategies or even collaborate with such influencers. The ongoing development of AI tools could further augment these human-led channels, offering personalized feedback on essays or interview practice, thereby reshaping the support ecosystem for university applicants."
-      ],
-      "ja": [
-        "大学受験の指導環境は着実に変化しており、オンラインプラットフォームが志望学生にとって重要な情報源となりつつあります。MIT Technology Reviewは最近、あるYouTuberが大学受験メンターとして独自の地位を確立している現象に注目し、若者が高等教育への道のりに関する重要な情報にアクセスする方法が変化していることを指摘しました。",
-        "この現象は、従来のカウンセラーや公式な予備校とは異なる、より身近でアクセスしやすい指導への需要の高まりを反映しています。学生たちは、個人的なエッセイや面接といった複雑な出願要件を乗り越える上で、オンラインメンターが提供する同世代からの視点を、より現実的で実践的だと感じることが少なくありません。この情報の民主化は、特に高額な個別コンサルタントを利用しにくい学生にとって、大きな力となります。",
-        "YouTuberによる指導は、通常、複雑な出願要素の解説、自身の経験談の共有、関連リソースのキュレーションといった形で行われます。彼らの「ニッチ」な専門性は、特定の大学、出願戦略（例：テスト提出を任意とする入試）、あるいは特定の専攻に焦点を当てることで、一般的なカウンセリングでは得にくい具体的なアドバイスを提供しています。",
-        "> 「公式なカウンセリングから、同世代が主導するデジタル指導への移行は、学生が大学進学準備をする方法における大きな変化を示している。」",
-        "これらの非公式なチャネルは、その信憑性において強みを持つ一方で、アドバイスの一貫性や正確性については疑問も投げかけます。確立されたベストプラクティスや倫理基準に則る専門的な指導とは異なり、オンラインコンテンツの質は幅広く、最新の入試ポリシーに常に対応しているとは限りません。そのため、学生や保護者は情報を多角的に検証し、多様な視点から情報を集めることが推奨されます。",
-        "今後、オンラインの入試メンターの台頭は、従来の教育機関や予備校がよりデジタル戦略を統合したり、あるいはこうしたインフルエンサーと連携したりする必要がある未来を示唆しています。AIツールの継続的な発展は、エッセイの個別フィードバックや面接練習の提供を通じて、人間主導のこれらのチャネルをさらに強化し、大学受験生へのサポートエコシステムを再構築する可能性を秘めています。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "For Tokyo families navigating the increasingly complex world of university admissions, especially for overseas institutions, the rise of YouTuber mentors offers a compelling new dynamic. This isn't just about finding study tips; it's about gaining insights into the 'unwritten rules' of applications, understanding cultural nuances in personal statements, and hearing authentic experiences from those who have successfully trodden the path.",
-        "This trend will likely influence Tokyo high school students considering both international universities, where holistic admissions (総合型選抜のような多角的な評価) are standard, and domestic universities emphasizing 総合型選抜. Families might find themselves allocating parts of their education budget not just to traditional juku for academic drilling, but also to subscriptions or workshops from online mentors who specialize in essay writing, interview skills, and portfolio development.",
-        "This shift is already underway for students targeting overseas universities, with many actively seeking out English-language content from US or UK-based admissions YouTubers. For a broader impact on domestic 大学受験, we could see this trend solidify within 3-5 years, particularly if major juku (SAPIX, 河合塾など) or online learning platforms like Z会 or Atama+ begin to integrate similar peer-led or influencer-driven content into their offerings, perhaps in collaboration with successful alumni.",
-        "While no single 'YouTuber admissions mentor' dominates the Japanese landscape in the same way, Japanese educational entities are certainly moving in comparable directions. N 高等学校・S 高等学校, for instance, has built a robust online community and leverages digital content for learning and career guidance, including university admissions. Additionally, private counselors specializing in overseas university applications often use online platforms to reach students, embodying a similar spirit of accessible, specialized advice, though perhaps in a more formalized manner."
-      ],
-      "ja": [
-        "複雑化する大学受験の世界、特に海外大学進学を目指す東京のご家庭にとって、YouTuberメンターの台頭は新たな魅力的な選択肢となり得ます。これは単なる勉強法のヒント探しに留まらず、出願の「暗黙のルール」を理解し、志望理由書における文化的なニュアンスを学び、実際にその道を成功裏に歩んだ人々の体験談を聞くことを意味します。",
-        "このトレンドは、ホリスティック入試（学力だけでなく、課外活動やエッセイ、面接などで人物全体を評価する入試方式）が一般的な海外大学を目指す高校生だけでなく、国内の総合型選抜を視野に入れる学生にも影響を与えるでしょう。ご家庭では、学力向上を目的とした従来の塾費用だけでなく、エッセイ作成、面接スキル、ポートフォリオ開発に特化したオンラインメンターのサブスクリプションやワークショップに教育予算の一部を充てるようになるかもしれません。",
-        "海外大学を目指す学生の間では、すでにこの動きが始まっており、多くの学生が米国や英国を拠点とするYouTuberの英語コンテンツを積極的に探しています。国内の大学受験全体に広範な影響を与えるには、3〜5年かかるかもしれません。特に、SAPIXや河合塾といった大手塾や、Z会、Atama+のようなオンライン学習プラットフォームが、成功した卒業生との連携などを通じて、同様のピア主導型またはインフルエンサー主導型のコンテンツを自社の提供サービスに統合するかが鍵となるでしょう。",
-        "日本には、海外のような形で「YouTuber入試メンター」が全国的に支配的な存在として確立されているわけではありませんが、日本の教育機関も同様の方向へ進んでいます。例えば、N高等学校・S高等学校は、オンラインコミュニティとデジタルコンテンツを学習およびキャリア指導、大学受験指導に活用しています。また、海外大学進学専門のプライベートカウンセラーも、オンラインプラットフォームを通じて学生にリーチしており、より形式的ではありますが、アクセスしやすい専門的なアドバイスを提供するという点で同様の精神を持っています。"
-      ]
-    },
-    "structured": {
-      "tagline": {
-        "en": "Online mentors are changing college admissions guidance.",
-        "ja": "YouTuberが大学受験指導のあり方を変える。"
-      },
-      "whoForWhat": {
-        "en": "For Tokyo families with high schoolers considering overseas university applications, this trend highlights new, accessible sources of admissions advice beyond traditional counselors.",
-        "ja": "海外大学進学を検討する高校生を持つ東京のご家庭にとって、従来のカウンセラーとは異なる、新たな受験指導の情報源の台頭を示唆します。"
-      },
-      "vsJapanContext": {
-        "en": "While Japan's 大学受験 largely relies on juku for academic prep, this global trend points to a growing demand for holistic admissions guidance, similar to 総合型選抜, but delivered digitally.",
-        "ja": "日本の大学受験が塾による学力対策に重きを置く中、この世界的トレンドは、総合型選抜のような多角的な指導への需要がデジタルで高まっていることを示します。"
-      },
-      "tokyoNote": {
-        "en": "This phenomenon underscores the increasing demand for personalized admissions insights, particularly for overseas universities. Tokyo families often seek bespoke advice, and online channels offer a scalable, often more relatable, alternative to traditional private counselors, especially for nuanced aspects like essay writing and personal statements.",
-        "ja": "この現象は、特に海外大学進学における個別化された入試情報の需要の高まりを浮き彫りにします。東京のご家庭では、エッセイや志望理由書といった微妙なニュアンスを要する部分で、従来の個別指導に代わる、より身近で効率的なオンラインチャネルが求められていると言えるでしょう。"
-      }
-    },
-    "source": {
-      "name": "MIT Technology Review",
-      "url": "https://www.technologyreview.com/2026/08/25/1140905/youtuber-finds-niche-as-college-admissions-mentor/"
-    },
-    "sourceGuid": "https://www.technologyreview.com/?p=1140905",
     "status": "published"
   }
 ]
