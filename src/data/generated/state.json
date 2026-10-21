@@ -1,5 +1,6 @@
 {
   "seen": [
+    "https://www.sciencedaily.com/releases/2026/10/261019093355.htm",
     "http://arxiv.org/abs/2610.26411v1",
     "https://www.sciencedaily.com/releases/2026/10/261019093357.htm",
     "https://www.sciencedaily.com/releases/2026/10/261018084421.htm",
@@ -250,7 +251,7 @@
     "urn:id:8909",
     "tag:theconversation.com,2011:article/284069"
   ],
-  "lastRunAt": "2026-10-20T23:13:04.344Z",
+  "lastRunAt": "2026-10-21T23:25:06.617Z",
   "lastSuccessAt": "2026-10-20T23:13:04.344Z",
-  "totalRuns": 136
+  "totalRuns": 137
 }
