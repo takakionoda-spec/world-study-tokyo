@@ -1,5 +1,213 @@
 [
   {
+    "slug": "nurturing-curiosity-a-sculptors-journey-against-ai-generated-content",
+    "category": "methods",
+    "issue": "Vol. 05",
+    "publishedAt": "2026-10-19T10:01:00.000Z",
+    "readingMinutes": 5,
+    "feature": true,
+    "cover": {
+      "src": "https://images.unsplash.com/photo-1531403009284-440f080d1e12?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#F4DCC4"
+    },
+    "title": {
+      "en": "Nurturing Curiosity: A Sculptor's Journey Against AI-Generated Content",
+      "ja": "好奇心を育む：AI時代における彫刻家の創造的挑戦"
+    },
+    "dek": {
+      "en": "A sculptor's work, driven by childhood curiosity and crafted from discarded objects, offers a powerful reminder of human creativity's enduring value in an age of abundant AI-generated content.",
+      "ja": "幼い頃の好奇心に導かれ、廃棄物からキネティックアートを生み出す彫刻家。その作品は、AI生成コンテンツが溢れる時代において、人間本来の創造性の価値を強く問いかけます。"
+    },
+    "author": {
+      "en": "WORLD STUDY TOKYO Editors",
+      "ja": "WORLD STUDY TOKYO 編集部"
+    },
+    "location": {
+      "en": "Tokyo, October 19, 2026",
+      "ja": "東京、2026年10月19日"
+    },
+    "tags": [
+      {
+        "en": "curiosity",
+        "ja": "好奇心"
+      },
+      {
+        "en": "creativity",
+        "ja": "創造性"
+      },
+      {
+        "en": "hands-on learning",
+        "ja": "実践的学習"
+      },
+      {
+        "en": "AI",
+        "ja": "AI"
+      }
+    ],
+    "body": {
+      "en": [
+        "A recent video feature by Portraits of Another Life on Psyche explores the work of a sculptor whose kinetic artworks, fashioned from discarded objects, are presented as an antidote to the perceived 'AI slop'. His creative journey is deeply rooted in a childhood curiosity for how things work and how they can be repurposed, offering a compelling narrative on the origins of genuine human ingenuity.",
+        "The core of this sculptor's practice lies in an unyielding curiosity, a trait often observed and celebrated in early childhood. Unlike AI, which operates on algorithms and existing data, his art emerges from a direct, tactile engagement with the physical world. He transforms what others deem waste into intricate, moving sculptures, demonstrating a unique problem-solving approach and an imaginative vision that cannot be easily replicated by machines.",
+        "This emphasis on hands-on creation and intrinsic motivation holds significant implications for how we view learning and skill development today. In an era where artificial intelligence can quickly generate text, images, and even simple designs, the human capacity for original thought, physical dexterity, and the ability to find beauty and function in the overlooked becomes increasingly valuable. It suggests that true creativity is not just about generating ideas, but about the iterative process of making, failing, and refining.",
+        "The concept of his work as an 'antidote to AI slop' highlights a growing concern about the quality and authenticity of digitally generated content. While AI can produce volume, it often lacks the unique perspective, emotional depth, and tangible imperfection that define human art and innovation. The sculptor's pieces, with their history embedded in found objects and their whimsical movements, offer a refreshing contrast, inviting viewers to connect with the human touch.",
+        "> Driven by childhood curiosity, a sculptor turns discarded objects into kinetic artworks that are the antidote to AI slop.",
+        "For families and educators, this story underscores the importance of fostering environments where children can explore, tinker, and create without strict parameters. Providing access to diverse materials, encouraging open-ended play, and valuing the process of discovery over a perfect final product can cultivate the kind of deep curiosity and problem-solving skills that are essential for navigating a future shaped by AI. It is a reminder that some of the most profound learning happens not in front of a screen, but through the direct manipulation of the world around us.",
+        "The ongoing conversation about human creativity versus artificial intelligence will continue to evolve. This sculptor's work serves as a tangible example of what makes human creativity distinct: its foundation in personal experience, its embrace of imperfection, and its capacity to imbue meaning into the mundane. As AI becomes more sophisticated, the unique value of human-led, hands-on creation, driven by an innate sense of wonder, will only grow."
+      ],
+      "ja": [
+        "Psycheに掲載された「Portraits of Another Life」の最新動画記事は、廃棄されたオブジェから生み出されるキネティックアートを手がける彫刻家の作品を紹介しています。彼の作品は、「AIが生み出す陳腐なもの（AI slop）」への解毒剤として提示されており、その創造の旅は、幼少期の好奇心と物事の仕組みへの探究心に深く根ざしています。これは、真の人間的独創性の源泉について説得力のある物語を提供しています。",
+        "この彫刻家の創作活動の中心にあるのは、幼少期によく見られ、称賛される「飽くなき好奇心」です。アルゴリズムと既存のデータに基づいて機能するAIとは異なり、彼の芸術は物理的な世界との直接的で触覚的な関わりから生まれます。他者が廃棄物とみなすものを精巧で動く彫刻へと変貌させる彼の手法は、機械では容易に再現できない独特の問題解決アプローチと想像力豊かなビジョンを示しています。",
+        "この手作業による創造と内発的動機付けへの重点は、今日の学習とスキルの発達をどのように捉えるかについて重要な示唆を与えます。人工知能がテキスト、画像、さらには単純なデザインを迅速に生成できる時代において、人間の持つ独自の思考力、身体的器用さ、そして見過ごされがちなものの中に美と機能を見出す能力は、ますます価値を増しています。真の創造性とは、単にアイデアを生み出すことだけでなく、試行錯誤を繰り返しながら作り上げ、洗練させていく反復的なプロセスにあることを示唆しています。",
+        "彼の作品が「AIが生み出す陳腐なものへの解毒剤」と表現されることは、デジタル生成コンテンツの質と真正性に対する懸念の高まりを浮き彫りにします。AIは大量のコンテンツを生成できますが、人間のアートやイノベーションを特徴づける独自の視点、感情的な深さ、そして触覚的な不完全さを欠くことがよくあります。彫刻家の作品は、見つけられたオブジェに歴史が宿り、その気まぐれな動きが人間らしさを感じさせ、見る人を人間の手による創造と結びつけ、爽やかな対比を生み出しています。",
+        "「幼い頃の好奇心に導かれ、彫刻家は廃棄されたオブジェをキネティックアートに変え、AIが生み出す陳腐なものへの解毒剤としています。」",
+        "家庭や教育者にとって、この物語は、子どもたちが厳密な制約なしに探求し、いじくり回し、創造できる環境を育むことの重要性を強調しています。多様な素材へのアクセスを提供し、自由な発想の遊びを奨励し、完璧な最終製品よりも発見のプロセスを重視することは、AIによって形成される未来を乗り越えるために不可欠な、深い好奇心と問題解決能力を育むことができます。最も深い学びのいくつかは、スクリーンの前ではなく、私たちを取り巻く世界を直接操作することを通じて起こるということを思い出させてくれます。",
+        "人間本来の創造性と人工知能に関する議論は、今後も進化し続けるでしょう。この彫刻家の作品は、人間の創造性がなぜ独特であるのかを具体的に示す好例です。それは個人的な経験に根差し、不完全さを受け入れ、日常の中に意味を吹き込む能力を持つからです。AIがより洗練されていくにつれて、生来の驚きの感覚に突き動かされる人間主導の手作業による創造の独自性は、ますます高まることでしょう。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "This sculptor's story reminds us that true innovation often springs from an unfiltered childhood curiosity and hands-on engagement with the world. For Tokyo families, this means recognizing that beyond academic rigor, fostering a child's innate desire to explore, dismantle, and rebuild — to understand how things truly work — is a profound form of learning. It’s about valuing the process of discovery, much like a child figuring out how to make a complex LEGO structure move, rather than just following instructions.",
+        "The implications for Tokyo families are significant, especially when considering a child's overall development and future readiness. While the focus in many Japanese educational settings, particularly in preparation for 中学受験 (junior high entrance exams), often leans towards rote memorization and problem-solving within defined parameters, this perspective highlights the need for unstructured creative time. It suggests that skills like critical thinking, adaptability, and original problem-solving — which are increasingly sought after in 総合型選抜 (holistic university admissions) and overseas university applications — are cultivated through this kind of open-ended, curiosity-driven play.",
+        "The shift towards valuing such skills is already happening, albeit slowly. Some international schools in Tokyo and progressive domestic private schools already incorporate project-based learning and design thinking into their curricula. We might see a broader impact within 5-10 years, gated by a gradual integration of more experiential learning into the 文部科学省 (MEXT) 学習指導要領 (curriculum guidelines) or, more immediately, through the increasing emphasis on creative portfolios and essays in university admissions, especially for 海外大学 (overseas universities).",
+        "In Japan, while traditional institutions like 公文式 (Kumon) or ベネッセ進研ゼミ (Benesse Shinkenzemi) focus on structured academic mastery, newer educational models like N高等学校・S高等学校 (N/S High School) are notable for their emphasis on project-based learning and fostering independent thought. However, the concept of freely repurposing 'discarded objects' for creative expression, without a pre-defined curriculum or outcome, remains less prevalent in mainstream education. Tokyo families can seek out workshops or environments that encourage this kind of hands-on, exploratory play to complement more structured learning."
+      ],
+      "ja": [
+        "この彫刻家の物語は、真のイノベーションが、フィルターを通さない幼少期の好奇心と、世界との実践的な関わりから生まれることを私たちに教えてくれます。東京の家庭にとって、これは学業の厳しさだけでなく、子どもが探求し、分解し、再構築し、物事が本当にどのように機能するかを理解したいという生来の欲求を育むことが、深い学びの形であると認識することを示唆します。それは、説明書通りに作るだけでなく、複雑なレゴの構造を動かす方法を子どもが自分で見つけ出すように、発見のプロセスを重視することです。",
+        "東京の家庭にとっての示唆は大きく、特に子どもの全体的な発達と将来への準備を考える上で重要です。日本国内の多くの教育現場、特に中学受験対策では、しばしば暗記や定義された範囲内での問題解決に重点が置かれがちですが、この視点は、非構造的な創造的時間の必要性を強調します。総合型選抜（学力試験だけでなく、課外活動や推薦書などで人物全体を評価する入試方式）や海外大学への出願でますます求められる批判的思考力、適応力、独創的な問題解決能力は、このような自由な発想と好奇心に駆られた遊びを通じて培われると考えられます。",
+        "このようなスキルの評価への転換は、ゆっくりとではありますが、すでに始まっています。都内のインターナショナルスクールや一部の先進的な国内私立学校では、すでにプロジェクトベース学習やデザイン思考をカリキュラムに取り入れています。より広範な影響は、文部科学省の学習指導要領への体験学習の段階的な導入、あるいはより直接的には、特に海外大学への出願における創造的なポートフォリオやエッセイへの重視の高まりを通じて、5〜10年以内に見られるかもしれません。",
+        "日本では、公文式やベネッセ進研ゼミのような伝統的な教育機関が体系的な学力向上に注力する一方で、N高等学校・S高等学校のような新しい教育モデルは、プロジェクトベース学習や自律的な思考の育成に力を入れています。しかし、「廃棄されたオブジェ」を事前のカリキュラムや成果にとらわれずに創造的な表現に再利用するという概念は、主流の教育ではまだあまり普及していません。東京の家庭は、より構造化された学習を補完するために、このような実践的で探求的な遊びを奨励するワークショップや環境を探すことができます。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "Curiosity, creativity, and human-led making against AI.",
+        "ja": "好奇心と創造性、AI時代の「手でつくる」価値。"
+      },
+      "whoForWhat": {
+        "en": "For Tokyo families with children of all ages, this piece explores how nurturing curiosity and hands-on creativity from an early age can prepare them for a future where unique human skills are paramount amidst AI advancements.",
+        "ja": "AIの進化の中で人間独自のスキルが重要となる未来に向け、幼少期からの好奇心と実践的な創造性を育むことの意義を考える、あらゆる年齢の子どもを持つ東京の保護者向け。"
+      },
+      "vsJapanContext": {
+        "en": "This contrasts with Japan's traditional emphasis on structured learning and exam preparation (中学受験), highlighting a growing global trend towards valuing open-ended creativity, a skill increasingly sought in 総合型選抜 and international school admissions.",
+        "ja": "日本の伝統的な構造化された学習や受験準備（中学受験）とは対照的に、自由な発想に基づく創造性を重視する世界的な傾向を示唆しており、これは総合型選抜やインターナショナルスクールの入試でますます求められるスキルです。"
+      },
+      "tokyoNote": {
+        "en": "Tokyo parents might find it challenging to integrate extensive hands-on creative projects into busy schedules or limited home spaces. However, the core message is about mindset: valuing process over product and encouraging everyday tinkering, which aligns with the evolving focus on holistic development in some international and progressive domestic schools.",
+        "ja": "東京の保護者にとって、多忙なスケジュールや限られた住空間の中で大規模な手作業の創造的プロジェクトを取り入れるのは難しいかもしれません。しかし、本質は「完成品より過程を重視する」という考え方であり、日常的な工夫を奨励することは、一部のインターナショナルスクールや先進的な国内学校における全人的育成の重視と共通するものです。"
+      }
+    },
+    "source": {
+      "name": "Psyche",
+      "url": "https://psyche.co/videos/i-take-silly-very-seriously-a-kinetic-sculptors-credo-of-creation"
+    },
+    "sourceGuid": "urn:id:9023",
+    "status": "published"
+  },
+  {
+    "slug": "fish-oil-supplements-may-not-boost-memory-or-protect-brain-study-suggests",
+    "category": "research",
+    "issue": "Vol. 05",
+    "publishedAt": "2026-10-22T12:46:24.000Z",
+    "readingMinutes": 5,
+    "feature": true,
+    "cover": {
+      "src": "https://www.sciencedaily.com/images/1920/fish-oil-omega-3-capsules-dha-epa.webp",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "Fish Oil Supplements May Not Boost Memory or Protect Brain, Study Suggests",
+      "ja": "魚油サプリメント、記憶力向上や脳保護効果は限定的との研究結果"
+    },
+    "dek": {
+      "en": "A two-year clinical trial found that while omega-3s from fish oil reached the brain, they did not improve memory or prevent brain shrinkage, suggesting whole foods may be key.",
+      "ja": "2年間の臨床試験で、魚油サプリメントのオメガ3は脳に届くものの、記憶力向上や脳の萎縮防止効果は見られませんでした。研究は、自然食品からの摂取が重要だと示唆しています。"
+    },
+    "author": {
+      "en": "WORLD STUDY TOKYO Editors",
+      "ja": "WORLD STUDY TOKYO 編集部"
+    },
+    "location": {
+      "en": "October 22, 2026",
+      "ja": "2026年10月22日"
+    },
+    "tags": [
+      {
+        "en": "Nutrition",
+        "ja": "栄養"
+      },
+      {
+        "en": "Brain Health",
+        "ja": "脳の健康"
+      },
+      {
+        "en": "Supplements",
+        "ja": "サプリメント"
+      },
+      {
+        "en": "Cognitive Development",
+        "ja": "認知発達"
+      }
+    ],
+    "body": {
+      "en": [
+        "A recent two-year clinical trial, published in late 2026, has cast doubt on the effectiveness of fish oil supplements for enhancing memory and preventing brain shrinkage associated with Alzheimer's disease. Researchers involved in the study found that while the supplements successfully delivered omega-3 fatty acids to the brain, this did not translate into measurable cognitive benefits.",
+        "Millions of individuals globally, including many parents, choose fish oil supplements for perceived brain health benefits, often for themselves or their children. This study challenges the widespread assumption that simply supplementing omega-3s is sufficient. The trial's design specifically looked at cognitive function and brain volume, key indicators relevant to long-term brain health and learning capacity.",
+        "The study tracked participants over two years, meticulously measuring omega-3 levels in the brain and assessing cognitive performance through various tests. Despite the successful delivery of omega-3s, there was no significant difference in memory scores or brain volume between the supplement group and the placebo group. This suggests a more complex relationship between nutrient intake, brain health, and cognitive outcomes than previously understood.",
+        "The researchers hypothesize that the benefits often attributed to omega-3s might stem from consuming these nutrients as part of a balanced diet rich in whole foods, rather than from isolated supplements.",
+        "> \"Researchers suspect that getting these nutrients through a healthy diet may offer benefits that supplements alone cannot provide.\"",
+        "This perspective highlights the synergistic effects of various nutrients found in whole foods, which supplements may not replicate.",
+        "The findings prompt a re-evaluation of current dietary advice and supplement use. While the study focused on adults and Alzheimer's, its implications extend to the broader conversation around children's brain development and learning. Future research may need to explore the specific compounds in whole fish that contribute to brain health, or the optimal dietary patterns that support cognitive function across the lifespan. For parents, this reinforces the importance of a diverse, nutrient-rich diet over reliance on single supplements."
+      ],
+      "ja": [
+        "2026年後半に発表された2年間の臨床試験が、記憶力の向上やアルツハイマー病に関連する脳の萎縮防止における魚油サプリメントの効果に疑問を投げかけています。この研究に携わった研究者たちは、サプリメントがオメガ3脂肪酸を脳に届けることには成功したものの、それが測定可能な認知機能の改善にはつながらなかったと報告しています。",
+        "世界中で数百万人の人々、特に多くの保護者が、脳の健康増進を期待して魚油サプリメントを摂取しています。この研究は、単にオメガ3を補給するだけで十分であるという広範な仮説に異議を唱えるものです。試験は、長期的な脳の健康と学習能力に関連する主要な指標である認知機能と脳容積に焦点を当てて実施されました。",
+        "この研究では、参加者を2年間にわたり追跡し、脳内のオメガ3レベルを詳細に測定するとともに、さまざまなテストを通じて認知能力を評価しました。オメガ3の脳への供給は成功したにもかかわらず、サプリメント摂取グループとプラセボ（偽薬）グループの間で、記憶スコアや脳容積に有意な差は見られませんでした。これは、栄養摂取、脳の健康、そして認知機能の結果の間に、これまで考えられていたよりも複雑な関係があることを示唆しています。",
+        "研究者たちは、オメガ3に起因するとされる恩恵は、単独のサプリメントからではなく、栄養豊富な自然食品を含むバランスの取れた食事の一部としてこれらの栄養素を摂取することから生じる可能性があると推測しています。",
+        "> 「研究者たちは、これらの栄養素を健康的な食事を通して摂取することが、サプリメント単独では提供できない恩恵をもたらす可能性があると見ています。」",
+        "この見方は、サプリメントでは再現できない、自然食品に含まれる多様な栄養素の相乗効果の重要性を強調しています。",
+        "この結果は、現在の食事に関するアドバイスやサプリメントの利用方法の再評価を促すものです。この研究は成人およびアルツハイマー病に焦点を当てていますが、その示唆は子どもの脳の発達と学習に関するより広範な議論にも及びます。今後の研究では、魚全体に含まれる脳の健康に寄与する特定の化合物や、生涯にわたって認知機能をサポートする最適な食生活パターンを探求する必要があるかもしれません。保護者にとっては、単一のサプリメントに頼るよりも、多様で栄養豊富な食事の重要性を改めて認識させるものと言えるでしょう。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "This new study tells us that while fish oil supplements effectively get omega-3s into the brain, they didn't improve memory or prevent brain shrinkage in adults over two years. Think of it like this: just putting fuel in a car doesn't guarantee it will run perfectly if other parts are missing or broken. The researchers suggest that the actual benefits linked to omega-3s might come from eating whole fish and a varied diet, where many nutrients work together, rather than from a single pill. It's less about the ingredient in isolation and more about the entire recipe.",
+        "For Tokyo families, this finding could influence decisions in several areas. First, it might shift focus away from costly individual supplements for children's brain development towards investing in high-quality, diverse food sources. Second, it could encourage schools or childcare facilities to emphasize whole-food nutrition education. Third, it might subtly impact how parents approach preparing for entrance exams, prioritizing consistent, healthy meals over quick fixes for cognitive enhancement.",
+        "We might see a gradual shift in parental awareness and purchasing habits within 2–3 years, as this kind of research gains traction in Japanese parenting media. A more significant impact on institutional practices, like school lunch programs or national dietary guidelines, would likely take 5–10 years, gated by MEXT's (Ministry of Education, Culture, Sports, Science and Technology) review cycles and public health initiatives.",
+        "While there isn't a direct Japanese counterpart for \"fish oil supplement ineffectiveness,\" organizations like ベネッセ教育総合研究所 (Benesse Educational Research Institute) and the national dietary guidelines promoted by the Ministry of Health, Labour and Welfare already emphasize balanced nutrition for child development. This research aligns with their existing advice, underscoring that a holistic approach to diet, rather than specific supplements, is key."
+      ],
+      "ja": [
+        "この新しい研究が示唆するのは、魚油サプリメントは確かにオメガ3を脳に届けますが、2年間の追跡調査では、成人の記憶力向上や脳の萎縮防止にはつながりませんでした。これは、車にガソリンを入れるだけでは、他の部品が欠けていたり壊れていたりすれば完璧には走らないのと似ています。研究者たちは、オメガ3の実際の恩恵は、単一のサプリメントからではなく、多くの栄養素が相乗的に作用する、丸ごとの魚や多様な食生活から得られるのではないかと示唆しています。大切なのは、特定の成分単体ではなく、食事全体の組み合わせだという視点です。",
+        "東京で子育てをするご家庭にとって、この発見はいくつかの意思決定に影響を与える可能性があります。まず、子どもの脳の発達のために高価な個別のサプリメントに頼るよりも、質の高い多様な食材への投資へと焦点を移すきっかけになるかもしれません。次に、学校や保育施設が、加工食品よりも自然食品の栄養教育を重視するようになる可能性も考えられます。そして、受験対策においても、認知機能の即効薬を求めるよりも、一貫して健康的な食事を優先するアプローチへと、意識が緩やかに変わっていくかもしれません。",
+        "この種の研究が日本の育児メディアで注目されるにつれて、保護者の意識やサプリメント購入の習慣には、2〜3年以内に緩やかな変化が見られるかもしれません。しかし、学校給食プログラムや国の食育ガイドラインといった制度的な実践に大きな影響が出るには、文部科学省の検討サイクルや公衆衛生イニシアティブを考慮すると、5〜10年かかる可能性が高いでしょう。",
+        "魚油サプリメントの効果に関する直接的な日本の研究はまだ少ないですが、ベネッセ教育総合研究所や厚生労働省が推進する国の食生活指針は、子どもの発達におけるバランスの取れた栄養の重要性をすでに強調しています。この研究結果は、特定のサプリメントよりも、食生活全体を包括的に捉えるアプローチが重要であるという、既存の日本の食育の考え方と一致するものです。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "Fish oil supplements show no memory benefit in new study.",
+        "ja": "魚油サプリメント、記憶力向上効果は示さず。"
+      },
+      "whoForWhat": {
+        "en": "For Tokyo families considering fish oil supplements for their children's cognitive development or their own brain health, this study offers a critical perspective on the efficacy of isolated nutrients versus whole-food diets.",
+        "ja": "お子様の認知発達やご自身の脳の健康のために魚油サプリメントを検討している東京の保護者にとって、単一栄養素の摂取とバランスの取れた食生活のどちらが重要か、新たな視点を提供する研究です。"
+      },
+      "vsJapanContext": {
+        "en": "This finding challenges the common perception in Japan, often seen in advertisements for supplements like DHA/EPA, that isolated nutrients are a direct path to enhanced brain function, contrasting with traditional emphasis on balanced meals (一汁三菜).",
+        "ja": "DHA・EPAなどのサプリメント広告でよく見られる「単一栄養素が脳機能向上に直結する」という日本の一般的な認識に対し、この研究はバランスの取れた食生活（一汁三菜）の重要性を再考させるものです。"
+      },
+      "tokyoNote": {
+        "en": "Tokyo parents often seek ways to support their children's learning, including dietary supplements. This research reminds us that while nutrients are vital, their impact may be more profound when consumed as part of a varied diet, rather than relying solely on pills, especially given the cost and varying quality of supplements on the market.",
+        "ja": "東京の保護者は、子どもの学習をサポートするために食事やサプリメントに気を配ることが少なくありません。この研究は、栄養素は重要であるものの、その効果は多様な食材からの摂取によって最大化され、高価なサプリメントに過度に頼るよりも、バランスの取れた食事が基本であるという大切な視点を提供します。"
+      }
+    },
+    "source": {
+      "name": "ScienceDaily — Child Development",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261020085427.htm"
+    },
+    "sourceGuid": "https://www.sciencedaily.com/releases/2026/10/261020085427.htm",
+    "status": "published"
+  },
+  {
     "slug": "the-aging-brain-trading-detail-memory-for-wisdom-and-the-bigger-picture",
     "category": "research",
     "issue": "Vol. 05",
@@ -4413,8 +4621,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1551434678-e076c223a692?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#CFE3D2"
+      "src": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#C8DFCB"
     },
     "title": {
       "en": "A Vision for Low-Cost, Local AI Language Learning Emerges",
@@ -6165,8 +6373,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1488998427799-e3362cec87c3?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#D3C7E1"
+      "src": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#D5C9E2"
     },
     "title": {
       "en": "Beyond Gray Matter: Brain's Hidden Wiring May Preserve Cognitive Sharpness",
@@ -6887,8 +7095,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1488998427799-e3362cec87c3?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#D3C7E1"
+      "src": "https://images.unsplash.com/photo-1455390582262-044cdead277a?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#D9CFE5"
     },
     "title": {
       "en": "Sea Squirt Compound Shows Promise for Memory and Learning in Aging Mice",
@@ -6991,8 +7199,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#C8DFCB"
+      "src": "https://images.unsplash.com/photo-1551434678-e076c223a692?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#CFE3D2"
     },
     "title": {
       "en": "Enhancing Programming Education with Safe AI Tutors",
@@ -7711,8 +7919,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#DCD2E7"
+      "src": "https://images.unsplash.com/photo-1542621334-a254cf47733d?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#D8CDE3"
     },
     "title": {
       "en": "Financial Hardship in Early Life Linked to Faster Brain Aging",
@@ -8009,210 +8217,6 @@
       "url": "https://www.sciencedaily.com/releases/2026/08/260822015138.htm"
     },
     "sourceGuid": "https://www.sciencedaily.com/releases/2026/08/260822015138.htm",
-    "status": "published"
-  },
-  {
-    "slug": "beyond-the-lizard-brain-new-science-on-how-our-brains-evolve",
-    "category": "research",
-    "issue": "Vol. 03",
-    "publishedAt": "2026-08-31T12:53:45.000Z",
-    "readingMinutes": 5,
-    "feature": true,
-    "cover": {
-      "src": "https://www.sciencedaily.com/images/1920/lizard-brain-ancient-intelligence.webp",
-      "tone": "#0c0c0c"
-    },
-    "title": {
-      "en": "Beyond the \"Lizard Brain\": New Science on How Our Brains Evolve",
-      "ja": "「爬虫類脳」神話に挑む：脳の進化に関する新知見が示すもの"
-    },
-    "dek": {
-      "en": "A recent study challenges the long-held notion of the brain as layers of old and new, suggesting evolution balances competing wiring styles.",
-      "ja": "脳が古い層と新しい層で構成されるという長年の見方に異議を唱える最新研究。進化は競合する配線スタイルをバランスさせていると示唆します。"
-    },
-    "author": {
-      "en": "WORLD STUDY TOKYO Editors",
-      "ja": "WORLD STUDY TOKYO 編集部"
-    },
-    "location": {
-      "en": "August 31, 2026",
-      "ja": "2026年8月31日"
-    },
-    "tags": [
-      {
-        "en": "Neuroscience",
-        "ja": "神経科学"
-      },
-      {
-        "en": "Child Development",
-        "ja": "児童発達"
-      },
-      {
-        "en": "Brain Science",
-        "ja": "脳科学"
-      },
-      {
-        "en": "Emotional Regulation",
-        "ja": "感情調整"
-      }
-    ],
-    "body": {
-      "en": [
-        "A recent study, highlighted in ScienceDaily, challenges the long-standing \"triune brain\" model, often simplified as the \"lizard brain\" theory. This popular model, dating back over 70 years, suggested that human brains evolved in distinct layers, with newer, rational parts stacked atop older, emotional, and instinctual structures. It posited that our primal instincts resided in a \"reptilian complex,\" emotions in the \"limbic system,\" and higher thought in the \"neocortex.\"",
-        "Researchers have found that brain evolution does not appear to involve simply adding new layers. Instead, their work suggests a more dynamic process where evolution balances two competing styles of brain wiring. One style is optimized for efficient, often instinctual reactions, while the other facilitates more flexible, adaptable responses. Depending on an animal's specific survival needs, one of these wiring styles expands, while the other may shrink.",
-        "This new perspective reframes our understanding of how emotions and rationality interact within the brain. Rather than a constant battle between a primitive \"lizard brain\" and a sophisticated \"thinking brain,\" the findings imply that what we perceive as rational and emotional responses are actually different wiring strategies within a more unified, adaptable system. The brain is not just a collection of distinct, independent parts, but an intricately interconnected network constantly optimizing its responses.",
-        "For parents and educators, this updated view encourages a move beyond simplistic explanations of children's emotional outbursts or difficulties with self-regulation. Instead of viewing such behaviors as a failure of a \"thinking brain\" to control a \"lizard brain,\" it prompts us to consider brain function as a complex interplay of specialized circuits that adapt to environmental demands. This nuance can inform more effective approaches to fostering emotional intelligence and cognitive development.",
-        "> evolution instead appears to balance two competing styles of brain wiring, expanding one while shrinking the other depending on what an animal needs to survive.",
-        "This shift in understanding brain evolution could have significant implications for future educational psychology and pedagogical practices. If our brains are not merely layered but dynamically wired, it suggests that fostering both emotional and cognitive skills might require more integrated approaches. These approaches would move away from treating them as distinct, sequential developmental stages and instead focus on nurturing their interconnected growth. Further research will likely explore how these adaptive wiring styles develop throughout childhood and adolescence, and how they can best be supported."
-      ],
-      "ja": [
-        "科学ニュースサイト ScienceDaily で報じられた最新の研究は、長年にわたり信じられてきた「三位一体脳（triune brain）」モデル、特に「爬虫類脳（lizard brain）」という概念に疑問を投げかけています。70年以上前に提唱されたこのモデルは、人間の脳が古い層の上に新しい理性的な層が積み重なって進化してきたという考え方でした。私たちの原始的な本能は「爬虫類複合体」に、感情は「大脳辺縁系」に、そして高次の思考は「大脳新皮質」にあるとされていました。",
-        "しかし、研究者たちは、脳の進化は単に新しい層を追加するだけではないことを発見しました。彼らの研究は、進化が競合する二つの異なる脳の配線スタイルをバランスさせる、より動的なプロセスであることを示唆しています。一つは効率的でしばしば本能的な反応に最適化されており、もう一つはより柔軟で適応性の高い反応を促します。動物が生存するために必要なものに応じて、これらの配線スタイルの一方が拡張し、もう一方が縮小することがあるというのです。",
-        "この新しい視点は、脳内で感情と理性がどのように相互作用するかについての私たちの理解を根本的に変えるものです。原始的な「爬虫類脳」と洗練された「思考する脳」の間で絶え間ない戦いがあるというよりは、理性的な反応と感情的な反応は、より統一された適応性の高いシステム内における異なる配線戦略であると示唆されています。脳は独立した個別の部分の集合体ではなく、常に反応を最適化する複雑に相互接続されたネットワークなのです。",
-        "保護者や教育者にとって、この脳に関する新しい理解は、子どもの感情的な爆発や自己調整の難しさに対する単純な説明を超えて考えることを促します。そのような行動を「思考する脳」が「爬虫類脳」を制御できない失敗と捉えるのではなく、脳機能が環境の要求に適応する特殊な回路の複雑な相互作用として捉えるべきだという視点を提供します。このニュアンスを理解することは、感情的知性と認知発達を育むためのより効果的なアプローチにつながるでしょう。",
-        "「進化は、動物が生き残るために必要なものに応じて、競合する2つの脳の配線スタイルをバランスさせ、一方を拡大させながら他方を縮小させているようだ」",
-        "この脳進化に関する理解の変化は、将来の教育心理学や教育実践に大きな影響を与える可能性があります。もし私たちの脳が単に層状に構築されているのではなく、動的に配線されているのであれば、感情的スキルと認知的スキルの両方を育むには、より統合的なアプローチが必要であることを示唆します。これらは別々の、順次的な発達段階として扱うのではなく、相互に連結した成長を育むことに焦点を当てるべきでしょう。今後の研究では、これらの適応的な配線スタイルが幼少期から青年期にかけてどのように発達し、どのように最もよくサポートできるかが探求されるはずです。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "This research challenges the idea that our brains operate like a car with an old, unpredictable engine (the \"lizard brain\") and a new, logical navigation system. Instead, it suggests the brain is more like a highly adaptable, integrated computer system that constantly reconfigures its internal wiring to best respond to its environment, balancing quick, instinctive reactions with more thoughtful, flexible ones. It's not about overcoming a primal self, but about optimizing an integrated system.",
-        "For Tokyo families, this could subtly influence how we approach emotional regulation and academic pressure. Rather than seeing a child's stress response during 中学受験 (junior high entrance exam) preparation as a failure of their \"thinking brain\" to control their \"emotional brain,\" this perspective encourages understanding it as a natural, albeit sometimes unhelpful, wiring adaptation. It might shift focus from suppressing emotions to helping children develop more adaptive response patterns. This could also impact how international schools, with their emphasis on social-emotional learning, frame their curriculum.",
-        "The direct impact on daily parenting and education in Tokyo will likely be long-term, perhaps 5-10 years. This kind of foundational neuroscience research typically takes time to translate into practical pedagogical tools or widely adopted parenting strategies. Its integration into mainstream Japanese education, such as MEXT's 学習指導要領 (curriculum guidelines) or major juku practices, would require significant replication studies and curriculum development.",
-        "While there isn't a direct Japanese counterpart to this specific neuroscientific finding, the underlying principle of integrated brain function resonates with broader educational trends. For instance, some progressive international schools in Tokyo, and even institutions like 慶應SFC (Keio University Shonan Fujisawa Campus), already emphasize interdisciplinary learning and holistic development, implicitly acknowledging the interconnectedness of cognitive and emotional functions rather than treating them in isolation. However, the explicit application of this brain wiring model to curriculum design is still nascent in Japan."
-      ],
-      "ja": [
-        "この研究は、私たちの脳が古い予測不能なエンジン（「爬虫類脳」）と新しい論理的なナビゲーションシステムを搭載した車のように機能するという考え方に異議を唱えています。そうではなく、脳は環境に最もよく反応するために内部配線を常に再構成し、素早い本能的な反応と、より思慮深く柔軟な反応のバランスを取る、高度に適応可能な統合型コンピューターシステムのようなものだと示唆しています。これは、原始的な自己を克服するというよりも、統合されたシステムを最適化する話に近いでしょう。",
-        "東京の家庭にとって、この新しい視点は、感情の調整や学業へのプレッシャーに対するアプローチに微妙な影響を与えるかもしれません。中学受験の準備中に子どもが示すストレス反応を、「思考する脳」が「感情的な脳」を制御できない失敗と捉えるのではなく、この視点からは、それは自然な、時には不都合な脳の配線適応として理解されるようになります。感情を抑圧するのではなく、子どもがより適応的な反応パターンを育む手助けをすることに焦点を移すきっかけになるかもしれません。これは、社会情動的学習を重視するインターナショナルスクールがカリキュラムをどのように組み立てるかにも影響を与える可能性があります。",
-        "この研究が東京の日常的な子育てや教育に直接的な影響を与えるまでには、おそらく5年から10年といった長期的な時間が必要でしょう。このような基礎的な神経科学研究は、実用的な教育ツールや広く採用される子育て戦略に転換されるまでに時間を要します。文部科学省の学習指導要領や大手学習塾のカリキュラムに組み込まれるには、さらに多くの追試研究とカリキュラム開発が必要となるでしょう。",
-        "この特定の脳科学的発見に直接的な日本の類似例はまだありませんが、脳機能の統合性という根底にある原則は、より広範な教育トレンドと共鳴します。例えば、東京の一部の先進的なインターナショナルスクールや、慶應義塾大学SFC学部のような教育機関では、認知機能と感情機能の相互関連性を暗黙のうちに認識し、学際的な学習や全人的な発達を重視しています。しかし、この脳の配線モデルを明示的にカリキュラム設計に応用する動きは、日本ではまだ初期段階にあると言えます。"
-      ]
-    },
-    "structured": {
-      "tagline": {
-        "en": "Brain evolution is about wiring, not just stacked layers.",
-        "ja": "脳の進化は層ではなく配線のバランス。"
-      },
-      "whoForWhat": {
-        "en": "For Tokyo parents curious about the latest insights into child development, this research offers a more nuanced understanding of how emotion and cognition interact, moving beyond simplistic \"lizard brain\" explanations for behavior.",
-        "ja": "子どもの発達に関する最新の知見に関心を持つ東京の保護者へ。感情と認知がどのように相互作用するかについて、「爬虫類脳」といった単純な説明を超えた、より繊細な理解を深める一助となるでしょう。"
-      },
-      "vsJapanContext": {
-        "en": "This neuroscientific finding challenges a Western-centric model, and while Japan's MEXT curriculum doesn't explicitly reference \"lizard brain\" theory, a deeper understanding of integrated brain function could subtly influence future approaches to social-emotional learning in Japanese schools, including those considering 総合型選抜 (Sogogata Senbatsu — holistic admissions).",
-        "ja": "この神経科学的発見は欧米中心のモデルに異議を唱えるもので、文部科学省の学習指導要領が直接「爬虫類脳」に言及することはありませんが、脳の統合的機能への深い理解は、日本の学校（総合型選抜を考慮する学校を含む）における今後の社会情動的学習アプローチに微細な影響を与える可能性があります。"
-      },
-      "tokyoNote": {
-        "en": "Tokyo families often seek clear frameworks for understanding child behavior. This research reminds us that brain science is complex, encouraging a shift from rigid models to appreciating the dynamic, adaptive nature of a child's developing mind. It suggests that fostering resilience might be more about integrated support than about \"controlling\" primal urges.",
-        "ja": "東京の家庭では、子どもの行動を理解するための明確な枠組みが求められがちです。この研究は、脳科学が複雑であることを改めて示し、硬直したモデルから、子どもの発達途上の心が持つダイナミックで適応的な性質を評価することへと視点を転換するよう促します。原始的な衝動を「制御する」ことよりも、統合的なサポートを通じてレジリエンスを育むことの重要性を示唆しています。"
-      }
-    },
-    "source": {
-      "name": "ScienceDaily — Child Development",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260829235958.htm"
-    },
-    "sourceGuid": "https://www.sciencedaily.com/releases/2026/08/260829235958.htm",
-    "status": "published"
-  },
-  {
-    "slug": "cleaner-air-sharper-minds-hepa-purifiers-linked-to-improved-brain-function",
-    "category": "research",
-    "issue": "Vol. 03",
-    "publishedAt": "2026-08-30T13:33:54.000Z",
-    "readingMinutes": 4,
-    "feature": true,
-    "cover": {
-      "src": "https://www.sciencedaily.com/images/1920/neuroscience-brain-boost-glow.webp",
-      "tone": "#0c0c0c"
-    },
-    "title": {
-      "en": "Cleaner Air, Sharper Minds: HEPA Purifiers Linked to Improved Brain Function",
-      "ja": "きれいな空気で思考力アップ：HEPA空気清浄機が脳機能向上と関連"
-    },
-    "dek": {
-      "en": "A new study suggests that even a month of using a HEPA air purifier at home can enhance executive function in adults, hinting at broader implications for learning and cognitive health in polluted urban environments.",
-      "ja": "HEPA空気清浄機を自宅で1ヶ月使用するだけで、大人の実行機能が向上する可能性が新たな研究で示されました。これは、都市部の汚染された環境における学習や認知機能の健康に、より広い意味を持つかもしれません。"
-    },
-    "author": {
-      "en": "WORLD STUDY TOKYO Editors",
-      "ja": "WORLD STUDY TOKYO 編集部"
-    },
-    "location": {
-      "en": "Tokyo / August 30, 2026",
-      "ja": "東京 / 2026年8月30日"
-    },
-    "tags": [
-      {
-        "en": "Cognitive Science",
-        "ja": "認知科学"
-      },
-      {
-        "en": "Brain Health",
-        "ja": "脳の健康"
-      },
-      {
-        "en": "Air Quality",
-        "ja": "空気の質"
-      },
-      {
-        "en": "Executive Function",
-        "ja": "実行機能"
-      }
-    ],
-    "body": {
-      "en": [
-        "A recent study has shed light on a fascinating connection between indoor air quality and cognitive performance. Researchers found that adults aged 40 and older who used a HEPA (High-Efficiency Particulate Air) air purifier in their homes for just one month showed measurable improvements in their executive function.",
-        "Executive function refers to the set of cognitive skills that help us plan, focus attention, remember instructions, and juggle multiple tasks successfully. These skills are crucial for daily life, academic learning, and professional performance. The study suggests that reducing exposure to fine particulate matter (PM2.5) — tiny airborne particles from traffic and industrial activity — through air purification could offer a simple yet effective way to protect the brain from the subtle, damaging effects of pollution.",
-        "The participants in the study, all adults aged 40 and above, were asked to use HEPA air purifiers in their homes. After one month, their cognitive abilities were assessed. The results indicated a significant change in how quickly they could complete tasks requiring executive function.",
-        "> Adults aged 40 and older performed about 12% faster on a test of executive function after using a HEPA air purifier at home for one month.",
-        "This 12% improvement in speed on cognitive tests, while specific to the adult population studied, raises important questions about the potential benefits for children and adolescents whose brains are still developing. Cleaner indoor air in homes and classrooms could theoretically support better focus and learning outcomes, though more research is needed to confirm this directly in younger age groups.",
-        "The findings underscore the often-overlooked impact of indoor air quality on our health and cognitive abilities. As urban populations continue to grow, understanding how environmental factors like air pollution affect brain health becomes increasingly vital for fostering optimal learning and well-being across all ages."
-      ],
-      "ja": [
-        "最近の研究で、室内の空気の質と認知機能の間に興味深い関連性が示されました。HEPA（高性能粒子フィルター）空気清浄機を自宅でわずか1ヶ月使用した40歳以上の大人において、実行機能に測定可能な改善が見られたと研究者たちは報告しています。",
-        "実行機能とは、計画を立てる、集中する、指示を記憶する、複数のタスクを効率的にこなすといった、私たちを助ける一連の認知スキルのことです。これらのスキルは、日常生活、学業、そして仕事のパフォーマンスにおいて極めて重要です。この研究は、空気清浄によって交通や産業活動から発生する微小粒子状物質（PM2.5）への曝露を減らすことが、汚染による脳への微細な悪影響から脳を保護する、シンプルかつ効果的な方法となりうることを示唆しています。",
-        "研究に参加したのは、全員が40歳以上の大人で、自宅でHEPA空気清浄機を使用するよう求められました。1ヶ月後、彼らの認知能力が評価されましたが、その結果、実行機能を必要とするタスクを完了する速度に顕著な変化が見られました。",
-        "「40歳以上の大人は、自宅でHEPA空気清浄機を1ヶ月使用した後、実行機能テストで約12%速くパフォーマンスを発揮しました。」",
-        "認知テストの速度が12%向上したというこの結果は、研究対象となった成人層に特化したものですが、脳がまだ発達段階にある子どもや青少年にとっての潜在的な恩恵について、重要な問いを投げかけます。家庭や教室の空気がより清潔であれば、理論的には集中力や学習成果の向上を支援できる可能性があります。ただし、これを若い年齢層で直接確認するためには、さらなる研究が必要です。",
-        "今回の発見は、室内の空気の質が私たちの健康と認知能力に与える、しばしば見過ごされがちな影響を浮き彫りにしています。都市部の人口が増加し続ける中で、大気汚染のような環境要因が脳の健康にどのように影響するかを理解することは、あらゆる年齢層において最適な学習とウェルビーイングを育む上でますます不可欠となるでしょう。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "This research, while focused on adults, offers a compelling perspective for Tokyo families. Imagine the daily demands on a child's brain: managing homework, preparing for exams, engaging in extracurriculars. If cleaner air can subtly enhance executive functions like focus and planning, it could mean a tangible difference in a child's ability to navigate their busy academic life.",
-        "For Tokyo families, this finding could influence decisions around creating optimal home learning environments. While many households already use air purifiers for allergies or general health, this study adds a new dimension: cognitive benefit. It might prompt families to consider the placement and usage of purifiers more strategically, especially in study areas, or to prioritize models with strong HEPA filtration.",
-        "The broader impact on school environments might take longer to materialize, perhaps 3-5 years. This would likely be gated by further research specifically on children and adolescents, followed by potential guidance from the Ministry of Education, Culture, Sports, Science and Technology (MEXT) or initiatives by private schools and juku (cram schools) to improve classroom air quality.",
-        "In Japan, the use of air purifiers, often combined with humidifiers (加湿空気清浄機), is already widespread, particularly in urban areas and during allergy seasons. Brands like Sharp, Panasonic, and Daikin are common household names. This new research provides a scientific rationale that aligns with an existing cultural emphasis on clean indoor environments, potentially shifting the conversation from mere comfort or allergy relief to active cognitive enhancement. It could also encourage more schools to invest in advanced ventilation systems beyond basic classroom air conditioning."
-      ],
-      "ja": [
-        "この研究は成人を対象としたものですが、東京で子育てをするご家庭にとって示唆に富む視点を提供します。子どもの脳が日々直面する要求、例えば宿題の管理、試験準備、習い事への参加などを想像してみてください。もしきれいな空気が集中力や計画性といった実行機能をわずかに向上させるとしたら、それは子どもの多忙な学習生活を乗り切る能力に具体的な違いをもたらす可能性があります。",
-        "東京のご家庭にとって、この発見は最適な家庭学習環境を整える上での意思決定に影響を与えるかもしれません。多くのご家庭がアレルギー対策や一般的な健康のためにすでに空気清浄機を使用していますが、今回の研究は「認知機能の向上」という新たな側面を加えます。これにより、特に学習スペースでの空気清浄機の配置や使用方法をより戦略的に考えたり、HEPAフィルターの性能が高いモデルを優先したりする動きにつながる可能性があります。",
-        "学校環境への広範な影響が現れるまでには、おそらく3〜5年と、もう少し時間がかかるでしょう。これは、子どもや青少年を対象としたさらなる研究が先行し、その後に文部科学省からの潜在的な指針、あるいは私立学校や塾が教室の空気質改善に向けた取り組みを始めることによって進展すると考えられます。",
-        "日本では、空気清浄機、特に加湿機能付き空気清浄機（加湿空気清浄機）の利用は、都市部やアレルギーの季節を中心にすでに広く普及しています。シャープ、パナソニック、ダイキンといったブランドは、多くの家庭で馴染み深いものです。この新しい研究は、既存の清潔な室内環境を重視する文化的な傾向に合致する科学的根拠を提供し、単なる快適性やアレルギー対策から、積極的な認知機能の向上へと議論の焦点を移す可能性を秘めています。また、多くの学校が基本的な空調設備を超えて、より高度な換気システムに投資するきっかけとなるかもしれません。"
-      ]
-    },
-    "structured": {
-      "tagline": {
-        "en": "Cleaner indoor air linked to faster brain function in adults.",
-        "ja": "きれいな室内空気で大人の脳機能が向上。"
-      },
-      "whoForWhat": {
-        "en": "For Tokyo families with children of all ages, this research offers a new lens on creating optimal home environments for learning and cognitive well-being, especially for those considering air purification strategies.",
-        "ja": "あらゆる年齢の子どもを持つ東京のご家庭が、学習や認知機能の健康のために最適な家庭環境を整える上で、特に空気清浄対策を検討する際に新たな視点を提供するでしょう。"
-      },
-      "vsJapanContext": {
-        "en": "This finding builds upon Japan's existing high adoption rate of home air purifiers (加湿空気清浄機) by adding a direct cognitive benefit to the established health and comfort advantages, aligning with the urban reality of Tokyo.",
-        "ja": "この研究は、日本で既に普及している家庭用空気清浄機（加湿空気清浄機）の高い普及率に、健康や快適性だけでなく、認知機能への直接的な恩恵という新たな価値を加え、東京の都市生活の実情と深く結びつきます。"
-      },
-      "tokyoNote": {
-        "en": "While the study focused on adults, its implications for children's developing brains in Tokyo's urban environment are significant. It suggests that improving indoor air quality, a relatively accessible intervention, could be a silent partner in supporting academic focus and overall cognitive health.",
-        "ja": "この研究は成人を対象としていますが、東京の都市環境で育つ子どもの発達中の脳への影響は大きいでしょう。比較的手軽な対策である室内空気質の改善が、学習への集中力や全体的な認知機能の健康を支える、見過ごされがちな要素となりうることを示唆しています。"
-      }
-    },
-    "source": {
-      "name": "ScienceDaily — Child Development",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260830000016.htm"
-    },
-    "sourceGuid": "https://www.sciencedaily.com/releases/2026/08/260830000016.htm",
     "status": "published"
   }
 ]
