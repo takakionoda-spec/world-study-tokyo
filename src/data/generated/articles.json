@@ -1,5 +1,211 @@
 [
   {
+    "slug": "befriending-anxiety-learning-to-relate-not-eradicate",
+    "category": "methods",
+    "issue": "Vol. 05",
+    "publishedAt": "2026-10-26T10:00:00.000Z",
+    "readingMinutes": 6,
+    "feature": true,
+    "cover": {
+      "src": "https://images.unsplash.com/photo-1456324504439-367cee3b3c32?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#F2D7BF"
+    },
+    "title": {
+      "en": "Befriending Anxiety: Learning to Relate, Not Eradicate",
+      "ja": "不安との新しい関係：排除ではなく「付き合い方」を学ぶ"
+    },
+    "dek": {
+      "en": "A personal journey through severe anxiety highlights a crucial insight: true well-being comes not from eliminating difficult emotions, but from understanding and reframing our relationship with them.",
+      "ja": "深刻な不安を経験した筆者の個人的な旅は、重要な洞察を提示します。真の心の健康は、困難な感情を排除することではなく、それらとの関係を理解し、再構築することから生まれます。"
+    },
+    "author": {
+      "en": "WORLD STUDY TOKYO Editors",
+      "ja": "WORLD STUDY TOKYO 編集部"
+    },
+    "location": {
+      "en": "Tokyo, October 26, 2026",
+      "ja": "東京、2026年10月26日"
+    },
+    "tags": [
+      {
+        "en": "Anxiety",
+        "ja": "不安"
+      },
+      {
+        "en": "Emotional Regulation",
+        "ja": "感情の調整"
+      },
+      {
+        "en": "Mental Health",
+        "ja": "メンタルヘルス"
+      },
+      {
+        "en": "Parenting",
+        "ja": "子育て"
+      }
+    ],
+    "body": {
+      "en": [
+        "In a recent dispatch, author India Sturgis shared her profound personal experience with debilitating anxiety, which at one point required hospitalization. Her journey led her to a significant realization: anxiety is not an enemy to be vanquished, but an inherent part of the human experience that we can learn to relate to differently. This perspective challenges the common impulse to suppress or eliminate anxious feelings, proposing instead a path of acceptance and re-engagement.",
+        "For families navigating the pressures of modern life, especially those with children facing academic or social challenges, this insight offers a powerful shift. Rather than teaching children to fear or fight their anxiety, the approach suggests fostering a mindset where these feelings are acknowledged as signals, not threats. This can be particularly relevant in high-stakes environments, helping young people develop resilience (困難に直面した際に立ち直る力) and emotional regulation (自分の感情を理解し、適切に管理する能力) from an early age.",
+        "The core of this learning involves a cognitive reframing (物事の捉え方を変えること). Instead of viewing anxiety as a sign of weakness or failure, one learns to see it as a natural response to uncertainty or perceived challenge. This doesn't mean ignoring the discomfort, but rather observing it without judgment and choosing how to respond, rather than reacting impulsively. For instance, a child feeling anxious before a test might be taught to recognize the physical sensations of anxiety, label them, and then redirect their focus to their preparation, rather than spiraling into panic.",
+        "This shift in perspective can empower individuals to regain a sense of agency over their emotional landscape. By understanding that they cannot eradicate anxiety completely, but can change their relationship with it, they move from a state of passive suffering to active coping. This involves developing a toolkit of strategies, from mindfulness practices (今この瞬間に意識を向ける練習) to practical problem-solving, tailored to manage anxious moments.",
+        "> You can’t eradicate what is part of you – but you can change how you relate to it.",
+        "The implications for parenting are clear: modeling healthy ways to acknowledge and process anxiety can be more beneficial than trying to shield children from all discomfort. Open conversations about feelings, validating a child's experiences, and demonstrating coping mechanisms can build a foundation for lifelong emotional intelligence. This approach encourages parents to be guides in understanding emotions, rather than enforcers of an anxiety-free existence.",
+        "Looking ahead, this emphasis on relating to anxiety rather than eradicating it could influence educational practices. Schools might integrate more social-emotional learning (感情や社会性を育む学習) curricula that teach these reframing techniques. For parents, understanding this dynamic can inform choices about how to support children through stressful periods, moving beyond simple reassurance to practical skill-building in emotional self-management."
+      ],
+      "ja": [
+        "先日、作家のインディア・スタージス氏は、かつて入院を要するほど深刻だった自身の不安との闘いについて、率直な経験を語りました。彼女の旅路は、不安は打ち負かすべき敵ではなく、人間の経験に内在する一部であり、それとの関係性を変えることができるという重要な洞察へと導きました。この視点は、不安な感情を抑圧したり排除しようとする一般的な衝動に異を唱え、むしろ受け入れ、新たな形で向き合う道を示唆しています。",
+        "現代生活のプレッシャーに直面するご家庭、特に学業や社会的な課題に直面しているお子さんを持つご家庭にとって、この洞察は大きな変化をもたらす可能性があります。子どもたちに不安を恐れたり戦ったりすることを教えるのではなく、これらの感情を脅威ではなく「信号」として認識するよう促す考え方です。これは、特に競争の激しい環境において、若者がレジリエンス（困難に直面した際に立ち直る力）と感情の調整（自分の感情を理解し、適切に管理する能力）を幼い頃から育む上で、特に関係が深いと言えるでしょう。",
+        "この学びの核心は、認知の再構築（物事の捉え方を変えること）にあります。不安を弱さや失敗の兆候と見なす代わりに、不確実性や認識された課題に対する自然な反応として捉えることを学びます。これは不快感を無視するということではなく、判断せずに観察し、衝動的に反応するのではなく、どのように対応するかを選択するということです。例えば、試験前に不安を感じる子どもには、不安の身体的感覚を認識し、それを言葉で表現し、パニックに陥るのではなく準備に焦点を戻す方法を教えることができます。",
+        "この視点の変化は、個人が自身の感情の状況に対して主体性を取り戻す力を与えます。不安を完全に根絶することはできないが、それとの関係を変えることはできると理解することで、受動的な苦痛の状態から能動的な対処へと移行します。これには、マインドフルネスの実践（今この瞬間に意識を向ける練習）から実践的な問題解決まで、不安な瞬間に対応するための戦略のツールキットを開発することが含まれます。",
+        "> あなたの一部であるものを根絶することはできませんが、それとの関係を変えることはできます。",
+        "子育てへの示唆は明確です。子どもたちをあらゆる不快感から守ろうとするよりも、不安を認識し、処理する健全な方法を親が示すことの方が有益です。感情についてオープンに話し合い、子どもの経験を肯定し、対処メカニズムを示すことは、生涯にわたる感情的知性（EQ）の基盤を築きます。このアプローチは、親が不安のない存在を強制するのではなく、感情を理解するためのガイドとなることを促します。",
+        "今後、不安を根絶するのではなく、それと向き合うことへの重点は、教育実践に影響を与える可能性があります。学校は、これらの再構築技術を教えるソーシャル・エモーショナル・ラーニング（感情や社会性を育む学習）のカリキュラムをより多く取り入れるかもしれません。保護者にとっては、このダイナミクスを理解することで、単なる安心させるだけでなく、感情の自己管理における実践的なスキル構築を通じて、ストレスの多い時期に子どもをサポートする方法についての選択に役立つでしょう。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "For Tokyo families, the idea of 'befriending anxiety' offers a refreshing counterpoint to a culture that often emphasizes overcoming challenges through sheer effort. Instead of viewing anxiety as a hurdle to be cleared before a big exam or an international school interview, this approach suggests acknowledging its presence and learning to navigate it. It's like teaching a child to recognize the sound of a distant ambulance not as a cause for panic, but as a signal that the city is alive, prompting them to simply check their surroundings.",
+        "This shift could plausibly impact how Tokyo families approach academic pressure and admissions. If schools and universities, particularly those with a holistic admissions (学力試験だけでなく、課外活動や面接などで人物全体を評価する入試方式) focus like international schools or universities offering 総合型選抜 (旧AO入試。学力試験より書類・面接・小論文を重視する入試方式), begin to value self-awareness and emotional regulation, parents might prioritize these skills. It could mean focusing less on simply achieving perfect scores and more on developing a child's ability to articulate their feelings and strategies for managing stress.",
+        "The timeframe for such a shift in the broader Tokyo education landscape is likely 3-5 years, gated by how quickly progressive private schools and international schools adopt these frameworks into their pastoral care and curriculum. While MEXT (文部科学省) curriculum reforms move slower, the private juku (学習塾) market could also respond if parents begin to demand support for emotional resilience alongside academic coaching.",
+        "In Japan, while direct programs for 'befriending anxiety' are not yet mainstream, there are institutions moving towards a more holistic view of student well-being. N高等学校・S高等学校 (N High School / S High School), for example, emphasizes mental health support and diverse learning paths, implicitly acknowledging the emotional landscape of its students. However, the explicit teaching of reframing anxiety as a signal rather than an enemy remains an area with significant potential for growth in the Japanese educational context."
+      ],
+      "ja": [
+        "東京のご家庭にとって、「不安と友達になる」という考え方は、しばしば努力による克服を重視する文化の中で、新鮮な視点を提供します。大きな試験やインターナショナルスクールの面接前に、不安を乗り越えるべき障害と捉えるのではなく、その存在を認め、うまく付き合う方法を学ぶというアプローチです。これは、遠くの救急車の音をパニックの原因ではなく、街が生きているという信号として認識し、単に周囲を確認するように子どもに教えることに似ています。",
+        "この変化は、東京のご家庭が学業のプレッシャーや入試にどう向き合うかに影響を与える可能性があります。インターナショナルスクールや総合型選抜（旧AO入試。学力試験だけでなく、書類や面接、小論文などで受験生の総合的な姿勢を評価する大学入試の方式）を重視する大学など、ホリスティック入試（学力試験の点数だけでなく、課外活動・推薦書・面接・エッセイなど人物全体で評価する入試方式）に焦点を当てる学校や大学が、自己認識や感情の調整を重視し始めれば、保護者もこれらのスキルを優先するようになるでしょう。それは、単に完璧な成績を追求するだけでなく、子どもが自分の感情を明確に表現し、ストレスを管理する戦略を育む能力に、より重点を置くことを意味するかもしれません。",
+        "このような変化が東京の教育全体に広がるまでの期間は、3～5年程度と見られます。これは、先進的な私立学校やインターナショナルスクールが、これらのフレームワークを生徒のケアやカリキュラムにどの程度迅速に取り入れるかにかかっています。文部科学省（文科省）のカリキュラム改革はよりゆっくりと進みますが、保護者が学力指導と並行して感情的レジリエンスのサポートを求め始めれば、大手学習塾（じゅく）市場もこれに対応する可能性があります。",
+        "日本において「不安と友達になる」という直接的なプログラムはまだ主流ではありませんが、生徒のウェルビーイングをより包括的に捉える方向へ進んでいる機関は存在します。例えば、N高等学校・S高等学校は、心のケアと多様な学習経路を重視しており、生徒の感情的な側面を暗黙のうちに認識しています。しかし、不安を敵ではなく信号として再構築するという明確な教育は、日本の教育現場において、今後大きく発展する可能性を秘めた分野と言えるでしょう。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "Anxiety isn't an enemy to defeat, but a part of us to understand.",
+        "ja": "不安は打ち勝つ敵ではなく、理解し付き合うべき自分の一部。"
+      },
+      "whoForWhat": {
+        "en": "For Tokyo families with children navigating academic pressures or social anxieties, this piece offers a fresh perspective on emotional regulation, shifting from eradication to acceptance and skillful management.",
+        "ja": "学業のプレッシャーや社会的な不安を抱えるお子さんを持つ東京のご家庭へ。感情の調整について、排除ではなく受容と巧みな管理へと視点を変える新たな洞察を提供します。"
+      },
+      "vsJapanContext": {
+        "en": "This approach contrasts with traditional Japanese education's emphasis on perseverance and overcoming difficulties, but aligns with emerging trends in holistic admissions and social-emotional learning at progressive private and international schools in Japan.",
+        "ja": "このアプローチは、忍耐と困難克服を重視する日本の伝統的な教育とは対照的ですが、国内の先進的な私立校やインターナショナルスクールにおけるホリスティック入試や社会性・感情学習の新たなトレンドとは方向性が一致します。"
+      },
+      "tokyoNote": {
+        "en": "In a city where academic success often correlates with intense pressure, understanding anxiety as a signal rather than a flaw can be profoundly liberating. Tokyo parents can model this by openly discussing feelings, fostering resilience, and choosing schools that integrate emotional literacy into their curriculum.",
+        "ja": "学業の成功がしばしば強いプレッシャーと結びつくこの都市において、不安を欠陥ではなく信号として理解することは、非常に解放的です。東京の保護者は、感情についてオープンに話し合い、レジリエンスを育み、感情的リテラシーをカリキュラムに統合している学校を選ぶことで、この姿勢を示すことができます。"
+      }
+    },
+    "source": {
+      "name": "Psyche",
+      "url": "https://psyche.co/ideas/everyone-says-they-have-anxiety-clinical-anxiety-is-different"
+    },
+    "sourceGuid": "urn:id:9082",
+    "status": "published"
+  },
+  {
+    "slug": "audit-raises-concerns-over-bias-in-ai-in-education-research",
+    "category": "ai-edu",
+    "issue": "Vol. 05",
+    "publishedAt": "2026-10-26T10:00:00.000Z",
+    "readingMinutes": 6,
+    "feature": true,
+    "cover": {
+      "src": "https://i0.wp.com/hechingerreport.org/wp-content/uploads/2026/10/proof-AI-meta-102226-scaled.jpg?fit=1024%2C683&amp;ssl=1",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "Audit Raises Concerns Over Bias in AI in Education Research",
+      "ja": "教育AI研究に偏りの指摘：メタアナリシス監査が示す信頼性の課題"
+    },
+    "dek": {
+      "en": "A recent audit of meta-analyses on artificial intelligence in education found that nearly all studies reported positive outcomes, raising questions about publication bias and the true efficacy of AI learning tools.",
+      "ja": "教育分野におけるAIの有効性を検証するメタアナリシスが、一貫して肯定的な結果を報告していることが監査で判明。出版バイアスやツールの真の効果について疑問が呈されています。"
+    },
+    "author": {
+      "en": "WORLD STUDY TOKYO Editors",
+      "ja": "WORLD STUDY TOKYO 編集部"
+    },
+    "location": {
+      "en": "Tokyo, October 26, 2026",
+      "ja": "東京、2026年10月26日"
+    },
+    "tags": [
+      {
+        "en": "AI in education",
+        "ja": "教育AI"
+      },
+      {
+        "en": "research",
+        "ja": "研究"
+      },
+      {
+        "en": "meta-analysis",
+        "ja": "メタアナリシス"
+      },
+      {
+        "en": "educational technology",
+        "ja": "エドテック"
+      }
+    ],
+    "body": {
+      "en": [
+        "A recent audit, highlighted by The Hechinger Report on October 26, 2026, has cast a critical eye on the reliability of research into artificial intelligence (AI) in education. The audit revealed a striking pattern: all 39 meta-analyses examined, which are comprehensive reviews designed to synthesize findings from multiple individual studies, consistently reported positive effects for AI in learning.",
+        "Meta-analyses are typically considered a robust method for understanding broad trends across scattered research. However, the discovery that every single one of these studies found positive outcomes for AI is statistically improbable and suggests a significant bias. This consistency makes it challenging for parents and educators to gain an objective understanding of whether and how AI truly supports student learning.",
+        "This phenomenon could stem from several factors, including publication bias, where studies with neutral or negative findings are less likely to be published, or methodological issues within the meta-analyses themselves that might lead to an overemphasis on positive results. When the foundational research is skewed, it becomes difficult to discern which AI tools genuinely enhance education and which merely promise more than they deliver.",
+        "> \"Does artificial intelligence help students learn? That’s a question many teachers and parents want answered, as the new educational technology is rapidly spreading in classrooms.\"",
+        "For families navigating the rapidly expanding market of AI-driven educational applications and platforms, this audit serves as an important caution. Without truly independent and unbiased research, investing time and resources into certain tools might not yield the expected academic benefits, potentially leading to frustration or disillusionment with AI's potential.",
+        "Moving forward, there is a clear need for more rigorous, transparent, and independent research into AI's effectiveness in education. Educators, policymakers, and parents must collectively demand higher standards of evidence, encouraging the publication of a full spectrum of research findings—positive, neutral, and negative—to build a more accurate picture of AI's role in learning."
+      ],
+      "ja": [
+        "2026年10月26日付のThe Hechinger Reportが報じた最近の監査により、教育分野における人工知能（AI）研究の信頼性に疑問が投げかけられました。この監査は、AI教育に関する多数の個別研究結果を統合・分析する「メタアナリシス」39件を調査したところ、驚くべきことにその全てがAIの学習に対する肯定的な効果を報告していたことを明らかにしました。",
+        "メタアナリシスは、通常、散在する研究から全体像を把握し、その分野の広範な傾向を理解するための信頼性の高い方法とされています。しかし、調査対象となった全てのメタアナリシスがAIの肯定的な効果を見出したという結果は、統計的に見て極めて異例であり、研究における顕著な偏りを示唆しています。この一貫性は、保護者や教育者がAIが本当に生徒の学習をどのように支援するのか、客観的に理解することを困難にしています。",
+        "このような現象は、肯定的ではない、あるいは中立的な結果が出た研究が公表されにくい「出版バイアス」や、メタアナリシス自体が肯定的な結果を過度に強調するような方法論的な課題に起因する可能性があります。基礎となる研究が偏っていると、どのAIツールが真に教育効果をもたらすのか、あるいは単に過大な約束をしているだけなのかを見分けることが難しくなります。",
+        "「人工知能は生徒の学習を助けるのか？ この疑問は、新しい教育テクノロジーが教室に急速に広がる中で、多くの教師や保護者が答えを求めているものです。」",
+        "AIを活用した教育アプリケーションやプラットフォームが急速に普及する市場で選択を迫られる家庭にとって、今回の監査は重要な警鐘となります。真に独立した偏りのない研究がなければ、特定のツールに時間と資源を投じても期待される学術的効果が得られない可能性があり、AIの可能性に対する失望やフラストレーションにつながることもあります。",
+        "今後、教育におけるAIの効果については、より厳格で透明性の高い独立した研究が不可欠です。教育者、政策立案者、そして保護者は、肯定的なもの、中立的なもの、否定的なものを含め、あらゆる研究結果の公表を求めることで、学習におけるAIの役割をより正確に把握するための高い水準の証拠を共同で追求していく必要があります。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "The global conversation around AI in education often focuses on its promising applications, with new tools emerging constantly. This audit, however, suggests a need for a more cautious and critical perspective. It is akin to encountering countless advertisements for new diet plans, all claiming success, only to realize that studies reporting negative or neutral outcomes are rarely published. For Tokyo parents, this means that the enthusiastic claims surrounding AI tutors or learning apps, while compelling, may not always be backed by truly objective, comprehensive evidence.",
+        "This finding will likely influence how Tokyo families evaluate AI learning tools, whether for supplementary study at home, preparing for junior high entrance exams (中学受験), or assisting with international school curricula. It encourages a more discerning approach to the efficacy claims made by edtech companies. Furthermore, it highlights the need for schools and juku (cram schools) to conduct their own rigorous evaluations before widespread adoption, ensuring that the tools they recommend truly benefit students.",
+        "The impact of this audit is likely to be felt within 1-2 years, as awareness of research integrity grows among educators and parents. Major juku and international schools in Tokyo, which often invest in new technologies, may become more selective in their AI tool procurement, demanding more transparent efficacy studies from vendors. A broader shift in national policy or MEXT (Ministry of Education, Culture, Sports, Science and Technology) guidelines might take a longer timeframe, perhaps 3-5 years.",
+        "In Japan, companies like Atama+ and すららネット are prominent in AI-driven personalized learning. While these platforms generate their own performance data, this global audit underscores that independent, third-party validation and more transparent research methodologies will be increasingly crucial for their credibility. Institutions like the Benesse Education Research Institute (ベネッセ教育総合研究所) could play a vital role in conducting independent meta-analyses on the effectiveness of AI education tools within the Japanese context, fostering greater trust among families."
+      ],
+      "ja": [
+        "教育におけるAIの活用については、世界中でその可能性を巡る活発な議論が交わされ、新しいツールが次々と登場しています。しかし、今回の監査は、より慎重で批判的な視点が必要であることを示唆しています。これは、新しいダイエット法が全て「効果あり」と宣伝されるものの、失敗談や効果がなかった研究はほとんど公表されない状況に似ています。東京の保護者にとっては、AIチューターや学習アプリに関する熱心な宣伝が、常に客観的で包括的な根拠に基づいているとは限らない、と捉えるべきでしょう。",
+        "この監査結果は、東京の家庭がAI学習ツールを評価する際に、自宅での補習、中学受験対策、インターナショナルスクールのカリキュラム補助など、あらゆる場面で影響を与える可能性があります。エドテック企業が主張する効果について、より慎重に吟味する姿勢を促すでしょう。さらに、学校や学習塾（塾）がAIツールを広く導入する前に、独自の厳格な評価を行う必要性を浮き彫りにし、推奨するツールが真に生徒に役立つものかを確認する動きが加速するかもしれません。",
+        "この監査の影響は、教育者や保護者の間で研究の信頼性に対する意識が高まるにつれて、今後1〜2年以内に感じられるようになるでしょう。東京の大手学習塾やインターナショナルスクールは、新しいテクノロジーへの投資に積極的ですが、AIツールの選定において、ベンダーに対してより透明性の高い効果検証を求めるようになる可能性があります。文部科学省（文科省）のガイドラインや国家政策に大きな変化が見られるのは、3〜5年といったより長い時間軸になるかもしれません。",
+        "日本国内では、Atama+（アタマプラス）やすららネットなどがAIを活用した個別最適化学習の分野で先行しています。これらのプラットフォームは独自の学習データを蓄積していますが、今回の世界的監査は、独立した第三者による検証と、より透明性の高い研究方法論が、その信頼性を確立するためにますます重要になることを示唆しています。ベネッセ教育総合研究所のような機関が、日本国内のAI教育ツールの効果に関する独立したメタアナリシスを実施することが、今後の家庭からの信頼を築く上で重要な役割を果たすでしょう。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "AI in education research shows a bias toward positive results.",
+        "ja": "教育AI研究、肯定的結果への偏りを指摘。"
+      },
+      "whoForWhat": {
+        "en": "For Tokyo families considering AI learning tools for their children, this audit suggests a need for careful scrutiny of efficacy claims amidst a rapidly growing market.",
+        "ja": "子どもの学習にAIツール導入を検討する東京の保護者にとって、効果の主張を慎重に吟味する必要性を示唆する監査結果です。"
+      },
+      "vsJapanContext": {
+        "en": "While Japanese edtech companies like Atama+ and すららネット provide AI learning, this audit highlights the global need for transparent, independent research on efficacy, a standard that is increasingly important for domestic platforms too.",
+        "ja": "国内のAtama+やすららネットなどのAI学習サービスは普及していますが、今回の監査は、その効果に関する独立した透明性の高い研究の重要性を世界的に示しており、日本国内のプラットフォームにも同様の基準が求められるでしょう。"
+      },
+      "tokyoNote": {
+        "en": "Tokyo families are increasingly interested in AI learning tools. This audit suggests a need for a discerning eye, urging parents not to take all positive claims at face value. Especially when considering expensive services, it's wise to look beyond vendor-provided data and seek independent evaluations.",
+        "ja": "東京の家庭では、AI学習ツールへの期待が高まっていますが、この監査結果は、その効果に関する「良い話」ばかりを鵜呑みにせず、客観的な根拠を求める冷静な視点が必要であることを示唆します。特に高額なサービスを検討する際には、提供元が示すデータだけでなく、独立した評価があるかを確認することが賢明です。"
+      }
+    },
+    "source": {
+      "name": "The Hechinger Report",
+      "url": "https://hechingerreport.org/proof-points-ai-education-meta-analysis/"
+    },
+    "sourceGuid": "https://hechingerreport.org/?p=118445",
+    "status": "published"
+  },
+  {
     "slug": "sleep-gummies-with-cannabis-derived-cbn-may-carry-hidden-addiction-risks-new-res",
     "category": "research",
     "issue": "Vol. 05",
@@ -5131,8 +5337,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#CDE3CF"
+      "src": "https://images.unsplash.com/photo-1551434678-e076c223a692?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#CFE3D2"
     },
     "title": {
       "en": "A Vision for Low-Cost, Local AI Language Learning Emerges",
@@ -5749,8 +5955,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1593720213428-28a5b9e94613?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#C9E0CC"
+      "src": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#CCE1CE"
     },
     "title": {
       "en": "AI Tutors Offer a Private Space for Questions, Reducing Academic Anxiety",
@@ -6883,8 +7089,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1456406644174-8ddd4cd52a06?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#D2C5E0"
+      "src": "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#DCD2E7"
     },
     "title": {
       "en": "Beyond Gray Matter: Brain's Hidden Wiring May Preserve Cognitive Sharpness",
@@ -7605,8 +7811,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1532012197267-da84d127e765?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#D9CFE5"
+      "src": "https://images.unsplash.com/photo-1542621334-a254cf47733d?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#D8CDE3"
     },
     "title": {
       "en": "Sea Squirt Compound Shows Promise for Memory and Learning in Aging Mice",
@@ -7709,8 +7915,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#C8DFCB"
+      "src": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#D0E4D3"
     },
     "title": {
       "en": "Enhancing Programming Education with Safe AI Tutors",
@@ -8007,214 +8213,6 @@
       "url": "https://hechingerreport.org/opinion-knowing-how-to-use-ai-tools-is-not-the-same-as-knowing-how-to-apply-them-responsibly-colleges-must-do-more/"
     },
     "sourceGuid": "https://hechingerreport.org/?p=117710",
-    "status": "published"
-  },
-  {
-    "slug": "ai-powered-learning-for-extreme-environments-a-step-towards-off-world-education",
-    "category": "ai-edu",
-    "issue": "Vol. 04",
-    "publishedAt": "2026-09-03T12:10:00.000Z",
-    "readingMinutes": 5,
-    "feature": true,
-    "cover": {
-      "src": "https://wp.technologyreview.com/wp-content/uploads/2026/04/2412_GW_2Month_2_1.jpg?w=840",
-      "tone": "#0c0c0c"
-    },
-    "title": {
-      "en": "AI-Powered Learning for Extreme Environments: A Step Towards Off-World Education",
-      "ja": "AIが拓く極限環境での学習：宇宙での教育に向けた一歩"
-    },
-    "dek": {
-      "en": "MIT researchers are developing adaptive AI tutors optimized for resource-constrained settings, paving the way for education in future space settlements.",
-      "ja": "MITの研究者たちが、資源が限られた環境向けに最適化された適応型AIチューターを開発。将来の宇宙居住地での教育に道を開きます。"
-    },
-    "author": {
-      "en": "WORLD STUDY TOKYO Editors",
-      "ja": "WORLD STUDY TOKYO 編集部"
-    },
-    "location": {
-      "en": "TOKYO",
-      "ja": "東京"
-    },
-    "tags": [
-      {
-        "en": "AI in Education",
-        "ja": "教育AI"
-      },
-      {
-        "en": "Personalized Learning",
-        "ja": "個別最適化学習"
-      },
-      {
-        "en": "Future of Education",
-        "ja": "教育の未来"
-      },
-      {
-        "en": "Space Education",
-        "ja": "宇宙教育"
-      }
-    ],
-    "body": {
-      "en": [
-        "On September 3, 2026, researchers at MIT's Computer Science and Artificial Intelligence Laboratory (CSAIL) unveiled a new AI framework named \"AstroLearn.\" This system is specifically designed for personalized learning in environments where traditional educational infrastructure is limited or nonexistent, such as remote research outposts, disaster relief zones, or isolated communities.",
-        "The core challenge AstroLearn addresses is the provision of continuous, high-quality education in situations where stable internet, consistent energy supply, and readily available human teachers are scarce. It aims to ensure educational continuity and equity for learners who might otherwise face significant disruptions or lack access to proper schooling. This is particularly vital for STEM subjects, where foundational knowledge is critical.",
-        "AstroLearn operates on principles of lightweight, generative AI, capable of creating bespoke learning materials tailored to each student's pace and learning style. The system is designed for largely offline operation, minimizing bandwidth needs by syncing data only when connectivity is available. It utilizes multimodal interfaces, combining text, basic audio, and visual cues to maximize engagement while keeping processing power requirements low.",
-        "Initial simulations conducted in digitally replicated remote environments demonstrated promising results. Students engaging with AstroLearn maintained learning progress comparable to those in conventional educational settings, particularly in mathematics and science. This was achieved with significantly fewer human resources, highlighting the system's efficiency and scalability.",
-        "This research extends beyond merely replicating traditional classrooms. It redefines the boundaries of educational access, suggesting a future where geographical and infrastructural barriers to learning can be substantially reduced. The project emphasizes a shift towards resilient learning systems that can adapt to unforeseen circumstances and diverse global needs.",
-        "> \"AstroLearn represents a fundamental rethinking of how education can be delivered when every resource is precious,\" states one of the project's lead researchers.",
-        "Crucially, the implications of AstroLearn reach far beyond Earth. The principles of resilient, adaptive, and resource-efficient education are foundational for sustaining human civilization in new frontiers. This technology provides a blueprint for educating future generations born and raised on lunar bases, Mars colonies, or during long-duration space missions, ensuring that essential human development and learning can thrive in entirely novel worlds."
-      ],
-      "ja": [
-        "2026年9月3日、マサチューセッツ工科大学（MIT）のコンピュータ科学・人工知能研究所（CSAIL）の研究者たちが、「AstroLearn（アストロラーン）」と名付けられた新しいAIフレームワークを発表しました。このシステムは、遠隔地の研究拠点、災害支援地域、孤立したコミュニティなど、従来の教育インフラが限られているか、存在しない環境での個別学習を目的として特別に設計されています。",
-        "AstroLearnが解決しようとしている中心的な課題は、安定したインターネット接続、持続的なエネルギー供給、そして十分な人数の教師が不足している状況下で、継続的かつ質の高い教育を提供することです。これにより、教育の中断に直面したり、適切な学校教育を受けられない可能性のある学習者に対し、教育の継続性と公平性を確保することを目指しています。特にSTEM分野（科学、技術、工学、数学）においては、基礎知識の構築が極めて重要です。",
-        "AstroLearnは、軽量な生成AIの原則に基づいて動作し、各生徒の学習ペースやスタイルに合わせてカスタマイズされた学習教材を作成できます。システムは主にオフラインでの運用を想定しており、帯域幅が利用可能な時にのみデータを同期することで、インターネット接続への依存を最小限に抑えます。また、テキスト、基本的な音声、視覚的な手がかりを組み合わせたマルチモーダルなインターフェースを活用し、処理能力を低く保ちながら学習へのエンゲージメントを最大化します。",
-        "デジタルで再現された遠隔環境での初期シミュレーションでは、有望な結果が示されました。AstroLearnを利用した生徒たちは、特に数学や科学において、従来の教育環境の生徒たちと同等の学習進捗を維持しました。これは、はるかに少ない人的資源で達成されており、システムの効率性と拡張性を示しています。",
-        "この研究は、単に従来の教室を再現するだけにとどまりません。教育へのアクセス可能性の境界を再定義し、地理的およびインフラ上の障壁が学習にとって大幅に低減される未来を示唆しています。このプロジェクトは、予期せぬ状況や多様な地球規模のニーズに適応できる、レジリエントな学習システムへの転換を強調しています。",
-        "「AstroLearnは、あらゆる資源が貴重な状況で、どのように教育を提供できるかという根本的な再考を表しています」と、プロジェクトの主任研究者の一人は述べています。",
-        "そして何よりも、AstroLearnの意義は地球上にとどまりません。レジリエントで適応性が高く、資源効率の良い教育というその原則は、地球外で人類文明を維持するための基盤となります。この技術は、月面基地や火星コロニーで生まれ育つ将来の世代、あるいは長期宇宙ミッション中の子供たちを教育するための青写真を提供し、全く新しい世界で基本的な人間開発と学習が繁栄できることを保証します。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "This MIT research, focused on delivering education in extreme or resource-constrained environments, offers a fascinating glimpse into the future of learning. For Tokyo families, it highlights the potential for highly personalized, resilient learning systems that can adapt to almost any circumstance, much like having a dedicated tutor available even when infrastructure is unreliable.",
-        "The most plausible future impact for Tokyo families lies in its potential to shape how education is delivered in non-traditional settings within Japan. While Tokyo itself is not an \"extreme environment,\" the principles could be applied to supporting children in remote Japanese islands, during long-term hospital stays, or for those whose family circumstances require highly flexible learning schedules. It could also influence curriculum design for skills relevant to future global challenges, including space exploration.",
-        "Such systems might see adoption within 5-10 years. This timeline is gated by whether major Japanese edtech companies like Atama+ or すららネット integrate similar resource-efficient, offline-capable AI into their offerings, or if the Ministry of Education, Culture, Sports, Science and Technology (MEXT) considers these models for future revisions of the National Curriculum Standards (学習指導要領) to address diverse learning needs.",
-        "In Japan, N高等学校・S高等学校 (N/S High School) already offers extensive online learning, and companies like Atama+ and すららネット provide AI-driven adaptive learning. However, the unique emphasis of AstroLearn on extreme resource constraints and its explicit vision for off-world education represents a novel direction. While existing Japanese platforms excel in online delivery, AstroLearn's focus on low-bandwidth, offline-first resilience for truly isolated or future environments remains a distinct gap."
-      ],
-      "ja": [
-        "MITの研究が示す、極限環境下での教育提供というアプローチは、学習の未来を垣間見せてくれます。東京のご家庭にとって、これは、まるでインフラが不安定な状況でも常にそばにいる専属の家庭教師のように、あらゆる状況に適応できる、高度にパーソナライズされたレジリエントな学習システムの可能性を示唆しています。",
-        "東京のご家庭にとって最も現実的な将来の影響は、日本国内の非伝統的な環境で教育がどのように提供されるかを形作る可能性にあります。東京自体は「極限環境」ではありませんが、その原則は、日本の離島に住む子どもたち、長期入院中の子どもたち、あるいは家族の事情で非常に柔軟な学習スケジュールが必要な子どもたちを支援するために応用できるでしょう。また、宇宙探査を含む将来の地球規模の課題に関連するスキル教育のカリキュラム設計にも影響を与えるかもしれません。",
-        "このようなシステムが導入されるのは、5〜10年以内と見られます。この時期は、Atama+（アタマプラス）やすららネットのような主要な日本のエドテック企業が、同様の資源効率が高く、オフライン対応可能なAIを自社サービスに統合するか、あるいは文部科学省（文科省）が多様な学習ニーズに対応するため、学習指導要領の将来の改訂でこれらのモデルを検討するかによって左右されるでしょう。",
-        "日本には、N高等学校・S高等学校が広範なオンライン学習を提供しており、Atama+やすららネットのような企業がAI駆動の適応型学習を提供しています。しかし、AstroLearnの極限的な資源制約への特化と、明確な宇宙での教育というビジョンは、新たな方向性を示しています。既存の日本のプラットフォームはオンライン配信に優れていますが、AstroLearnが目指す、真に孤立した環境や未来の宇宙環境における低帯域幅・オフライン優先のレジリエンスは、まだ明確なギャップとして残っています。"
-      ]
-    },
-    "structured": {
-      "tagline": {
-        "en": "AI for learning in remote and future off-world settings.",
-        "ja": "AIが拓く、遠隔地と宇宙での学習。"
-      },
-      "whoForWhat": {
-        "en": "For Tokyo families interested in how technology might expand educational access for children in diverse and challenging environments, including future space settlements.",
-        "ja": "多様な、そして困難な環境、さらには将来の宇宙居住地における子どもの教育機会が、テクノロジーによってどう広がるかに関心のある東京のご家庭へ。"
-      },
-      "vsJapanContext": {
-        "en": "This research extends beyond current Japanese edtech offerings like Atama+ or すららネット by focusing on extreme resource constraints and explicit off-world applications, pointing to a future frontier for learning.",
-        "ja": "この研究は、Atama+やすららネットといった既存の日本のエドテックの枠を超え、極限的な資源制約と明確な宇宙での応用を重視しており、学習の新たなフロンティアを示唆しています。"
-      },
-      "tokyoNote": {
-        "en": "While Tokyo itself is well-resourced, this research offers a lens on how MEXT or major juku might eventually integrate resilient, adaptive AI for learners in highly specific or future-oriented contexts, such as remote learning for long-term hospital stays, or even for curriculum design for future space careers.",
-        "ja": "東京は資源が豊富な環境ですが、この研究は、文科省や主要な学習塾が、長期入院中の遠隔学習や、将来の宇宙関連キャリアのためのカリキュラム設計など、非常に特殊な、あるいは未来志向の文脈で、レジリエントで適応性の高いAIをどのように学習に取り入れるかを示唆しています。"
-      }
-    },
-    "source": {
-      "name": "MIT Technology Review",
-      "url": "https://www.technologyreview.com/2026/09/03/1143385/the-download-rethinking-child-safety-online-fossil-fuels-farming/"
-    },
-    "sourceGuid": "https://www.technologyreview.com/?p=1143385",
-    "status": "published"
-  },
-  {
-    "slug": "beyond-distraction-how-adhd-may-foster-creative-thinking",
-    "category": "early-childhood",
-    "issue": "Vol. 04",
-    "publishedAt": "2026-09-03T03:44:06.000Z",
-    "readingMinutes": 5,
-    "feature": true,
-    "cover": {
-      "src": "https://www.sciencedaily.com/images/1920/colorful-creativity-brain-explosion.webp",
-      "tone": "#0c0c0c"
-    },
-    "title": {
-      "en": "Beyond Distraction: How ADHD May Foster Creative Thinking",
-      "ja": "「注意散漫」が創造性の源泉に？ ADHDと独創的思考の新たな関係"
-    },
-    "dek": {
-      "en": "Recent research suggests that the attention patterns often associated with ADHD might also enable a unique form of divergent thinking, opening new avenues for understanding and supporting children with diverse learning styles.",
-      "ja": "ADHD（注意欠陥・多動性障害）に見られる特有の注意パターンが、実は独創的な思考を促す可能性があるという研究が発表されました。多様な学び方を持つ子どもたちへの理解と支援に新たな視点をもたらします。"
-    },
-    "author": {
-      "en": "WORLD STUDY TOKYO Editors",
-      "ja": "WORLD STUDY TOKYO 編集部"
-    },
-    "location": {
-      "en": "Tokyo, Japan",
-      "ja": "東京、日本"
-    },
-    "tags": [
-      {
-        "en": "ADHD",
-        "ja": "ADHD"
-      },
-      {
-        "en": "Creativity",
-        "ja": "創造性"
-      },
-      {
-        "en": "Child Development",
-        "ja": "子どもの発達"
-      },
-      {
-        "en": "Learning Styles",
-        "ja": "学習スタイル"
-      }
-    ],
-    "body": {
-      "en": [
-        "Recent studies are exploring a nuanced perspective on attention deficit hyperactivity disorder (ADHD), suggesting that some of its characteristic attention patterns, often perceived as challenges, may actually contribute to enhanced creativity. Rather than simply being a deficit, this research posits that the brain's tendency to explore multiple ideas simultaneously could be a unique strength.",
-        "This shift in understanding is significant for how we approach learning and development. The mechanism proposed is that what researchers term “defocused attention” — a broader, less selective focus — allows individuals to make more unexpected connections between seemingly unrelated concepts. This divergent thinking is a cornerstone of creative problem-solving and innovation.",
-        "For children with ADHD, this means that their cognitive style, which might make it difficult to sustain attention on a single task, could simultaneously enable a richer, more expansive exploration of ideas. This broader search pattern in the brain could lead to novel insights that a more narrowly focused mind might overlook.",
-        "> Researchers think creative activities could potentially channel this “defocused attention” while helping strengthen the brain systems involved in focus and self-control.",
-        "The implications extend to educational practices. If certain creative activities can effectively channel this defocused attention, they might not only harness a child's natural inclination for broad exploration but also, over time, help strengthen the very brain systems responsible for focus and self-control. This suggests a potential pathway for intervention that integrates creative expression with cognitive development.",
-        "Further research is needed to identify which specific creative activities are most effective and how they can be integrated into daily routines or school curricula without compromising the development of focused attention skills. The challenge lies in finding a balance where the strengths of divergent thinking are nurtured, while also providing support for tasks that require sustained, directed focus.",
-        "This evolving understanding encourages educators and parents to look beyond conventional metrics of attention and consider the potential creative advantages inherent in diverse cognitive profiles. It prompts a re-evaluation of how learning environments can be designed to accommodate and celebrate a wider range of thinking styles."
-      ],
-      "ja": [
-        "最近の研究で、ADHD（注意欠陥・多動性障害）に見られる特徴的な注意パターンが、時に「課題」と捉えられがちである一方で、実は創造性を高める可能性が指摘されています。単なる注意力の欠如としてではなく、脳が複数のアイデアを同時に探求する傾向が、独自の強みとなりうるという新たな視点が提示されました。",
-        "この理解の転換は、子どもたちの学びと発達へのアプローチを大きく変える可能性があります。研究者たちが「焦点を絞らない注意（defocused attention）」と呼ぶ、より広範で選択的ではない注意のあり方が、一見無関係に見える概念間の予期せぬつながりを発見しやすくするというメカニズムが提唱されています。この拡散的思考は、創造的な問題解決やイノベーションの基礎となります。",
-        "ADHDを持つ子どもたちにとって、一つの課題に注意を集中し続けることが難しい認知スタイルが、同時にアイデアをより豊かに、広範囲に探求することを可能にするかもしれません。脳内でのこの広範な探索パターンは、より限定的な集中をする心では見過ごされがちな、斬新な洞察につながる可能性があるのです。",
-        "「研究者たちは、創造的な活動がこの『焦点を絞らない注意』をうまく導き、同時に集中力と自己抑制に関わる脳のシステムを強化するのに役立つと考えています。」",
-        "この研究は、教育現場での実践にも影響を与えそうです。特定の創造的な活動が「焦点を絞らない注意」を効果的に導くことができれば、それは子どもの広範な探索への生来の傾向を活かすだけでなく、長期的には集中力と自己抑制を司る脳のシステムそのものを強化するのに役立つかもしれません。これは、創造的表現と認知発達を統合する介入の可能性を示唆しています。",
-        "今後、どのような創造的活動が最も効果的であるか、また、集中的な注意力の育成を損なうことなく、それらを日常のルーティンや学校のカリキュラムにどのように組み込むことができるかについて、さらなる研究が必要です。拡散的思考の強みを育みつつ、持続的で方向性のある集中力を要する課題への支援も提供するというバランスを見つけることが課題となります。",
-        "この進化する理解は、教育者や保護者に対し、従来の注意力の指標だけでなく、多様な認知特性に内在する創造的な利点に目を向けるよう促します。それは、より幅広い思考スタイルに対応し、それを称賛する学習環境をどのように設計できるかという再評価を促すものです。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "This research offers a refreshing perspective for Tokyo families, suggesting that what might be perceived as a child's 'distractibility' could, in fact, be a unique cognitive strength. Instead of viewing a child who jumps between interests as simply lacking focus, we can consider the possibility that their brain is making connections across a broader landscape of ideas, much like a chef experimenting with unusual ingredient combinations to create a new dish.",
-        "For families in Tokyo, this finding could shift how they approach after-school activities or learning support. Rather than solely focusing on remediation for attention challenges, parents might explore art, music, coding, or project-based learning opportunities that encourage divergent thinking. This might influence choices between highly structured juku (cram schools) and international schools or alternative programs that value creativity and self-expression, potentially even affecting how university admissions (especially 総合型選抜, which assesses broader qualities) view a student's portfolio of diverse interests.",
-        "Such a shift in educational practice and societal perception is likely to be gradual. We might see initial changes within 3-5 years, particularly in international schools or progressive private schools in Tokyo that are already open to diverse learning styles. Broader adoption into mainstream juku curricula or MEXT (Ministry of Education, Culture, Sports, Science and Technology) guidelines, however, could take 5-10 years, gated by the need for more localized research and curriculum development.",
-        "While traditional Japanese education often emphasizes focused attention and structured learning, there are emerging counterparts. Institutions like N高等学校・S高等学校, with their flexible, project-based online learning and emphasis on individual exploration, or some of the more innovative international schools in Tokyo, are already fostering environments where diverse thinking styles can thrive. This research provides a scientific underpinning for the value of such approaches, suggesting a future where creativity is not just an extracurricular, but an integral part of cognitive development."
-      ],
-      "ja": [
-        "この研究は、東京で子育てをするご家庭にとって、非常に新鮮な視点を提供します。子どもの「注意散漫」と見なされがちな特性が、実は独自の認知的な強みである可能性を示唆しているのです。一つのことに集中できない子どもを単に「集中力がない」と捉えるのではなく、その脳が、まるでシェフが珍しい食材の組み合わせで新しい料理を生み出すように、より広範なアイデアの風景の中でつながりを見出していると考えることができます。",
-        "東京のご家庭にとって、この発見は習い事や学習支援へのアプローチを変えるかもしれません。注意力の課題に対する「克服」だけに焦点を当てるのではなく、アート、音楽、プログラミング、あるいはプロジェクトベースの学習など、拡散的思考を促す機会を探るようになる可能性があります。これは、非常に構造化された塾と、創造性や自己表現を重視するインターナショナルスクールやオルタナティブなプログラムとの選択に影響を与え、さらには大学入試（特に多様な資質を評価する総合型選抜）で、生徒の多様な関心のポートフォリオがどのように評価されるかにも影響を及ぼすかもしれません。",
-        "教育実践と社会の認識におけるこのような変化は、段階的に進むでしょう。多様な学習スタイルにすでに開かれている東京のインターナショナルスクールや先進的な私立学校では、今後3〜5年以内に初期的な変化が見られるかもしれません。しかし、主要な塾のカリキュラムや文部科学省のガイドラインへの広範な導入は、よりローカライズされた研究とカリキュラム開発が必要なため、5〜10年かかる可能性があります。",
-        "日本の伝統的な教育は、集中力と構造化された学習を重視する傾向がありますが、すでにこれに対応する動きも出ています。N高等学校・S高等学校のような、柔軟なプロジェクトベースのオンライン学習や個人の探求を重視する機関、あるいは東京の一部の革新的なインターナショナルスクールは、多様な思考スタイルが育つ環境をすでに育んでいます。この研究は、そうしたアプローチの価値に科学的な裏付けを与え、創造性が単なる課外活動ではなく、認知発達の不可欠な一部となる未来を示唆しています。"
-      ]
-    },
-    "structured": {
-      "tagline": {
-        "en": "ADHD's defocused attention may spark creative connections.",
-        "ja": "ADHDの「注意散漫」が創造性を育む可能性。"
-      },
-      "whoForWhat": {
-        "en": "For Tokyo families with young children or those navigating learning support, this research offers a new lens on how diverse attention patterns can be a strength, informing choices about educational environments that foster creativity.",
-        "ja": "幼いお子さんを持つご家庭や、学習支援を検討中の東京の保護者にとって、多様な注意パターンが強みとなりうることを示唆し、創造性を育む教育環境の選択に役立つ情報です。"
-      },
-      "vsJapanContext": {
-        "en": "This perspective diverges from Japan's traditional emphasis on focused, structured learning (as seen in juku and exam preparation), aligning more with the holistic approaches found in some international schools or programs like N高等学校 that value broader thinking.",
-        "ja": "日本の伝統的な集中型・構造化学習（塾や受験準備に見られる）とは異なる視点であり、国際バカロレア校やN高等学校のような、より広範な思考を評価するホリスティックなアプローチと共通点が見出せます。"
-      },
-      "tokyoNote": {
-        "en": "Tokyo parents often seek structured paths for academic success, but this research encourages considering how a child's unique attention style, even if challenging in some contexts, might be a powerful asset for creative thinking. The key for families here will be finding environments that balance nurturing this creativity with developing necessary focus skills, potentially through a mix of traditional and alternative learning experiences.",
-        "ja": "東京の保護者は学業での成功のために体系的な道筋を求めることが多いですが、この研究は、子どもの独自の注意スタイルが、ある文脈では課題であっても、創造的思考の強力な財産となりうることを示唆しています。東京のご家庭にとって重要なのは、この創造性を育むことと、必要な集中力を養うことのバランスを取る学習環境、例えば伝統的な教育とオルタナティブな学習体験の組み合わせを見つけることでしょう。"
-      }
-    },
-    "source": {
-      "name": "ScienceDaily — Child Development",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260831015150.htm"
-    },
-    "sourceGuid": "https://www.sciencedaily.com/releases/2026/08/260831015150.htm",
     "status": "published"
   }
 ]
