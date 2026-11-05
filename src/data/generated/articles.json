@@ -1,5 +1,107 @@
 [
   {
+    "slug": "unraveling-the-brains-cross-wiring-an-ancient-legacy-not-a-design-choice",
+    "category": "research",
+    "issue": "Vol. 06",
+    "publishedAt": "2026-11-04T13:24:52.000Z",
+    "readingMinutes": 5,
+    "feature": true,
+    "cover": {
+      "src": "https://www.sciencedaily.com/images/1920/human-nervous-system-brain-anatomy.webp",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "Unraveling the Brain's Cross-Wiring: An Ancient Legacy, Not a Design Choice",
+      "ja": "脳の「交差配線」の謎：古代の遺産が示す、進化の意外な物語"
+    },
+    "dek": {
+      "en": "A new scientific hypothesis suggests that the brain's intriguing cross-wiring, where each hemisphere controls the opposite side of the body, may be a deep evolutionary legacy from ancient fish vision, rather than an adaptation for a specific advantage.",
+      "ja": "脳の興味深い「交差配線」（左脳が体の右側を、右脳が体の左側を制御する仕組み）は、特定の利点のために進化したのではなく、古代魚の視覚システムに由来する進化の遺産であるという新しい科学的仮説が提唱されました。"
+    },
+    "author": {
+      "en": "WORLD STUDY TOKYO Editors",
+      "ja": "WORLD STUDY TOKYO 編集部"
+    },
+    "location": {
+      "en": "Tokyo, November 2026",
+      "ja": "東京、2026年11月"
+    },
+    "tags": [
+      {
+        "en": "neuroscience",
+        "ja": "神経科学"
+      },
+      {
+        "en": "brain development",
+        "ja": "脳の発達"
+      },
+      {
+        "en": "evolutionary biology",
+        "ja": "進化生物学"
+      },
+      {
+        "en": "cognitive science",
+        "ja": "認知科学"
+      }
+    ],
+    "body": {
+      "en": [
+        "For centuries, the brain's peculiar 'cross-wiring' — the phenomenon where the left cerebral hemisphere (脳の左半球) controls the right side of the body, and the right hemisphere controls the left — has puzzled scientists. This fundamental aspect of neuroanatomy has long been assumed to be a result of evolutionary optimization, offering some yet-undiscovered advantage. However, new research proposing a different origin challenges this view, suggesting it may simply be a historical accident rooted in the visual systems of ancient fish.",
+        "The hypothesis, put forth by a team of scientists and published recently, suggests that this contralateral (opposite-side) control didn't evolve for a specific, direct benefit to motor skills or complex cognition. Instead, it posits that as brains developed over hundreds of millions of years, they built upon existing structures. The initial 'cross' may have emerged in the early visual pathways of primitive vertebrates more than 500 million years ago, a time when the brain was far simpler.",
+        "Understanding this evolutionary pathway shifts our perspective on brain architecture. Rather than viewing every neural connection as a perfectly optimized design for current function, this research suggests that some fundamental aspects are deeply embedded legacies. The visual system, crucial for survival in ancient aquatic environments, established a pattern that subsequent neural developments followed. This means our brains carry a 'blueprint' that is profoundly ancient.",
+        "> Rather than evolving for a specific advantage, this unusual arrangement may simply be a legacy of evolution building new brain circuits on an ancient foundation.",
+        "This perspective is not just an academic curiosity; it reshapes how we understand the very foundations of learning and development. If the brain's basic wiring is a historical artifact, it implies that certain cognitive and motor processes are constrained by — or built upon — this deep-seated structure. It encourages educators and parents to consider the inherent, often non-intuitive, architecture of the brain when designing learning experiences, especially those involving coordination and spatial awareness.",
+        "The ongoing exploration of such deep evolutionary mysteries reminds us that the brain is not a blank slate, nor is it always designed for immediate efficiency. It is a layered system, carrying echoes of its ancient past. Future research will likely continue to explore how these fundamental structures interact with more recently evolved cognitive functions, potentially informing new approaches to understanding learning challenges and opportunities in children."
+      ],
+      "ja": [
+        "脳の不思議な「交差配線」（左脳が体の右側を、右脳が体の左側を制御する現象）は、何世紀にもわたり科学者たちを悩ませてきました。この神経解剖学（脳の構造を研究する学問）の根幹をなす特徴は、これまで進化の過程で何らかの有利な点をもたらすために最適化された結果だと考えられてきました。しかし、最近発表された新しい仮説は、この見方に異を唱え、古代魚の視覚システムに端を発する単なる進化の歴史的偶然かもしれないと示唆しています。",
+        "この仮説は、特定の運動能力や複雑な認知機能に直接的な利益をもたらすために、この対側性（反対側を制御する仕組み）が発達したわけではないと提唱しています。むしろ、何億年もの時間をかけて脳が発達する中で、既存の構造の上に新たな回路が構築されていった結果だと考えられています。最初の「交差」は、脳がはるかに単純だった5億年以上前の原始脊椎動物の初期視覚経路で生じた可能性があるとされています。",
+        "この進化の経路を理解することは、脳の構造に対する私たちの見方を変えます。すべての神経結合を現在の機能のために完璧に最適化された設計と見るのではなく、この研究は、いくつかの基本的な側面が深く根ざした遺産であることを示唆しています。古代の水中環境での生存に不可欠だった視覚システムが、その後の神経発達のパターンを確立したのです。つまり、私たちの脳は非常に古い「設計図」を携えていることになります。",
+        "「特定の利点のために進化したというより、この珍しい配置は、進化が古い基盤の上に新しい脳回路を構築した単なる遺産であるのかもしれません。」",
+        "この視点は単なる学術的な興味にとどまらず、学習と発達の根幹を理解する上で重要な意味を持ちます。もし脳の基本的な配線が歴史的な遺物であるならば、特定の認知プロセスや運動プロセスが、この深く根ざした構造によって制約される、あるいはその上に構築されることを示唆しています。これは、特に協調性や空間認識を伴う学習体験を設計する際に、脳の固有で、時には直感に反する構造を考慮するよう、教育者や保護者に促すものです。",
+        "このような深遠な進化の謎を探求し続けることは、脳が白紙の状態ではなく、常に即座の効率性のために設計されているわけでもないことを私たちに思い出させます。それは、古代の過去の響きを携えた多層的なシステムなのです。今後の研究は、これらの基本的な構造がより新しく進化した認知機能とどのように相互作用するかを探求し続け、子どもの学習における課題と機会を理解するための新しいアプローチを導く可能性があります。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "This research, while highly fundamental, offers Tokyo families a fascinating lens through which to view their children's development. It reminds us that our brains are not simply optimized machines but intricate products of deep evolutionary history. For parents observing their children learning new motor skills, whether it's playing a musical instrument, mastering calligraphy, or excelling in sports, understanding this inherent 'cross-wired' architecture can foster patience and appreciation for the brain's complex journey.",
+        "A plausible future impact for Tokyo families might be a more nuanced approach to physical and cognitive development programs. While not immediately altering daily routines, this fundamental understanding could, in the long term, inform how children's activities are structured, especially those requiring bilateral coordination or integrating visual and motor inputs. It might subtly influence curriculum design in international schools or advanced extracurricular programs that draw on educational neuroscience.",
+        "The timeframe for such deep biological research to translate into direct pedagogical practice is typically long, likely 5-10 years or more. This is gated by further replication studies, translation into applied cognitive science, and then integration into educational methodologies. It won't be a sudden shift but a gradual refinement of our understanding of how best to support learning given our brain's fundamental design.",
+        "In Japan, institutions like the University of Tokyo's brain science departments or Keio University's SFC (Shonan Fujisawa Campus), known for its interdisciplinary approach to human sciences, are engaged in fundamental research that, while not directly focused on this specific hypothesis, contributes to our broader understanding of neurodevelopment. While there isn't a direct 'Japanese counterpart' program immediately adopting this specific finding, the underlying scientific curiosity about brain function is universal and feeds into the long-term evolution of educational thought."
+      ],
+      "ja": [
+        "この研究は非常に基礎的なものですが、東京のご家庭が子どもの発達を見る上で、興味深い視点を提供してくれます。私たちの脳が単に最適化された機械ではなく、深遠な進化の歴史が織りなす複雑な産物であることを思い出させてくれます。楽器の演奏、書道の習得、スポーツでの活躍など、子どもが新しい運動スキルを学ぶ様子を見守る保護者にとって、この固有の「交差配線」の構造を理解することは、脳の複雑な道のりに対する忍耐と感謝を育むことにつながるでしょう。",
+        "東京のご家庭にとっての具体的な将来的な影響としては、身体的・認知的発達プログラムへのより繊細なアプローチが考えられます。すぐに日々のルーティンが変わるわけではありませんが、この基礎的な理解は、長期的には、特に両側性の協調や視覚と運動の統合を必要とする子どもの活動がどのように構成されるかに影響を与える可能性があります。国際学校や、教育神経科学を取り入れた高度な課外活動プログラムのカリキュラム設計に、微細な影響を与えるかもしれません。",
+        "このような深遠な生物学的研究が直接的な教育実践に反映されるまでには、通常、長い時間がかかります。おそらく5年から10年以上はかかるでしょう。これは、さらなる追試研究、応用認知科学への翻訳、そして教育方法論への統合という段階を経るためです。突然の変化ではなく、脳の基本的な設計を踏まえた上で、いかに学習を最適に支援するかという理解が徐々に洗練されていく過程となるでしょう。",
+        "日本国内では、東京大学の脳科学研究部門や、人間科学に対する学際的なアプローチで知られる慶應義塾大学SFC（湘南藤沢キャンパス）などが、この特定の仮説に直接焦点を当てているわけではありませんが、神経発達に関する幅広い基礎研究に取り組んでいます。この特定の知見をすぐに採用する「日本版の対応プログラム」は現時点ではありませんが、脳機能に対する根源的な科学的探求心は普遍的であり、教育思想の長期的な進化に寄与していくことになります。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "Brain's cross-wiring: an ancient fish legacy, not a design choice",
+        "ja": "脳の交差配線：古代魚の遺産、最適化ではない"
+      },
+      "whoForWhat": {
+        "en": "For Tokyo parents curious about the fundamental architecture of the brain, this research offers a deeper understanding of why our brains are structured the way they are, informing how we approach physical and cognitive development in children.",
+        "ja": "脳の基本的な構造に興味を持つ東京の保護者にとって、この研究はなぜ私たちの脳が現在の形で配線されているのかを深く理解する機会を提供し、子どもの身体的・認知的発達へのアプローチを考える上で示唆を与えます。"
+      },
+      "vsJapanContext": {
+        "en": "This fundamental neuroscientific finding provides a universal biological context, underscoring that the brain's deep structures are shared across cultures, influencing how Japanese educators might view the inherent capabilities and constraints of learning.",
+        "ja": "この基礎的な神経科学の発見は、普遍的な生物学的文脈を提供し、脳の深層構造が文化を超えて共有されていることを強調します。これは、日本の教育者が学習の固有の能力と制約をどのように捉えるかに影響を与えるかもしれません。"
+      },
+      "tokyoNote": {
+        "en": "While abstract, this research highlights that some brain functions are deeply inherited, not purely plastic. Tokyo parents can consider this when supporting motor skill development or understanding why certain learning patterns feel more natural.",
+        "ja": ""
+      }
+    },
+    "source": {
+      "name": "ScienceDaily — Child Development",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261103003146.htm"
+    },
+    "sourceGuid": "https://www.sciencedaily.com/releases/2026/11/261103003146.htm",
+    "status": "published"
+  },
+  {
     "slug": "beyond-iq-new-research-highlights-core-skills-for-reading-success",
     "category": "methods",
     "issue": "Vol. 06",
@@ -2873,8 +2975,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#C8DFCB"
+      "src": "https://images.unsplash.com/photo-1593720213428-28a5b9e94613?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#C9E0CC"
     },
     "title": {
       "en": "Making AI Tutors Transparent: A New Framework for Understanding Educational Dialogues",
@@ -4619,8 +4721,8 @@
     "readingMinutes": 6,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1593720213428-28a5b9e94613?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#C9E0CC"
+      "src": "https://images.unsplash.com/photo-1517842645767-c639042777db?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#F1D5BC"
     },
     "title": {
       "en": "When AI Tutors Get Worse by Trying to Get Better: The Paradox of Metric-Driven Optimization",
@@ -5227,8 +5329,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517842645767-c639042777db?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#F1D5BC"
+      "src": "https://images.unsplash.com/photo-1517431105194-aaf95f6f47f0?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#F0D2B7"
     },
     "title": {
       "en": "Local AI Agent Promises Affordable Language Learning at Home",
@@ -6153,8 +6255,8 @@
     "readingMinutes": 6,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517431105194-aaf95f6f47f0?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#F0D2B7"
+      "src": "https://images.unsplash.com/photo-1543269865-cbf427effbad?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#BBDDF1"
     },
     "title": {
       "en": "Bridging Neuroscience and the Classroom: Why Evidence Alone Isn't Enough",
@@ -6565,8 +6667,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#CCE1CE"
+      "src": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#C8DFCB"
     },
     "title": {
       "en": "A Vision for Low-Cost, Local AI Language Learning Emerges",
@@ -6769,8 +6871,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1551434678-e076c223a692?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#CFE3D2"
+      "src": "https://images.unsplash.com/photo-1561089489-f13d5e730d72?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#D2E4D5"
     },
     "title": {
       "en": "Synthetic Study Data: A Hidden Flaw in Tracking Student Habits",
@@ -7079,8 +7181,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#CDE3CF"
+      "src": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#C8DFCB"
     },
     "title": {
       "en": "AI Tutors Achieve Learning Gains Equivalent to Human Experts for GRE",
@@ -7183,8 +7285,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#D0E4D3"
+      "src": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#CCE1CE"
     },
     "title": {
       "en": "AI Tutors Offer a Private Space for Questions, Reducing Academic Anxiety",
@@ -7493,8 +7595,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#D0E4D3"
+      "src": "https://images.unsplash.com/photo-1551434678-e076c223a692?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#CFE3D2"
     },
     "title": {
       "en": "AI Video Tutors Move Beyond Production to True Learning Support",
@@ -7595,8 +7697,8 @@
     "readingMinutes": 6,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1551434678-e076c223a692?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#CFE3D2"
+      "src": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#CCE1CE"
     },
     "title": {
       "en": "AI Tutors Boost Active Learning in Programming Through Self-Explanation Feedback",
@@ -8101,108 +8203,6 @@
       "url": "https://hechingerreport.org/waitlists-child-care-women-work-promotions/"
     },
     "sourceGuid": "https://hechingerreport.org/?p=117887",
-    "status": "published"
-  },
-  {
-    "slug": "the-hidden-catch-in-private-school-choice-for-students-with-disabilities",
-    "category": "admissions",
-    "issue": "Vol. 04",
-    "publishedAt": "2026-09-15T05:00:00.000Z",
-    "readingMinutes": 5,
-    "feature": true,
-    "cover": {
-      "src": "https://i0.wp.com/hechingerreport.org/wp-content/uploads/2026/09/k12-disability-voucher-1-scaled.jpg?fit=768%2C1024&amp;ssl=1",
-      "tone": "#0c0c0c"
-    },
-    "title": {
-      "en": "The Hidden Catch in Private School Choice for Students with Disabilities",
-      "ja": "障害を持つ生徒の私立学校選択：見過ごされがちな法的保護の壁"
-    },
-    "dek": {
-      "en": "A US report highlights how private schools, even with public funding, may not offer the same legal protections for students with disabilities as public institutions.",
-      "ja": "米国の報告書が示す、公的資金を受けている私立学校でも、障害を持つ生徒に対する法的保護が公立学校と同等ではない現実。"
-    },
-    "author": {
-      "en": "WORLD STUDY TOKYO Editors",
-      "ja": "WORLD STUDY TOKYO 編集部"
-    },
-    "location": {
-      "en": "Cincinnati, Ohio",
-      "ja": "オハイオ州シンシナティ"
-    },
-    "tags": [
-      {
-        "en": "Special Education",
-        "ja": "特別支援教育"
-      },
-      {
-        "en": "Private Schools",
-        "ja": "私立学校"
-      },
-      {
-        "en": "School Choice",
-        "ja": "学校選択"
-      },
-      {
-        "en": "Disability Support",
-        "ja": "障害者支援"
-      }
-    ],
-    "body": {
-      "en": [
-        "In late 2025, families in Ohio, US, discovered a significant limitation when using state-funded vouchers for private school tuition for students with disabilities. Mike Grimmer and Linda Kelly's granddaughter, Annabelle, was removed from Cincinnati Christian Schools just three months after enrolling in a program for students needing extra support.",
-        "The core issue, highlighted by a Hechinger Report investigation, is that private schools receiving public funds via voucher programs are often not bound by the same federal special education laws (like IDEA – Individuals with Disabilities Education Act) that mandate specific services and protections in public schools. This means private schools can expel students with disabilities if they deem their needs too complex or costly, even if the family is using public money to pay tuition.",
-        "While public schools are legally required to provide a Free Appropriate Public Education (FAPE) tailored to each student's Individualized Education Program (IEP), private schools typically are not. Vouchers, intended to expand choice, can inadvertently place families in a precarious position where their child's placement is less secure and the range of services narrower.",
-        "> \"their granddaughter could no longer attend the private school.\"",
-        "The report found that many parents, drawn by promises of smaller class sizes or specific programs, were unaware that by accepting a voucher for a private school, they were waiving their child's rights under federal special education law. This trade-off often becomes apparent only after a child is denied services or asked to leave.",
-        "This situation raises questions about equity and access for students with disabilities when public funds are channeled to institutions with different legal obligations. While vouchers aim to offer alternatives, the reality can be a loss of crucial protections and support for vulnerable students."
-      ],
-      "ja": [
-        "2025 年後半、米国オハイオ州で、障害のある生徒の保護者が、州の補助金（バウチャー）を使って私立学校に通わせる際に予期せぬ制約に直面していることが明らかになりました。マイク・グリマー氏とリンダ・ケリー氏の孫娘アナベルさんは、シンシナティ・クリスチャン・スクールに、特別な支援を必要とする生徒向けのプログラムにわずか 3 ヶ月通った後、退学を求められました。",
-        "Hechinger Report の調査が指摘するように、この問題の核心は、バウチャーを通じて公的資金を受け取る私立学校が、公立学校に義務付けられている連邦特別教育法（IDEA：障害者教育法など）と同じ法的拘束力を持たない点にあります。そのため、私立学校は、生徒のニーズが複雑すぎたり、費用がかかりすぎると判断した場合、たとえ公的資金で授業料が支払われていても、障害のある生徒の退学を求めることができるのです。",
-        "公立学校は、各生徒の個別教育計画（IEP）に基づき、適切な無償の公教育（FAPE）を提供する法的義務があります。しかし、私立学校には通常、この義務はありません。選択肢を広げることを目的としたバウチャー制度が、結果的に保護者を不安定な状況に追い込み、子どもの居場所が不安定になったり、利用できるサービスが限定されたりする可能性があります。",
-        "> 「孫娘はもはや私立学校に通うことができなかった」",
-        "多くの保護者は、少人数制クラスや特定のプログラムに魅力を感じて私立学校を選びますが、バウチャーを受け入れることで、連邦特別教育法に基づく子どもの権利を放棄していることに気づいていない、と報告書は指摘しています。この代償は、子どもが必要な支援を拒否されたり、退学を求められたりして初めて明らかになることが多いようです。",
-        "この状況は、公的資金が異なる法的義務を持つ機関に流れる際に、障害のある生徒の公平性とアクセスにどのような影響を与えるかという重要な問いを投げかけます。バウチャー制度は代替手段を提供することを目指しますが、現実には、支援を必要とする生徒にとって不可欠な保護と支援が失われることにつながる可能性があります。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "This news from the US reveals a crucial difference between public and private education systems when it comes to supporting children with disabilities. While public schools are generally bound by law to provide comprehensive special education services tailored to a child's needs, private schools, even when receiving public funds through programs like vouchers, often are not. This means a private school might not be equipped, or legally obligated, to provide the same level of support, potentially leading to a child being asked to leave if their needs are too complex. It's like enrolling a child in a sports club that promises individual coaching, only to find they can't accommodate a specific physical challenge that a public school's physical education program would be mandated to address.",
-        "For Tokyo families, this insight is relevant when considering school pathways for children with diverse learning needs. Whether a family is looking at a domestic private school (国内私立) or an international school (インターナショナルスクール), understanding the scope of their special education provision is critical. This could influence decisions about where to apply, the questions to ask during admissions, and how to budget for potential external support services. It highlights that \"choice\" doesn't always equate to \"equal access to comprehensive support\" across all institutions.",
-        "This is an issue that already exists today for Tokyo families. While Japan's legal framework for special needs education (特別支援教育) in public schools is robust, the provisions in private and international schools vary widely. Families often navigate this landscape by conducting thorough research and direct inquiries during the application process. Any shift in this dynamic would likely be slow, perhaps over 5-10 years, gated by evolving private school policies or, less likely, new legislation specific to private institutions' obligations.",
-        "In Japan, public elementary and junior high schools are legally required to provide special needs education, including access to special needs classes (特別支援学級) or individual support plans within regular classes. For private schools, while many have dedicated support staff or programs, there isn't a uniform legal mandate like in public schools. Some international schools in Tokyo, such as ASIJ or British School in Tokyo, have well-developed learning support departments, but their capacity and specific offerings can differ, and they are not under the same legal obligations as Japanese public schools regarding special education provision. Families often rely on word-of-mouth and direct engagement with admissions teams to understand the true extent of support."
-      ],
-      "ja": [
-        "米国からのこのニュースは、障害を持つお子さまを支援する上で、公立と私立の教育システム間に存在する重要な違いを浮き彫りにしています。公立学校は通常、お子さまのニーズに合わせた包括的な特別支援教育サービスを提供する法的義務を負っていますが、私立学校は、たとえバウチャーのような公的資金を受け取っていたとしても、同じ義務を負わないことが多いのです。これは、私立学校が、お子さまのニーズが複雑すぎる場合に、同レベルの支援を提供できない、あるいは法的に義務付けられていないため、退学を求める可能性があることを意味します。これは、公立学校の体育プログラムなら対応が義務付けられている特定の身体的課題に対し、個別のコーチングを約束したスポーツクラブが対応できないような状況に似ています。",
-        "東京のご家庭にとって、この知見は、多様な学習ニーズを持つお子さまの学校選択を考える上で重要です。国内の私立学校（国内私立）か、インターナショナルスクール（インターナショナルスクール）かに関わらず、それぞれの学校が提供する特別支援教育の範囲を理解することは不可欠です。これは、どの学校に出願するか、入学時にどのような質問をするべきか、そして外部のサポートサービスにどの程度の予算を割くかといった決定に影響を与える可能性があります。「選択肢」があるからといって、全ての機関で「包括的な支援への平等なアクセス」が保証されるわけではない、という現実を示しています。",
-        "この問題は、東京のご家庭にとって今日すでに存在しています。日本の公立学校における特別支援教育の法的枠組みは強固ですが、私立学校やインターナショナルスクールでの提供内容は多岐にわたります。ご家庭は、入学プロセス中に徹底的な調査と直接的な問い合わせを行うことで、この状況を乗り越えています。この力学に大きな変化が生じるとすれば、それはおそらく 5〜10 年という緩やかな期間で、私立学校のポリシーの進化、あるいは私立機関の義務に関する新たな法律（可能性は低いですが）によって左右されるでしょう。",
-        "日本では、公立の小中学校は、特別支援学級へのアクセスや通常学級内での個別支援計画など、特別支援教育を提供する法的義務があります。一方、私立学校では、多くの学校が専門のサポートスタッフやプログラムを設けていますが、公立学校のような統一された法的義務はありません。東京の一部のインターナショナルスクール、例えば ASIJ やブリティッシュ・スクール・イン東京などは、発達支援部門が充実していますが、その対応能力や具体的な提供内容は異なり、日本の公立学校が負う特別支援教育に関する法的義務とは異なります。ご家庭は、実際の支援の範囲を理解するために、口コミや入学担当者との直接の対話に頼ることが多いのが現状です。"
-      ]
-    },
-    "structured": {
-      "tagline": {
-        "en": "Private school choice for students with disabilities comes with risks.",
-        "ja": "障害のある子の私立校選択、法的保護に留意を。"
-      },
-      "whoForWhat": {
-        "en": "For Tokyo families considering private or international schools for children with diverse learning needs, this highlights the differing legal obligations for special education support.",
-        "ja": "多様な学びのニーズを持つお子さまのために私立校やインターナショナルスクールを検討する東京のご家庭が、特別支援教育における法的義務の違いを理解する一助となります。"
-      },
-      "vsJapanContext": {
-        "en": "Unlike Japan's public schools, which are legally obliged to provide special needs education (特別支援教育), private and international schools in Japan have varying levels of provision, without the same explicit legal mandates.",
-        "ja": "日本の公立学校は特別支援教育の提供を法的に義務付けられていますが、私立やインターナショナルスクールでは、その提供レベルが異なり、同等の明確な法的義務はありません。"
-      },
-      "tokyoNote": {
-        "en": "This report from the US is a reminder that while private schools offer diverse environments, their capacity and legal obligation to support students with disabilities can differ significantly from public institutions, a reality Tokyo families should consider when making school choices.",
-        "ja": "米国のこの報道は、私立学校が多様な学習環境を提供する一方で、障害のある生徒への支援能力や法的義務が公立学校と大きく異なる場合があることを示唆しており、東京のご家庭が学校選択をする上で考慮すべき点です。"
-      }
-    },
-    "source": {
-      "name": "The Hechinger Report",
-      "url": "https://hechingerreport.org/parents-of-students-with-disabilities-find-private-school-vouchers-come-with-a-catch/"
-    },
-    "sourceGuid": "https://hechingerreport.org/?p=117822",
     "status": "published"
   }
 ]
