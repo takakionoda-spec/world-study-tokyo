@@ -1,5 +1,7 @@
 {
   "seen": [
+    "https://www.sciencedaily.com/releases/2026/11/261101010556.htm",
+    "urn:id:9199",
     "tag:theconversation.com,2011:article/293387",
     "https://www.sciencedaily.com/releases/2026/11/261103003146.htm",
     "tag:theconversation.com,2011:article/295827",
@@ -280,7 +282,7 @@
     "urn:id:8909",
     "tag:theconversation.com,2011:article/284069"
   ],
-  "lastRunAt": "2026-11-05T00:56:06.864Z",
-  "lastSuccessAt": "2026-11-05T00:56:06.864Z",
-  "totalRuns": 151
+  "lastRunAt": "2026-11-06T00:58:42.026Z",
+  "lastSuccessAt": "2026-11-06T00:58:42.026Z",
+  "totalRuns": 152
 }
