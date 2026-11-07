@@ -1,5 +1,109 @@
 [
   {
+    "slug": "brain-rewiring-psilocybins-unexpected-role-in-stress-and-cognition",
+    "category": "research",
+    "issue": "Vol. 06",
+    "publishedAt": "2026-11-07T00:33:47.000Z",
+    "readingMinutes": 6,
+    "feature": true,
+    "cover": {
+      "src": "https://www.sciencedaily.com/images/1920/brain-network-connections-mind.webp",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "Brain Rewiring: Psilocybin's Unexpected Role in Stress and Cognition",
+      "ja": "脳の再配線：シロシビンがストレスと認知に与える予期せぬ影響"
+    },
+    "dek": {
+      "en": "New research reveals how a compound from 'magic mushrooms' rapidly creates and strengthens neural connections, potentially repairing stress-damaged brain circuits without psychedelic effects.",
+      "ja": "「マジックマッシュルーム」由来の化合物が、幻覚作用なしに脳の神経結合を迅速に形成・強化し、ストレスで損傷した脳回路を修復する可能性が新たな研究で示されました。"
+    },
+    "author": {
+      "en": "WORLD STUDY TOKYO Editors",
+      "ja": "WORLD STUDY TOKYO 編集部"
+    },
+    "location": {
+      "en": "Tokyo, November 7, 2026",
+      "ja": "東京, 2026年11月7日"
+    },
+    "tags": [
+      {
+        "en": "neuroplasticity",
+        "ja": "脳の可塑性"
+      },
+      {
+        "en": "mental health",
+        "ja": "心の健康"
+      },
+      {
+        "en": "cognitive science",
+        "ja": "認知科学"
+      },
+      {
+        "en": "stress",
+        "ja": "ストレス"
+      }
+    ],
+    "body": {
+      "en": [
+        "A recent discovery has shed new light on how psilocybin, the active compound found in 'magic mushrooms,' can rapidly reorganize the brain's neural connections. Published on November 7, 2026, this research indicates a surprising mechanism by which the compound creates new connections and strengthens existing ones, offering insights into brain plasticity.",
+        "The significance of this finding lies in its potential to address brain circuits damaged by chronic stress. Researchers observed that psilocybin behaves differently in healthy mice compared to those subjected to prolonged stress. In stressed mice, the compound appeared to facilitate repair mechanisms, suggesting a therapeutic avenue for conditions related to chronic psychological burden.",
+        "At its core, the study demonstrates an enhancement of neuroplasticity (the brain's ability to change its structure and function in response to experience). Psilocybin appears to act as a catalyst, promoting the growth of dendrites—tree-like branches that receive signals from other neurons—and increasing the density of synaptic connections, which are crucial for information processing.",
+        "> Most intriguingly, they identified a way to trigger this brain rewiring without the behavioral response associated with psychedelic effects.",
+        "Perhaps the most compelling aspect for future application is the researchers' success in identifying a method to induce this brain rewiring without triggering the psychedelic experiences typically associated with psilocybin. This crucial distinction opens doors for medical and cognitive applications that bypass the hallucinogenic properties, making the therapeutic potential more accessible and ethically manageable.",
+        "While still in early stages of animal research, these findings lay foundational groundwork for understanding how specific compounds can modulate brain architecture. This could lead to novel approaches for treating mental health conditions, enhancing cognitive resilience, and potentially even improving learning and memory by restoring optimal brain function in individuals affected by stress or other neurological impairments. The focus now shifts to further understanding the precise mechanisms and translating these insights into human-safe applications.",
+        "This research highlights the complex interplay between brain chemistry and structure, reminding us that the brain is far more adaptable than previously understood. For families, this underscores the long-term importance of fostering environments that support brain health and resilience, even as specific therapeutic applications are years away."
+      ],
+      "ja": [
+        "最近の研究により、「マジックマッシュルーム」に含まれる活性化合物であるシロシビンが、脳の神経結合をいかに迅速に再編成するかが明らかになりました。2026年11月7日に発表されたこの発見は、シロシビンが新しい神経結合を形成し、既存の結合を強化するという驚くべきメカニズムを示しており、脳の可塑性（脳が経験に応じてその構造や機能を変化させる能力）に関する新たな知見を提供しています。",
+        "この研究の意義は、慢性的なストレスによって損傷した脳の回路を修復する可能性を秘めている点にあります。研究者たちは、シロシビンが健康なマウスと、長期的なストレスにさらされたマウスとで異なる作用を示すことを観察しました。ストレスを受けたマウスでは、シロシビンが修復メカニズムを促進するように見え、長期的な心理的負担に関連する状態に対する治療法となる可能性を示唆しています。",
+        "本質的に、この研究は脳の可塑性を高めることを実証しています。シロシビンは、他のニューロンからの信号を受け取る樹状突起（木の枝のような構造）の成長を促進し、情報処理に不可欠なシナプス結合の密度を高める触媒として機能すると考えられます。",
+        "「最も注目すべきは、幻覚作用を伴わずに、この脳の再配線を誘発する方法が特定されたことです。」",
+        "将来的な応用において最も説得力のある側面は、研究者たちがシロシビンに通常伴う幻覚体験を引き起こすことなく、脳の再配線を誘発する方法を特定できたことです。この重要な区別は、幻覚作用を伴わない医療および認知応用への扉を開き、治療の可能性をより利用しやすく、倫理的に管理しやすくします。",
+        "動物実験の初期段階ではありますが、これらの発見は、特定の化合物が脳の構造をどのように調整するかを理解するための基礎を築きます。これは、精神疾患の治療、認知回復力の向上、さらにはストレスやその他の神経学的障害に影響を受けた個人の最適な脳機能を回復させることによって、学習と記憶を改善する新しいアプローチにつながる可能性があります。現在の焦点は、正確なメカニズムをさらに理解し、これらの知見をヒトに安全な応用へと変換することに移っています。",
+        "この研究は、脳の化学と構造の複雑な相互作用を浮き彫りにし、脳がこれまで考えられていたよりもはるかに適応性が高いことを私たちに思い出させます。家庭にとっては、具体的な治療法の応用にはまだ数年かかるとしても、脳の健康と回復力をサポートする環境を育むことの長期的な重要性を強調しています。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "This research, focusing on psilocybin's ability to rewire the brain without psychedelic effects, presents a fascinating new perspective on neuroplasticity. Imagine the brain as a complex city with many roads; chronic stress can lead to some roads becoming blocked or less efficient. This compound, in simple terms, seems to help build new, more efficient routes or repair damaged ones, making the city's traffic flow better. The key insight for parents is that this rewiring can happen without the mind-altering experiences, making it potentially applicable in a controlled, medical setting.",
+        "For Tokyo families, this could eventually translate into advanced mental health support or cognitive enhancement strategies. While not an immediate solution, it hints at future therapies that could help students manage the intense academic pressures of 中学受験 or 大学受験, improving their ability to cope with stress and maintain focus. It might also offer new avenues for supporting cognitive function in children facing developmental challenges or those needing to enhance their learning adaptability.",
+        "However, the practical application of such findings in Japan is likely a long-term prospect. We are looking at a timeframe of 5 to 10 years, if not more. This is gated by rigorous clinical trials, the highly cautious regulatory approval process for novel compounds in Japan (especially those with a history of illicit use), and the ethical considerations surrounding brain modulation. Public and medical acceptance would also be a significant factor.",
+        "In Japan, while the compound itself is illegal and its direct application is far off, the underlying goal of enhancing brain health and resilience is actively pursued. Universities like the University of Tokyo and Keio University conduct extensive research into cognitive science and mental well-being. Furthermore, institutions like ベネッセ教育総合研究所 explore stress coping mechanisms and learning efficacy. While no direct counterpart to psilocybin-based therapy exists, the focus on supporting student mental health and academic adaptability through other means, such as counselling and educational interventions, aligns with the broader aim of this research."
+      ],
+      "ja": [
+        "幻覚作用なしに脳を再配線するシロシビンの能力に焦点を当てたこの研究は、脳の可塑性（脳が経験に応じてその構造や機能を変化させる能力）について魅力的な新視点を提供します。脳を複雑な都市に例えるなら、慢性的なストレスは一部の道路が渋滞したり、効率が悪くなったりするようなものです。この化合物は、簡潔に言えば、より効率的な新しいルートを構築したり、損傷したルートを修復したりして、都市の交通の流れを改善する手助けをするようです。保護者にとって重要なのは、この再配線が幻覚体験なしに起こりうるため、管理された医療環境での応用が可能になる点です。",
+        "東京で子育てをするご家庭にとって、これは将来的に高度な心の健康サポートや認知機能強化戦略につながる可能性があります。即座の解決策ではありませんが、中学受験や大学受験の激しい学業プレッシャーに直面する子どもたちがストレスに対処し、集中力を維持する能力を向上させるような、未来の治療法を示唆しています。また、発達上の課題を抱える子どもたちや、学習適応性を高める必要がある子どもたちの認知機能をサポートする新たな道を開く可能性も秘めています。",
+        "しかし、このような研究成果が日本で実際に適用されるには、かなりの時間を要するでしょう。5年から10年、あるいはそれ以上の長期的な展望が必要です。これは、厳格な臨床試験、日本における新規化合物（特に違法薬物としての歴史を持つもの）に対する非常に慎重な規制承認プロセス、そして脳の変調に関する倫理的考察によって制約されます。社会と医療現場での受容も重要な要素となるでしょう。",
+        "日本においては、シロシビンそのものは違法であり、その直接的な応用はまだ遠い話ですが、脳の健康と回復力を高めるという根本的な目標は活発に追求されています。東京大学や慶應義塾大学のような大学では、認知科学や心の健康に関する広範な研究が行われています。さらに、ベネッセ教育総合研究所などは、ストレス対処メカニズムや学習効果について探求しています。シロシビンに基づく治療法に直接的な類似点はありませんが、カウンセリングや教育的介入を通じて生徒の心の健康と学業適応性を支援することに焦点を当てることは、この研究のより広範な目的と一致しています。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "Brain rewiring without psychedelic effects.",
+        "ja": "幻覚作用なしに脳を再配線。"
+      },
+      "whoForWhat": {
+        "en": "For Tokyo families interested in future mental health therapies or enhancing cognitive resilience, especially concerning stress and learning.",
+        "ja": "ストレスと学習における認知回復力に関心のある東京の保護者へ。将来的な精神健康治療の可能性を探る一助となります。"
+      },
+      "vsJapanContext": {
+        "en": "This research offers a new perspective on brain plasticity, a concept that underpins much of Japan's current educational focus on growth mindset and adaptable learning, although the method is novel and legally restricted.",
+        "ja": "この研究は脳の可塑性に新たな視点を提供しますが、日本における精神疾患治療や脳機能改善の法規制と大きく異なり、慎重な議論が必要です。"
+      },
+      "tokyoNote": {
+        "en": "While the compound itself is illegal in Japan, the underlying science of brain rewiring for stress resilience holds long-term promise for understanding cognitive health, though practical applications for families are many years away.",
+        "ja": "日本ではシロシビン自体が違法物質ですが、ストレス耐性のための脳の再配線という科学的知見は、将来的な認知健康理解に重要です。しかし、家庭での直接的な応用にはまだ相当な時間と法整備が必要です。"
+      }
+    },
+    "source": {
+      "name": "ScienceDaily — Child Development",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261104012308.htm"
+    },
+    "sourceGuid": "https://www.sciencedaily.com/releases/2026/11/261104012308.htm",
+    "status": "published"
+  },
+  {
     "slug": "understanding-your-brain-to-reshape-daily-habits",
     "category": "methods",
     "issue": "Vol. 06",
@@ -5031,8 +5135,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1455390582262-044cdead277a?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#D9CFE5"
+      "src": "https://images.unsplash.com/photo-1517431105194-aaf95f6f47f0?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#F0D2B7"
     },
     "title": {
       "en": "Beyond a Single Diagnosis: Depression May Be Five Distinct Brain Conditions",
@@ -5133,8 +5237,8 @@
     "readingMinutes": 6,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517431105194-aaf95f6f47f0?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#F0D2B7"
+      "src": "https://images.unsplash.com/photo-1493612276216-ee3925520721?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#F4DEC6"
     },
     "title": {
       "en": "When AI Tutors Get Worse by Trying to Get Better: The Paradox of Metric-Driven Optimization",
@@ -5329,8 +5433,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1493612276216-ee3925520721?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#F4DEC6"
+      "src": "https://images.unsplash.com/photo-1453738773917-9c3eff1db985?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#F5DDC3"
     },
     "title": {
       "en": "Self-Directed Learning Is Inherently Social, Not Solitary",
@@ -5639,8 +5743,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1453738773917-9c3eff1db985?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#F5DDC3"
+      "src": "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#DCD2E7"
     },
     "title": {
       "en": "Beyond Practice: How Post-Learning Nerve Activity Shapes Long-Term Skill",
@@ -5741,8 +5845,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1551434678-e076c223a692?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#CFE3D2"
+      "src": "https://images.unsplash.com/photo-1573164713619-24c711fe7878?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#C4DDC6"
     },
     "title": {
       "en": "Local AI Agent Promises Affordable Language Learning at Home",
@@ -6151,8 +6255,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#C8DFCB"
+      "src": "https://images.unsplash.com/photo-1593720213428-28a5b9e94613?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#C9E0CC"
     },
     "title": {
       "en": "AI Tutors Match Human Effectiveness for GRE Prep, at a Fraction of the Cost",
@@ -7079,8 +7183,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#CCE1CE"
+      "src": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#D0E4D3"
     },
     "title": {
       "en": "A Vision for Low-Cost, Local AI Language Learning Emerges",
@@ -7283,8 +7387,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1573164713619-24c711fe7878?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#C4DDC6"
+      "src": "https://images.unsplash.com/photo-1561089489-f13d5e730d72?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#D2E4D5"
     },
     "title": {
       "en": "Synthetic Study Data: A Hidden Flaw in Tracking Student Habits",
@@ -7593,8 +7697,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1593720213428-28a5b9e94613?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#C9E0CC"
+      "src": "https://images.unsplash.com/photo-1561089489-f13d5e730d72?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#D2E4D5"
     },
     "title": {
       "en": "AI Tutors Achieve Learning Gains Equivalent to Human Experts for GRE",
@@ -7697,8 +7801,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#CDE3CF"
+      "src": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#C8DFCB"
     },
     "title": {
       "en": "AI Tutors Offer a Private Space for Questions, Reducing Academic Anxiety",
@@ -8099,112 +8203,6 @@
       "url": "http://arxiv.org/abs/2609.24083v1"
     },
     "sourceGuid": "http://arxiv.org/abs/2609.24083v1",
-    "status": "published"
-  },
-  {
-    "slug": "ai-tutors-boost-active-learning-in-programming-through-self-explanation-feedback",
-    "category": "ai-edu",
-    "issue": "Vol. 04",
-    "publishedAt": "2026-09-18T15:55:01.000Z",
-    "readingMinutes": 6,
-    "feature": true,
-    "cover": {
-      "src": "https://images.unsplash.com/photo-1573164713619-24c711fe7878?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#C4DDC6"
-    },
-    "title": {
-      "en": "AI Tutors Boost Active Learning in Programming Through Self-Explanation Feedback",
-      "ja": "AIチューターがプログラミング学習を変革：自己説明への即時フィードバックで能動的学習を促進"
-    },
-    "dek": {
-      "en": "New research shows large language models can effectively assess student explanations, leading to deeper understanding and persistence in coding education.",
-      "ja": "最新研究が示すのは、LLMが学生の自己説明を正確に評価し、コーディング学習における理解度と粘り強さを向上させる可能性です。"
-    },
-    "author": {
-      "en": "WORLD STUDY TOKYO Editors",
-      "ja": "WORLD STUDY TOKYO 編集部"
-    },
-    "location": {
-      "en": "Tokyo, September 18, 2026",
-      "ja": "東京、2026年9月18日"
-    },
-    "tags": [
-      {
-        "en": "AI in Education",
-        "ja": "教育AI"
-      },
-      {
-        "en": "Programming Education",
-        "ja": "プログラミング教育"
-      },
-      {
-        "en": "Self-Explanation",
-        "ja": "自己説明"
-      },
-      {
-        "en": "Personalized Learning",
-        "ja": "個別最適化学習"
-      }
-    ],
-    "body": {
-      "en": [
-        "A recent preprint published on arXiv in September 2026 describes a new AI-powered tutor designed to help students learn introductory programming more effectively. Researchers developed a system called ESSE, which leverages large language models (LLMs) to provide immediate feedback on students' self-explanations of programming examples.",
-        "Learning to code often involves studying \"worked examples\"—step-by-step solutions to problems. However, simply reading these solutions can be a passive activity. The study highlights the power of \"self-explanation\" (articulating one's understanding of a problem and its solution process to oneself), a learning method known to deepen comprehension. Traditionally, providing personalized, timely feedback on these free-form explanations has been difficult to scale.",
-        "ESSE addresses this challenge by integrating an LLM to act as an automated tutor. In an introductory Java course, students using ESSE explained individual lines of code within worked examples. The system then provided immediate feedback on the correctness and completeness of their explanations, encouraging them to refine their understanding.",
-        "The research focused on two key questions. First, could the LLM accurately judge student explanations? By comparing the LLM's assessments against those of both a domain expert and a group of non-expert human raters, the study found the LLM's judgments were sufficiently reliable to power the tutor, despite some systematic differences.",
-        "Second, did the LLM-based tutoring benefit students? The findings were encouraging.",
-        "> their explanations grow more complete and conceptually richer across attempts",
-        "Students who received feedback from ESSE were more likely to persist and revise their explanations rather than giving up. Their explanations became notably more complete and conceptually richer over successive attempts. The researchers concluded that students showed clear evidence of learning, indicating that LLM-powered assessment can indeed foster active study habits in programming.",
-        "This work suggests a significant step towards scalable, personalized learning experiences, particularly in fields like computer science where detailed conceptual understanding is crucial. The ability of AI to provide nuanced, real-time feedback on complex thought processes could reshape how students approach problem-solving and deep learning across various subjects."
-      ],
-      "ja": [
-        "2026年9月付でarXivに公開された最新のプレプリント論文で、AIを活用した新しいチューターシステムが紹介されました。これは、プログラミング初心者がより効果的に学習できるよう設計されたものです。研究者たちは、大規模言語モデル（LLM）の能力を活用し、学生がプログラミングの「模範解答」（worked examples）を自己説明する際に、即座にフィードバックを提供する「ESSE」というシステムを開発しました。",
-        "プログラミング学習では、問題の解決プロセスを段階的に示す「模範解答」を学ぶことがよくあります。しかし、単にこれを読むだけでは受動的な学習になりがちです。本研究では、「自己説明」（self-explanation ── 問題と解答のプロセスを自分自身に説明し、理解を深める能動的な学習法）の重要性が強調されています。この方法は学習効果を高めることが知られていますが、これまで自由記述の自己説明に対し、個別かつタイムリーなフィードバックを大規模に提供することは困難でした。",
-        "ESSEはこの課題に対し、LLMを自動チューターとして活用することで対応しました。Javaの入門コースでESSEを導入したところ、学生は模範解答の各コード行について自分の理解を説明しました。システムは学生の説明の正確性と網羅性に対し、即座にフィードバックを提供し、彼らが理解を深めるよう促しました。",
-        "研究では、主に2つの問いが検証されました。第一に、LLMは学生の自己説明を人間と同程度に正確に評価できるか。専門家と非専門家グループによる人間の評価と比較した結果、LLMの評価はチューターとして機能するのに十分な信頼性があることが示されました。第二に、このLLMベースのチューターは学生の学習に利益をもたらすか。",
-        "結果は非常に有望でした。",
-        "「彼らの説明は、試行を繰り返すうちに、より完全で概念的に豊かなものへと成長していきました」",
-        "ESSEからのフィードバックを受けた学生は、説明を途中で諦めることなく、粘り強く修正を重ねる傾向が見られました。彼らの説明は、試行を繰り返すうちに、より完全で概念的に豊かなものへと成長していきました。研究者たちは、LLMによる評価が、プログラミング学習における能動的な学習習慣を効果的に促進することを示唆しています。",
-        "この研究は、特にコンピューターサイエンスのように詳細な概念理解が不可欠な分野において、スケーラブルで個別化された学習体験への大きな一歩を示唆しています。AIが複雑な思考プロセスに対し、きめ細かくリアルタイムなフィードバックを提供できる能力は、学生が問題解決や深い学習に取り組む方法を根本的に変える可能性を秘めていると言えるでしょう。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "This research highlights how AI can move beyond just providing answers, instead guiding students to actively construct their own understanding. Imagine a dedicated tutor who not only points out where you went wrong in a coding problem but also asks you to explain your thought process for each line, then gives instant, specific feedback on that explanation. This active self-reflection, driven by AI, is the core of what ESSE offers.",
-        "For Tokyo families, this could significantly impact how children learn complex subjects, especially in STEM fields. As coding education becomes more prevalent, from after-school classes to specialized high school tracks, an AI tutor like ESSE could offer personalized support that traditional classroom settings or even most juku cannot easily replicate. It could be particularly valuable for students pursuing International Baccalaureate (IB) or Advanced Placement (AP) computer science, where conceptual depth and independent problem-solving are emphasized.",
-        "We might see such AI-powered self-explanation tools integrated into major online learning platforms or specialized coding academies within the next 3-5 years. The widespread adoption would likely be gated by the development of robust Japanese language models capable of similar nuanced feedback, and the willingness of domestic education providers to integrate such advanced AI into their curriculum, potentially influencing how entrance exams for STEM university programs evaluate problem-solving skills.",
-        "While no direct Japanese counterpart offers this exact level of AI-driven self-explanation feedback for programming, platforms like Atama+ and すららネット already focus on personalized learning paths and adaptive quizzing. The key difference here is the AI's ability to assess and guide the *process of explanation* rather than just the correctness of an answer, a gap that future Japanese edtech could aim to fill to enhance deeper learning."
-      ],
-      "ja": [
-        "この研究は、AIが単に解答を提供するだけでなく、学生が自ら理解を構築するプロセスを導く可能性を示しています。まるで専属の家庭教師が、プログラミング問題の間違いを指摘するだけでなく、各コード行に対する思考プロセスを説明させ、その説明に対して即座に、きめ細やかなフィードバックを与えるようなものです。AIが駆動するこの能動的な自己省察こそが、ESSEが提供する学習体験の中核と言えるでしょう。",
-        "東京のご家庭にとって、これは特にSTEM分野のような複雑な科目の学習方法に大きな影響を与える可能性があります。プログラミング教育が、放課後学習から専門高校のコースまで、ますます普及する中で、ESSEのようなAIチューターは、従来の教室環境や一般的な塾では提供しにくい個別化されたサポートを提供できます。特に、概念的な深さと独立した問題解決能力が重視される国際バカロレア（IB）やAP（Advanced Placement）のコンピューターサイエンスを学ぶ学生にとって、非常に価値のあるツールとなり得ます。",
-        "このようなAIを活用した自己説明型学習ツールは、今後3〜5年以内に、主要なオンライン学習プラットフォームや専門的なプログラミングスクールに統合される可能性があります。普及の鍵となるのは、同様のきめ細やかなフィードバックを日本語で提供できる堅牢なLLMの開発と、国内の教育機関がこのような先進的なAIをカリキュラムに組み込む意欲です。将来的には、STEM系大学の入試における問題解決能力の評価方法にも影響を与えるかもしれません。",
-        "現在、日本国内でプログラミングの自己説明に対するAI駆動のフィードバックを直接提供するサービスはまだありませんが、Atama+やすららネットのようなプラットフォームは、個別最適化された学習パスやアダプティブな問題演習に注力しています。ESSEとの決定的な違いは、単に解答の正誤だけでなく、AIが「説明のプロセス」自体を評価し、導く点にあります。このギャップを、日本の今後のエドテックが埋めることで、より深い学習を促進する可能性を秘めていると言えるでしょう。"
-      ]
-    },
-    "structured": {
-      "tagline": {
-        "en": "AI gives instant feedback on student explanations in coding.",
-        "ja": "AIがコード説明に即時フィードバック。"
-      },
-      "whoForWhat": {
-        "en": "For a Tokyo family with a middle or high schooler interested in programming or computer science, this news informs how future coding education might offer personalized, deep learning support.",
-        "ja": "プログラミングやコンピューターサイエンスに興味を持つ中高生がいる東京のご家庭にとって、将来のコーディング教育がどのように個別化された深い学びを支援するかを示唆します。"
-      },
-      "vsJapanContext": {
-        "en": "While Japanese platforms like Atama+ offer adaptive learning, this AI tutor's focus on assessing free-text self-explanations represents a more advanced feedback mechanism not yet widely adopted in domestic juku or online learning services.",
-        "ja": "Atama+のようなアダプティブラーニングを提供する日本国内のプラットフォームがある中で、このAIチューターの自由記述の自己説明を評価するアプローチは、国内の塾やオンライン学習サービスではまだ広く普及していない高度なフィードバックメカニズムです。"
-      },
-      "tokyoNote": {
-        "en": "This research suggests a future where AI tutors don't just correct answers but guide thinking processes. For Tokyo families, this could mean more accessible, high-quality personalized learning for coding, potentially influencing preparation for STEM university admissions or international school computer science programs without relying solely on expensive human tutors.",
-        "ja": "この研究は、AIチューターが単に解答を修正するだけでなく、思考プロセスを導く未来を示唆します。東京のご家庭にとって、これは高価な人的チューターに頼ることなく、プログラミングの質の高い個別学習がより身近になる可能性があり、STEM系大学入試やインターナショナルスクールのコンピューターサイエンスプログラムの準備にも影響を与えるかもしれません。"
-      }
-    },
-    "source": {
-      "name": "arXiv cs.CY",
-      "url": "http://arxiv.org/abs/2608.25180v2"
-    },
-    "sourceGuid": "http://arxiv.org/abs/2608.25180v2",
     "status": "published"
   }
 ]
