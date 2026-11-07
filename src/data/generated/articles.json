@@ -1,5 +1,109 @@
 [
   {
+    "slug": "understanding-your-brain-to-reshape-daily-habits",
+    "category": "methods",
+    "issue": "Vol. 06",
+    "publishedAt": "2026-11-06T11:01:00.000Z",
+    "readingMinutes": 5,
+    "feature": true,
+    "cover": {
+      "src": "https://images.unsplash.com/photo-1455390582262-044cdead277a?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#F6E0CA"
+    },
+    "title": {
+      "en": "Understanding Your Brain to Reshape Daily Habits",
+      "ja": "脳の仕組みを知り、日々の習慣をより良く変える"
+    },
+    "dek": {
+      "en": "A recent video dispatch from Psyche highlights how insight into our brain’s reward and stress systems can empower us to shift entrenched behaviors, offering a path to more intentional living.",
+      "ja": "Psycheの動画コンテンツは、脳の報酬系とストレス反応の仕組みを理解することが、根深い習慣を変える力になることを示唆しています。より意識的な生活への道筋が見えてきます。"
+    },
+    "author": {
+      "en": "WORLD STUDY TOKYO Editors",
+      "ja": "WORLD STUDY TOKYO 編集部"
+    },
+    "location": {
+      "en": "Tokyo, November 2026",
+      "ja": "東京、2026年11月"
+    },
+    "tags": [
+      {
+        "en": "Cognitive Science",
+        "ja": "認知科学"
+      },
+      {
+        "en": "Habit Formation",
+        "ja": "習慣形成"
+      },
+      {
+        "en": "Self-Regulation",
+        "ja": "自己調整能力"
+      },
+      {
+        "en": "Parenting",
+        "ja": "子育て"
+      }
+    ],
+    "body": {
+      "en": [
+        "A recent video presentation by Dr. Tracey Marks on Psyche, Aeon’s platform for exploring the human mind, offers a practical perspective on how understanding our brain's internal mechanisms can be key to altering undesirable habits. Published in late 2026, the dispatch suggests that rather than simply trying to willpower our way through change, a deeper awareness of neural pathways provides a more effective route.",
+        "The core idea centers on recognizing the brain's reward system (脳の報酬系 — 快感や満足感を感じさせる神経回路) and its stress response (ストレス反応 — 脅威や困難に直面した際に生じる身体的・精神的反応) as fundamental drivers of habit formation. Many habits, both beneficial and detrimental, are reinforced because they either lead to a perceived reward or help us avoid discomfort. For instance, scrolling through social media might offer a quick dopamine hit (a reward), while procrastinating on a difficult task might temporarily relieve anxiety (avoiding stress).",
+        "Dr. Marks’s approach encourages individuals to observe these internal processes, identifying the specific rewards or stress-avoidance mechanisms that fuel their habits. By doing so, one can begin to \"change the narrative\" — reframing the perceived benefits or costs associated with a behavior. This metacognitive awareness (メタ認知 — 自分の思考や学習プロセスを客観的に認識し、コントロールする能力) allows for a more deliberate intervention than simply battling urges.",
+        "For parents, this insight holds particular relevance. Helping children develop positive routines, such as consistent study habits or balanced screen time, often involves more than just setting rules. It requires guiding them to understand the underlying feelings or desires that drive their actions. For a child who struggles with homework, exploring whether they are avoiding the difficulty (stress avoidance) or seeking immediate gratification (reward) from other activities can be a starting point.",
+        "> Getting to know your brain better could help you change the narrative.",
+        "The video emphasizes that true habit change is not about brute force, but about subtle shifts in how we interpret and respond to our internal cues. This perspective aligns with broader trends in developmental psychology and education that advocate for teaching self-regulation (自己調整能力 — 目標達成のために自分の感情や行動をコントロールする能力) and executive function skills (実行機能 — 目標設定、計画、問題解決、衝動抑制など、複雑な思考や行動を司る脳機能) from an early age. Equipping learners with this understanding can empower them to take more active roles in shaping their own learning and well-being.",
+        "While the video is conceptual, its practical implications suggest a move towards educational approaches that integrate neuroscience with personal development. Future applications might include curriculum designs that explicitly teach students about their own cognitive and emotional architecture, enabling them to build healthier habits for academic success and life beyond the classroom."
+      ],
+      "ja": [
+        "人間の心の探求をテーマとするAeonのプラットフォーム「Psyche」で、2026年後半に公開されたDr. Tracey Marks氏の動画プレゼンテーションは、私たちの脳の内部メカニズムを理解することが、望ましくない習慣を変える鍵となるという実践的な視点を提供しています。意志の力だけで変化を試みるのではなく、神経経路への深い認識がより効果的な道筋を示すと提案されています。",
+        "この考え方の核心は、習慣形成の根本的な原動力として、脳の報酬系（快感や満足感を感じさせる神経回路）とストレス反応（脅威や困難に直面した際に生じる身体的・精神的反応）を認識することにあります。良い習慣も悪い習慣も、報酬を感じるか、不快感を避けることで強化されます。例えば、ソーシャルメディアをスクロールすることは手軽なドーパミン放出（報酬）をもたらし、難しい課題を先延ばしにすることは一時的に不安を和らげる（ストレス回避）かもしれません。",
+        "Marks氏のアプローチは、これらの内部プロセスを観察し、習慣を維持する特定の報酬やストレス回避メカニズムを特定することを促します。そうすることで、人は「物語を変える」、つまり行動に関連する認識された利益やコストを再構築し始めることができます。このメタ認知（自分の思考や学習プロセスを客観的に認識し、コントロールする能力）は、単に衝動と戦うよりも、より意図的な介入を可能にします。",
+        "保護者にとって、この洞察は特に重要です。一貫した学習習慣やバランスの取れたスクリーンタイムなど、子どもが前向きなルーティンを築くのを助けることは、単にルールを設定するだけではありません。彼らの行動を駆り立てる根本的な感情や欲求を理解するよう導くことが必要です。宿題に苦労している子どもに対して、彼らが困難を避けているのか（ストレス回避）、それとも他の活動から即座の満足を求めているのか（報酬）を探ることが、出発点となるでしょう。",
+        "> 自分の脳をより良く知ることが、物語を変える助けになるでしょう。",
+        "この動画は、真の習慣変化は力ずくではなく、私たちが内的な手がかりをどのように解釈し、反応するかの微妙な変化にかかっていると強調しています。この視点は、自己調整能力（目標達成のために自分の感情や行動をコントロールする能力）や実行機能スキル（目標設定、計画、問題解決、衝動抑制など、複雑な思考や行動を司る脳機能）を幼少期から教えることを提唱する、発達心理学や教育の広範なトレンドと一致します。学習者にこの理解を身につけさせることは、彼らが自身の学習とウェルビーイングを形作る上で、より積極的な役割を果たす力を与えることができます。",
+        "この動画は概念的なものですが、その実践的な示唆は、神経科学と自己啓発を統合する教育アプローチへの移行を示唆しています。将来的な応用としては、生徒が自身の認知・感情の構造について明示的に学ぶカリキュラム設計が含まれるかもしれません。これにより、学業の成功と教室を超えた人生のためのより健康的な習慣を築くことが可能になるでしょう。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "This video from Psyche offers a valuable lens for Tokyo families navigating the pressures of academic life and daily routines. It shifts the focus from mere discipline to a deeper understanding of why we, and our children, engage in certain behaviors. Instead of simply telling a child to study more or spend less time on screens, this approach encourages parents to explore the underlying brain mechanisms: Is the child avoiding the stress of a difficult subject, or seeking the immediate reward of entertainment? This reframing can turn a disciplinary challenge into a collaborative problem-solving exercise.",
+        "For Tokyo families, this perspective could impact how they approach everything from managing homework schedules to fostering independent study habits. If a child understands that their brain seeks comfort or reward, they can learn strategies to provide healthier alternatives or break down tasks into less daunting steps. This could subtly influence the choice of after-school activities or even the way juku (学習塾 — cram schools) design their self-study support programs, moving beyond rote memorization to metacognitive skill-building.",
+        "We might see these insights integrated into mainstream educational guidance within the next 3-5 years. The gating factor will likely be the adoption by major educational publishers like Benesse or Z-Kai, or by prominent juku such as SAPIX or Yotsuya Otsuka, which could incorporate these principles into their parent-teacher conferences or study materials. International schools in Tokyo, with their emphasis on holistic development and social-emotional learning, might adopt these concepts even sooner, within 1-2 years.",
+        "In Japan, while many institutions focus on habit formation through repetition and discipline (e.g., Kumon or Gakken), the emphasis on understanding the *why* behind habits is less explicit in mainstream education. However, some progressive programs, particularly in university admissions preparation like those for 総合型選抜 (Sogogata Senbatsu — comprehensive selection admissions, formerly AO admissions), already encourage students to reflect on their learning processes and motivations. The N高等学校 (N High School) and S高等学校, with their focus on self-directed learning and student well-being, are also moving in a direction that aligns with teaching students about their own cognitive architecture for better self-regulation."
+      ],
+      "ja": [
+        "Psycheのこの動画は、学業と日々のルーティンに追われる東京のご家庭にとって、非常に価値のある視点を提供します。単なる規律ではなく、私たち自身や子どもたちがなぜ特定の行動をとるのか、その理由を深く理解することに焦点を移します。子どもに「もっと勉強しなさい」とか「スクリーンタイムを減らしなさい」とただ言うのではなく、このアプローチは、その背景にある脳のメカニズムを探るよう保護者を促します。子どもは難しい科目のストレスを避けているのか、それともエンターテイメントから即座の報酬を求めているのか。この再構築は、単なるしつけの課題を、協力的な問題解決の機会に変えることができます。",
+        "東京のご家庭にとって、この視点は宿題のスケジュール管理から自律的な学習習慣の育成まで、あらゆるアプローチに影響を与える可能性があります。もし子どもが自分の脳が快適さや報酬を求めていると理解すれば、より健康的な代替手段を提供したり、タスクをより負担の少ないステップに分解したりする戦略を学ぶことができます。これは、習い事の選択や、SAPIXや四谷大塚のような大手学習塾が自習サポートプログラムを設計する方法に微妙な影響を与え、単なる反復学習を超えて、メタ認知能力の育成へと向かうかもしれません。",
+        "これらの知見が主流の教育指導に組み込まれるのは、今後3〜5年以内には見られるかもしれません。その鍵となるのは、ベネッセやZ会のような主要な教育出版社、あるいはSAPIXや四谷大塚のような著名な学習塾がこれらの原則を保護者面談や教材に組み込むことでしょう。東京のインターナショナルスクールは、ホリスティックな発達と社会性・情動的学習を重視しているため、これらの概念をさらに早く、1〜2年以内に採用する可能性があります。",
+        "日本では、公文や学研のように反復と規律を通じて習慣形成に重点を置く機関が多い一方で、習慣の背後にある「なぜ」を理解することへの強調は、主流の教育ではまだ明示的ではありません。しかし、大学入試の総合型選抜（旧AO入試）の準備など、一部の先進的なプログラムでは、すでに生徒が自身の学習プロセスや動機を深く考察することを奨励しています。N高等学校やS高等学校も、自律的な学習と生徒のウェルビーイングに焦点を当てており、より良い自己調整のために自身の認知構造について生徒に教えるという方向性と一致しています。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "Understand your brain, reshape your habits.",
+        "ja": "脳を知れば、習慣は変えられる。"
+      },
+      "whoForWhat": {
+        "en": "For Tokyo families with children of all ages, this offers a new perspective on fostering positive habits and managing challenges like screen time or procrastination by understanding the brain's role.",
+        "ja": "あらゆる年齢の子どもを持つ東京のご家庭が、脳の仕組みを理解することで、良い習慣を育み、スクリーンタイムや先延ばしといった課題を乗り越えるための新たな視点を提供します。"
+      },
+      "vsJapanContext": {
+        "en": "This psychological approach to habit formation contrasts with traditional Japanese educational emphasis on discipline and repetition, though some progressive juku and international schools are starting to integrate metacognitive strategies.",
+        "ja": "習慣形成へのこの心理学的アプローチは、規律と反復を重視する日本の伝統的な教育とは対照的ですが、一部の先進的な学習塾やインターナショナルスクールではメタ認知戦略が取り入れられ始めています。"
+      },
+      "tokyoNote": {
+        "en": "This insight into brain-based habit change offers a powerful tool for Tokyo parents, moving beyond mere rules to empower children with self-awareness. While not yet central to MEXT guidelines, its practical benefits for academic focus and well-being are clear, making it a valuable approach for families considering international school curricula or advanced juku programs.",
+        "ja": "脳の仕組みに基づいた習慣変化の洞察は、東京の保護者にとって強力なツールとなり、単なるルールを超えて子どもたちに自己認識の力を与えます。文部科学省のガイドラインの中心ではありませんが、学業への集中とウェルビーイングへの実用的な利点は明らかであり、インターナショナルスクールのカリキュラムや先進的な学習塾のプログラムを検討するご家庭にとって価値あるアプローチとなるでしょう。"
+      }
+    },
+    "source": {
+      "name": "Psyche",
+      "url": "https://psyche.co/videos/to-break-a-bad-habit-try-telling-yourself-a-different-story"
+    },
+    "sourceGuid": "urn:id:9058",
+    "status": "published"
+  },
+  {
     "slug": "beyond-copying-the-art-of-active-note-taking-for-deeper-learning",
     "category": "methods",
     "issue": "Vol. 06",
@@ -2673,8 +2777,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#D5C9E2"
+      "src": "https://images.unsplash.com/photo-1532012197267-da84d127e765?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#D9CFE5"
     },
     "title": {
       "en": "The Aging Brain: Shifting from Details to Wisdom",
@@ -4927,7 +5031,7 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1532012197267-da84d127e765?auto=format&fit=crop&w=2200&q=80",
+      "src": "https://images.unsplash.com/photo-1455390582262-044cdead277a?auto=format&fit=crop&w=2200&q=80",
       "tone": "#D9CFE5"
     },
     "title": {
@@ -5029,8 +5133,8 @@
     "readingMinutes": 6,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517842645767-c639042777db?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#F1D5BC"
+      "src": "https://images.unsplash.com/photo-1517431105194-aaf95f6f47f0?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#F0D2B7"
     },
     "title": {
       "en": "When AI Tutors Get Worse by Trying to Get Better: The Paradox of Metric-Driven Optimization",
@@ -5535,8 +5639,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1455390582262-044cdead277a?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#D9CFE5"
+      "src": "https://images.unsplash.com/photo-1453738773917-9c3eff1db985?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#F5DDC3"
     },
     "title": {
       "en": "Beyond Practice: How Post-Learning Nerve Activity Shapes Long-Term Skill",
@@ -5637,8 +5741,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517431105194-aaf95f6f47f0?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#F0D2B7"
+      "src": "https://images.unsplash.com/photo-1551434678-e076c223a692?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#CFE3D2"
     },
     "title": {
       "en": "Local AI Agent Promises Affordable Language Learning at Home",
@@ -6047,8 +6151,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1453738773917-9c3eff1db985?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#F5DDC3"
+      "src": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#C8DFCB"
     },
     "title": {
       "en": "AI Tutors Match Human Effectiveness for GRE Prep, at a Fraction of the Cost",
@@ -6975,8 +7079,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1551434678-e076c223a692?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#CFE3D2"
+      "src": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#CCE1CE"
     },
     "title": {
       "en": "A Vision for Low-Cost, Local AI Language Learning Emerges",
@@ -7179,8 +7283,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#C8DFCB"
+      "src": "https://images.unsplash.com/photo-1573164713619-24c711fe7878?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#C4DDC6"
     },
     "title": {
       "en": "Synthetic Study Data: A Hidden Flaw in Tracking Student Habits",
@@ -7489,8 +7593,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#CDE3CF"
+      "src": "https://images.unsplash.com/photo-1593720213428-28a5b9e94613?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#C9E0CC"
     },
     "title": {
       "en": "AI Tutors Achieve Learning Gains Equivalent to Human Experts for GRE",
@@ -7593,8 +7697,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1551434678-e076c223a692?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#CFE3D2"
+      "src": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#CDE3CF"
     },
     "title": {
       "en": "AI Tutors Offer a Private Space for Questions, Reducing Academic Anxiety",
@@ -7903,8 +8007,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1551434678-e076c223a692?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#CFE3D2"
+      "src": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#D0E4D3"
     },
     "title": {
       "en": "AI Video Tutors Move Beyond Production to True Learning Support",
@@ -8005,8 +8109,8 @@
     "readingMinutes": 6,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1551434678-e076c223a692?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#CFE3D2"
+      "src": "https://images.unsplash.com/photo-1573164713619-24c711fe7878?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#C4DDC6"
     },
     "title": {
       "en": "AI Tutors Boost Active Learning in Programming Through Self-Explanation Feedback",
@@ -8101,110 +8205,6 @@
       "url": "http://arxiv.org/abs/2608.25180v2"
     },
     "sourceGuid": "http://arxiv.org/abs/2608.25180v2",
-    "status": "published"
-  },
-  {
-    "slug": "the-rising-cost-of-higher-education-a-global-challenge-for-families",
-    "category": "admissions",
-    "issue": "Vol. 04",
-    "publishedAt": "2026-09-16T05:00:00.000Z",
-    "readingMinutes": 5,
-    "feature": true,
-    "cover": {
-      "src": "https://i0.wp.com/hechingerreport.org/wp-content/uploads/2026/09/oped-Garimella-090826-scaled.jpg?fit=1024%2C683&amp;ssl=1",
-      "tone": "#0c0c0c"
-    },
-    "title": {
-      "en": "The Rising Cost of Higher Education: A Global Challenge for Families",
-      "ja": "高騰する高等教育費：世界共通の家族の課題"
-    },
-    "dek": {
-      "en": "A US college president calls for better cost control in higher education, highlighting the immense sacrifices families make. This global conversation resonates with Tokyo parents navigating their children's educational journeys.",
-      "ja": "米国の大学学長が、高等教育機関に対し費用抑制の改善を訴えました。家族が教育のために払う多大な犠牲に光を当てるこの議論は、子どもの教育を考える東京の保護者にとっても深く響くものです。"
-    },
-    "author": {
-      "en": "WORLD STUDY TOKYO Editors",
-      "ja": "WORLD STUDY TOKYO 編集部"
-    },
-    "location": {
-      "en": "TOKYO",
-      "ja": "東京"
-    },
-    "tags": [
-      {
-        "en": "Higher Education",
-        "ja": "高等教育"
-      },
-      {
-        "en": "Tuition Costs",
-        "ja": "学費"
-      },
-      {
-        "en": "Family Finance",
-        "ja": "家計"
-      },
-      {
-        "en": "Admissions",
-        "ja": "入試"
-      }
-    ],
-    "body": {
-      "en": [
-        "In a recent dispatch, a US college president voiced a critical concern for higher education institutions: the escalating cost of tuition and the extraordinary sacrifices families make to send their children to college. The president noted that millions of American parents and caregivers work overtime, postpone retirement, and take on debt, all driven by the belief that higher education opens doors to opportunities their children might not otherwise have.",
-        "This sentiment reflects a widespread anxiety among families globally, who view higher education as a vital investment in their children's future. While the scale of tuition fees and student debt in the United States is particularly pronounced, the underlying pressure on families to finance educational pathways is a universal experience. The piece argues that colleges themselves bear a responsibility to manage these costs more effectively, rather than placing an ever-increasing burden on students and their parents.",
-        "The dispatch underscores that students, too, are making significant compromises. Many juggle night jobs, weekend work, and family responsibilities, often borrowing substantial amounts to finance their studies. This financial strain can impact academic performance, mental well-being, and the overall quality of the college experience, turning what should be a period of growth and exploration into one of constant financial worry.",
-        "> \"Every fall, millions of American parents and caregivers make extraordinary sacrifices to send a child to college. They work overtime, postpone retirement, take on debt or set aside other priorities because they believe higher education can create opportunities they never had.\"",
-        "The call for institutions to control costs better suggests a shift in perspective, moving beyond simply raising tuition to cover expenses. It implies a need for universities to re-evaluate their operational models, administrative overheads, and the value proposition they offer. This could involve exploring more efficient delivery methods, leveraging technology, or rethinking the scope of services provided to students.",
-        "While the specific context is the US higher education system, the core message — that the financial burden of education should not solely rest on families, and institutions have a role to play in affordability — holds relevance across borders. It invites a broader conversation about the societal value of education, who pays for it, and how educational systems can remain accessible and equitable without compromising quality.",
-        "Looking ahead, this discussion may prompt more robust debates within national education systems about public funding for universities, the role of scholarships and financial aid, and the accountability of institutions for their spending. For families, it reinforces the need for careful financial planning and a thorough assessment of the long-term value and affordability of different educational paths, whether domestic or international."
-      ],
-      "ja": [
-        "先日発表された米国の大学学長による論説は、高等教育機関が直面する重要な懸念、すなわち学費の高騰と、子どもを大学に送るために家族が払う並外れた犠牲について言及しました。学長は、何百万もの米国の保護者が、高等教育が子どもたちに新たな機会をもたらすと信じ、残業し、退職を遅らせ、借金を抱えていると指摘しています。",
-        "この感情は、子どもの未来への不可欠な投資として高等教育を捉える、世界中の家族に共通する不安を反映しています。米国の学費と学生ローンの規模は特に顕著ですが、教育費を捻出するための家族への根強いプレッシャーは普遍的な経験です。この論説は、大学自体がこれらの費用をより効果的に管理する責任を負うべきであり、学生や保護者に負担を押し付け続けるべきではないと主張しています。",
-        "論説は、学生自身も大きな犠牲を払っていることを強調します。多くの学生が夜間や週末に働き、家族の責任をこなしながら、学費のために多額の借金をしています。この経済的負担は、学業成績、精神的健康、そして大学生活全体の質に影響を及ぼし、成長と探求の期間であるはずの時間を、絶え間ない金銭的心配の期間に変えてしまう可能性があります。",
-        "> 「毎年秋、何百万もの米国の保護者や介護者が、子どもを大学に送るために並外れた犠牲を払います。彼らは残業し、退職を遅らせ、借金を抱え、あるいは他の優先事項を後回しにします。なぜなら、高等教育が彼らにはなかった機会を創造できると信じているからです。」",
-        "機関が費用をより良く管理すべきという提言は、単に費用を賄うために学費を値上げする以上の視点の転換を示唆しています。これは、大学がその運営モデル、管理経費、そして学生に提供する価値提案を再評価する必要があることを意味します。より効率的な提供方法を模索したり、テクノロジーを活用したり、学生に提供されるサービスの範囲を再考したりする可能性も含まれるでしょう。",
-        "特定の文脈は米国の高等教育システムですが、その核心的なメッセージ — 教育の経済的負担が家族だけに課されるべきではなく、機関も手頃な価格を維持する役割を果たすべきである — は国境を越えて関連性を持っています。これは、教育の社会的価値、誰がその費用を負担するのか、そして教育システムが質を損なうことなくアクセス可能で公平であり続ける方法についての、より広範な議論を促すものです。",
-        "今後、この議論は、大学への公的資金、奨学金や財政援助の役割、そして機関の支出に対する説明責任について、各国の教育システム内でより活発な議論を引き起こすかもしれません。家族にとっては、国内外を問わず、異なる教育経路の長期的な価値と費用対効果を慎重に評価し、入念な資金計画を立てる必要性を再認識させるものとなるでしょう。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "The US college president's call for universities to control costs better, driven by the immense sacrifices families make, is a stark reminder of the global challenge of financing higher education. For Tokyo families, while Japanese university tuition fees are generally lower than in the US, the total cost of a child's education, especially when factoring in extensive juku attendance for competitive admissions, can be equally daunting. This piece highlights that education is a significant, often multi-decade, family investment.",
-        "For Tokyo families, this discussion directly impacts choices around university pathways. It raises questions about the long-term financial viability of pursuing overseas universities, which often come with higher tuition and living costs. Domestically, it could influence the perceived value of private versus public universities, and the extent to which families are willing to invest in expensive entrance exam preparation (中学受験、大学受験のための塾) to secure a spot in a top institution.",
-        "The awareness of rising education costs is already present in Japan, particularly for those considering international education. However, a systemic shift in how Japanese universities manage costs or how MEXT (文部科学省) approaches public funding and tuition reform might take 5-10 years. Such changes would be gated by national policy discussions and the ability of universities to adapt their operational models, which historically move slowly. For families, the immediate impact is on their financial planning and assessment of educational ROI.",
-        "In Japan, while the specific debate around college presidents addressing tuition might not be as public, the underlying concern about education costs is very much alive. Institutions like JASSO (日本学生支援機構) provide student loans and scholarships, mirroring the financial aid discussions in the US. Furthermore, the significant investment families make in preparation for competitive entrance exams through major cram schools such as SAPIX (サピックス), Yotsuya Otsuka (四谷大塚), or Kawaijuku (河合塾) demonstrates a similar level of parental sacrifice and financial commitment to education, albeit through a different cost structure."
-      ],
-      "ja": [
-        "米国の大学学長が、家族が払う多大な犠牲を背景に、大学が費用をより良く管理すべきだと訴えたことは、高等教育の資金調達という世界的な課題を改めて浮き彫りにします。東京の家庭にとって、日本の大学の授業料は一般的に米国よりも低いものの、競争の激しい入試のための多額の塾代を含めると、子どもの教育にかかる総費用は同様に途方もないものになりえます。この記事は、教育が家族にとっての重要な、しばしば数十年間にわたる投資であることを示唆しています。",
-        "東京の家庭にとって、この議論は大学進路の選択に直接影響を与えます。授業料や生活費がより高額になる海外大学への進学の、長期的な財政的実行可能性について疑問を投げかけます。国内においては、私立大学と国立・公立大学の価値認識、そして一流大学への入学を確保するために、高額な中学受験や大学受験の準備（塾）にどれだけ投資するかという家族の意欲に影響を与える可能性があります。",
-        "教育費の高騰に対する認識は、特に国際教育を検討している家庭においては、すでに日本にも存在します。しかし、日本の大学が費用を管理する方法や、文部科学省が公的資金や授業料改革にどのように取り組むかといったシステム全体の変化には、5年から10年かかるかもしれません。このような変化は、国の政策議論と、歴史的に動きが遅い大学の運営モデル適応能力によって左右されるでしょう。家族にとっての当面の影響は、財務計画と教育投資に対するリターンの評価にあります。",
-        "日本では、大学学長が授業料について公に議論するような状況は米国ほど一般的ではないかもしれませんが、教育費に関する根本的な懸念は非常に現実的です。日本学生支援機構（JASSO）のような機関が奨学金や学生ローンを提供しており、これは米国の財政援助に関する議論と類似しています。さらに、SAPIX（サピックス）、四谷大塚、河合塾といった大手進学塾を通じた競争の激しい入試準備への家族の多大な投資は、異なる費用構造ではあるものの、教育への親の犠牲と経済的コミットメントが米国と同様のレベルであることを示しています。"
-      ]
-    },
-    "structured": {
-      "tagline": {
-        "en": "Higher education costs: a global burden on families.",
-        "ja": "高まる教育費：家族にかかる世界共通の重荷"
-      },
-      "whoForWhat": {
-        "en": "For Tokyo families with high schoolers considering overseas universities or navigating the significant costs of domestic higher education pathways, this story frames the global financial pressures on educational investment.",
-        "ja": "海外大学を検討している高校生のいる家庭や、国内の高等教育経路にかかる多大な費用に直面する東京の家庭にとって、教育投資における世界的な財政的プレッシャーを理解する一助となります。"
-      },
-      "vsJapanContext": {
-        "en": "This mirrors the intense financial commitment Japanese families make for competitive entrance exam preparation through major juku like SAPIX or Kawaijuku, highlighting a universal parental sacrifice for educational opportunity.",
-        "ja": "SAPIXや河合塾のような大手学習塾を通じた、日本の家庭の競争の激しい中学受験・大学受験準備にかかる多大な経済的負担と重なり、教育機会への普遍的な親の犠牲を示唆します。"
-      },
-      "tokyoNote": {
-        "en": "While US tuition figures are extreme, Tokyo parents also face a significant financial commitment for education. This piece reminds us that the value proposition of any educational pathway—domestic private, public, or international—must be carefully weighed against its total cost, not just tuition.",
-        "ja": "米国の授業料は極端ですが、東京の保護者も教育への多大な経済的コミットメントに直面しています。この論説は、国内私立、公立、国際を問わず、あらゆる教育経路の価値提案を、単なる授業料だけでなく、総費用と照らし合わせて慎重に検討する必要があることを示唆しています。"
-      }
-    },
-    "source": {
-      "name": "The Hechinger Report",
-      "url": "https://hechingerreport.org/opinion-controlling-college-costs/"
-    },
-    "sourceGuid": "https://hechingerreport.org/?p=117874",
     "status": "published"
   }
 ]
