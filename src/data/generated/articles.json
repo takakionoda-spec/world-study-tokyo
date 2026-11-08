@@ -1,5 +1,207 @@
 [
   {
+    "slug": "beyond-tiredness-how-sleep-disorders-shape-a-childs-brain",
+    "category": "early-childhood",
+    "issue": "Vol. 06",
+    "publishedAt": "2026-11-08T04:47:52.000Z",
+    "readingMinutes": 5,
+    "feature": true,
+    "cover": {
+      "src": "https://images.unsplash.com/photo-1497486751825-1233686d5d80?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#FAD4DA"
+    },
+    "title": {
+      "en": "Beyond Tiredness: How Sleep Disorders Shape a Child's Brain",
+      "ja": "単なる疲れではない：睡眠障害が子どもの脳に与える影響"
+    },
+    "dek": {
+      "en": "Recent research reveals that common sleep disorders are linked to tangible structural changes in brain regions crucial for attention, decision-making, and emotional regulation, offering new insights into how disrupted sleep impacts daily life and learning.",
+      "ja": "一般的な睡眠障害が、子どもの注意、意思決定、感情を司る脳領域の構造的変化と関連していることが、最新の研究で明らかになりました。睡眠不足が日常生活や学習にどう影響するかについて、新たな知見を提供しています。"
+    },
+    "author": {
+      "en": "WORLD STUDY TOKYO Editors",
+      "ja": "WORLD STUDY TOKYO 編集部"
+    },
+    "location": {
+      "en": "Tokyo, November 8, 2026",
+      "ja": "東京、2026年11月8日"
+    },
+    "tags": [
+      {
+        "en": "Child Development",
+        "ja": "子どもの発達"
+      },
+      {
+        "en": "Sleep Science",
+        "ja": "睡眠科学"
+      },
+      {
+        "en": "Brain Health",
+        "ja": "脳の健康"
+      },
+      {
+        "en": "Learning Challenges",
+        "ja": "学習の課題"
+      }
+    ],
+    "body": {
+      "en": [
+        "A recent meta-analysis, drawing on 57 distinct brain imaging studies, has shed new light on the profound connection between common sleep disorders and the physical structure of a child's brain. Scientists have found that these disorders are associated with observable changes in brain regions vital for functions like attention, decision-making, and emotional control, suggesting a deeper biological root for the difficulties children with sleep issues often face.",
+        "This finding is significant because it moves beyond simply observing behavioral consequences of poor sleep, such as irritability or difficulty concentrating. Instead, it points to underlying structural changes within the brain itself, potentially explaining why disrupted sleep can affect everyday thinking and behavior. For parents, this means that a child's struggles with focus or emotional regulation might not just be behavioral quirks but could be linked to how their brain is developing under the influence of sleep disruption.",
+        "The research involved a comprehensive review of existing brain imaging data, allowing scientists to identify both common patterns of change across various sleep disorders and specific alterations unique to certain conditions. These changes were noted in areas often associated with what educators call executive function (思考を計画し、行動を制御する能力) — the set of mental skills that includes working memory, flexible thinking, and self-control. When these areas are structurally altered, it can naturally lead to challenges in school and social settings.",
+        "Understanding these physical changes could pave the way for more targeted interventions. Rather than simply advising 'more sleep,' future treatments might focus on specific neural pathways or brain regions identified in this research. The study highlights that sleep disorders (睡眠障害 — 睡眠の質や量に問題があり、日常生活に支障をきたす状態) are not merely a lifestyle issue but a neurological concern with tangible developmental implications.",
+        "While the research provides a clearer picture of the biological impact, it also underscores the complexity of sleep. Factors like screen time, diet, and daily routines all play a role in sleep quality, and their interaction with these newly identified brain changes warrants further investigation. For families, the takeaway is a heightened awareness that consistent, high-quality sleep is not just about feeling rested, but about supporting the healthy development of a child's brain at a fundamental level."
+      ],
+      "ja": [
+        "最近行われた 57 件の脳画像研究を統合するメタ分析（複数の研究結果を統計的に統合・分析する手法）により、一般的な睡眠障害と子どもの脳の物理的構造との間に、深い関連があることが明らかになりました。科学者たちは、これらの障害が、注意、意思決定、感情の制御といった重要な機能をつかさどる脳領域において、目に見える変化と関連していることを発見しました。これは、睡眠の問題を抱える子どもたちが直面する困難の根底に、より深い生物学的要因がある可能性を示唆しています。",
+        "この発見は、単に睡眠不足が引き起こす行動面での結果（例えば、イライラしたり集中できなかったりすること）を観察するだけでなく、脳そのものの根底にある構造的変化に焦点を当てている点で重要です。この研究は、「睡眠の乱れが、日々の思考や行動に影響を与える可能性を説明しています」。保護者にとってこれは、子どもの集中力の欠如や感情のコントロールの難しさが、単なる性格的なものだけでなく、睡眠の乱れが脳の発達に与える影響と関連している可能性があることを意味します。",
+        "研究では、既存の脳画像データを包括的にレビューし、様々な睡眠障害に共通する変化のパターンと、特定の症状に固有の変化の両方を特定しました。これらの変化は、教育者が「実行機能（計画を立て、行動を制御する能力）」と呼ぶ、ワーキングメモリ、柔軟な思考、自己制御といった精神的スキルに関連する領域で観察されました。これらの領域に構造的な変化が生じると、学校生活や社会的な場面で困難が生じるのは自然なことです。",
+        "こうした物理的変化を理解することは、より的を絞った介入方法の開発につながる可能性があります。単に「もっと睡眠をとりましょう」と助言するだけでなく、将来の治療法は、この研究で特定された特定の神経経路や脳領域に焦点を当てるかもしれません。この研究は、睡眠障害（睡眠の質や量に問題があり、日常生活に支障をきたす状態）が単なる生活習慣の問題ではなく、具体的な発達への影響を伴う神経学的懸念であることを強調しています。",
+        "この研究は、睡眠が脳に与える生物学的な影響をより明確に示していますが、同時に睡眠の複雑さも浮き彫りにしています。スクリーンタイム、食事、日々のルーティンといった要因はすべて睡眠の質に影響を与え、これらが今回特定された脳の変化とどのように相互作用するのか、さらなる調査が求められます。ご家庭にとっての教訓は、一貫した質の高い睡眠が、単に体を休めるだけでなく、子どもの脳の健全な発達を根本的なレベルで支えるものであるという認識を深めることでしょう。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "For Tokyo families, this research offers a crucial perspective: a child's struggles with learning, attention, or emotional regulation might have a tangible, physical basis linked to their sleep patterns. In a demanding educational environment, it's easy to attribute academic difficulties solely to study methods or effort, but this study suggests looking deeper into fundamental biological needs.",
+        "The plausible future impact for Tokyo families could manifest in several ways. We might see an increased emphasis on sleep hygiene in pediatric check-ups and school health guidance. For parents navigating 中学受験 (junior high entrance exams) or 高校受験 (high school entrance exams), where late-night study is common, this research underscores the potential long-term trade-offs between immediate academic pressure and healthy brain development. It could also influence decisions around screen time limits, especially before bed, as parents gain a clearer understanding of its direct impact on brain structure.",
+        "This shift in understanding is likely to take 3-5 years to fully integrate into broader public awareness and clinical practice in Japan. While some international schools in Tokyo already prioritize holistic well-being including sleep, widespread adoption in domestic schools or major juku (cram schools) would likely be gated by MEXT (文部科学省 — Ministry of Education, Culture, Sports, Science and Technology) policy revisions or significant endorsements from leading pediatric societies.",
+        "Currently, while general health education in Japan emphasizes the importance of sleep, a systematic approach to diagnosing and intervening in childhood sleep disorders specifically linked to learning outcomes is not yet common. ベネッセ教育総合研究所 (Benesse Educational Research Institute) or similar research bodies might begin to publish more on this topic, potentially influencing guidance for parents. However, a direct counterpart to this kind of integrated neurological-educational intervention in major juku like SAPIX or 四谷大塚 is not yet established, underscoring a gap in how academic support addresses foundational physiological needs."
+      ],
+      "ja": [
+        "東京で子育てをするご家庭にとって、この研究は重要な視点を提供します。子どもの学習、注意、感情の調整といった困難が、睡眠パターンに起因する具体的で物理的な基盤を持っている可能性があるということです。競争の激しい教育環境では、学業の困難を勉強法や努力不足だけに帰しがちですが、この研究は、より根本的な生物学的ニーズに目を向けることの重要性を示唆しています。",
+        "東京のご家庭にとって、この知見は今後いくつかの形で影響を及ぼす可能性があります。小児科の健診や学校の保健指導において、睡眠衛生に対する重点がさらに高まるかもしれません。中学受験や高校受験を控えるご家庭では、夜遅くまでの学習が常態化していますが、この研究は、目先の学業成績と健全な脳の発達との間で、長期的なトレードオフが生じる可能性を浮き彫りにします。また、寝る前のスクリーンタイム制限など、脳の構造への直接的な影響がより明確に理解されることで、家庭でのルール設定にも影響を与えるでしょう。",
+        "このような理解の変化が、日本のより広範な社会認識や臨床実践に完全に浸透するには、3〜5年かかる可能性があります。東京の一部のインターナショナルスクールでは、睡眠を含むホリスティックなウェルビーイングをすでに重視していますが、国内の学校や大手学習塾（SAPIXや四谷大塚など）での広範な採用は、文部科学省の政策改訂や主要な小児科学会からの大きな提言によって左右されるでしょう。",
+        "現在、日本では一般的な健康教育の中で睡眠の重要性が強調されていますが、学習成果と具体的に関連づけた子どもの睡眠障害の診断と介入に対する体系的なアプローチはまだ一般的ではありません。ベネッセ教育総合研究所のような研究機関がこのテーマに関する発信を強化し、保護者への指針に影響を与える可能性はあります。しかし、SAPIXや四谷大塚といった大手学習塾において、このような神経学的知見と教育的介入を統合した直接的な取り組みはまだ確立されておらず、学術支援が根源的な生理学的ニーズをどのように考慮するかという点で、今後の課題が残されています。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "Sleep disorders linked to structural brain changes in children.",
+        "ja": "子どもの睡眠障害が脳構造変化と関連。"
+      },
+      "whoForWhat": {
+        "en": "For a Tokyo family whose child struggles with attention or emotional regulation, this research suggests that addressing underlying sleep disorders could be a crucial step in supporting their child's overall development and learning.",
+        "ja": "注意散漫や感情の調整に課題を抱えるお子さんを持つ東京のご家庭にとって、この研究は、根本的な睡眠障害への対処が子どもの全体的な発達と学習を支える上で重要な一歩となりうることを示唆しています。"
+      },
+      "vsJapanContext": {
+        "en": "While Japan's general health education promotes good sleep, this research highlights a gap in systematic diagnosis and intervention for childhood sleep disorders specifically linked to learning outcomes, which is not yet common in MEXT guidelines or major juku programs.",
+        "ja": "日本の保健教育で睡眠の重要性は唱えられていますが、文科省の指針や大手学習塾のプログラムでは、学習成果と関連付けた子どもの睡眠障害の体系的な診断・介入はまだ一般的ではありません。"
+      },
+      "tokyoNote": {
+        "en": "This finding underscores that in Tokyo's demanding educational landscape, a child's academic struggles might have a physical root in sleep, urging parents to consider sleep quality as foundational, not just a lifestyle choice, especially with late-night study habits.",
+        "ja": "この発見は、東京の競争的な教育環境において、子どもの学業不振が睡眠という物理的な要因に根ざしている可能性を示唆します。夜遅くまでの学習習慣があるご家庭では特に、睡眠の質を単なる生活習慣ではなく、学習の土台として捉える重要性を訴えかけます。"
+      }
+    },
+    "source": {
+      "name": "ScienceDaily — Child Development",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261104012303.htm"
+    },
+    "sourceGuid": "https://www.sciencedaily.com/releases/2026/11/261104012303.htm",
+    "status": "published"
+  },
+  {
+    "slug": "us-states-boost-early-childhood-funding-with-voter-support",
+    "category": "early-childhood",
+    "issue": "Vol. 06",
+    "publishedAt": "2026-11-07T00:16:42.000Z",
+    "readingMinutes": 4,
+    "feature": true,
+    "cover": {
+      "src": "https://i0.wp.com/hechingerreport.org/wp-content/uploads/2026/11/EC-ballot-110426-scaled.jpg?fit=1024%2C683&amp;ssl=1",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "US States Boost Early Childhood Funding with Voter Support",
+      "ja": "米国で幼児教育への公的投資が加速、有権者の支持を得て"
+    },
+    "dek": {
+      "en": "Recent state and local elections in the US saw significant wins for measures expanding access to child care and pre-kindergarten, signaling a growing public commitment to early learning.",
+      "ja": "米国各地の州・地方選挙で、保育および就学前教育のアクセス拡大策が大きな支持を得て可決。幼少期の学びへの公的関与が高まる潮流を示しています。"
+    },
+    "author": {
+      "en": "WORLD STUDY TOKYO Editors",
+      "ja": "WORLD STUDY TOKYO 編集部"
+    },
+    "location": {
+      "en": "November 7, 2026",
+      "ja": "2026年11月7日"
+    },
+    "tags": [
+      {
+        "en": "early-childhood",
+        "ja": "幼児教育"
+      },
+      {
+        "en": "education-policy",
+        "ja": "教育政策"
+      },
+      {
+        "en": "child-development",
+        "ja": "子どもの発達"
+      },
+      {
+        "en": "preschool",
+        "ja": "就学前教育"
+      }
+    ],
+    "body": {
+      "en": [
+        "Recent election results in several US states indicated a strong public mandate for increased investment in early childhood education. Voters approved measures to expand access to child care and pre-kindergarten programs, reflecting a growing consensus on the importance of early learning years.",
+        "This movement underscores a recognition that high-quality early childhood experiences lay foundational cognitive and social-emotional skills (such as understanding emotions and building relationships), benefiting children well into their school years and beyond. The approved initiatives aim to make these crucial early learning environments more accessible and affordable for families, often by increasing public funding for existing programs or establishing new ones.",
+        "> Several newly elected officials made early childhood a central part of their campaigns.",
+        "For instance, some states focused on universal pre-kindergarten (preschool education for all children, typically 3-4 years old, regardless of family income), ensuring that more children can access structured learning before elementary school. Other measures addressed the child care workforce, proposing better pay and training for educators, which is a direct pathway to improving the quality of care.",
+        "The political wins suggest a societal shift toward viewing early childhood education not as a private expense, but as a public good essential for future societal well-being and economic productivity. This perspective acknowledges the significant return on investment that early childhood programs can yield, reducing future costs in remedial education and social services.",
+        "While the specifics of these policies are tailored to local contexts, the broader trend signals a global conversation about how societies can best support their youngest learners and their families. The challenge now lies in effective implementation and ensuring that expanded access translates into genuinely high-quality learning environments that benefit all children."
+      ],
+      "ja": [
+        "米国では最近の州・地方選挙において、幼児教育への公的投資を拡大する動きが有権者から強い支持を得ました。複数の州で、保育や就学前教育（プレK）プログラムへの追加資金提供を承認する措置が可決され、幼少期の学習がいかに重要であるかという認識が広まっていることを示しています。",
+        "この動きは、質の高い幼児期の経験が、子どもたちの認知能力や社会情動的スキル（感情を理解し、人間関係を築く力など）の土台を築き、小学校入学後も長期にわたる恩恵をもたらすという認識に基づいています。可決された施策は、既存プログラムへの公的資金増額や新規プログラムの設立を通じて、これらの重要な早期学習環境を家庭にとってより利用しやすく、手頃なものにすることを目指しています。",
+        "「新たに選出された多くの公職者が、幼児教育を自身の選挙運動の中心に据えました。」",
+        "たとえば、一部の州ではユニバーサル・プレK（家庭の所得に関わらず、通常3～4歳児全員に就学前教育を提供する制度）に焦点を当て、より多くの子どもたちが小学校入学前に体系的な学習機会を得られるようにしています。また、保育士の給与引き上げや研修強化など、保育の質向上に直結する保育人材への支援策も盛り込まれています。",
+        "これらの政治的勝利は、幼児教育を個人の家計負担ではなく、社会全体の将来の幸福と経済生産性にとって不可欠な公共財と見なす社会的な変化を示唆しています。幼児教育プログラムへの投資が、将来の補習教育や社会福祉サービスにかかる費用を削減するなど、大きなリターンを生むという視点があるからです。",
+        "これらの政策の具体的な内容は各地域の事情に合わせて調整されますが、この広範なトレンドは、社会が幼い学習者とその家族をいかに最善の形で支援できるかという、世界的な議論の一端をなしています。今後の課題は、拡大されたアクセスが、すべての子どもたちに真に質の高い学習環境をもたらすよう、いかに効果的に実施されるかという点にあります。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "The recent US election results show that voters there are increasingly willing to support public funding for early childhood education, including both childcare and preschool. This isn't just about making care cheaper; it's a recognition that the early years, from birth to age five, are incredibly important for a child's brain development and future learning. Think of it like building a strong foundation for a house: investing early means a sturdier structure later on. These policies aim to ensure all children have access to high-quality environments during these crucial years, much like a child learning a new language effortlessly when immersed in it from a young age.",
+        "For Tokyo families, this global movement could eventually influence the availability and quality of hoikuen (daycare centers) and yochien (kindergartens). As more countries prioritize early childhood, there might be increased pressure on the Japanese government and local municipalities to further expand access, reduce waitlists, and enhance the educational content in publicly funded settings. This could impact decisions for parents weighing between public and private options, or even the curriculum focus of international preschools in Tokyo.",
+        "Any significant shift in Japan would likely occur within a 3–5 year timeframe, gated by central government policy discussions and budget allocations. While local governments, especially in Tokyo, are often proactive, a widespread national change would require MEXT (Ministry of Education, Culture, Sports, Science and Technology) to incorporate these priorities into its Gakushu Shido Yoryo (national curriculum guidelines) revision cycle or for the Cabinet Office to push for further childcare reforms.",
+        "Japan has already implemented measures like free preschool for 3-5 year olds and efforts to reduce childcare waitlists, notably by the Tokyo Metropolitan Government and the Cabinet Office. Organizations like ベネッセ教育総合研究所 (Benesse Educational Research Institute) also conduct research advocating for early childhood investment. However, the US trend goes further in explicitly campaigning on universal access and workforce pay, suggesting a potential future direction for Japan to consider in its ongoing efforts to support young families."
+      ],
+      "ja": [
+        "米国での最近の選挙結果は、有権者が保育や就学前教育を含む幼児教育への公的資金投入を強く支持していることを示しています。これは単に保育料を安くするだけでなく、0歳から5歳までの幼少期が子どもの脳の発達と将来の学習にとって極めて重要であるという認識に基づいています。例えるなら、家を建てる際の頑丈な基礎工事のようなものです。早期にしっかりと投資することで、後々より安定した成長が期待できます。この政策は、すべての子どもたちがこの重要な時期に質の高い環境にアクセスできるよう保証することを目指しており、幼い頃から言語に触れることで自然に習得するような効果を狙っています。",
+        "東京で子育てをするご家庭にとって、この世界的な潮流は将来的に日本の保育園や幼稚園の利用可能性や質に影響を与える可能性があります。より多くの国が幼児教育を重視するにつれて、日本政府や地方自治体に対し、アクセスをさらに拡大し、待機児童問題を解消し、公的資金が投入される施設の教育内容を向上させるよう求める声が高まるかもしれません。これは、公立と私立の選択、あるいは東京のインターナショナルスクールのカリキュラムの方向性にも影響を及ぼす可能性があります。",
+        "日本で大きな変化が起きるとすれば、中央政府の政策議論や予算配分を待つ必要があるため、3〜5年程度の期間が見込まれます。東京のような地方自治体は積極的に動くことが多いですが、全国的な広がりには、文部科学省が学習指導要領の改訂サイクルにこれらの優先事項を組み込むか、内閣府がさらなる子育て支援改革を推進することが鍵となるでしょう。",
+        "日本でも、3〜5歳児の幼児教育無償化や待機児童解消に向けた取り組みは、東京都や内閣府を中心に進められています。ベネッセ教育総合研究所のような機関も、幼児期投資の重要性を訴える研究を行っています。しかし、米国での動きは、ユニバーサルなアクセスや保育士の賃金向上を明確に選挙公約として掲げている点でさらに踏み込んでおり、日本が今後、子育て支援の取り組みをさらに進める上で考慮すべき方向性を示唆していると言えるでしょう。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "Voters back more public funding for early learning.",
+        "ja": "幼児教育への公的資金増額、有権者が支持。"
+      },
+      "whoForWhat": {
+        "en": "For Tokyo families with young children, this trend highlights a global shift towards recognizing and investing in the crucial early years, potentially influencing future discussions on childcare and preschool access in Japan.",
+        "ja": "幼い子どもを持つ東京の家庭にとって、この動向は幼児期の重要性への世界的な認識と投資の高まりを示し、日本の保育・就学前教育の将来的な議論に影響を与える可能性があります。"
+      },
+      "vsJapanContext": {
+        "en": "While Japan has made strides in free preschool for 3-5 year olds, the US trend emphasizes broader public funding for childcare and quality improvements, going beyond current MEXT initiatives.",
+        "ja": "日本では3〜5歳児の幼児教育無償化が進んでいますが、米国のトレンドは、文部科学省の現行施策を超え、保育全体への広範な公的資金投入と質向上に焦点を当てている点で異なります。"
+      },
+      "tokyoNote": {
+        "en": "This US trend reflects a global understanding that early childhood investment is critical for societal well-being. Tokyo families should watch how these policy discussions might translate into expanded access or enhanced quality in hoikuen or yochien settings here.",
+        "ja": "米国のこの動向は、幼児期への投資が社会全体の幸福に不可欠であるという世界的な理解を反映しています。東京のご家庭は、こうした政策議論が日本の保育園や幼稚園のアクセス拡大や質の向上にどう結びつくか、注目していくべきでしょう。"
+      }
+    },
+    "source": {
+      "name": "The Hechinger Report",
+      "url": "https://hechingerreport.org/child-care-and-pre-k-measures-won-big-in-midterms/"
+    },
+    "sourceGuid": "https://hechingerreport.org/?p=118785",
+    "status": "published"
+  },
+  {
     "slug": "brain-rewiring-psilocybins-unexpected-role-in-stress-and-cognition",
     "category": "research",
     "issue": "Vol. 06",
@@ -5743,8 +5945,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#DCD2E7"
+      "src": "https://images.unsplash.com/photo-1542621334-a254cf47733d?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#D8CDE3"
     },
     "title": {
       "en": "Beyond Practice: How Post-Learning Nerve Activity Shapes Long-Term Skill",
@@ -5845,8 +6047,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1573164713619-24c711fe7878?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#C4DDC6"
+      "src": "https://images.unsplash.com/photo-1561089489-f13d5e730d72?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#D2E4D5"
     },
     "title": {
       "en": "Local AI Agent Promises Affordable Language Learning at Home",
@@ -6255,8 +6457,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1593720213428-28a5b9e94613?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#C9E0CC"
+      "src": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#CDE3CF"
     },
     "title": {
       "en": "AI Tutors Match Human Effectiveness for GRE Prep, at a Fraction of the Cost",
@@ -7183,8 +7385,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#D0E4D3"
+      "src": "https://images.unsplash.com/photo-1551434678-e076c223a692?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#CFE3D2"
     },
     "title": {
       "en": "A Vision for Low-Cost, Local AI Language Learning Emerges",
@@ -7387,8 +7589,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1561089489-f13d5e730d72?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#D2E4D5"
+      "src": "https://images.unsplash.com/photo-1551434678-e076c223a692?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#CFE3D2"
     },
     "title": {
       "en": "Synthetic Study Data: A Hidden Flaw in Tracking Student Habits",
@@ -7697,8 +7899,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1561089489-f13d5e730d72?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#D2E4D5"
+      "src": "https://images.unsplash.com/photo-1573164713619-24c711fe7878?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#C4DDC6"
     },
     "title": {
       "en": "AI Tutors Achieve Learning Gains Equivalent to Human Experts for GRE",
@@ -7999,210 +8201,6 @@
       "url": "https://www.sciencedaily.com/releases/2026/09/260922005719.htm"
     },
     "sourceGuid": "https://www.sciencedaily.com/releases/2026/09/260922005719.htm",
-    "status": "published"
-  },
-  {
-    "slug": "long-covids-shadow-on-learning-brain-scans-point-to-dopamine-link",
-    "category": "research",
-    "issue": "Vol. 04",
-    "publishedAt": "2026-09-22T03:48:58.000Z",
-    "readingMinutes": 5,
-    "feature": true,
-    "cover": {
-      "src": "https://www.sciencedaily.com/images/1920/brain-scan-glitch-disease.webp",
-      "tone": "#0c0c0c"
-    },
-    "title": {
-      "en": "Long COVID's Shadow on Learning: Brain Scans Point to Dopamine Link",
-      "ja": "学習に影響する「ブレインフォグ」：コロナ後遺症、脳スキャンでドーパミン関連の損傷示唆"
-    },
-    "dek": {
-      "en": "New research suggests persistent fatigue and brain fog in long COVID patients may stem from damage to dopamine-releasing neurons, offering a clearer path toward targeted treatments for cognitive challenges.",
-      "ja": "コロナ後遺症による疲労感や「ブレインフォグ」が、脳内のドーパミン放出ニューロンの損傷に起因する可能性が示されました。認知機能の課題に対する新たな治療法開発への道を開く発見です。"
-    },
-    "author": {
-      "en": "WORLD STUDY TOKYO Editors",
-      "ja": "WORLD STUDY TOKYO 編集部"
-    },
-    "location": {
-      "en": "Tokyo, September 22, 2026",
-      "ja": "東京、2026年9月22日"
-    },
-    "tags": [
-      {
-        "en": "Long COVID",
-        "ja": "コロナ後遺症"
-      },
-      {
-        "en": "Brain Fog",
-        "ja": "ブレインフォグ"
-      },
-      {
-        "en": "Cognitive Function",
-        "ja": "認知機能"
-      },
-      {
-        "en": "Dopamine",
-        "ja": "ドーパミン"
-      }
-    ],
-    "body": {
-      "en": [
-        "Researchers have identified a potential neurological cause for the persistent fatigue, low motivation, and memory difficulties experienced by individuals with long COVID. Published on September 22, 2026, the findings suggest that the condition may involve damage to dopamine-releasing neurons in the brain, providing a clearer understanding of the underlying mechanisms behind these debilitating symptoms.",
-        "Dopamine is a crucial neurotransmitter that plays a key role in motivation, reward, movement, and cognitive functions like memory and attention. When its signaling is disrupted, individuals can experience a wide range of symptoms that directly impact their ability to learn, concentrate, and engage with daily tasks. The study utilized advanced brain imaging techniques to observe these subtle changes in the brains of long COVID patients.",
-        "This discovery helps explain why traditional approaches to managing fatigue or cognitive issues have often been ineffective for long COVID sufferers. If the root cause is indeed damage to specific neuronal pathways, then treatments targeting the brain's dopamine system could offer more effective relief than general symptom management.",
-        "> \"Long COVID may damage dopamine releasing neurons in the brain, potentially explaining persistent fatigue, low motivation, slowed movement, and memory difficulties.\"",
-        "The research points towards the possibility of developing new pharmacological interventions or neurorehabilitation strategies designed to restore dopamine function. Such treatments could significantly improve the quality of life for those struggling with long COVID's cognitive and motivational challenges, helping them regain their academic and professional capabilities.",
-        "While promising, this research is an initial step. Further studies are needed to confirm these findings in larger and more diverse populations, and to develop and test specific dopamine-targeting therapies. Understanding the precise nature and extent of the damage, and how it can be reversed or mitigated, remains a critical area of ongoing investigation. The implications for students and learners, particularly those navigating demanding academic environments, are considerable, as even subtle cognitive impairments can hinder progress."
-      ],
-      "ja": [
-        "コロナ後遺症に悩む人々が経験する慢性的な疲労感、意欲の低下、記憶力の困難について、研究者たちはその神経学的な原因を特定する可能性のある手がかりを見つけました。2026年9月22日に発表されたこの研究は、コロナ後遺症が脳内のドーパミン放出ニューロンに損傷を与える可能性を示唆しており、これらの症状の根底にあるメカニズムをより深く理解する手助けとなります。",
-        "ドーパミンは、モチベーション、報酬、運動、そして記憶や注意などの認知機能において重要な役割を果たす神経伝達物質です。そのシグナル伝達が阻害されると、個人は学習、集中、日常業務への取り組み能力に直接影響を与える様々な症状を経験する可能性があります。この研究では、高度な脳画像技術を用いて、コロナ後遺症患者の脳におけるこれらの微細な変化を観察しました。",
-        "この発見は、なぜコロナ後遺症による疲労や認知機能の課題に対する従来の対処法が効果的でなかったのかを説明する一助となります。もし根本原因が特定の神経経路の損傷にあるとすれば、脳のドーパミンシステムを標的とした治療法が、一般的な対症療法よりも効果的な緩和策となる可能性があります。",
-        "> 「コロナ後遺症は脳内のドーパミン放出ニューロンを損傷し、持続的な疲労、意欲低下、動作緩慢、記憶障害を説明する可能性があります。」",
-        "この研究は、ドーパミン機能を回復させることを目的とした新しい薬理学的介入や神経リハビリテーション戦略の開発の可能性を示唆しています。このような治療法は、コロナ後遺症による認知機能や意欲の課題に苦しむ人々の生活の質を大幅に改善し、彼らが学業や職業上の能力を取り戻す手助けとなるでしょう。",
-        "この発見は有望であるものの、まだ最初の段階です。より大規模で多様な集団での研究を通じて、これらの知見を確認し、具体的なドーパミン標的療法を開発しテストする必要があります。損傷の正確な性質と程度、そしてそれをどのように回復または軽減できるかを理解することは、現在進行中の重要な研究分野です。特に、要求の厳しい学業環境で学ぶ学生や学習者にとって、たとえ軽微な認知機能障害であっても学習の進歩を妨げる可能性があるため、この研究の示唆するところは大きいと言えます。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "This research offers a concrete, biological explanation for why some students might struggle with concentration and motivation after recovering from an illness like COVID-19. Imagine a student who feels like their brain is wading through mud, or who simply can't find the energy to start homework, even if they want to. This isn't just a lack of effort; it could be a physical disruption in how their brain handles motivation and memory.",
-        "For Tokyo families, this finding could eventually lead to more targeted support for students. If therapies emerge that can restore dopamine function, it might change how schools, and even juku, approach students who are struggling with long-term cognitive after-effects of illness. It could also influence how university admissions committees view academic records from students who have experienced such challenges, potentially encouraging more understanding for applicants who show dips in performance due to health.",
-        "While the research is promising, practical applications for families are likely 3 to 5 years away, at a minimum. This timeframe is gated by the need for further clinical trials to develop and validate specific treatments, followed by their approval and widespread availability. Educational institutions would then need to adapt their support systems, which could take additional time.",
-        "In Japan, while there isn't a direct counterpart specifically for long COVID-related dopamine dysfunction, institutions like Benesse Education Research Institute closely monitor global health and learning trends. Some international schools in Tokyo, with their emphasis on student well-being and individualized support, might be quicker to integrate findings like this into their student care plans, compared to more traditional domestic schools which often focus heavily on academic performance metrics alone. However, broad changes in educational policy or juku curriculum would likely require national guidelines from the Ministry of Education, Culture, Sports, Science and Technology (MEXT)."
-      ],
-      "ja": [
-        "この研究は、コロナウイルス感染症のような病気から回復した後も、なぜ一部の学生が集中力やモチベーションの維持に苦しむのかについて、具体的な生物学的説明を提供します。例えば、頭の中に霧がかかったように感じたり、宿題を始めたいのに体が動かないと感じたりする生徒がいたとします。これは単なる努力不足ではなく、脳がモチベーションや記憶を処理する方法に物理的な障害がある可能性を示唆しています。",
-        "東京のご家庭にとって、この発見は将来的に生徒へのより的を絞ったサポートにつながる可能性があります。ドーパミン機能を回復させる治療法が開発されれば、学校や塾が長期的な病気の後遺症による認知機能の課題を抱える生徒にどのように接するかが変わるかもしれません。また、大学入試委員会が、健康上の理由で学業成績に一時的な低下が見られた出願者の評価をどのように行うかにも影響を与え、より理解のある選考につながる可能性も考えられます。",
-        "この研究は有望ですが、家庭での具体的な応用には、少なくとも3年から5年程度の時間が必要でしょう。この期間は、特定の治療法を開発・検証するためのさらなる臨床試験、その後の承認、そして広範な普及にかかる時間によって決まります。教育機関が支援体制を適応させるには、さらに時間がかかる可能性があります。",
-        "日本において、コロナ後遺症に特化したドーパミン機能不全への直接的な対応はまだ確立されていませんが、ベネッセ教育総合研究所のような機関は世界の健康と学習トレンドを注視しています。東京の一部のインターナショナルスクールは、生徒のウェルビーイングと個別サポートを重視する傾向があるため、このような研究結果を生徒ケア計画に迅速に取り入れる可能性があります。しかし、教育政策や大手学習塾のカリキュラムに広範な変更が加わるには、文部科学省からの全国的なガイドラインが必要となるでしょう。"
-      ]
-    },
-    "structured": {
-      "tagline": {
-        "en": "Long COVID's brain fog linked to dopamine neuron damage.",
-        "ja": "コロナ後遺症のブレインフォグ、ドーパミン損傷の可能性。"
-      },
-      "whoForWhat": {
-        "en": "For a Tokyo family with a high schooler experiencing persistent fatigue or concentration issues after illness, this research offers hope for future treatments that could restore learning stamina and focus.",
-        "ja": "病気の後も疲労感や集中力の問題を抱える高校生を持つ東京のご家庭にとって、学習意欲と集中力を回復させる将来の治療法に希望を与える研究です。"
-      },
-      "vsJapanContext": {
-        "en": "While Japanese schools and juku offer general support for illness, this research highlights a specific neurological pathway that current systems may not explicitly address, potentially leading to more targeted interventions than typically available.",
-        "ja": "日本の学校や塾は病気への一般的なサポートを提供しますが、この研究は既存のシステムでは明示的に対応されていない神経経路を示しており、将来的に現在よりも的を絞った介入につながる可能性があります。"
-      },
-      "tokyoNote": {
-        "en": "This finding is important for Tokyo parents, as it shifts the conversation from 'lack of effort' to a biological cause for post-illness cognitive issues. It underscores the need for a nuanced understanding of student well-being beyond just academic performance, a perspective that some international schools in Tokyo are already integrating.",
-        "ja": "この発見は、病後の認知機能の問題を「努力不足」ではなく生物学的な原因として捉える点で、東京の保護者にとって重要です。学業成績だけでなく、生徒のウェルビーイングを多角的に理解する必要性を示しており、東京の一部のインターナショナルスクールでは既にこの視点を取り入れています。"
-      }
-    },
-    "source": {
-      "name": "ScienceDaily — Educational Psychology",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260920222412.htm"
-    },
-    "sourceGuid": "https://www.sciencedaily.com/releases/2026/09/260920222412.htm",
-    "status": "published"
-  },
-  {
-    "slug": "ai-video-tutors-move-beyond-production-to-true-learning-support",
-    "category": "ai-edu",
-    "issue": "Vol. 04",
-    "publishedAt": "2026-09-21T04:10:48.000Z",
-    "readingMinutes": 5,
-    "feature": true,
-    "cover": {
-      "src": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#D0E4D3"
-    },
-    "title": {
-      "en": "AI Video Tutors Move Beyond Production to True Learning Support",
-      "ja": "生成AIビデオチューター、単なるコンテンツ制作から「学びの支援」へ進化"
-    },
-    "dek": {
-      "en": "New research introduces PIVOT, a framework for generative AI to create educational STEM videos that embed pedagogical principles, offering not just content but also assessment and misconception correction.",
-      "ja": "新たな研究で、教育学の原則を組み込んだ生成AIビデオチューター「PIVOT」が登場。STEM分野の教育動画を制作するだけでなく、学習者の理解度評価や誤解の修正までを支援します。"
-    },
-    "author": {
-      "en": "WORLD STUDY TOKYO Editors",
-      "ja": "WORLD STUDY TOKYO 編集部"
-    },
-    "location": {
-      "en": "TOKYO",
-      "ja": "東京"
-    },
-    "tags": [
-      {
-        "en": "AI in Education",
-        "ja": "教育AI"
-      },
-      {
-        "en": "Personalized Learning",
-        "ja": "個別最適化学習"
-      },
-      {
-        "en": "STEM Education",
-        "ja": "STEM教育"
-      },
-      {
-        "en": "EdTech",
-        "ja": "エドテック"
-      }
-    ],
-    "body": {
-      "en": [
-        "Recent advancements in AI are profoundly changing how educational content is created. New research, published on arXiv in September 2026, introduces a novel generative AI video tutoring framework called PIVOT (Pedagogy-guided Instructional VideO Tutoring). This framework is designed not just to produce visually coherent educational videos but specifically to support learning effectively in STEM (Science, Technology, Engineering, and Mathematics) subjects.",
-        "Historically, AI-generated educational videos have often focused on visual appeal and information delivery. However, many of these lacked explicit pedagogical structure (design principles that guide how students learn), reliable quality control, and mechanisms for assessing learner understanding or addressing misconceptions. PIVOT aims to solve these challenges by drawing inspiration from conventional teaching workflows, ensuring that the AI acts as a true instructional partner.",
-        "The core innovation of PIVOT is its integration of pedagogical principles throughout the entire video generation pipeline. It first uses instructional principles to guide storyboard generation, ensuring the content is structured for optimal learning. Then, it produces \"verified multimodal videos\" through code-centric generation and a pedagogical verification harness, which checks if the video aligns with educational objectives. Finally, these videos are connected with assessment tools and misconception-aware remediation, providing targeted support to learners.",
-        "> \"generative systems should be evaluated and designed not only by what they produce, but also by how they support teaching practices, learner understanding, and corrective feedback.\"",
-        "Experiments and expert evaluations across four STEM domains demonstrated PIVOT's effectiveness. The framework produced educational videos with pedagogically aligned content, clear and engaging presentations, coherent instructional flow, and a high perceived effectiveness for learning. These findings suggest that AI can move beyond being a mere information provider to becoming an effective 'teacher' that actively facilitates understanding.",
-        "This research highlights a \"human-centered\" perspective on educational content generation. It argues that generative AI systems should be evaluated and designed not only by the quality of what they produce but also by how well they support teaching practices, enhance learner understanding, and provide corrective feedback. This approach paves the way for AI to deliver more personalized and impactful learning experiences, fostering deeper engagement and improved outcomes."
-      ],
-      "ja": [
-        "AI技術の最近の進歩は、教育コンテンツの制作方法に大きな変化をもたらしています。2026年9月にarXivで発表された最新の研究では、PIVOT（Pedagogy-guided Instructional VideO Tutoring）と呼ばれる生成AIビデオチューターの新しいフレームワークが紹介されました。これは、単に視覚的に魅力的な教育動画を生成するだけでなく、STEM（科学、技術、工学、数学）分野の学習を効果的に支援することに特化して設計されています。",
-        "これまでの生成AIによる教育動画は、コンテンツの見た目や情報伝達に主眼が置かれがちでした。しかし、その多くには明確な教育学的構造（生徒がどのように学ぶべきかを考慮した設計）や信頼できる品質管理、さらには学習者の理解度を評価したり、誤解を修正したりする仕組みが不足していました。PIVOTは、この課題を解決するため、従来の教師の指導プロセスからヒントを得て開発され、AIが真の指導パートナーとなることを目指しています。",
-        "PIVOTの最大の特徴は、教育学の原則を動画生成の全工程に統合している点です。まず、指導の目的に基づいてストーリーボード（動画の構成案）を生成し、最適な学習のためにコンテンツが構成されるようにします。次に、コード中心の生成と教育学的検証（動画が教育目標に沿っているかを確認するプロセス）を通じて、多角的で検証済みの動画コンテンツを作成します。そして最終的に、これらの動画を理解度評価や、学習者の誤解を特定して修正するための個別指導と結びつけます。",
-        "> 「生成システムは、何を生み出すかだけでなく、教育実践、学習者の理解、そして修正フィードバックをどのように支援するかによって評価・設計されるべきである」",
-        "このフレームワークは、STEM分野の4つの領域で実験と専門家による評価が行われました。その結果、PIVOTによって生成された教育動画は、教育学的に適切で、明確かつ魅力的な表現を持ち、一貫した学習の流れを提供し、学習効果が高いと評価されました。これは、AIが単なる情報提供者ではなく、学習者の理解を積極的に促進する効果的な「教師」としての役割を担い始める可能性を示唆しています。",
-        "この研究は、教育コンテンツ生成における「人間中心」の視点の重要性を強調しています。生成AIシステムは、単に何を生成するかだけでなく、それが実際の指導実践、学習者の理解、そして適切なフィードバックをどのように支援するかという観点から評価・設計されるべきだという考え方です。これにより、AIがよりパーソナライズされ、効果的な学習体験を提供し、深い学習への関与と成果の向上を促進するための道筋が見えてきます。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "For Tokyo families, this research on PIVOT offers a glimpse into how AI could genuinely enhance learning, moving beyond simple content creation. Imagine an AI not just explaining a math problem, but structuring the explanation like a seasoned juku teacher, anticipating common pitfalls, and then checking if your child truly understood it, offering tailored follow-up if not. It's the difference between watching a random YouTube tutorial and having a dedicated, pedagogically informed tutor.",
-        "The plausible future impact for Tokyo families could be significant in several domains. For those navigating 中学受験 (junior high school entrance exams) or 高校受験 (high school entrance exams), pedagogically sound AI tutors could provide highly personalized, effective supplementary learning for STEM subjects at home, potentially reducing reliance on expensive private tutoring. For students in international schools or those aiming for 海外大学 (overseas universities), this could mean access to high-quality, adaptive STEM instruction that complements their curriculum, especially in areas like IB (International Baccalaureate) or AP (Advanced Placement) where deep conceptual understanding is critical.",
-        "We might see this technology begin to influence the Japanese education landscape within 3–5 years. Its widespread adoption is gated by major edtech players like Atama+ or ベネッセ (Benesse) integrating such frameworks into their offerings, or by MEXT (Ministry of Education, Culture, Sports, Science and Technology) recognizing the value of such pedagogically rich AI for the 学習指導要領 (Course of Study) and common assessment reforms. Early adopters among private schools or juku might experiment sooner.",
-        "In Japan, companies like Atama+ and すららネット (Surala Net) are already pioneers in AI-driven personalized learning, adapting content to individual student needs. While they excel at adaptive learning paths and assessment, PIVOT's innovation lies in embedding deep pedagogical principles directly into the *generation* of video content itself. This adds a layer of instructional quality that could elevate existing platforms, making AI tutors not just adaptive, but also inherently better teachers."
-      ],
-      "ja": [
-        "東京で子育てをするご家庭にとって、このPIVOTの研究は、AIが単なるコンテンツ制作を超えて、いかに真に学びを深める支援となりうるかを示唆しています。例えば、AIが単に数学の問題を解説するだけでなく、熟練した塾の先生のように解説の構成を練り、子どもがつまずきやすい点を予測し、理解度を確認して、もし分からなければ個別に合わせた補習まで提供するイメージです。これは、無作為なYouTubeの解説動画を見るのと、教育学に基づいた専門のチューターがいることとの違いに例えられます。",
-        "東京のご家庭への影響は、いくつかの面で大きい可能性があります。中学受験や高校受験を控えるお子さんを持つご家庭では、STEM分野において、教育学的に優れたAIチューターが、高額な個別指導塾への依存を減らしつつ、質の高いパーソナルな補習を提供できるようになるかもしれません。また、インターナショナルスクールに通う生徒や海外大学を目指す生徒にとっては、IB（国際バカロレア）やAP（アドバンスト・プレイスメント）のような深い概念理解が求められるカリキュラムにおいて、既存の学習を補完する適応型STEM指導へのアクセスが広がる可能性があります。",
-        "この技術が日本の教育現場に影響を与え始めるのは、3年から5年以内と見ています。普及の鍵となるのは、Atama+やベネッセのような主要なエドテック企業が、この種のフレームワークを自社サービスに組み込むかどうか、あるいは文部科学省が、学習指導要領や共通テスト改革において、教育学的に豊かなAIの価値を認識し、その活用を推進するかどうかでしょう。一部の私立学校や塾では、より早く導入実験を行う可能性もあります。",
-        "日本国内では、Atama+やすららネットなどが、AIを活用した個別最適化された学習パスを提供し、すでに先駆的な役割を担っています。これらのプラットフォームは適応型学習や評価において優れていますが、PIVOTの革新性は、ビデオコンテンツの「生成」自体に深い教育学的原則を埋め込む点にあります。これにより、既存のプラットフォームの指導品質をさらに高め、AIチューターが単に適応的であるだけでなく、本質的により優れた「教師」となる可能性を秘めていると言えるでしょう。"
-      ]
-    },
-    "structured": {
-      "tagline": {
-        "en": "AI video tutors embed pedagogy for true learning, not just content.",
-        "ja": "AIビデオチューター、教育学を内包し真の学びを支援。"
-      },
-      "whoForWhat": {
-        "en": "For a Tokyo family seeking effective STEM learning support, this research explores how AI can offer personalized, pedagogically sound video instruction that goes beyond simple content delivery.",
-        "ja": "STEM分野で効果的な学習支援を求める東京のご家庭にとって、AIがいかに単なるコンテンツ提供を超え、個別最適化された教育学に基づく動画指導を提供できるかを示唆する研究です。"
-      },
-      "vsJapanContext": {
-        "en": "This research aligns with the direction of Japanese edtech leaders like Atama+ and Surala Net, who are already pioneers in AI-driven personalized learning, by adding a layer of deep pedagogical structure to AI-generated video content.",
-        "ja": "Atama+やすららネットなど、AIを活用した個別最適化学習の先駆者である国内エドテック企業の方向性と合致し、AI生成動画コンテンツに深い教育学的構造を組み込むことで、その進化の可能性を示しています。"
-      },
-      "tokyoNote": {
-        "en": "While AI tutors are already emerging, the PIVOT framework emphasizes that true educational value comes from embedding pedagogical design, not just advanced AI. Tokyo families should look for AI tools that transparently explain their teaching methodology, not just their content generation capabilities.",
-        "ja": "AIチューターは既に登場していますが、PIVOTは単に高度なAIではなく、教育学に基づいた設計こそが真の教育的価値を生むと強調します。東京のご家庭は、コンテンツ生成能力だけでなく、その指導方法論が明確に説明されているAIツールに注目すべきでしょう。"
-      }
-    },
-    "source": {
-      "name": "arXiv cs.CY",
-      "url": "http://arxiv.org/abs/2609.24083v1"
-    },
-    "sourceGuid": "http://arxiv.org/abs/2609.24083v1",
     "status": "published"
   }
 ]
