@@ -1,5 +1,107 @@
 [
   {
+    "slug": "the-science-of-acquired-taste-how-our-brains-learn-to-love-bitter-flavors",
+    "category": "early-childhood",
+    "issue": "Vol. 06",
+    "publishedAt": "2026-11-09T23:19:35.000Z",
+    "readingMinutes": 6,
+    "feature": true,
+    "cover": {
+      "src": "https://www.sciencedaily.com/images/1920/boy-tasting-bitter-coffee.webp",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "The Science of Acquired Taste: How Our Brains Learn to Love Bitter Flavors",
+      "ja": "好き嫌いを乗り越える科学：苦味を好むようになる脳のメカニズム"
+    },
+    "dek": {
+      "en": "A new discovery identifies a gut-to-brain dopamine pathway that explains how we develop a preference for initially unpleasant tastes, offering insights into shaping eating habits.",
+      "ja": "腸と脳をつなぐドーパミン経路の発見が、当初は苦手だった味を好きになる仕組みを解明。食の好みを形成する新たな視点を提供します。"
+    },
+    "author": {
+      "en": "WORLD STUDY TOKYO Editors",
+      "ja": "WORLD STUDY TOKYO 編集部"
+    },
+    "location": {
+      "en": "November 9, 2026",
+      "ja": "2026年11月9日"
+    },
+    "tags": [
+      {
+        "en": "food preferences",
+        "ja": "食の好み"
+      },
+      {
+        "en": "child development",
+        "ja": "子どもの発達"
+      },
+      {
+        "en": "neuroscience",
+        "ja": "神経科学"
+      },
+      {
+        "en": "eating habits",
+        "ja": "食習慣"
+      }
+    ],
+    "body": {
+      "en": [
+        "Scientists have recently shed new light on a fundamental aspect of human taste: why we often come to love flavors we initially find unpleasant. A new study has identified a hidden gut-to-brain dopamine pathway that explains this phenomenon, moving beyond simple psychological conditioning to reveal a biological mechanism.",
+        "This discovery is significant for understanding how our food preferences are formed and, crucially, how they might be reshaped. Many adults appreciate bitter coffee, dark chocolate, or complex cheeses, tastes that were likely challenging in childhood. This research suggests that repeated exposure, even to an initially unappealing flavor, can activate a specific biological reward system, leading to genuine enjoyment over time.",
+        "The newly identified pathway involves a direct communication line between the gut and the brain, utilizing dopamine — a neurotransmitter associated with pleasure and reward. When we consume certain foods, signals from the gut travel to the brain, influencing our perception and desire. Over time, this pathway can strengthen, transforming an initial aversion into a craving.",
+        "> The discovery reveals how the brain learns to crave certain foods and could eventually lead to new ways of reshaping eating habits and food preferences.",
+        "For parents, this finding offers a deeper understanding of the process behind introducing new foods and cultivating a varied palate in children. It underscores that persistence and gentle, repeated exposure to different tastes might be more biologically effective than previously understood. It’s not just about 'getting used to it'; the brain is actively re-wiring itself for reward. This mechanism could have implications for addressing picky eating or encouraging healthier dietary choices by leveraging the body's natural reward systems.",
+        "While the research provides a foundational understanding, further studies will be needed to translate these findings into practical strategies for families or public health initiatives. The precise conditions for activating and strengthening this pathway in different individuals and age groups remain an area for future exploration."
+      ],
+      "ja": [
+        "最近の研究で、人間がなぜ最初は好まなかった味を好きになるのか、その生物学的なメカニズムが明らかになりました。科学者たちは、腸と脳をつなぐ新たなドーパミン経路を発見し、この「慣れ」が単なる心理的なものではなく、身体の深い部分で起こる報酬システムによるものであることを示しています。",
+        "この発見は、私たちの食の好みがどのように形成されるかを理解する上で非常に重要です。多くの大人が苦いコーヒーやダークチョコレート、複雑な風味のチーズなどを好みますが、これらは幼い頃には敬遠されがちな味でした。今回の研究は、たとえ最初は不快に感じる味であっても、繰り返し経験することで、脳内の特定の報酬システムが活性化し、最終的にその味を心から楽しめるようになることを示唆しています。",
+        "新たに特定された経路は、「腸脳相関（ちょうのうそうかん）」と呼ばれる、腸と脳の間の直接的なコミュニケーションラインを利用しています。この経路では、喜びや報酬に関連する神経伝達物質であるドーパミンが関与しています。特定の食品を摂取すると、腸からの信号が脳に伝わり、味覚の認識と欲求に影響を与えます。時間をかけてこの経路が強化されると、当初の嫌悪感が「食べたい」という欲求へと変化していくのです。",
+        "> この発見は、脳が特定の食品を求めるようになる仕組みを解き明かし、食習慣や食品の好みを再形成する新たな方法につながる可能性がある",
+        "保護者の方々にとって、この研究結果は、子どもに新しい食べ物を紹介し、多様な味覚を育むプロセスについて、より深い洞察を与えます。忍耐強く、穏やかに、様々な味に繰り返し触れさせることの生物学的な有効性が、これまで考えられていた以上に大きいことを示しています。単に「慣れる」のではなく、脳が報酬のために積極的に再配線されているという見方です。このメカニズムは、好き嫌いの克服や、より健康的な食生活の促進に、身体本来の報酬システムを活用する可能性を示唆しています。",
+        "この研究は基礎的な理解を提供しますが、これらの知見を家族や公衆衛生の具体的な戦略にどう応用するかについては、さらなる研究が必要です。異なる個人や年齢層において、この経路を活性化させ、強化するための具体的な条件は、今後の探求領域となるでしょう。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "This finding shows that when we repeatedly try a taste we initially dislike, like bitter green tea or a new vegetable, our gut sends signals to our brain that eventually associate that taste with a feeling of reward. It’s not just willpower; our bodies are actually learning to enjoy it.",
+        "This could influence how schools design 給食 (kyushoku — school lunches) to introduce varied diets, or how parents approach meal times at home. For instance, rather than forcing a child to finish a disliked food, repeated, small exposures over time might be more effective in cultivating a preference.",
+        "We might see practical applications in 5-10 years, once larger-scale studies translate these neuroscientific findings into actionable dietary guidelines or educational programs. This would likely be gated by adoption into national 食育 (shokuiku) policies or by major food education initiatives.",
+        "Japan already has robust 食育 (shokuiku) programs and an emphasis on varied school lunches, such as those seen in many public elementary schools across Tokyo. While the biological mechanism is new, the practice of encouraging diverse eating habits is well-established, with programs like ベネッセ教育総合研究所 (Benesse Educational Research Institute) also exploring child nutrition and preference."
+      ],
+      "ja": [
+        "この研究は、私たちが苦手な味、例えば苦いお茶や新しい野菜を繰り返し試すうちに、腸から脳へ信号が送られ、最終的にその味を「ご褒美」と感じるようになることを示しています。これは単なる我慢ではなく、私たちの体が実際にその味を楽しむように学習しているのです。",
+        "この発見は、学校が多様な給食（学校給食）を設計する方法や、家庭での食事の時間を保護者がどう捉えるかに影響を与える可能性があります。例えば、子どもに嫌いな食べ物を無理に食べさせるのではなく、時間をかけて少量ずつ繰り返し触れさせる方が、好みを育む上でより効果的かもしれません。",
+        "大規模な研究によってこれらの神経科学的知見が具体的な食事ガイドラインや教育プログラムに落とし込まれれば、5〜10年以内には実践的な応用が見られるかもしれません。これは、国の食育政策への導入や、主要な食育推進団体の取り組みによって進展するでしょう。",
+        "日本にはすでに強固な食育（食に関する教育）プログラムがあり、多くの公立小学校で見られるような多様な給食に重点が置かれています。生物学的なメカニズムの解明は新しいものですが、多様な食習慣を奨励する実践は確立されており、ベネッセ教育総合研究所なども子どもの栄養と味覚形成について研究しています。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "Our brains are wired to learn new tastes.",
+        "ja": "脳は新しい味を学習する。"
+      },
+      "whoForWhat": {
+        "en": "For Tokyo parents introducing new foods to their children or navigating picky eating, this explains the biological basis of developing a broader palate.",
+        "ja": "子どもに新しい食べ物を紹介したり、好き嫌いに悩む東京の保護者へ。多様な味覚を育む生物学的基盤を理解する一助となります。"
+      },
+      "vsJapanContext": {
+        "en": "This research offers a scientific lens on Japan's established 食育 (shokuiku — food education) programs, suggesting that sustained, gentle exposure is key to developing taste beyond cultural norms.",
+        "ja": "日本の食育（食に関する教育）プログラムに科学的な視点を提供します。文化的な慣習を超え、持続的で穏やかな経験が味覚形成の鍵であることを示唆します。"
+      },
+      "tokyoNote": {
+        "en": "This finding shows that when we repeatedly try a taste we initially dislike, like bitter green tea or a new vegetable, our gut sends signals to our brain that eventually associate that taste with a feeling of reward. It’s not just willpower; our bodies are actually learning to enjoy it. This could influence how schools design 給食 (kyushoku — school lunches) to introduce varied diets, or how parents approach meal times at home. For instance, rather than forcing a child to finish a disliked food, repeated, small exposures over time might be more effective in cultivating a preference. We might see practical applications in 5-10 years, once larger-scale studies translate these neuroscientific findings into actionable dietary guidelines or educational programs. This would likely be gated by adoption into national 食育 (shokuiku) policies or by major food education initiatives. Japan already has robust 食育 (shokuiku) programs and an emphasis on varied school lunches, such as those seen in many public elementary schools across Tokyo. While the biological mechanism is new, the practice of encouraging diverse eating habits is well-established, with programs like ベネッセ教育総合研究所 (Benesse Educational Research Institute) also exploring child nutrition and preference.",
+        "ja": "この研究は、私たちが苦手な味、例えば苦いお茶や新しい野菜を繰り返し試すうちに、腸から脳へ信号が送られ、最終的にその味を「ご褒美」と感じるようになることを示しています。これは単なる我慢ではなく、私たちの体が実際にその味を楽しむように学習しているのです。この発見は、学校が多様な給食（学校給食）を設計する方法や、家庭での食事の時間を保護者がどう捉えるかに影響を与える可能性があります。例えば、子どもに嫌いな食べ物を無理に食べさせるのではなく、時間をかけて少量ずつ繰り返し触れさせる方が、好みを育む上でより効果的かもしれません。大規模な研究によってこれらの神経科学的知見が具体的な食事ガイドラインや教育プログラムに落とし込まれれば、5〜10年以内には実践的な応用が見られるかもしれません。これは、国の食育政策への導入や、主要な食育推進団体の取り組みによって進展するでしょう。日本にはすでに強固な食育（食に関する教育）プログラムがあり、多くの公立小学校で見られるような多様な給食に重点が置かれています。生物学的なメカニズムの解明は新しいものですが、多様な食習慣を奨励する実践は確立されており、ベネッセ教育総合研究所なども子どもの栄養と味覚形成について研究しています。"
+      }
+    },
+    "source": {
+      "name": "ScienceDaily — Child Development",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261108233100.htm"
+    },
+    "sourceGuid": "https://www.sciencedaily.com/releases/2026/11/261108233100.htm",
+    "status": "published"
+  },
+  {
     "slug": "beyond-tiredness-how-sleep-disorders-shape-a-childs-brain",
     "category": "early-childhood",
     "issue": "Vol. 06",
@@ -5945,8 +6047,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1542621334-a254cf47733d?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#D8CDE3"
+      "src": "https://images.unsplash.com/photo-1488998427799-e3362cec87c3?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#D3C7E1"
     },
     "title": {
       "en": "Beyond Practice: How Post-Learning Nerve Activity Shapes Long-Term Skill",
@@ -6047,8 +6149,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1561089489-f13d5e730d72?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#D2E4D5"
+      "src": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#C8DFCB"
     },
     "title": {
       "en": "Local AI Agent Promises Affordable Language Learning at Home",
@@ -6457,8 +6559,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#CDE3CF"
+      "src": "https://images.unsplash.com/photo-1593720213428-28a5b9e94613?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#C9E0CC"
     },
     "title": {
       "en": "AI Tutors Match Human Effectiveness for GRE Prep, at a Fraction of the Cost",
@@ -7385,8 +7487,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1551434678-e076c223a692?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#CFE3D2"
+      "src": "https://images.unsplash.com/photo-1561089489-f13d5e730d72?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#D2E4D5"
     },
     "title": {
       "en": "A Vision for Low-Cost, Local AI Language Learning Emerges",
@@ -7899,8 +8001,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1573164713619-24c711fe7878?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#C4DDC6"
+      "src": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#CDE3CF"
     },
     "title": {
       "en": "AI Tutors Achieve Learning Gains Equivalent to Human Experts for GRE",
@@ -8095,112 +8197,6 @@
       "url": "http://arxiv.org/abs/2609.21600v1"
     },
     "sourceGuid": "http://arxiv.org/abs/2609.21600v1",
-    "status": "published"
-  },
-  {
-    "slug": "caffeines-hidden-toll-on-restorative-sleep",
-    "category": "research",
-    "issue": "Vol. 04",
-    "publishedAt": "2026-09-22T13:42:49.000Z",
-    "readingMinutes": 5,
-    "feature": true,
-    "cover": {
-      "src": "https://www.sciencedaily.com/images/1920/sleep-man-brain-spine-nervous-system.webp",
-      "tone": "#0c0c0c"
-    },
-    "title": {
-      "en": "Caffeine's Hidden Toll on Restorative Sleep",
-      "ja": "眠りを妨げないカフェインも、深い睡眠の質を低下させる可能性"
-    },
-    "dek": {
-      "en": "New research indicates that coffee can impair deep sleep quality, even when it doesn't overtly keep you awake, impacting cognitive recovery for some individuals.",
-      "ja": "新しい研究によると、コーヒーは覚醒を直接妨げなくても、深い睡眠の質を損なう可能性があり、一部の人では認知回復に影響を与えます。"
-    },
-    "author": {
-      "en": "WORLD STUDY TOKYO Editors",
-      "ja": "WORLD STUDY TOKYO 編集部"
-    },
-    "location": {
-      "en": "September 22, 2026",
-      "ja": "2026年9月22日"
-    },
-    "tags": [
-      {
-        "en": "Caffeine",
-        "ja": "カフェイン"
-      },
-      {
-        "en": "Sleep",
-        "ja": "睡眠"
-      },
-      {
-        "en": "Deep Sleep",
-        "ja": "深い睡眠"
-      },
-      {
-        "en": "Cognitive Function",
-        "ja": "認知機能"
-      }
-    ],
-    "body": {
-      "en": [
-        "A recent study published in ScienceDaily on September 22, 2026, reveals that caffeine can significantly disrupt the quality of sleep, even if individuals report falling asleep normally and staying in bed for a full eight hours. The research indicates that the impact is not just about wakefulness, but about the deeper, restorative stages of sleep.",
-        "Using electroencephalogram (EEG) recordings, researchers observed a reduction in slow brain waves, which are crucial for deep sleep. This deep sleep phase is essential for cognitive functions such as memory consolidation, emotional regulation, and physical recovery. When this phase is compromised, individuals may wake up feeling less refreshed, despite having spent adequate time in bed.",
-        "The key finding is that caffeine's influence extends beyond its immediate stimulating effect. It appears to alter the brain's natural sleep architecture, making sleep less efficient.",
-        "> \"Caffeine may make sleep less restorative even when you fall asleep normally and stay in bed for eight hours, with EEG recordings revealing fewer of the slow brain waves associated with deep sleep.\"",
-        "This suggests that the body metabolizes caffeine in ways that interfere with the brain's ability to enter and maintain deep sleep cycles, even hours after consumption.",
-        "The study also emphasizes significant individual variability in caffeine sensitivity. For some people, even caffeine consumed earlier in the day, perhaps with a morning coffee or an afternoon tea, could still affect nighttime recovery. This means that a \"normal\" caffeine habit for one person might be detrimental to another's sleep quality without them realizing it.",
-        "For parents and students, understanding this subtle effect is important. Adequate, restorative sleep is a cornerstone of effective learning, problem-solving, and emotional resilience. If sleep quality is subtly degraded, it could impact academic performance, focus during study, and even daily mood, creating a cycle of fatigue that is not easily attributed to caffeine.",
-        "While the study doesn't suggest eliminating caffeine entirely, it prompts a re-evaluation of consumption habits. Further research could explore the precise thresholds of caffeine intake and timing that impact different individuals, and whether specific genetic factors play a role in sensitivity. For now, it underscores the importance of mindful caffeine use, especially for those experiencing persistent fatigue despite sufficient time in bed."
-      ],
-      "ja": [
-        "ScienceDailyが2026年9月22日に発表した最新の研究によると、カフェインは、たとえ摂取者が通常通り眠りにつき、8時間ベッドで過ごしたと報告しても、睡眠の質を著しく低下させる可能性があることが明らかになりました。この研究は、カフェインの影響が単なる覚醒状態の維持にとどまらず、より深く、回復に重要な睡眠段階に及ぶことを示唆しています。",
-        "研究者たちは、脳波計（EEG）を用いた測定により、深い睡眠に不可欠な徐波（slow brain waves）の減少を観察しました。深い睡眠は、記憶の定着、感情の調整、身体の回復といった重要な認知機能にとって極めて重要です。この段階が損なわれると、十分な睡眠時間を確保したにもかかわらず、目覚めたときにすっきりしない感覚が残ることがあります。",
-        "この研究の主要な発見は、カフェインの影響がその即時的な覚醒作用を超えて広がるという点です。カフェインは脳の自然な睡眠構造を変化させ、睡眠の効率を低下させるようです。",
-        "「カフェインは、通常通り眠りにつき、8時間ベッドで過ごしても、睡眠の回復力を低下させる可能性があり、脳波測定では深い睡眠に関連する徐波が減少していることが明らかになりました。」",
-        "これは、カフェインが摂取から数時間後であっても、脳が深い睡眠サイクルに入り、それを維持する能力を妨害する形で代謝されることを示唆しています。",
-        "研究ではまた、カフェインに対する感受性に個人差が大きいことも強調されています。人によっては、朝のコーヒーや午後の紅茶など、日中の早い時間に摂取したカフェインでさえ、夜間の回復に影響を及ぼす可能性があります。これは、ある人にとっては「普通の」カフェイン習慣が、自覚がないまま別の人の睡眠の質を損ねているかもしれないことを意味します。",
-        "保護者や学生にとって、この微妙な影響を理解することは重要です。十分な回復的な睡眠は、効果的な学習、問題解決能力、感情的な回復力の基盤となります。睡眠の質が目に見えない形で低下している場合、学業成績、学習中の集中力、さらには日々の気分にまで影響を及ぼし、カフェインとは結びつけにくい疲労のサイクルを生み出す可能性があります。",
-        "この研究は、カフェイン摂取を完全にやめることを推奨するものではありませんが、その摂取習慣を見直すきっかけを与えます。今後の研究では、カフェイン摂取の正確な閾値やタイミングが個人に与える影響、特定の遺伝的要因が感受性に果たす役割などがさらに探求されるでしょう。現時点では、十分な睡眠時間を取っているにもかかわらず疲労が続く場合、カフェイン摂取に意識を向けることの重要性を強調しています。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "Many Tokyo parents rely on coffee or energy drinks to power through busy days. This research suggests that even if you can fall asleep easily after your last cup, the caffeine might still be quietly sabotaging the quality of your deep sleep. Imagine your brain trying to defragment its hard drive overnight; caffeine makes that process less efficient, leaving you feeling tired even after a full night in bed.",
-        "This insight could influence how families manage their evening routines, particularly for parents supporting children through intense study periods like 中学受験 (junior high entrance exams) or 高校受験 (high school entrance exams). If parents are subtly sleep-deprived, their patience, focus, and ability to support their children's learning could be affected. It might also shift advice given to high school students preparing for 大学受験 (university entrance exams) regarding their afternoon study drinks.",
-        "This awareness is likely to spread within 1-2 years, primarily through health and wellness media, and potentially influence parental advice blogs and some private tutoring centers (塾) that offer holistic support. Broader behavioral shifts might take longer, perhaps 3-5 years, as people experiment with personal caffeine cut-off times.",
-        "While no specific Japanese institution directly addresses this nuance in caffeine's effect on sleep quality, the concept of optimizing daily routines for peak performance is already deeply embedded in programs like Z会 (Z-kai) or ベネッセ進研ゼミ (Benesse Shinken Seminar), which often provide study habit guidance. This research offers a new, science-backed layer to that existing emphasis on holistic well-being."
-      ],
-      "ja": [
-        "多くの東京の保護者の方々は、忙しい日々を乗り切るためにコーヒーやエナジードリンクに頼ることがあるでしょう。この研究は、たとえ最後のカフェイン摂取後、問題なく眠りにつけたとしても、実はそのカフェインが、眠りの「質」の中でも特に重要な深い睡眠を静かに妨げている可能性を示唆しています。これは、まるで寝ている間に脳が日中の情報を整理する作業（デフラグ）をしているとして、カフェインがその作業効率を落とし、結果的に十分寝たはずなのに疲れが残る状態を生み出しているようなものです。",
-        "この知見は、中学受験や高校受験といった集中を要する時期に子どもを支える保護者の夜の過ごし方に影響を与えるかもしれません。保護者自身が微妙な睡眠不足に陥っていると、子どもの学習をサポートする際の忍耐力や集中力が低下する可能性があります。また、大学受験を控えた高校生が午後にとる勉強中の飲み物についても、新たな視点からアドバイスがされるようになるかもしれません。",
-        "このような知見は、健康やウェルネス関連のメディアを通じて、1〜2年以内に広く知られるようになるでしょう。また、一部の学習塾や個別指導塾が、学力だけでなく生活習慣全体をサポートする文脈で、この情報を取り入れる可能性もあります。より広範な行動変容、例えば個人のカフェイン摂取の最終時間を意識するような変化は、3〜5年かけて徐々に浸透していくと考えられます。",
-        "カフェインの睡眠の質への微妙な影響について直接的に取り組む日本の機関は現状では限定的ですが、Z会やベネッセ進研ゼミのように、学習習慣や生活リズムの最適化を重視するプログラムは既に多く存在します。この研究結果は、既存の学習支援プログラムが「生活習慣の質」を語る際に、科学的根拠に基づいた新たな視点を提供し、より具体的なアドバイスへと繋がる可能性を秘めていると言えるでしょう。"
-      ]
-    },
-    "structured": {
-      "tagline": {
-        "en": "Coffee may reduce deep sleep without keeping you awake.",
-        "ja": "眠れるカフェインも、深い睡眠の質を落とす。"
-      },
-      "whoForWhat": {
-        "en": "For Tokyo parents managing demanding schedules and seeking optimal cognitive function, this research offers insights into how even moderate caffeine intake might subtly affect sleep quality and daily focus.",
-        "ja": "多忙なスケジュールをこなし、最適な認知機能を求める東京の保護者にとって、この研究は適度なカフェイン摂取が睡眠の質や日中の集中力に微妙に影響を与えうる洞察を提供します。"
-      },
-      "vsJapanContext": {
-        "en": "While Japan's work culture often normalizes late nights and reliance on stimulants, this finding challenges the common assumption that falling asleep easily means caffeine isn't impacting sleep quality.",
-        "ja": "日本の労働文化では深夜まで働き、カフェインに頼ることが一般的ですが、この研究は「すぐに眠れるならカフェインは睡眠に影響しない」という一般的な認識に疑問を投げかけます。"
-      },
-      "tokyoNote": {
-        "en": "This research highlights that perceived sleep is not always actual restorative sleep. For Tokyo families balancing busy lives, understanding caffeine's nuanced effects can inform daily habits that truly support well-being and learning.",
-        "ja": "この研究は、自覚のある睡眠と実際の回復的な睡眠が異なることを示唆しています。多忙な東京のご家庭にとって、カフェインの微妙な影響を理解することは、真にウェルビーイングと学習を支える日々の習慣を見直すきっかけとなるでしょう。"
-      }
-    },
-    "source": {
-      "name": "ScienceDaily — Child Development",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260922005719.htm"
-    },
-    "sourceGuid": "https://www.sciencedaily.com/releases/2026/09/260922005719.htm",
     "status": "published"
   }
 ]
