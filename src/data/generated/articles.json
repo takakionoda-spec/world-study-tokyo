@@ -1,5 +1,109 @@
 [
   {
+    "slug": "the-quiet-power-of-routine-how-consistent-daily-rhythms-support-well-being",
+    "category": "early-childhood",
+    "issue": "Vol. 06",
+    "publishedAt": "2026-11-14T12:48:01.000Z",
+    "readingMinutes": 5,
+    "feature": true,
+    "cover": {
+      "src": "https://www.sciencedaily.com/images/1920/yellow-and-red-smileys-happy-sad-depression.webp",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "The Quiet Power of Routine: How Consistent Daily Rhythms Support Well-being",
+      "ja": "ルーティンの静かな力：規則正しい生活リズムが心身の健康を支える"
+    },
+    "dek": {
+      "en": "New research highlights how predictable daily schedules, even simple ones, can significantly reduce physical pain and depressive symptoms by regulating our internal biological clock.",
+      "ja": "新しい研究は、シンプルな日々のルーティンが体内の生体リズムを整え、身体的な痛みや抑うつ症状を軽減する可能性を示しています。"
+    },
+    "author": {
+      "en": "WORLD STUDY TOKYO Editors",
+      "ja": "WORLD STUDY TOKYO 編集部"
+    },
+    "location": {
+      "en": "Tokyo, November 14, 2026",
+      "ja": "東京、2026年11月14日"
+    },
+    "tags": [
+      {
+        "en": "early-childhood",
+        "ja": "幼児教育"
+      },
+      {
+        "en": "parenting",
+        "ja": "子育て"
+      },
+      {
+        "en": "well-being",
+        "ja": "ウェルビーイング"
+      },
+      {
+        "en": "routine",
+        "ja": "ルーティン"
+      }
+    ],
+    "body": {
+      "en": [
+        "University of Missouri researchers, in a study published on November 14, 2026, have identified a significant link between consistent daily routines and improved physical and mental well-being. The findings suggest that maintaining predictable schedules for daily activities can positively influence how individuals feel, both in body and mind.",
+        "The study specifically focused on older adults, revealing that those who adhered to consistent daily schedules reported less physical pain and fewer symptoms of depression. This positive effect was observed even among participants who struggled with insomnia, suggesting that a structured routine can act as a buffer against some common stressors to well-being.",
+        "The core mechanism behind this benefit lies in the regulation of the body's internal clock, known as the circadian rhythm (the approximately 24-hour cycle that governs many physiological processes, including sleep-wake patterns, hormone release, and body temperature).",
+        "> Keeping regular times for sleeping, eating, and other activities may help regulate the body's internal clock, which influences mood, sleep, and overall health.",
+        "For children and families, while the research population was older adults, the biological principles of circadian rhythm apply across all ages. Consistent routines provide a sense of predictability and security for children, which can be foundational for emotional regulation (the ability to manage and respond to emotional experiences) and the development of executive functions (higher-level cognitive skills like planning, problem-solving, and self-control).",
+        "Implementing regular times for meals, sleep, and even play can contribute to a child's overall stability and readiness for learning. This isn't about rigid adherence to a minute-by-minute schedule, but rather establishing predictable patterns that help the body and mind anticipate and adjust.",
+        "Further research is needed to quantify the specific benefits of consistent routines across different age groups, particularly in younger populations. However, the simplicity and accessibility of this intervention make it an immediately actionable strategy for families seeking to foster a more stable and supportive environment for their children's growth and well-being."
+      ],
+      "ja": [
+        "2026年11月14日に発表されたミズーリ大学の研究で、一貫した日々のルーティンが心身の健康と密接に関連していることが示されました。この研究は、日々の活動に予測可能なスケジュールを維持することが、身体的・精神的な調子に良い影響を与える可能性を指摘しています。",
+        "この調査は特に高齢者を対象としており、規則正しい生活スケジュールを守る人々は、身体的な痛みや抑うつ症状が少ないと報告しました。この良い影響は、不眠症に悩む参加者にも見られ、構造化されたルーティンが、一般的な心身のストレス要因に対する緩衝材として機能することを示唆しています。",
+        "この効果の根底にあるメカニズムは、体内の生体リズム（サーカディアンリズム ── 約24時間周期で繰り返される身体のリズムで、睡眠・覚醒パターン、ホルモン分泌、体温などに影響を与える）の調整にあります。",
+        "> 睡眠、食事、その他の活動を規則正しい時間に行うことは、気分、睡眠、全体的な健康に影響を与える体内の時計を調整するのに役立つ可能性があります。",
+        "この研究は高齢者を対象としていますが、生体リズムの生物学的原則はあらゆる年齢層に当てはまります。子どもたちにとって、一貫したルーティンは予測可能性と安心感を与え、情動調整（感情を管理し、適切に反応する能力）や実行機能（計画、問題解決、自己制御といった高次の認知スキル）の発達の土台となります。",
+        "食事、睡眠、さらには遊びの時間まで規則的にすることは、子どもの全体的な安定と学習への準備に貢献します。これは分刻みの厳格なスケジュールにこだわるのではなく、身体と心が次の活動を予測し、順応するのを助けるような予測可能なパターンを確立することに意味があります。",
+        "様々な年齢層、特に若い世代における一貫したルーティンの具体的な効果を定量化するためには、さらなる研究が待たれます。しかし、この介入のシンプルさと手軽さは、子どもの成長と幸福のために、より安定した支援的な環境を育みたいと願う家庭にとって、すぐに実践できる戦略であることを示しています。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "For Tokyo parents, this research offers a valuable perspective on the seemingly simple act of maintaining a consistent daily routine. Think of it like a child learning a new song: hearing it at predictable times each day helps them internalize the rhythm and lyrics more effectively than sporadic exposure. Similarly, consistent meal times, bedtimes, and activity schedules help a child's body and mind anticipate and regulate, fostering a sense of security and internal calm.",
+        "The implications for Tokyo families are wide-ranging. In the context of early childhood, this reinforces the importance of structured daily schedules in *hoikuen* (daycares) and *yochien* (kindergartens) for emotional stability. For school-aged children, integrating consistent study and break times can support academic performance, especially for those navigating *juken* (entrance exam preparation). At the family level, establishing predictable routines for meals and sleep can reduce parental stress and improve overall household harmony, even amidst demanding urban lives.",
+        "Many aspects of this finding are already integrated into Japanese daily life. Most *hoikuen* and *yochien* in Tokyo already operate on highly structured daily schedules, reflecting an understanding of children's need for predictability. At home, parents can implement these principles immediately. We might see major *juku* or educational service providers like Benesse start incorporating specific 'rhythm management' advice into their study programs within 1-2 years, as they increasingly focus on holistic student well-being.",
+        "Japan has long valued consistency and routine. Programs like KUMON (公文式) emphasize daily, short, consistent study sessions, directly aligning with the idea of reinforcing positive habits through predictable repetition. Similarly, many domestic private schools, from elementary to high school, promote a balanced life with consistent schedules for academics, club activities, and adequate rest, aiming to cultivate well-rounded individuals. This research provides scientific backing for practices already deeply embedded in Japanese educational culture."
+      ],
+      "ja": [
+        "東京の保護者の皆様にとって、この研究は日々のルーティンを維持するという、一見シンプルな行為の価値を再認識させてくれるでしょう。例えるなら、子どもが新しい歌を覚えるようなものです。毎日決まった時間に聞くことで、不規則に聞くよりも、リズムや歌詞をより効果的に内面化できます。同様に、規則正しい食事、睡眠、活動のスケジュールは、子どもの身体と心が予測し、自らを調整するのを助け、安心感と内なる落ち着きを育みます。",
+        "この知見が東京の家庭にもたらす影響は多岐にわたります。乳幼児期においては、保育園や幼稚園での構造化された日課が、子どもの情緒安定にとっていかに重要であるかを再確認させます。学齢期の子どもたちにとっては、受験勉強の準備期間であっても、一貫した学習時間と休憩時間を設けることが学業成績を支える助けとなるでしょう。家庭全体で見れば、多忙な都市生活の中でも、予測可能な食事や睡眠のルーティンを確立することが、保護者のストレスを軽減し、家庭全体の調和を高めることにつながります。",
+        "この研究の多くの側面は、すでに日本の日常生活に根付いています。東京の多くの保育園や幼稚園は、子どもの予測可能性へのニーズを理解し、非常に構造化された日課で運営されています。家庭でも、保護者はこれらの原則をすぐに実践できます。今後1〜2年以内に、大手学習塾やベネッセのような教育サービスプロバイダーが、生徒の全体的な幸福に焦点を当てる中で、具体的な「リズム管理」のアドバイスを学習プログラムに取り入れ始める可能性も考えられます。",
+        "日本は古くから一貫性とルーティンを重んじてきました。公文式のように、毎日短時間で一貫した学習を推奨するプログラムは、予測可能な反復を通じて良い習慣を強化するという考え方と直接的に合致しています。同様に、多くの国内私立学校では、学業、部活動、十分な休息のための規則正しいスケジュールを持つバランスの取れた生活を奨励し、全人的な育成を目指しています。この研究は、日本の教育文化に深く根ざした実践に、科学的な裏付けを与えるものです。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "Consistent daily routines may be a quiet key to well-being.",
+        "ja": "規則正しいルーティンが心身の鍵に。"
+      },
+      "whoForWhat": {
+        "en": "For Tokyo families with children of all ages, this research offers a reminder of how predictable daily structures can foster emotional stability and support overall well-being amidst busy schedules.",
+        "ja": "忙しい日々を送る東京の家庭で、子どもの年齢を問わず、予測可能な日々の構造が情緒の安定と心身の健康を育むヒントとなるでしょう。"
+      },
+      "vsJapanContext": {
+        "en": "This finding resonates with the structured daily schedules prevalent in Japanese *hoikuen* and *yochien*, and the emphasis on consistent study habits in *juku* like KUMON, reinforcing the value of predictability.",
+        "ja": "日本の保育園や幼稚園で重視される規則正しい日課、そして公文式のような塾で推奨される一貫した学習習慣と通じ、予測可能性の価値を再認識させます。"
+      },
+      "tokyoNote": {
+        "en": "While the study focused on older adults, the biological principles of rhythm apply universally. For Tokyo parents, this underscores that establishing consistent meal, sleep, and activity times is a practical, low-cost investment in family well-being that complements academic pursuits.",
+        "ja": "高齢者対象の研究ですが、生体リズムの原則は年齢を問いません。東京の保護者にとって、規則正しい食事や睡眠、活動時間は、学業と並行して家族の心身の健康を支える、手軽で価値ある投資であることを示唆しています。"
+      }
+    },
+    "source": {
+      "name": "ScienceDaily — Child Development",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261113231624.htm"
+    },
+    "sourceGuid": "https://www.sciencedaily.com/releases/2026/11/261113231624.htm",
+    "status": "published"
+  },
+  {
     "slug": "brain-differences-identified-in-children-struggling-with-math",
     "category": "research",
     "issue": "Vol. 06",
@@ -4613,8 +4717,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#D6CDE2"
+      "src": "https://images.unsplash.com/photo-1488998427799-e3362cec87c3?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#D3C7E1"
     },
     "title": {
       "en": "How Stress Hormones Strengthen Emotional Memories: A Yale Discovery",
@@ -5745,8 +5849,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1488998427799-e3362cec87c3?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#D3C7E1"
+      "src": "https://images.unsplash.com/photo-1453738773917-9c3eff1db985?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#F5DDC3"
     },
     "title": {
       "en": "New Insights into Aging and Memory: A Simple Amino Acid Shows Promise",
@@ -6247,8 +6351,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1453738773917-9c3eff1db985?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#F5DDC3"
+      "src": "https://images.unsplash.com/photo-1521405924368-64c5b84bec60?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#B2D6EC"
     },
     "title": {
       "en": "Self-Directed Learning Is Inherently Social, Not Solitary",
@@ -6557,8 +6661,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1456406644174-8ddd4cd52a06?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#D2C5E0"
+      "src": "https://images.unsplash.com/photo-1455390582262-044cdead277a?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#D9CFE5"
     },
     "title": {
       "en": "Beyond Practice: How Post-Learning Nerve Activity Shapes Long-Term Skill",
@@ -6659,8 +6763,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1561089489-f13d5e730d72?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#D2E4D5"
+      "src": "https://images.unsplash.com/photo-1573164713619-24c711fe7878?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#C4DDC6"
     },
     "title": {
       "en": "Local AI Agent Promises Affordable Language Learning at Home",
@@ -7069,8 +7173,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#C8DFCB"
+      "src": "https://images.unsplash.com/photo-1551434678-e076c223a692?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#CFE3D2"
     },
     "title": {
       "en": "AI Tutors Match Human Effectiveness for GRE Prep, at a Fraction of the Cost",
@@ -7997,8 +8101,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1551434678-e076c223a692?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#CFE3D2"
+      "src": "https://images.unsplash.com/photo-1593720213428-28a5b9e94613?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#C9E0CC"
     },
     "title": {
       "en": "A Vision for Low-Cost, Local AI Language Learning Emerges",
@@ -8089,108 +8193,6 @@
       "url": "http://arxiv.org/abs/2609.29672v1"
     },
     "sourceGuid": "http://arxiv.org/abs/2609.29672v1",
-    "status": "published"
-  },
-  {
-    "slug": "rethinking-a-rare-genetic-link-to-autism",
-    "category": "early-childhood",
-    "issue": "Vol. 04",
-    "publishedAt": "2026-09-25T13:32:46.000Z",
-    "readingMinutes": 3,
-    "feature": true,
-    "cover": {
-      "src": "https://www.sciencedaily.com/images/1920/ancient-virus-dna.webp",
-      "tone": "#0c0c0c"
-    },
-    "title": {
-      "en": "Rethinking a \"Rare\" Genetic Link to Autism",
-      "ja": "「稀な」自閉症関連遺伝子疾患、実はより一般的か"
-    },
-    "dek": {
-      "en": "A new analysis suggests Phelan-McDermid syndrome, a genetic disorder closely associated with autism, may be significantly more prevalent than previously understood, highlighting the need for broader genetic testing.",
-      "ja": "自閉スペクトラム症と深く関連する遺伝子疾患「フェラン・マクダーミッド症候群」が、これまでの想定よりもはるかに多くの人に影響している可能性が新たな分析で示されました。遺伝子検査の普及が診断の鍵となります。"
-    },
-    "author": {
-      "en": "WORLD STUDY TOKYO Editors",
-      "ja": "WORLD STUDY TOKYO 編集部"
-    },
-    "location": {
-      "en": "September 25, 2026",
-      "ja": "2026年9月25日"
-    },
-    "tags": [
-      {
-        "en": "genetic disorder",
-        "ja": "遺伝子疾患"
-      },
-      {
-        "en": "developmental delay",
-        "ja": "発達遅延"
-      },
-      {
-        "en": "diagnosis",
-        "ja": "診断"
-      },
-      {
-        "en": "early intervention",
-        "ja": "早期介入"
-      }
-    ],
-    "body": {
-      "en": [
-        "A significant new analysis, published recently, indicates that Phelan-McDermid syndrome (PMS), a genetic disorder strongly linked to autism spectrum disorder (ASD), may be considerably more common than scientists previously believed. This research suggests that the condition, characterized by developmental delays, intellectual disability, and often features of autism, could affect approximately 1 in 7,300 people.",
-        "This revised prevalence estimate is a notable shift from earlier understandings that considered PMS a truly rare disease. For families navigating developmental concerns, particularly those with an autism diagnosis, this finding underscores the potential genetic underpinnings that might otherwise be overlooked. Recognizing PMS could offer clearer pathways for support and intervention tailored to its specific genetic basis.",
-        "The analysis, which involved a broad review of genetic data, suggests that thousands of cases may currently remain undiagnosed. This is largely because genetic testing, specifically for the 22q13.3 deletion or SHANK3 gene mutation associated with PMS, is not routinely performed unless there are strong clinical indicators.",
-        "> Researchers warn that thousands of cases may remain hidden because genetic testing is often not performed, even as targeted treatments move into clinical trials.",
-        "Increased awareness of PMS and its prevalence could prompt a reevaluation of diagnostic protocols for children with developmental delays and autism-like symptoms. As targeted treatments for PMS begin to enter clinical trials, an accurate diagnosis becomes even more critical, potentially opening doors to specific therapeutic approaches that address the syndrome's underlying mechanisms rather than just its symptoms.",
-        "While this analysis focuses on the American population, the implications for global understanding and diagnosis of developmental disorders are substantial. It highlights the ongoing need for more comprehensive genetic screening and research into the genetic diversity of autism spectrum conditions worldwide. Understanding the true prevalence of conditions like PMS is the first step toward ensuring that all affected individuals receive timely and appropriate care."
-      ],
-      "ja": [
-        "最近発表された重要な新しい分析により、自閉スペクトラム症（ASD）と強く関連する遺伝子疾患であるフェラン・マクダーミッド症候群（PMS）が、科学者がこれまで考えていたよりもはるかに一般的である可能性が示されました。この研究は、発達遅延、知的障害、そしてしばしば自閉症の特性を特徴とするこの症状が、約 7,300 人に 1 人の割合で影響を及ぼしている可能性があることを示唆しています。",
-        "この改訂された有病率の推定値は、PMS が真に稀な疾患であるとされていた従来の認識からの大きな変化です。特に自閉症と診断されているお子さんを持つご家庭にとって、この発見は、見過ごされがちな遺伝的要因の可能性を浮き彫りにします。PMS を認識することで、その特定の遺伝的基盤に基づいた支援や介入へのより明確な道筋が開かれるかもしれません。",
-        "広範な遺伝子データをレビューしたこの分析は、現在、何千もの症例が未診断のままである可能性を示唆しています。これは主に、PMS に関連する 22q13.3 欠失や SHANK3 遺伝子変異に特化した遺伝子検査が、強い臨床的兆候がない限り日常的に実施されていないためです。",
-        "「研究者たちは、遺伝子検査がしばしば実施されないため、何千もの症例が隠れたままである可能性があると警告しています。これは、標的治療が臨床試験に入りつつある現状においても同様です。」",
-        "PMS の認知度とその有病率が高まることで、発達遅延や自閉症様の症状を持つお子さんの診断プロトコルが再評価される可能性があります。PMS の標的治療が臨床試験に入り始めている今、正確な診断はさらに重要になります。これにより、症状のみに対処するのではなく、症候群の根底にあるメカニズムに対処する特定の治療アプローチへの扉が開かれるかもしれません。",
-        "この分析はアメリカの人口に焦点を当てていますが、発達障害の世界的理解と診断に対するその影響は甚大です。これは、自閉スペクトラム症の遺伝的多様性に関するより包括的な遺伝子スクリーニングと研究が世界中で継続的に必要であることを浮き彫りにしています。PMS のような症状の真の有病率を理解することは、影響を受けるすべての人々がタイムリーかつ適切なケアを受けられるようにするための第一歩です。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "This research tells us that a genetic condition called Phelan-McDermid syndrome (PMS), which is often linked to autism, might be much more common than we thought. Imagine finding out that a specific type of learning difference, previously considered extremely rare, actually affects many more children in a subtle way. It means that some children diagnosed with autism or developmental delays might actually have PMS, and knowing this could help tailor their support.",
-        "For Tokyo families, this finding could eventually lead to more proactive genetic screening for children presenting with developmental delays or early signs of autism. It might influence the diagnostic criteria and pathways offered by pediatricians and developmental specialists in Japan. Increased awareness could also inform discussions within early intervention centers and potentially guide the development of more personalized educational strategies.",
-        "The immediate impact on clinical practice in Japan will likely be gradual. We might see a noticeable shift in awareness among specialists within 3-5 years, particularly as international research and guidelines are integrated. Widespread changes in standard genetic testing protocols or public health policy, however, would likely take 5-10 years, contingent on endorsement by the Ministry of Health, Labour and Welfare (MHLW) and potential adjustments to national health insurance coverage.",
-        "In Japan, institutions like the National Center for Child Health and Development (国立成育医療研究センター) and various university hospitals are at the forefront of genetic research and rare disease diagnosis. While comprehensive genetic screening for developmental delays is not yet standard across all clinics, there is a growing focus on early detection and intervention for autism spectrum disorders through regional child development support centers (発達支援センター). This research aligns with the ongoing efforts to refine diagnostic precision in Japan's pediatric care."
-      ],
-      "ja": [
-        "この研究は、自閉スペクトラム症と関連が深いとされるフェラン・マクダーミッド症候群（PMS）という遺伝子疾患が、これまで考えられていたよりもはるかに多くの人に影響している可能性を示しています。これは例えるなら、ごく稀だとされてきた特定の学習の特性が、実はもっと多くの子供たちに、より微妙な形で存在すると分かったようなものです。自閉症や発達遅延と診断されたお子さんの中には、実はPMSである場合があり、そのことが分かれば、より適切な支援に繋がる可能性があります。",
-        "東京のご家庭にとって、この発見は将来的に、発達遅延や自閉症の初期兆候を示すお子さんに対するより積極的な遺伝子スクリーニングへと繋がる可能性があります。日本の小児科医や発達専門医が提供する診断基準や経路に影響を与えるかもしれません。また、認知度が高まることで、発達支援センターでの議論が深まり、より個別化された教育戦略の策定にも役立つでしょう。",
-        "日本での臨床現場への直接的な影響は、おそらく徐々に現れるでしょう。国際的な研究やガイドラインが取り入れられるにつれて、専門家の間での認知度の変化は 3〜5 年以内に顕著になるかもしれません。しかし、標準的な遺伝子検査プロトコルや公衆衛生政策における広範な変更は、厚生労働省の承認や国民健康保険の適用範囲の調整に依存するため、5〜10 年を要する可能性が高いと考えられます。",
-        "日本では、国立成育医療研究センターや各地の大学病院などが、遺伝子研究と希少疾患の診断において最前線に立っています。発達遅延に対する包括的な遺伝子スクリーニングは、まだすべてのクリニックで標準化されているわけではありませんが、地域の発達支援センターを通じて、自閉スペクトラム症の早期発見と介入に重点が置かれる傾向が強まっています。この研究は、日本の小児医療における診断の精度を高めるための継続的な取り組みと方向性を同じくしています。"
-      ]
-    },
-    "structured": {
-      "tagline": {
-        "en": "Autism-linked genetic disorder may be more common.",
-        "ja": "自閉症関連遺伝子疾患、想定より一般的か。"
-      },
-      "whoForWhat": {
-        "en": "For Tokyo families with young children showing developmental delays or early signs of autism, this offers new insights into potential genetic underpinnings and the importance of exploring comprehensive diagnostic pathways.",
-        "ja": "発達遅延や自閉症の初期兆候が見られる小さなお子さんを持つ東京のご家庭にとって、この研究は遺伝的要因の可能性と、より包括的な診断経路を検討する重要性を示唆します。"
-      },
-      "vsJapanContext": {
-        "en": "This finding aligns with Japan's growing emphasis on early diagnosis for autism spectrum disorders, highlighting the need for broader genetic testing within the framework of MHLW guidelines and the evolving landscape of pediatric developmental clinics.",
-        "ja": "この発見は、自閉スペクトラム症の早期診断に注力する日本の現状と合致し、厚生労働省のガイドラインや小児発達クリニックの進化する状況の中で、より広範な遺伝子検査の必要性を浮き彫りにします。"
-      },
-      "tokyoNote": {
-        "en": "This research is a reminder that what we consider 'rare' can change with better data. For Tokyo parents, understanding the genetic landscape of developmental delays is a step towards more precise support, even if broad genetic screening in Japan still has significant hurdles to overcome in terms of policy and accessibility.",
-        "ja": "「稀な疾患」という認識がデータによって変わりうることを、この研究は改めて示しています。東京の保護者にとって、発達遅延の遺伝的背景を理解することは、より的確な支援への一歩となりますが、日本で広範な遺伝子スクリーニングが政策やアクセシビリティの面で課題を抱えているのも事実です。"
-      }
-    },
-    "source": {
-      "name": "ScienceDaily — Child Development",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260924020405.htm"
-    },
-    "sourceGuid": "https://www.sciencedaily.com/releases/2026/09/260924020405.htm",
     "status": "published"
   }
 ]
