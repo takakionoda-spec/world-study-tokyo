@@ -1,5 +1,209 @@
 [
   {
+    "slug": "ais-thinking-differs-from-human-brain-research-suggests",
+    "category": "ai-edu",
+    "issue": "Vol. 06",
+    "publishedAt": "2026-11-21T15:24:58.000Z",
+    "readingMinutes": 5,
+    "feature": true,
+    "cover": {
+      "src": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#CCE1CE"
+    },
+    "title": {
+      "en": "AI's 'Thinking' Differs from Human Brain, Research Suggests",
+      "ja": "AIの「思考」は人間の脳とは異なる可能性、最新研究が示唆"
+    },
+    "dek": {
+      "en": "New findings challenge a core assumption in AI development: that artificial intelligence mimics human brain processes. This discovery has significant implications for how we design and use AI in learning.",
+      "ja": "AI開発の根幹にある「AIは人間の脳のプロセスを模倣する」という前提に疑問を投げかける新研究。教育におけるAIの設計と活用法に重要な示唆を与えます。"
+    },
+    "author": {
+      "en": "WORLD STUDY TOKYO Editors",
+      "ja": "WORLD STUDY TOKYO 編集部"
+    },
+    "location": {
+      "en": "November 21, 2026",
+      "ja": "2026年11月21日"
+    },
+    "tags": [
+      {
+        "en": "AI in Education",
+        "ja": "教育におけるAI"
+      },
+      {
+        "en": "Cognitive Science",
+        "ja": "認知科学"
+      },
+      {
+        "en": "Learning Methods",
+        "ja": "学習方法"
+      },
+      {
+        "en": "Brain Research",
+        "ja": "脳研究"
+      }
+    ],
+    "body": {
+      "en": [
+        "New research challenges the assumption that artificial intelligence (AI) models process information like the human brain. Scientists recently found that even AI systems designed to accurately predict brain activity may achieve this through internal mechanisms fundamentally different from our own biological processes. This finding, reported on November 21, 2026, prompts a re-evaluation of how we understand and apply AI, especially in fields like neuroscience and education.",
+        "For years, a core premise in AI development, particularly in areas like deep learning, has been the inspiration drawn from neural networks in the brain. The hope was that by mimicking brain structure, AI could also mimic brain function and learning. This new discovery suggests that while AI can replicate *outcomes* (like predicting brain activity), the *path* it takes to get there might be entirely alien. This has significant implications for how we interpret AI's capabilities and limitations, moving beyond a simple analogy to human thought.",
+        "The researchers observed that certain AI models, despite being highly successful at predicting which parts of the brain would activate in response to specific stimuli, did so without employing the same internal computational steps or representations that human brains are believed to use. This means that while the \"answer\" from the AI might look correct, the \"reasoning\" or \"learning\" process inside the AI is distinct.",
+        "> even AI models that closely predict brain activity may rely on internal processes the brain doesn't use",
+        "This distinction is crucial for education. If AI tutors or personalized learning platforms are built on the assumption that they are modeling human learning processes, this research suggests a potential mismatch. An AI might identify effective learning pathways or provide correct answers, but its internal \"understanding\" or \"knowledge representation\" could be entirely different from a student's. This raises questions about how well AI can truly diagnose human learning difficulties or foster deeper conceptual understanding, rather than just optimizing for correct responses.",
+        "The discovery underscores the need for caution when drawing direct parallels between AI and human cognition. It invites a deeper investigation into the actual internal workings of successful AI models, rather than solely focusing on their predictive power. For parents and educators, this means approaching AI tools with a nuanced perspective: they are powerful computational aids, but perhaps not true \"digital brains\" that learn precisely as humans do. Understanding this difference will be key to designing more effective and ethically sound educational technologies."
+      ],
+      "ja": [
+        "人工知能（AI）モデルが人間の脳と同じように情報を処理しているという前提が、新たな研究によって問い直されています。2026年11月21日に発表されたこの研究では、脳活動を高い精度で予測できるAIシステムであっても、その内部処理は私たちの生物学的な脳のプロセスとは根本的に異なる可能性があることが示されました。この発見は、AIの理解と応用、特に神経科学や教育分野におけるその信頼性について、再考を促すものです。",
+        "長年、AI開発、特に深層学習（ディープラーニング）の分野では、人間の脳の神経回路網から着想を得てきました。脳の構造を模倣することで、AIも脳の機能や学習を模倣できるという期待があったのです。しかし、今回の研究は、AIが「結果」（脳活動の予測など）を再現できたとしても、それに至る「過程」は人間とは全く異なるかもしれないと示唆しています。これは、AIの能力と限界を理解する上で、単なる人間の思考との類推を超えた、より深い考察が必要であることを意味します。",
+        "研究者たちは、特定の刺激に対する脳の活性化パターンを非常にうまく予測するAIモデルが、人間が用いるとされる内部的な計算ステップや情報表現と同じものを使っていないことを観察しました。つまり、AIが出す「答え」は正しく見えても、AI内部での「推論」や「学習」のプロセスは、人間とは別物であるということです。",
+        "「脳活動を密接に予測するAIモデルでさえ、脳が使用しない内部プロセスに依存している可能性がある」",
+        "この違いは、教育分野にとって非常に重要です。もしAIチューターや個別最適化された学習プラットフォームが、人間の学習プロセスをモデル化しているという前提で構築されているとしたら、この研究は潜在的なミスマッチを示唆しています。AIは効果的な学習経路を特定したり、正しい解答を提供したりすることはできても、その内部的な「理解」や「知識の表現」は、生徒のそれとは全く異なる可能性があります。これは、AIが人間の学習困難をどこまで正確に診断できるのか、あるいは単に正答を最適化するだけでなく、より深い概念理解をどこまで促進できるのかという疑問を投げかけます。",
+        "この発見は、AIと人間の認知を直接的に比較する際に注意が必要であることを強調しています。AIモデルの予測能力だけでなく、その実際の内部動作について、より深く探求する必要があることを示唆していると言えるでしょう。保護者や教育者にとっては、AIツールを単なる「デジタル脳」としてではなく、強力な計算補助ツールとして、その特性を理解した上で活用することが求められます。この違いを認識することが、より効果的で倫理的な教育技術を設計する鍵となるでしょう。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "This research tells us that even when AI seems to \"think\" like us, it might be doing so in a completely different way internally. Imagine two children solving a math problem: both get the right answer, but one used a clever shortcut they discovered, while the other meticulously worked through every step. AI might be like the child with the entirely different shortcut, making it hard to know if its \"learning\" truly mirrors a human's.",
+        "For Tokyo families considering AI tutors or personalized learning apps like Atama+ or すららネット (Surara Net), this insight is crucial. It suggests that while these tools can be highly effective for improving scores or drilling specific skills, their ability to truly understand a child's unique learning struggles or foster creative thinking might be limited. It impacts how much we rely on AI for \"deep learning\" versus targeted practice, and how we might evaluate an AI's advice compared to a human teacher's.",
+        "This understanding is already relevant today, as families evaluate existing AI-driven learning tools. However, its broader impact on curriculum design in major juku (塾) or MEXT (文部科学省) policy might take 5-10 years, gated by further research on AI's cognitive mechanisms and how they truly interact with human learning. The private edtech sector in Japan, however, could adapt more quickly, potentially within 1-2 years, by clarifying the specific types of learning AI is best suited for.",
+        "While no direct Japanese counterpart is researching this specific brain-AI comparison, companies like Atama+ (アタマプラス) and すららネット (Surara Net) are at the forefront of AI-driven personalized learning in Japan. Their platforms optimize learning paths based on student performance data. This research suggests that while their *output* (better scores, efficient learning) is valuable, the *internal mechanisms* of their AI are likely different from how a human brain learns, underscoring the need for human educators to interpret and guide the AI's recommendations."
+      ],
+      "ja": [
+        "この研究は、AIが私たち人間と同じように「考えている」ように見えても、その内部での処理方法は全く異なる可能性があると教えてくれます。例えるなら、二人の子どもが算数の問題を解いて、どちらも正解したとします。しかし、一人は自分で見つけた独創的な解法を使い、もう一人は教科書通りの手順で丁寧に解いた、というような状況です。AIは、人間とは全く異なる「独創的な解法」を使っているかもしれないため、その「学習」が本当に人間と同じものなのかを判断するのが難しくなるのです。",
+        "アタマプラスやすららネットのようなAIチューターや個別学習アプリを検討している東京のご家庭にとって、この知見は重要です。これらのツールは成績向上や特定のスキルの習得には非常に効果的ですが、子どもの独自の学習課題を本当に理解したり、創造的な思考を育んだりする能力には限界があるかもしれないと示唆しています。AIに「深い学び」をどこまで期待するか、あるいは集中的な演習に限定するか、また人間の先生のアドバイスとAIの提案をどう評価するか、といった判断に影響を与えるでしょう。",
+        "この理解は、既存のAI学習ツールを評価する上で、すでに今日の時点でも関連性があります。しかし、大手学習塾のカリキュラム設計や文部科学省の政策に本格的に影響を与えるには、AIの認知メカニズムと人間学習との相互作用に関するさらなる研究が待たれるため、5年から10年かかるかもしれません。一方で、日本のEdTech（エドテック）民間企業は、AIが最も得意とする学習の種類を明確化することで、1年から2年以内により迅速に適応する可能性があります。",
+        "この脳とAIの具体的な比較研究を直接行っている日本の機関はまだありませんが、アタマプラスやすららネットといった企業は、AIを活用した個別最適化学習の最前線にいます。これらのプラットフォームは、生徒の学習データに基づいて最適な学習経路を提示します。今回の研究は、AIの「アウトプット」（成績向上や効率的な学習）は価値があるものの、そのAIの「内部メカニズム」は人間の脳が学習する方法とは異なる可能性を示しており、AIの推奨事項を解釈し、指導する上で人間の教育者の役割が引き続き重要であることを示唆しています。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "AI may not 'think' like humans, challenging learning models.",
+        "ja": "AIは人間と同じように「考えていない」学習モデルへの問い。"
+      },
+      "whoForWhat": {
+        "en": "For Tokyo families considering AI tutors or personalized learning apps, this research helps understand AI's true capabilities and limitations in supporting deep human learning and critical thinking.",
+        "ja": "AIチューターや個別学習アプリを検討している東京のご家庭が、AIが人間の深い学びや批判的思考をどこまで支援できるか、その真の能力と限界を理解するのに役立つ研究です。"
+      },
+      "vsJapanContext": {
+        "en": "This research challenges the underlying assumptions of AI-driven personalized learning platforms, including those used by Japanese edtech firms like Atama+ and Surara Net, suggesting their internal processes may differ significantly from human cognition.",
+        "ja": "アタマプラスやすららネットといった日本のEdTech企業が提供するAI学習プラットフォームの根底にある前提に疑問を投げかけ、AIの内部処理が人間の認知とは大きく異なる可能性を示唆しています。"
+      },
+      "tokyoNote": {
+        "en": "Tokyo parents should view AI learning tools as powerful computational aids for specific skills rather than direct replicas of human intelligence. While effective, their 'thinking' might be fundamentally different, requiring human educators to interpret and guide their application.",
+        "ja": "東京の保護者は、AI学習ツールを人間の知性の直接的な複製ではなく、特定のスキルを補助する強力な計算ツールとして捉えるべきです。効果的である一方で、その「思考」は根本的に異なる可能性があり、人間の教育者がその適用を解釈し、導く必要があります。"
+      }
+    },
+    "source": {
+      "name": "ScienceDaily — Child Development",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261120075701.htm"
+    },
+    "sourceGuid": "https://www.sciencedaily.com/releases/2026/11/261120075701.htm",
+    "status": "published"
+  },
+  {
+    "slug": "consistent-movement-not-intense-workouts-key-to-student-mental-health",
+    "category": "research",
+    "issue": "Vol. 06",
+    "publishedAt": "2026-11-20T09:09:17.000Z",
+    "readingMinutes": 6,
+    "feature": true,
+    "cover": {
+      "src": "https://www.sciencedaily.com/images/1920/happy-young-woman-sports-fitness-on-beach.webp",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "Consistent Movement, Not Intense Workouts, Key to Student Mental Health",
+      "ja": "心の健康には「継続的な運動」が「高強度」より重要：大学生対象研究"
+    },
+    "dek": {
+      "en": "A new study of over 10,000 college students suggests that regular, consistent exercise may be more crucial for mental well-being than infrequent, strenuous workouts.",
+      "ja": "1万人以上の大学生を対象とした最新の研究で、心の健康には、たまの激しい運動よりも、定期的で継続的な運動の方が重要である可能性が示されました。"
+    },
+    "author": {
+      "en": "WORLD STUDY TOKYO Editors",
+      "ja": "WORLD STUDY TOKYO 編集部"
+    },
+    "location": {
+      "en": "November 20, 2026",
+      "ja": "2026年11月20日"
+    },
+    "tags": [
+      {
+        "en": "Mental Health",
+        "ja": "メンタルヘルス"
+      },
+      {
+        "en": "Exercise",
+        "ja": "運動"
+      },
+      {
+        "en": "Well-being",
+        "ja": "ウェルビーイング"
+      },
+      {
+        "en": "College Students",
+        "ja": "大学生"
+      }
+    ],
+    "body": {
+      "en": [
+        "A recent study involving over 10,000 college students has shed new light on the relationship between physical activity and mental well-being. Published on November 20, 2026, the research suggests that the regularity of exercise may be a more critical factor for mental health than the intensity or duration of individual workouts.",
+        "The findings challenge the common perception that only strenuous exercise yields significant mental health benefits. Instead, the year-long longitudinal study (長期にわたる追跡調査 — 同一の対象者を継続的に観察する研究) observed that students who engaged in physical activity less frequently were notably more prone to experiencing symptoms of depression and anxiety a year later. This indicates that consistent, even moderate, physical activity builds a protective buffer against mental health challenges.",
+        "For students, often juggling demanding academic schedules and social pressures, this implies that fitting in short, regular exercise sessions could be more impactful than trying to squeeze in infrequent, exhaustive workouts. The emphasis shifts from performance to habit, making physical activity more accessible and sustainable as a mental health strategy.",
+        "> consistency could be a key ingredient in protecting mental well-being.",
+        "The study did not specify a minimum duration or type of exercise, but rather highlighted the importance of simply moving the body consistently. This could mean a daily walk, a short burst of stretching, or a quick jog. The key message is about embedding movement into daily life as a routine, rather than viewing it as an occasional, high-effort event.",
+        "While this study focused on college students, its implications could extend to younger learners and adults. Future research might explore whether these findings hold true across different age groups and lifestyles, and what specific forms of consistent, moderate exercise are most effective. For now, the message for families is clear: making movement a regular part of life is a valuable investment in mental well-being."
+      ],
+      "ja": [
+        "2026年11月20日に発表された最新の研究が、運動と心の健康の関係に新たな視点をもたらしました。1万人以上の大学生を対象としたこの調査では、運動の「頻度」が、一度の運動の「強度」や「長さ」よりも、精神的な健康にとって重要である可能性が示されています。",
+        "多くの人が「きつい運動でなければ効果がない」と考えがちですが、この研究結果はそうした認識に一石を投じます。1年間にわたる追跡調査（縦断研究 — 同一の対象者を長期間にわたって継続的に観察する研究）の結果、運動頻度が低い学生ほど、1年後にうつ病や不安症の症状を経験する割合が高いことが明らかになりました。これは、たとえ軽い運動であっても、継続することが心の健康を守る上で重要な役割を果たすことを示唆しています。",
+        "学業や人間関係で多忙な大学生にとって、この知見は実践的な意味を持ちます。短時間でも良いから毎日体を動かす習慣を持つことが、たまに長時間・高強度の運動をするよりも、精神的な安定に寄与する可能性があるということです。運動を「特別なイベント」ではなく、「日常の一部」として捉えることで、より多くの人が心の健康維持のために運動を取り入れやすくなるでしょう。",
+        "「一貫性が精神的な幸福を守る上で重要な要素となる可能性がある」",
+        "研究では具体的な運動の種類や最低限の継続時間は特定されていませんが、重要なのは「とにかく体を動かし続けること」という点です。日々の散歩、短いストレッチ、軽いジョギングなど、どんな形であっても構いません。運動を生活の中にルーティンとして組み込むことが、精神的な健康を守るための鍵となります。",
+        "この研究は大学生を対象としていますが、その示唆は小中高生や大人にも通じる可能性があります。今後、異なる年齢層や生活環境における検証が待たれますが、現時点でも、家族にとって「体を定期的に動かす習慣」が心の健康への大切な投資であるというメッセージは明確です。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "This study essentially tells us that when it comes to keeping our minds healthy, showing up consistently for exercise is more effective than pushing ourselves to exhaustion once in a while. Think of it like a child learning a new skill: practicing for 10 minutes every day usually leads to better retention and less frustration than trying to cram for hours just before a test. It's the steady rhythm, not the sudden sprint, that builds resilience.",
+        "For Tokyo families, this finding could influence how we view after-school activities and daily routines. Rather than solely focusing on intensive sports clubs or juku that leave little time for physical activity, parents might prioritize integrating short, regular movement breaks. This could mean encouraging a walk to school, taking the stairs, or even a few minutes of stretching between study sessions, potentially impacting decisions around extracurriculars and family time allocation.",
+        "This shift in perspective is likely to be a gradual one, perhaps within 3-5 years. It will be gated by a broader cultural acceptance that mental well-being is as crucial as academic achievement, and by schools and juku beginning to incorporate more flexible approaches to physical activity. Some international schools in Tokyo, with their emphasis on holistic development, might adopt these principles sooner, but widespread change across the domestic system will require MEXT (Ministry of Education, Culture, Sports, Science and Technology) or major educational institutions to explicitly endorse such integrated approaches.",
+        "While no single major Japanese institution has explicitly adopted a “regularity over intensity” exercise philosophy for mental health, the concept resonates with the underlying principles of programs like KUMON (公文式) and Gakken (学研). These learning methods emphasize consistent, daily practice for academic skill building, mirroring the idea that small, regular efforts yield significant long-term benefits. Applying this same consistency principle to physical activity for mental well-being would be a natural extension, though currently, the focus of these programs remains primarily academic."
+      ],
+      "ja": [
+        "この研究が私たちに伝えているのは、心の健康を保つ上で、たまに無理な運動をするよりも、毎日少しずつでも体を動かす「継続性」がはるかに大切だということです。これは、子どもが新しいことを学ぶのと似ています。例えば、テスト直前に数時間詰め込むよりも、毎日10分ずつでも練習を続ける方が、確実に身につき、ストレスも少ないでしょう。大切なのは、一気に駆け抜けることではなく、着実なリズムを生活に取り入れることなのです。",
+        "東京のご家庭にとって、この研究は放課後の過ごし方や日々のルーティンを見直すきっかけになるかもしれません。運動の時間を確保するために、必ずしも激しい部活動やスポーツ塾に打ち込む必要はなく、短い時間でも定期的に体を動かす習慣を優先することの重要性を示しています。例えば、通学時に一駅歩く、エレベーターではなく階段を使う、あるいは学習の合間に数分間のストレッチを取り入れるなど、日常生活の中で工夫する余地は大きいでしょう。これは、習い事の選択や家族の時間の使い方にも影響を与える可能性があります。",
+        "このような考え方の変化は、おそらく3〜5年かけて徐々に浸透していくでしょう。学力だけでなく心の健康も重要であるという社会全体の認識がさらに深まり、学校や塾がより柔軟な運動の機会を提供し始めることが鍵となります。東京のインターナショナルスクールの中には、全人的な成長を重視する観点から、すでにこのような考え方を取り入れているところもありますが、国内の一般的な教育システムに広く浸透するには、文部科学省（MEXT）や主要な教育機関が、運動と学習の統合的なアプローチを明確に推奨する動きが必要となるでしょう。",
+        "日本の主要な教育機関で「心の健康のために運動は強度より継続」という哲学を明確に掲げているところはまだありませんが、この考え方は公文式や学研の学習メソッドの根底にある原則と通じるものがあります。これらの学習法は、学力向上において「毎日少しずつ、継続して取り組むこと」の重要性を強調しており、小さな努力の積み重ねが長期的な大きな成果につながるという点で、今回の研究と共通しています。この「継続性」の原則を心の健康のための運動に適用することは自然な流れですが、現状ではこれらのプログラムの焦点は主に学力にあります。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "Regular exercise matters more for mental health than intensity.",
+        "ja": "心の健康、運動は強度より継続が大切。"
+      },
+      "whoForWhat": {
+        "en": "For Tokyo families with children from junior high through university, this study offers practical guidance on integrating physical activity into busy schedules to support mental well-being alongside academic demands.",
+        "ja": "中高生から大学生のお子さんを持つ東京のご家庭にとって、学業と両立させながら心の健康を保つための運動習慣のヒントになります。"
+      },
+      "vsJapanContext": {
+        "en": "This finding aligns with the growing emphasis in Japan's education system on holistic student well-being, moving beyond purely academic achievement, though specific physical education curricula may still prioritize performance metrics.",
+        "ja": "日本の教育現場で学力だけでなく心の健康も重視する動きと一致しますが、体育の授業や部活動では依然としてパフォーマンスが重視されがちです。"
+      },
+      "tokyoNote": {
+        "en": "In Tokyo's demanding academic environment, where children often spend long hours studying, this research highlights the simple, yet powerful, role of consistent daily movement in mitigating stress and anxiety, suggesting that even short, regular breaks can make a difference.",
+        "ja": "長時間学習が常態化しがちな東京の教育環境において、この研究は日々の継続的な運動がストレスや不安を和らげる上で持つ、シンプルながらも強力な役割を示唆します。短い休憩時間での運動でも効果があるかもしれません。"
+      }
+    },
+    "source": {
+      "name": "ScienceDaily — Educational Psychology",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261119194601.htm"
+    },
+    "sourceGuid": "https://www.sciencedaily.com/releases/2026/11/261119194601.htm",
+    "status": "published"
+  },
+  {
     "slug": "beyond-academics-the-lifelong-cognitive-benefits-of-reading-for-pleasure",
     "category": "methods",
     "issue": "Vol. 06",
@@ -5343,8 +5547,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1542621334-a254cf47733d?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#D8CDE3"
+      "src": "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#DCD2E7"
     },
     "title": {
       "en": "Youth Protein Shows Promise in Rejuvenating Brain Cells in Aging Mice",
@@ -5645,8 +5849,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#CCE1CE"
+      "src": "https://images.unsplash.com/photo-1561089489-f13d5e730d72?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#D2E4D5"
     },
     "title": {
       "en": "Making AI Tutors Transparent: A New Framework for Understanding Educational Dialogues",
@@ -5747,8 +5951,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1493612276216-ee3925520721?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#F4DEC6"
+      "src": "https://images.unsplash.com/photo-1593720213428-28a5b9e94613?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#C9E0CC"
     },
     "title": {
       "en": "Emotions: More Than Universal? How Culture Shapes What We Feel",
@@ -5953,8 +6157,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#DCD2E7"
+      "src": "https://images.unsplash.com/photo-1493612276216-ee3925520721?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#F4DEC6"
     },
     "title": {
       "en": "How Stress Hormones Strengthen Emotional Memories: A Yale Discovery",
@@ -7085,8 +7289,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#DCD2E7"
+      "src": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#D5C9E2"
     },
     "title": {
       "en": "New Insights into Aging and Memory: A Simple Amino Acid Shows Promise",
@@ -7289,8 +7493,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1456406644174-8ddd4cd52a06?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#D2C5E0"
+      "src": "https://images.unsplash.com/photo-1455390582262-044cdead277a?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#D9CFE5"
     },
     "title": {
       "en": "Beyond a Single Diagnosis: Depression May Be Five Distinct Brain Conditions",
@@ -7391,8 +7595,8 @@
     "readingMinutes": 6,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#CCE1CE"
+      "src": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#CDE3CF"
     },
     "title": {
       "en": "When AI Tutors Get Worse by Trying to Get Better: The Paradox of Metric-Driven Optimization",
@@ -7897,8 +8101,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1456406644174-8ddd4cd52a06?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#D2C5E0"
+      "src": "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#DCD2E7"
     },
     "title": {
       "en": "Beyond Practice: How Post-Learning Nerve Activity Shapes Long-Term Skill",
@@ -7989,210 +8193,6 @@
       "url": "https://www.sciencedaily.com/releases/2026/10/261002080034.htm"
     },
     "sourceGuid": "https://www.sciencedaily.com/releases/2026/10/261002080034.htm",
-    "status": "published"
-  },
-  {
-    "slug": "local-ai-agent-promises-affordable-language-learning-at-home",
-    "category": "ai-edu",
-    "issue": "Vol. 05",
-    "publishedAt": "2026-10-02T17:02:13.000Z",
-    "readingMinutes": 5,
-    "feature": true,
-    "cover": {
-      "src": "https://images.unsplash.com/photo-1573164713619-24c711fe7878?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#C4DDC6"
-    },
-    "title": {
-      "en": "Local AI Agent Promises Affordable Language Learning at Home",
-      "ja": "自宅で完結する低コストAI言語学習エージェント：教育格差解消への可能性"
-    },
-    "dek": {
-      "en": "A new framework for an AI language learning agent, LLMersion, aims to make high-quality language education accessible and affordable by running entirely offline on basic hardware.",
-      "ja": "新しいAI言語学習フレームワーク「LLMersion」は、安価なハードウェアでオフライン稼働し、高品質な言語教育を低コストで提供することで、教育の機会均等を目指します。"
-    },
-    "author": {
-      "en": "WORLD STUDY TOKYO Editors",
-      "ja": "WORLD STUDY TOKYO 編集部"
-    },
-    "location": {
-      "en": "Tokyo, October 2026",
-      "ja": "東京、2026年10月"
-    },
-    "tags": [
-      {
-        "en": "AI in Education",
-        "ja": "教育AI"
-      },
-      {
-        "en": "Language Learning",
-        "ja": "語学学習"
-      },
-      {
-        "en": "Educational Equity",
-        "ja": "教育格差"
-      },
-      {
-        "en": "Home Learning",
-        "ja": "家庭学習"
-      }
-    ],
-    "body": {
-      "en": [
-        "2026年10月、コンピューターサイエンス系の論文公開サイトarXivに、新しいAI言語学習エージェントのフレームワーク「LLMersion」に関するプレプリントが発表されました。この研究は、高価な教師やインターネット接続の制約なく、自宅で完結する低コストな言語学習システムを実現することを目指しています。",
-        "世界の教育現場では、約4,400万人の教師が不足しており、特に言語教育においては、質の高い指導を受けるための家計負担が大きいという課題が長年指摘されてきました。既存のコンピューター支援型語学学習（CALL）アプリケーションは一定の効果を示してきたものの、多くの場合はインターネット接続を前提とし、26億人もの人々が接続環境を持たない現状では限界があります。また、単にハードウェアを提供するだけでは十分な学習効果が得られないことも、過去の調査で明らかになっています。",
-        "LLMersionは、この課題に対し、小型でオープンウェイトのAIモデルを活用することで解決策を提示します。これらのモデルは、約200ドルのノートパソコンでも動作し、インターネット接続なしで完結します。さらに、リスニング、リーディング、スピーキング、ライティングという言語学習の4つの主要スキルすべてに対応し、電力コストは学習1時間あたりわずか1米セント程度で済みます。",
-        ">「AIは、不可欠な教育機会がコストによって制限されている場合に、最も教育を支援します。」",
-        "研究者たちは、このAIエージェントが学習者自身のドキュメントを基に動作し、AIによって書かれ、理解され、更新されるオープンソースのコードベースを持つことを強調しています。これにより、ユーザーは自分のニーズに合わせて学習内容をカスタマイズできる柔軟性も得られます。LLMersion-1としてプロトタイプもすでにGitHubで公開されており、その可能性を具体的に示しています。",
-        "この「プライベート学習エージェント」の構想は、言語学習における教育格差を解消し、どこにいても、経済状況に関わらず、誰もが質の高い言語学習にアクセスできる未来を描いています。今後、この技術がどのように発展し、実際の学習環境に統合されていくのか、その動向が注目されます。"
-      ],
-      "ja": [
-        "A preprint published in October 2026 on arXiv, the computer science research repository, introduced a new AI language learning agent framework named \"LLMersion.\" This research aims to create a low-cost, self-contained language learning system that operates entirely at home, free from the constraints of expensive teachers or internet connectivity.",
-        "Globally, there is a significant shortage of educators, with approximately 44 million teachers lacking in the education sector. In language learning specifically, the high cost of quality instruction places a substantial burden on household budgets. While existing Computer-Assisted Language Learning (CALL) applications have shown some effectiveness, many rely on internet access, which is unavailable to 2.6 billion people worldwide. Past research has also indicated that simply providing hardware without capable software does not lead to meaningful learning outcomes.",
-        "LLMersion addresses these challenges by utilizing small, open-weight AI models. These models are designed to run on a low-cost laptop, priced around $200, and function entirely offline. The system supports all four key language skills—listening, reading, speaking, and writing—and operates at a remarkably low electricity cost of approximately one US cent per study hour.",
-        "> \"Artificial intelligence helps education most where an essential provision has been rationed by cost.\"",
-        "The researchers emphasize that this AI agent works with the learner's own documents and features an open-source codebase that is AI-written, AI-understood, and AI-updated, allowing users to customize their learning experience. A prototype, LLMersion-1, has already been released on GitHub, demonstrating the practical application of their vision.",
-        "This concept of a \"private learning agent\" holds the potential to bridge educational equity gaps in language learning, making high-quality instruction accessible to anyone, regardless of their location or economic circumstances. The future development and integration of this technology into real-world learning environments will be an important area to watch."
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "For Tokyo families, this research offers a compelling vision for language learning. Imagine an always-available, personalized language tutor residing entirely on a home device, requiring no internet and minimal electricity. It's like having a dedicated language partner who understands your child's specific learning materials, ready to practice speaking, correct writing, and engage in conversation at any moment, all without subscription fees or connectivity worries.",
-        "The most plausible future impact for Tokyo families lies in significantly reducing the financial and logistical burden of acquiring high-quality language skills. This could reshape how families approach English conversation practice (英会話スクール), supplementing or even replacing traditional private tutoring or expensive online platforms. For children aiming for international schools or overseas universities, constant, personalized practice with an AI agent could be a game-changer, fostering fluency and confidence outside of structured classroom hours.",
-        "We might see initial adoption within 1-3 years among tech-savvy families and those actively seeking alternatives to conventional juku or English schools. Broader integration into the mainstream could take 3-5 years, contingent on major educational technology providers in Japan (like Benesse or Z-kai) developing or licensing similar local-first AI solutions, making them user-friendly and widely available. Regulatory considerations from MEXT regarding AI in education could also influence the pace.",
-        "While Japan has numerous online English learning services (e.g., DMM Eikaiwa, RareJob) and AI-driven study platforms (e.g., Atama+, Classi), LLMersion's unique selling point is its local-first, offline, and extremely low-cost operation. This contrasts sharply with most existing services that rely on cloud infrastructure and subscription models. Currently, no major Japanese player offers a comparable fully offline, customizable AI language tutor that runs on basic home hardware, leaving a significant gap this innovation could fill."
-      ],
-      "ja": [
-        "東京のご家庭にとって、この研究は言語学習における魅力的な未来像を示しています。インターネット接続もほとんど電力も必要とせず、常に利用できるパーソナルな言語チューターが、自宅のデバイス上で完結する姿を想像してみてください。これは、お子さまの特定の学習資料を理解し、いつでもスピーキング練習やライティング添削、会話練習に応じてくれる、まるで専属の言語パートナーがいるようなものです。月額費用や通信環境の心配もありません。",
-        "東京のご家庭にとって最も可能性の高い将来の影響は、高品質な語学力を習得する上での経済的・時間的負担が大幅に軽減されることでしょう。これは、英会話スクールや高価なオンラインプラットフォーム、従来の個人指導に代わる、あるいはそれを補完する新たな選択肢となり、英語学習へのアプローチを大きく変えるかもしれません。インターナショナルスクールや海外大学を目指すお子さまにとって、AIエージェントによる継続的な個別練習は、正規の授業時間外での流暢さと自信を育む上で画期的な存在となる可能性があります。",
-        "技術に詳しいご家庭や、既存の塾や英会話学校以外の選択肢を積極的に探している層では、1〜3年以内に初期的な導入が見られるかもしれません。より広範な普及には3〜5年かかる可能性があり、それは日本の主要な教育テクノロジー企業（ベネッセやZ会など）が、同様のローカルファーストAIソリューションを開発またはライセンス供与し、使いやすく広く提供できるかどうかにかかっています。文部科学省のAI教育に関する規制動向も、普及のペースに影響を与えるでしょう。",
-        "日本には多くのオンライン英会話サービス（例：DMM英会話、レアジョブ）やAIを活用した学習プラットフォーム（例：Atama+、Classi）がありますが、LLMersionの最大の特徴は、ローカルファーストでオフライン、かつ非常に低コストで運用できる点にあります。これは、クラウドインフラとサブスクリプションモデルに依存する既存のほとんどのサービスとは対照的です。現在、日本の主要な教育機関で、基本的な家庭用ハードウェアで動作し、完全にオフラインでカスタマイズ可能なAI言語チューターを提供するサービスは存在せず、このイノベーションが埋めるべき大きなギャップとなっています。"
-      ]
-    },
-    "structured": {
-      "tagline": {
-        "en": "Offline AI tutor offers affordable language learning.",
-        "ja": "オフラインAIチューターが低コスト語学学習を実現。"
-      },
-      "whoForWhat": {
-        "en": "For Tokyo families seeking an affordable, private, and effective home-based solution for their child's language acquisition, especially those navigating English learning without constant internet access or high tutoring costs.",
-        "ja": "インターネット接続や高額な指導料なしで、子どもの語学学習を自宅で効果的に進めたいと考える東京のご家庭、特に英語学習の新しい選択肢を探している方々。"
-      },
-      "vsJapanContext": {
-        "en": "This local-first, offline AI agent diverges from Japan's prevalent cloud-based online English conversation services and subscription-model AI learning platforms like Atama+ or Classi, offering a truly cost-effective and privacy-focused alternative.",
-        "ja": "日本の主流であるクラウドベースのオンライン英会話サービスや、Atama+やClassiのようなサブスクリプション型AI学習プラットフォームとは異なり、このローカルファーストのオフラインAIエージェントは、真に費用対効果が高く、プライバシーを重視した新しい選択肢を提示します。"
-      },
-      "tokyoNote": {
-        "en": "This research highlights a future where high-quality language learning is decoupled from internet access and high costs. For Tokyo parents, it suggests a shift from expensive juku or online tutors to a powerful, private AI agent running directly on home devices, potentially transforming how English fluency is achieved without financial strain or data privacy concerns.",
-        "ja": "この研究は、高品質な語学学習がインターネット接続や高額な費用から切り離される未来を示唆しています。東京の保護者にとっては、高価な塾やオンラインチューターから、自宅のデバイスで直接動作する強力なプライベートAIエージェントへの移行を示唆しており、経済的な負担やデータプライバシーの懸念なく、英語の流暢さを獲得する方法を根本的に変える可能性を秘めています。"
-      }
-    },
-    "source": {
-      "name": "arXiv cs.CY",
-      "url": "http://arxiv.org/abs/2609.29672v2"
-    },
-    "sourceGuid": "http://arxiv.org/abs/2609.29672v2",
-    "status": "published"
-  },
-  {
-    "slug": "daily-rhythms-and-brain-health-lessons-from-stroke-recovery",
-    "category": "early-childhood",
-    "issue": "Vol. 04",
-    "publishedAt": "2026-09-28T08:35:12.000Z",
-    "readingMinutes": 4,
-    "feature": true,
-    "cover": {
-      "src": "https://www.sciencedaily.com/images/1920/circadian-rhythm-body-clock-sleep-science-close-up.webp",
-      "tone": "#0c0c0c"
-    },
-    "title": {
-      "en": "Daily Rhythms and Brain Health: Lessons from Stroke Recovery",
-      "ja": "脳の健康と日々のリズム：脳卒中研究から見えてくる学び"
-    },
-    "dek": {
-      "en": "New research in mice suggests that strengthening natural daily rhythms can significantly improve brain recovery after a stroke by enhancing waste removal and reducing inflammation, offering insights into the broader importance of consistent routines for cognitive function.",
-      "ja": "マウス研究で、体の自然な日々のリズムを強化することが脳卒中後の脳の回復を助け、脳の老廃物除去と炎症抑制に効果があることが示されました。これは、認知機能における規則正しい生活リズムの重要性を示唆しています。"
-    },
-    "author": {
-      "en": "WORLD STUDY TOKYO Editors",
-      "ja": "WORLD STUDY TOKYO 編集部"
-    },
-    "location": {
-      "en": "TOKYO (September 28, 2026)",
-      "ja": "東京（2026年9月28日）"
-    },
-    "tags": [
-      {
-        "en": "Brain Health",
-        "ja": "脳の健康"
-      },
-      {
-        "en": "Circadian Rhythms",
-        "ja": "概日リズム"
-      },
-      {
-        "en": "Sleep",
-        "ja": "睡眠"
-      },
-      {
-        "en": "Child Development",
-        "ja": "子どもの発達"
-      }
-    ],
-    "body": {
-      "en": [
-        "Recent findings from a study involving mice, published in late September 2026, indicate that strengthening the body’s natural daily rhythms can significantly aid brain recovery following a stroke. This research highlights the critical role of circadian rhythms (生物が持つ約24時間の周期で変動する生理機能) in maintaining brain health and function.",
-        "The study revealed that by reinforcing these daily rhythms, researchers observed improvements in the brain's waste-clearing system and a reduction in lingering inflammation. These mechanisms are vital for neural repair and overall brain well-being. What makes this finding particularly noteworthy is that the approach proved effective even when treatment began three days after the stroke, suggesting a potential for interventions well beyond the immediate post-stroke period.",
-        "While this research focuses on stroke recovery, its implications extend to understanding the fundamental importance of consistent routines for general brain health, especially during development. A well-regulated circadian rhythm ensures optimal functioning of the brain's glymphatic system (睡眠中に脳内の老廃物を排出するシステム), which is responsible for clearing metabolic byproducts that accumulate throughout the day. Disruptions to this rhythm can impair this essential cleaning process, potentially leading to inflammation and reduced cognitive clarity.",
-        "> \"Strengthening the body’s natural daily rhythms helped mice recover after stroke by improving the brain’s waste-clearing system and reducing lingering inflammation.\"",
-        "For children, consistent sleep schedules and predictable daily routines are crucial for supporting their developing brains. These rhythms contribute to better memory consolidation, improved attention, and enhanced emotional regulation. The mouse study reinforces the biological basis for prioritizing stable daily patterns to foster a healthy, resilient brain.",
-        "Looking ahead, these findings could pave the way for new circadian-based therapies for stroke patients. More broadly, they underscore the need for further research into how environmental factors and lifestyle choices impact our biological clocks, and consequently, our cognitive health. While direct human applications for stroke recovery are still years away, the underlying message about the power of daily rhythms for brain function is already clear."
-      ],
-      "ja": [
-        "2026年9月下旬に発表されたマウスを用いた最新の研究で、体の自然な日々のリズムを強化することが脳卒中後の脳の回復を大幅に助ける可能性が示されました。この研究は、生体が持つ約24時間の周期で変動する生理機能である概日リズム（circadian rhythms）が、脳の健康と機能維持にいかに重要であるかを浮き彫りにしています。",
-        "研究によると、日々のリズムを強化することで、脳内の老廃物を除去するシステムが改善され、残存する炎症が軽減されることが観察されました。これらのメカニズムは、神経の修復と脳全体の健康にとって極めて重要です。特に注目すべきは、脳卒中発生から3日後に治療を開始した場合でもこのアプローチが効果を示した点です。これは、発症直後だけでなく、より長期的な回復支援の可能性を示唆しています。",
-        "この研究は脳卒中後の回復に焦点を当てていますが、その示唆は、特に発達段階にある脳にとって、規則正しい生活リズムが全体的な脳の健康にいかに根本的に重要であるかを理解する上で広範に及びます。適切に調整された概日リズムは、日中に蓄積される代謝副産物を除去する役割を担う脳のグリンパティックシステム（glymphatic system ── 睡眠中に脳内の老廃物を排出するシステム）の最適な機能に貢献します。このリズムが乱れると、この重要なクリーンアッププロセスが損なわれ、炎症や認知機能の低下につながる可能性があります。",
-        "> 「体の自然な日々のリズムを強化することは、脳の老廃物除去システムを改善し、残存する炎症を軽減することで、脳卒中後のマウスの回復を助けました。」",
-        "子どもたちにとって、一貫した睡眠スケジュールと予測可能な日々のルーティンは、発達中の脳をサポートするために不可欠です。これらのリズムは、記憶の定着、注意力の向上、感情調整能力の強化に貢献します。今回のマウス研究は、健康で回復力のある脳を育むために、安定した日々のパターンを優先することの生物学的な根拠を裏付けるものです。",
-        "今後、これらの知見は、概日リズムに基づいた新たな脳卒中治療法の開発につながる可能性があります。より広範には、環境要因やライフスタイルが私たちの体内時計、ひいては認知機能の健康にどのように影響するかについて、さらなる研究が必要であることを強調しています。脳卒中回復への直接的なヒトへの応用はまだ数年先ですが、脳機能における日々のリズムの重要性に関する根底にあるメッセージはすでに明確です。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "This research, though on stroke recovery in mice, offers a powerful reminder for Tokyo families about the fundamental importance of consistent daily rhythms for brain health. Think of it like this: just as a house needs regular cleaning to function well, your child's brain needs consistent sleep and wake times to clear out the 'waste' that builds up during the day. When these rhythms are stable, the brain can work more efficiently, leading to better focus and learning.",
-        "For Tokyo families, this finding could reinforce the push for more predictable routines. It might influence how parents think about late-night cramming for juku, the timing of extracurricular activities, or even screen time before bed. Understanding that there's a biological cleaning system at work during sleep could shift priorities, making consistent sleep a non-negotiable part of a child's learning strategy, rather than an optional luxury.",
-        "While direct therapeutic applications for humans are 5–10 years away, gated by extensive clinical trials, the core message about the benefits of consistent rhythms is relevant today. Some international schools in Tokyo already emphasize robust sleep hygiene, but broader adoption, especially within the context of intense entrance exam preparation, might take 3–5 years, influenced by how major juku and MEXT address the issue.",
-        "Japan has long promoted the '早寝早起き朝ごはん' (early to bed, early to rise, eat breakfast) campaign, recognizing the importance of these habits. However, the reality of demanding academic schedules, particularly for 中学受験 and 高校受験, often pushes against natural sleep patterns. This new research provides a strong scientific backing for what campaigns like '早寝早起き朝ごはん' advocate, highlighting the biological cost of disrupting those rhythms even in healthy, developing brains."
-      ],
-      "ja": [
-        "この研究はマウスの脳卒中回復に関するものですが、東京のご家庭にとって、脳の健康における規則正しい日々のリズムの根本的な重要性を力強く再認識させてくれます。例えるなら、家が定期的な掃除で快適に保たれるように、お子さんの脳も、日中に蓄積された「老廃物」をクリアにするために、一貫した睡眠と覚醒のリズムを必要としているのです。このリズムが安定していれば、脳はより効率的に機能し、集中力や学習能力の向上につながります。",
-        "東京の家庭にとって、この発見はより予測可能なルーティンを重視する動きを後押しするかもしれません。深夜までの塾での学習、課外活動の時間配分、あるいは就寝前のスクリーンタイムについて、保護者の考え方に影響を与える可能性もあります。睡眠中に脳内で生物学的なクリーンアップシステムが働いているという理解は、優先順位を変え、一貫した睡眠を、オプションの贅沢ではなく、お子さんの学習戦略における不可欠な要素と捉えるきっかけになるでしょう。",
-        "ヒトへの直接的な治療応用は、大規模な臨床試験を経て5〜10年先になるでしょうが、規則正しいリズムの恩恵に関する核となるメッセージは今日から関連性があります。東京の一部のインターナショナルスクールではすでに質の高い睡眠衛生を重視していますが、特に激しい受験準備の文脈でのより広範な採用は、大手学習塾や文部科学省がこの問題にどう取り組むかによって、3〜5年かかるかもしれません。",
-        "日本では古くから「早寝早起き朝ごはん」キャンペーンが推進されており、これらの習慣の重要性は認識されてきました。しかし、中学受験や高校受験といった厳しい学業スケジュールは、しばしば自然な睡眠パターンと衝突します。今回の新しい研究は、「早寝早起き朝ごはん」が提唱する内容に強力な科学的根拠を与え、健康で発達中の脳であっても、これらのリズムを乱すことの生物学的な代償を浮き彫りにしています。"
-      ]
-    },
-    "structured": {
-      "tagline": {
-        "en": "Consistent daily rhythms are key for brain health and learning.",
-        "ja": "脳の健康と学習には日々のリズムが重要。"
-      },
-      "whoForWhat": {
-        "en": "For a Tokyo family with children of any age, this story underscores the fundamental importance of consistent sleep schedules and daily routines in supporting their child's developing brain and optimizing learning capacity.",
-        "ja": "あらゆる年齢のお子さんを持つ東京の家庭にとって、この研究は、子どもの発達中の脳をサポートし、学習能力を最適化するために、一貫した睡眠スケジュールと日々のルーティンの根本的な重要性を示唆しています。"
-      },
-      "vsJapanContext": {
-        "en": "While Japan's '早寝早起き朝ごはん' campaign promotes healthy rhythms, this research provides deeper scientific evidence for why those routines are critical, contrasting with the high-pressure juku and club activity schedules that often disrupt natural sleep patterns.",
-        "ja": "日本では「早寝早起き朝ごはん」運動が健康的なリズムを推奨していますが、この研究は、なぜこれらのルーティンが重要なのかについてより深い科学的根拠を提供し、自然な睡眠パターンを乱しがちな高負荷な塾や部活動のスケジュールと対照的な視点を与えます。"
-      },
-      "tokyoNote": {
-        "en": "This research provides a scientific lens on why consistent daily rhythms are non-negotiable for brain health. Tokyo parents should consider how demanding academic and extracurricular schedules might impact their child's biological clock, and prioritize sleep as a fundamental aspect of learning, not just rest.",
-        "ja": "この研究は、一貫した日々のリズムが脳の健康に不可欠である理由を科学的に示しています。東京の保護者は、多忙な学業や課外活動のスケジュールがお子さんの体内時計にどう影響するかを考慮し、睡眠を単なる休息ではなく、学習の根幹として優先すべきです。"
-      }
-    },
-    "source": {
-      "name": "ScienceDaily — Child Development",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260924020407.htm"
-    },
-    "sourceGuid": "https://www.sciencedaily.com/releases/2026/09/260924020407.htm",
     "status": "published"
   }
 ]
