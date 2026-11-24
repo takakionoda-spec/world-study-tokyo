@@ -1,5 +1,206 @@
 [
   {
+    "slug": "brain-cells-linked-to-sleep-urge-implications-for-learning-and-well-being",
+    "category": "research",
+    "issue": "Vol. 06",
+    "publishedAt": "2026-11-23T02:02:10.000Z",
+    "readingMinutes": 4,
+    "feature": true,
+    "cover": {
+      "src": "https://www.sciencedaily.com/images/1920/man-sleeping-with-stars.webp",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "Brain Cells Linked to Sleep Urge: Implications for Learning and Well-being",
+      "ja": "睡眠欲求を司る脳細胞を発見：学びと健康への示唆"
+    },
+    "dek": {
+      "en": "A recent study identified specific brain cells responsible for the urge to sleep, and suppressing them in mice allowed for significantly reduced sleep without typical deprivation effects. This opens new avenues for understanding sleep's role in cognition.",
+      "ja": "最近の研究で、睡眠欲求を生み出す特定の脳細胞が特定されました。マウスでその活動を抑制したところ、通常の睡眠不足による悪影響なしに大幅な睡眠時間短縮が可能となり、睡眠と認知機能の関係解明に新たな道を開いています。"
+    },
+    "author": {
+      "en": "WORLD STUDY TOKYO Editors",
+      "ja": "WORLD STUDY TOKYO 編集部"
+    },
+    "location": {
+      "en": "Tokyo, November 2026",
+      "ja": "東京、2026年11月"
+    },
+    "tags": [
+      {
+        "en": "sleep",
+        "ja": "睡眠"
+      },
+      {
+        "en": "brain science",
+        "ja": "脳科学"
+      },
+      {
+        "en": "cognitive function",
+        "ja": "認知機能"
+      },
+      {
+        "en": "learning",
+        "ja": "学習"
+      }
+    ],
+    "body": {
+      "en": [
+        "Researchers have recently identified specific brain cells that appear to actively generate the \"irresistible urge to sleep.\" In a study published in late 2026, scientists successfully switched off these cells in mice, allowing the animals to sleep significantly less — by as much as 70% — than their normal patterns. This discovery challenges long-held assumptions about the fundamental biological drive for sleep.",
+        "What makes this finding particularly compelling is that many of the mice avoided the severe behavioral consequences typically associated with sleep deprivation. Usually, a dramatic reduction in sleep would lead to impaired cognitive function, reduced motor skills, and changes in mood. The ability to bypass these detrimental effects suggests that the role of sleep in maintaining daily function might be more complex, or more controllable, than previously understood.",
+        "The targeted cells are part of a complex neural network, and the study focused on precisely manipulating their activity. By understanding and then inhibiting these specific neurons, the researchers demonstrated a direct pathway to influencing wakefulness. This level of precision opens doors to exploring sleep regulation with unprecedented detail, moving beyond general sedatives or stimulants.",
+        "For parents, the idea of children needing less sleep without negative impacts on learning or mood might seem highly appealing. Adequate sleep is known to be critical for memory consolidation (the process where new information is stored long-term), attention span, and executive functions (higher-level cognitive skills like planning, problem-solving, and self-control). If future research could translate these findings, it could potentially reshape how we approach study schedules, daily routines, and even the design of learning environments.",
+        "> \"Many of the animals avoided the severe behavioral consequences of sleep deprivation, raising intriguing possibilities for future sleep research.\"",
+        "However, it is important to remember that this is an early-stage study conducted on mice. The leap from animal models to safe, applicable human interventions is substantial, requiring extensive research into long-term health impacts, ethical considerations, and the intricate differences in human brain physiology. The full implications for human health and cognition remain largely unknown.",
+        "This research marks a significant step in basic neuroscience, offering a new lens through which to view sleep's fundamental role. While direct applications for human sleep patterns are far off, it deepens our understanding of the brain's control over one of our most essential biological processes, with potential distant implications for conditions related to sleep disorders or cognitive performance."
+      ],
+      "ja": [
+        "最近の研究で、私たちが感じる「抗いがたい眠気」を積極的に生み出す特定の脳細胞が特定されました。2026年後半に発表されたこの研究では、科学者たちがマウスのこれらの細胞の活動を停止させたところ、マウスは通常の睡眠時間よりも最大で70%も少なく眠るだけで済んだと報告されています。この発見は、睡眠に対する生物学的な根本的な欲求について、長年の前提に疑問を投げかけるものです。",
+        "この研究が特に注目されるのは、睡眠時間を大幅に短縮したにもかかわらず、多くのマウスが通常、睡眠不足に伴う深刻な行動上の悪影響を回避できた点です。通常であれば、これほど劇的に睡眠を削れば、認知機能の低下、運動能力の障害、気分の変化などが生じます。これらの有害な影響を回避できたことは、日々の機能を維持する上での睡眠の役割が、これまで考えられていたよりも複雑であるか、あるいはより制御可能である可能性を示唆しています。",
+        "研究の焦点となったのは、複雑な神経ネットワークの一部を構成する特定のニューロン集団です。これらの細胞の活動を正確に操作することで、研究者たちは覚醒状態に直接影響を与える経路を実証しました。この精度の高さは、一般的な鎮静剤や覚醒剤とは異なり、睡眠調節をこれまでにない詳細さで探求する道を開くものです。",
+        "保護者の方々にとって、子どもたちが学習や気分に悪影響なく睡眠時間を短縮できるという考えは、非常に魅力的に映るかもしれません。十分な睡眠は、記憶の定着（新しい情報が長期的に保存される過程）、集中力、そして実行機能（計画、問題解決、自己制御といった高次の認知能力）にとって不可欠であることが知られています。もし将来の研究でこれらの知見が人間に応用できるとすれば、学習スケジュール、日々のルーティン、さらには学習環境の設計のあり方さえも再考される可能性があります。",
+        "> 「多くの動物は睡眠不足による深刻な行動上の悪影響を回避し、将来の睡眠研究に興味深い可能性を提起しています。」",
+        "しかし、これはマウスを対象とした初期段階の研究であることを忘れてはなりません。動物モデルから、安全かつ応用可能な人間の介入へと進むには、長期的な健康への影響、倫理的な考慮、そして人間の脳生理学における複雑な違いについて、広範な研究が必要です。人間への直接的な応用や、その健康と認知への全体的な影響は、まだほとんど分かっていません。",
+        "この研究は基礎神経科学における重要な一歩であり、睡眠の根源的な役割を新たな視点から捉え直す機会を提供します。人間の睡眠パターンへの直接的な応用はまだ遠い先の話ですが、私たちの最も重要な生物学的プロセスの一つである睡眠に対する脳の制御について、理解を深めるものであり、将来的に睡眠障害や認知能力に関連する状態への示唆をもたらす可能性を秘めています。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "At its core, this research describes finding a biological \"switch\" in the brain that actively drives the urge to sleep. When scientists turned this switch off in mice, the animals slept far less but surprisingly didn't show the usual signs of fatigue or cognitive decline. Imagine being able to reduce your child's sleep time significantly without them feeling tired or performing worse on their studies—that's the distant promise this finding hints at.",
+        "For Tokyo families, this could eventually have profound implications for how we view the allocation of time between study, extracurriculars, and rest. In an environment like Tokyo, where families navigate intense academic pressures, such as 中学受験 (junior-high entrance exams) or university admissions, the idea of optimizing wakefulness without compromising cognitive function is compelling. It might influence future discussions around school schedules, homework loads, or even the ideal age for starting rigorous academic preparation.",
+        "This kind of breakthrough is a very long-term prospect for human application, likely 10-20 years or more away, gated by extensive clinical trials, ethical debates, and a deeper understanding of human neurobiology. It's not something that will affect daily life or educational strategies in Japan within the next decade; the scientific journey from mouse models to human therapy is long and complex.",
+        "While no Japanese institution or program currently focuses on genetically manipulating sleep urges, the underlying cultural drive to maximize productive waking hours for learning is already evident. Major juku (cram schools) like SAPIX or Z会, for instance, are constantly refining study methods to enhance efficiency within limited time. Though the approach is vastly different, the aspiration for optimized learning outcomes within time constraints resonates deeply with this research's distant potential."
+      ],
+      "ja": [
+        "この研究の核心は、脳内に眠気を積極的に生み出す「スイッチ」のような細胞を発見したことです。科学者がこのスイッチをマウスでオフにしたところ、マウスは睡眠時間を大幅に短縮できたにもかかわらず、驚くべきことに通常の疲労や認知機能の低下を示しませんでした。お子さまの睡眠時間を大幅に減らしても、疲れを感じず、学業成績も落ちない――これは、この発見が遠い将来に示唆する可能性です。",
+        "東京で子育てをするご家庭にとって、これは将来的に、学習、習い事、休息の時間の配分について、私たちの考え方を大きく変える可能性を秘めています。中学受験や大学受験のような熾烈な学業競争に直面する東京の環境では、認知機能を損なわずに覚醒時間を最適化するというアイデアは非常に魅力的です。将来的に、学校のスケジュール、宿題の量、あるいは本格的な学業準備を始める理想的な時期に関する議論に影響を与えるかもしれません。",
+        "このような画期的な発見が人間に応用されるまでには、非常に長い時間がかかると考えられます。広範な臨床試験、倫理的な議論、そして人間の神経生物学に関するさらなる深い理解が必要であり、おそらく10年から20年以上先の話でしょう。今後10年以内に、日本の日常生活や教育戦略に直接影響を与えることはないと考えられます。マウスモデルから人間の治療法へと繋がる科学的な道のりは、長く複雑だからです。",
+        "現在、日本の教育機関やプログラムで、睡眠欲求を遺伝子レベルで操作することに焦点を当てているものはありません。しかし、限られた時間の中で学習効果を最大化しようとする文化的背景は、すでに日本の教育現場に深く根付いています。例えば、SAPIXやZ会のような大手学習塾は、限られた時間内で効率を高める学習方法を常に洗練させています。アプローチは全く異なりますが、この研究が示す将来的な可能性は、時間制約の中で学習成果を最適化しようとする日本の教育の願いと深く響き合うものがあります。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "Brain cells linked to sleep drive found; mice sleep 70% less.",
+        "ja": "睡眠欲求の脳細胞を発見。マウスの睡眠時間を大幅短縮。"
+      },
+      "whoForWhat": {
+        "en": "For any Tokyo family concerned about their child's sleep habits and academic performance, this research offers a glimpse into how our fundamental understanding of rest and learning might evolve in the distant future.",
+        "ja": "お子さまの睡眠習慣と学業成績に関心を持つ東京のご家庭にとって、この研究は休息と学習の根本的な理解が将来どのように変化しうるかを示唆しています。"
+      },
+      "vsJapanContext": {
+        "en": "While Japan's education system currently emphasizes disciplined study schedules, this research, if ever applied to humans, could fundamentally challenge the premise of required sleep for optimal cognitive function, contrasting with traditional approaches to student well-being.",
+        "ja": "日本の教育システムが規律ある学習スケジュールを重視する中、この研究が将来的に人間に応用されれば、最適な認知機能に必要な睡眠という前提を根本から問い直し、従来の学生の健康維持アプローチと対比される可能性があります。"
+      },
+      "tokyoNote": {
+        "en": "This finding is fascinating for its scientific implications, but Tokyo parents should view it as very distant basic research. The immediate focus for student well-being remains consistent sleep routines and managing academic pressure, rather than expecting a biological shortcut to less sleep.",
+        "ja": "この発見は科学的に非常に興味深いものですが、東京の保護者にとっては、あくまで基礎研究の非常に遠い将来の話として捉えるべきでしょう。お子さまの健康な学びのためには、引き続き規則正しい睡眠習慣と学業ストレスの管理が最も重要であり、睡眠時間を生物学的に短縮する近道がすぐに現れるわけではありません。"
+      }
+    },
+    "source": {
+      "name": "ScienceDaily — Child Development",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261122060336.htm"
+    },
+    "sourceGuid": "https://www.sciencedaily.com/releases/2026/11/261122060336.htm",
+    "status": "published"
+  },
+  {
+    "slug": "school-cellphone-bans-show-minimal-academic-benefit-studies-suggest",
+    "category": "research",
+    "issue": "Vol. 06",
+    "publishedAt": "2026-11-23T11:00:00.000Z",
+    "readingMinutes": 5,
+    "feature": true,
+    "cover": {
+      "src": "https://i0.wp.com/hechingerreport.org/wp-content/uploads/2026/11/proof-cell-ban-111826-scaled.jpg?fit=1024%2C683&amp;ssl=1",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "School Cellphone Bans Show Minimal Academic Benefit, Studies Suggest",
+      "ja": "学校での携帯電話禁止、学力向上への効果は限定的との研究結果"
+    },
+    "dek": {
+      "en": "Recent studies, including one from Harvard University, indicate that widespread school cellphone bans in the U.S. have yielded little to no academic improvement, challenging a common assumption about digital distractions.",
+      "ja": "ハーバード大学などの最新研究が、米国で広く導入されている学校での携帯電話禁止が学力向上にほとんど寄与していないことを示唆。デジタルによる注意散漫を減らすという一般的な期待に疑問を投げかけています。"
+    },
+    "author": {
+      "en": "WORLD STUDY TOKYO Editors",
+      "ja": "WORLD STUDY TOKYO 編集部"
+    },
+    "location": {
+      "en": "WASHINGTON D.C.",
+      "ja": "ワシントンD.C."
+    },
+    "tags": [
+      {
+        "en": "screen time",
+        "ja": "スクリーンタイム"
+      },
+      {
+        "en": "student focus",
+        "ja": "生徒の集中力"
+      },
+      {
+        "en": "education policy",
+        "ja": "教育政策"
+      },
+      {
+        "en": "adolescent development",
+        "ja": "青年期の発達"
+      }
+    ],
+    "body": {
+      "en": [
+        "近年、米国では多くの学校で携帯電話の使用が制限または禁止されていますが、これらの措置が学力向上にどの程度影響しているかについて、疑問を投げかける研究結果が相次いで発表されています。特に、ハーバード大学の研究者らが最近発表した調査を含む複数の研究は、学校での携帯電話禁止が生徒の学業成績にもたらす効果がごくわずか、あるいは皆無であることを示しています。",
+        "2023年以降、米国では少なくとも40の州とコロンビア特別区で、授業中の携帯電話使用が禁止または制限されてきました。これは、デジタル機器による注意散漫を減らすことで、生徒が学習にもっと集中できるようになるという期待に基づいています。",
+        "> 「デジタルによる注意散漫を減らすことで、生徒が学習にもっと集中できるようになるという期待」",
+        "しかし、これらの広範な禁止措置が実際に学業成績に与える影響を評価した最新の3つの主要な研究は、一貫してその効果が「ごくわずか、またはゼロ」であると報告しています。これは、単純にデバイスを取り上げるだけでは、生徒の学習への集中力や成績が劇的に改善されるわけではない可能性を示唆しています。",
+        "この結果は、生徒の注意散漫が単に携帯電話の存在に起因するのではなく、より根深い要因、例えば学習環境の質、教材への関心、あるいは自己調整能力の育成などに関わっている可能性を示唆しています。学校がデバイスの使用を制限する目的は多岐にわたりますが、学業成績の向上だけを期待するのであれば、他のアプローチも同時に検討する必要があるかもしれません。",
+        "今後、学校は携帯電話の管理方法を再考し、学業成績以外の側面（例えば、ソーシャルスキルの向上やいじめの減少、精神的健康など）に焦点を当てるか、あるいはデジタルリテラシー教育や自己管理能力の育成といった、より包括的な戦略へと移行するかもしれません。単純な禁止措置の先にある、生徒の成長を支えるための真の課題が浮き彫りになっています。"
+      ],
+      "ja": [
+        "近年、米国では多くの学校で携帯電話の使用が制限または禁止されていますが、これらの措置が学力向上にどの程度影響しているかについて、疑問を投げかける研究結果が相次いで発表されています。特に、ハーバード大学の研究者らが最近発表した調査を含む複数の研究は、学校での携帯電話禁止が生徒の学業成績にもたらす効果がごくわずか、あるいは皆無であることを示しています。",
+        "2023年以降、米国では少なくとも40の州とコロンビア特別区で、授業中の携帯電話使用が禁止または制限されてきました。これは、デジタル機器による注意散漫を減らすことで、生徒が学習にもっと集中できるようになるという期待に基づいています。",
+        "> 「デジタルによる注意散漫を減らすことで、生徒が学習にもっと集中できるようになるという期待」",
+        "しかし、これらの広範な禁止措置が実際に学業成績に与える影響を評価した最新の3つの主要な研究は、一貫してその効果が「ごくわずか、またはゼロ」であると報告しています。これは、単純にデバイスを取り上げるだけでは、生徒の学習への集中力や成績が劇的に改善されるわけではない可能性を示唆しています。",
+        "この結果は、生徒の注意散漫が単に携帯電話の存在に起因するのではなく、より根深い要因、例えば学習環境の質、教材への関心、あるいは自己調整能力の育成などに関わっている可能性を示唆しています。学校がデバイスの使用を制限する目的は多岐にわたりますが、学業成績の向上だけを期待するのであれば、他のアプローチも同時に検討する必要があるかもしれません。",
+        "今後、学校は携帯電話の管理方法を再考し、学業成績以外の側面（例えば、ソーシャルスキルの向上やいじめの減少、精神的健康など）に焦点を当てるか、あるいはデジタルリテラシー教育や自己管理能力の育成といった、より包括的な戦略へと移行するかもしれません。単純な禁止措置の先にある、生徒の成長を支えるための真の課題が浮き彫りになっています。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "This research from the US, indicating minimal academic gains from school cellphone bans, offers an interesting perspective for Tokyo families. Many Japanese schools, especially junior and senior high schools, have long had strict rules about mobile devices, often requiring them to be turned off or stored away during school hours. The underlying assumption has often been that such strictness aids focus and academic performance. However, these new findings suggest that the relationship between device presence and academic outcome is more complex than a simple cause-and-effect.",
+        "For Tokyo families navigating the intense academic environment of 中学受験 (junior high entrance exams) or 高校受験 (high school entrance exams), or even those in international schools, this raises a pertinent question: is focusing solely on banning devices truly the most effective way to foster learning? Perhaps the focus should shift towards teaching children self-regulation and digital literacy skills, allowing them to manage distractions rather than simply removing the source. This could impact how parents approach screen time at home and how juku (cram schools) advise on study habits.",
+        "The direct impact on MEXT (Ministry of Education, Culture, Sports, Science and Technology) policy might take 3-5 years to materialize, as curriculum guidelines (学習指導要領) revisions are infrequent. However, individual private schools or international schools in Tokyo might adjust their policies within 1-2 years, especially if they are already embracing digital learning tools under the GIGA School Program (GIGAスクール構想) framework. Major juku could also integrate these insights into their study guidance sooner, emphasizing mindful device use over outright prohibition.",
+        "In Japan, many traditional schools already implement strict phone bans, often more stringent than those in the US. However, institutions like N高等学校 (N High School), known for its online-centric learning, or even some international schools, integrate devices into the learning process. This research highlights a potential gap: while Japanese schools are excellent at enforcing rules, the next step might be to explicitly teach students *how* to learn effectively with digital tools, and how to manage their own attention, rather than just prohibiting them. This could be a significant area for future development in Japanese education, moving beyond mere restriction to fostering digital citizenship and self-directed learning."
+      ],
+      "ja": "日本の学校は携帯電話のルールが厳しいことが多いですが、本研究は単なる禁止だけでは不十分だと示唆しています。東京の保護者は、学校や塾が単に禁止するだけでなく、デジタル機器との付き合い方をどう教えるべきか、という視点を持つことが、子どもの学びを真にサポートする上で重要になるでしょう。"
+    },
+    "structured": {
+      "tagline": {
+        "en": "School phone bans show little academic benefit.",
+        "ja": "学校での携帯禁止、学力向上効果は限定的。"
+      },
+      "whoForWhat": {
+        "en": "For Tokyo families with junior high or high school students grappling with screen time, this study informs decisions on home device rules and school choice regarding technology policies and student focus.",
+        "ja": "中高生を持つ東京の保護者で、スクリーンタイムの管理や、学校のテクノロジーポリシーが生徒の集中力にどう影響するかに関心がある家庭にとって、この研究は参考になります。"
+      },
+      "vsJapanContext": {
+        "en": "This contrasts with the often stricter device policies in many Japanese junior and senior high schools, prompting a re-evaluation of whether current MEXT guidelines or school-specific rules truly achieve academic goals.",
+        "ja": "日本の多くの中学校や高校の厳格なデバイスポリシーとは対照的で、文部科学省のガイドラインや学校独自のルールが学力向上にどの程度貢献しているか再考を促す内容です。"
+      },
+      "tokyoNote": {
+        "en": "While many Japanese schools already have strict phone rules, this research suggests simply banning devices may not be enough. Tokyo parents might consider how schools and juku can teach digital self-regulation, rather than just prohibition, to genuinely support learning.",
+        "ja": ""
+      }
+    },
+    "source": {
+      "name": "The Hechinger Report",
+      "url": "https://hechingerreport.org/proof-points-3-cellphone-ban-studies/"
+    },
+    "sourceGuid": "https://hechingerreport.org/?p=119220",
+    "status": "published"
+  },
+  {
     "slug": "ais-thinking-differs-from-human-brain-research-suggests",
     "category": "ai-edu",
     "issue": "Vol. 06",
@@ -5849,8 +6050,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#D0E4D3"
+      "src": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#CDE3CF"
     },
     "title": {
       "en": "Making AI Tutors Transparent: A New Framework for Understanding Educational Dialogues",
@@ -6363,8 +6564,8 @@
     "readingMinutes": 6,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1573164713619-24c711fe7878?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#C4DDC6"
+      "src": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#C8DFCB"
     },
     "title": {
       "en": "AI Tutors Learn to Read Between the Lines of Student Dialogues",
@@ -6569,8 +6770,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1532012197267-da84d127e765?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#D9CFE5"
+      "src": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#D5C9E2"
     },
     "title": {
       "en": "Beyond Reading: The Science of Learning in All Subjects",
@@ -6671,8 +6872,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#C8DFCB"
+      "src": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#CDE3CF"
     },
     "title": {
       "en": "AI-Simulated Students Now Predict Real Learning Patterns",
@@ -7289,8 +7490,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1455390582262-044cdead277a?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#D9CFE5"
+      "src": "https://images.unsplash.com/photo-1542621334-a254cf47733d?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#D8CDE3"
     },
     "title": {
       "en": "New Insights into Aging and Memory: A Simple Amino Acid Shows Promise",
@@ -7493,8 +7694,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1488998427799-e3362cec87c3?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#D3C7E1"
+      "src": "https://images.unsplash.com/photo-1532012197267-da84d127e765?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#D9CFE5"
     },
     "title": {
       "en": "Beyond a Single Diagnosis: Depression May Be Five Distinct Brain Conditions",
@@ -7595,8 +7796,8 @@
     "readingMinutes": 6,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#CCE1CE"
+      "src": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#C8DFCB"
     },
     "title": {
       "en": "When AI Tutors Get Worse by Trying to Get Better: The Paradox of Metric-Driven Optimization",
@@ -7987,212 +8188,6 @@
       "url": "https://hechingerreport.org/proof-points-district-consolidation/"
     },
     "sourceGuid": "https://hechingerreport.org/?p=118107",
-    "status": "published"
-  },
-  {
-    "slug": "vagus-nerve-stimulation-a-new-window-for-skill-consolidation",
-    "category": "research",
-    "issue": "Vol. 05",
-    "publishedAt": "2026-10-05T12:13:07.000Z",
-    "readingMinutes": 4,
-    "feature": true,
-    "cover": {
-      "src": "https://www.sciencedaily.com/images/1920/brain-vagus-nerve-stimulation.webp",
-      "tone": "#0c0c0c"
-    },
-    "title": {
-      "en": "Vagus Nerve Stimulation: A New Window for Skill Consolidation?",
-      "ja": "迷走神経刺激がスキル定着を助ける可能性：学習の「ゴールデンタイム」を探る"
-    },
-    "dek": {
-      "en": "Recent research in mice suggests that stimulating the vagus nerve after practice could significantly enhance long-term motor skill learning, pointing to a critical period when the brain solidifies new abilities.",
-      "ja": "練習後の迷走神経刺激が、マウスの運動スキル長期定着を大きく高める可能性が示されました。脳が新しい能力を固める「重要な期間」の存在を示唆しています。"
-    },
-    "author": {
-      "en": "WORLD STUDY TOKYO Editors",
-      "ja": "WORLD STUDY TOKYO 編集部"
-    },
-    "location": {
-      "en": "TOKYO",
-      "ja": "東京"
-    },
-    "tags": [
-      {
-        "en": "neuroscience",
-        "ja": "神経科学"
-      },
-      {
-        "en": "motor learning",
-        "ja": "運動学習"
-      },
-      {
-        "en": "skill acquisition",
-        "ja": "スキル習得"
-      },
-      {
-        "en": "brain development",
-        "ja": "脳の発達"
-      }
-    ],
-    "body": {
-      "en": [
-        "A recent study published in October 2026 revealed that stimulating the vagus nerve immediately after practice significantly improved long-term motor learning in mice. Researchers observed that this stimulation helped solidify newly acquired skills, suggesting a specific window of opportunity when the brain is most receptive to making new abilities permanent.",
-        "The vagus nerve, a major pathway connecting the brain to many parts of the body, including the heart, lungs, and gut, plays a crucial role in regulating various bodily functions. In this research, scientists explored its potential in enhancing neuroplasticity, the brain's ability to reorganize itself by forming new neural connections. The findings indicate that signals from the body, mediated by the vagus nerve, might actively prepare the brain for lasting change.",
-        "The study focused on motor learning, which involves the acquisition of new movements and skills, such as playing a musical instrument or learning a sport. Mice that received vagus nerve stimulation (VNS) after practicing a new motor task showed stronger and more enduring retention of that skill compared to those without stimulation. This effect was linked to rhythmic changes in brain blood vessels, suggesting a complex interplay between neural activity and vascular dynamics.",
-        "Researchers hypothesize that the timing of the stimulation is key. Applying VNS shortly after a learning experience appears to leverage a natural biological process where the brain consolidates memories and skills. This post-practice window is when the brain is actively 'locking in' the new information, and VNS seems to amplify this process.",
-        "> \"The effect was linked to rhythmic changes in brain blood vessels, hinting that body-to-brain signals may help prepare the brain for lasting change.\"",
-        "While the research is still in its early stages and conducted on animal models, the implications for human learning are compelling. It opens avenues for exploring non-invasive methods to enhance skill acquisition, particularly in areas requiring repetitive practice and fine motor control. Future studies will need to investigate if similar mechanisms exist in humans and how they might be safely and effectively harnessed.",
-        "Understanding this critical window for skill consolidation could lead to more effective training protocols for athletes, musicians, or individuals undergoing rehabilitation. It also raises questions about how daily routines and post-practice activities might naturally influence the brain's ability to retain new information, long before any external stimulation is considered."
-      ],
-      "ja": [
-        "2026年10月に発表された最新の研究で、練習直後に迷走神経を刺激すると、マウスの運動スキルが長期的に定着する効果が大幅に高まることが明らかになりました。この研究は、脳が新しい能力を恒久的に固定する上で、特定の「機会の窓」が存在することを示唆しています。",
-        "迷走神経（脳と心臓、肺、腸など体内の多くの部分を結ぶ主要な神経経路）は、様々な身体機能の調節に重要な役割を果たしています。今回の研究では、神経可塑性（脳が新しい神経結合を形成して自らを再編成する能力）を高める可能性が探られました。その結果、迷走神経を介した身体からの信号が、脳を永続的な変化に積極的に準備させる可能性があることが示唆されています。",
-        "研究は、楽器の演奏やスポーツの習得など、新しい動きやスキルを身につける運動学習に焦点を当てました。新しい運動課題を練習した後、迷走神経刺激（VNS）を受けたマウスは、刺激を受けなかったマウスと比較して、スキルの保持がより強く、より長く続くことが示されました。この効果は、脳の血管におけるリズミカルな変化と関連しており、神経活動と血管の動態との間の複雑な相互作用を示唆しています。",
-        "研究者たちは、刺激のタイミングが鍵であると仮説を立てています。学習経験の直後にVNSを適用することで、脳が記憶やスキルを統合する自然な生物学的プロセスが活用されると考えられます。この「練習後の窓」は、脳が新しい情報を積極的に「固定」している期間であり、VNSはこのプロセスを増幅させるようです。",
-        "> 「この効果は脳の血管におけるリズミカルな変化と関連しており、身体から脳への信号が永続的な変化のために脳を準備するのに役立つ可能性を示唆しています。」",
-        "この研究はまだ初期段階であり、動物モデルで行われたものですが、人間の学習への応用は非常に興味深いものです。特に反復練習と細かい運動制御を必要とする分野において、スキルの習得を強化するための非侵襲的な方法を探る道を開きます。今後、同様のメカニズムが人間にも存在するか、そして安全かつ効果的に活用できるかどうかが研究されるでしょう。",
-        "スキル定着のこの重要な窓を理解することは、アスリート、音楽家、あるいはリハビリテーションを受けている人々にとって、より効果的なトレーニングプロトコルにつながる可能性があります。また、外部からの刺激を考慮するはるか以前に、日々の習慣や練習後の活動が、脳の新しい情報保持能力にどのように自然に影響を与えているかについても、新たな疑問を投げかけています。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "This research, though conducted on mice, offers a fascinating glimpse into how our brains consolidate new skills. Imagine your child learning to ride a bicycle or master a complex piece on the piano. The study suggests there's a specific period right after practice when the brain is most receptive to making that learning stick. It's like the moment cement hardens; if you can reinforce it then, the structure becomes much stronger.",
-        "For Tokyo families, this insight could eventually influence how after-school activities (習い事) are structured, or how home practice is timed. If there's a biological 'golden hour' for skill consolidation, parents might consider how to optimize that window—perhaps by ensuring focused rest or specific low-stimulus activities immediately following a demanding practice session, rather than immediately switching to another task or screen time.",
-        "Any practical application for humans is likely 5-10 years away, gated by extensive human trials to ensure safety and efficacy. Should it prove viable, we might see non-invasive devices or protocols emerge from the medical and edtech sectors. However, MEXT (文部科学省) curriculum guidelines or major juku (学習塾) like SAPIX or 早稲田アカデミー would likely wait for robust, replicated findings and ethical frameworks before integrating such methods.",
-        "While direct vagus nerve stimulation is far from current educational practice in Japan, the underlying principle of optimizing post-practice consolidation resonates with traditional Japanese approaches to mastery. Disciplines like martial arts (武道) or traditional arts (茶道、華道) often emphasize a period of reflection or quiet integration after intense practice, suggesting an intuitive understanding of this critical window for deep learning."
-      ],
-      "ja": [
-        "マウスでの研究ではありますが、今回の発見は、私たちの脳が新しいスキルをどのように定着させるかについて、興味深い示唆を与えてくれます。お子さんが自転車に乗る練習をしたり、ピアノの難しい曲をマスターしようとしている場面を想像してみてください。この研究は、練習直後に脳が学習を定着させるのに最も適した特定の期間があることを示唆しています。まるでセメントが固まる瞬間に補強するようなもので、その時に適切に働きかければ、構造ははるかに強固になるかもしれません。",
-        "東京で子育てをするご家庭にとって、この知見は将来的に、習い事のスケジュールや家庭での練習のタイミングに影響を与える可能性があります。もしスキル定着のための生物学的な「ゴールデンアワー」があるのなら、親御さんはその時間を最適化する方法を検討するかもしれません。例えば、 demanding な練習の直後に別のタスクやスクリーンタイムにすぐ移行するのではなく、集中した休息や特定の低刺激な活動を確保するといったことです。",
-        "人間への実用化は、安全性と有効性を確認するための大規模な臨床試験が必要なため、おそらく5〜10年先になるでしょう。もし実現すれば、医療やエドテック分野から非侵襲的なデバイスやプロトコルが登場する可能性もあります。しかし、文部科学省の学習指導要領や、SAPIX、早稲田アカデミーのような大手学習塾が、こうした方法をカリキュラムに導入するには、堅牢な再現性のある研究結果と倫理的な枠組みが確立されるのを待つことになるでしょう。",
-        "迷走神経の直接的な刺激は、現在の日本の教育実践とはかけ離れたものですが、練習後の定着を最適化するという根底にある原則は、日本の伝統的な習得アプローチと通じるものがあります。武道や茶道、華道といった伝統芸術では、集中的な稽古の後に反省や静かな統合の期間を重視することが多く、深い学びのためのこの重要な期間に対する直感的な理解があったことを示唆しています。"
-      ]
-    },
-    "structured": {
-      "tagline": {
-        "en": "Stimulating the vagus nerve may help skills stick long-term.",
-        "ja": "迷走神経刺激がスキルの長期定着を助ける可能性。"
-      },
-      "whoForWhat": {
-        "en": "For parents wondering how to optimize their child's practice time for sports, music, or academic skills, this research explores the brain's critical window for solidifying new abilities.",
-        "ja": "スポーツ、音楽、学術スキルなど、お子さんの練習時間をどう最適化すればよいか考える保護者にとって、新しい能力を脳が定着させる重要な期間を探る研究です。"
-      },
-      "vsJapanContext": {
-        "en": "This research into post-practice brain consolidation offers a biological lens that could complement Japan's traditional emphasis on diligent repetition (反復練習) in juku and arts, by suggesting an optimal timing for skill reinforcement.",
-        "ja": "練習後の脳の定着に関するこの研究は、日本の学習塾や芸術分野における勤勉な反復練習に対し、スキル強化の最適なタイミングを示唆する生物学的な視点を提供するものです。"
-      },
-      "tokyoNote": {
-        "en": "While direct applications are distant, this study highlights the importance of what happens *after* practice. Tokyo parents might consider how their child's post-activity routines, from homework to rest, could be subtly influencing long-term skill retention, a concept Japanese traditional arts have long embraced intuitively.",
-        "ja": "直接的な応用はまだ先ですが、この研究は練習後の時間の重要性を浮き彫りにします。東京の保護者は、お子さんの習い事後の過ごし方（宿題から休息まで）が、スキルの長期定着にどう影響するか、日本の伝統芸術が直感的に大切にしてきたこの概念を再考するきっかけになるかもしれません。"
-      }
-    },
-    "source": {
-      "name": "ScienceDaily — Child Development",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261002080034.htm"
-    },
-    "sourceGuid": "https://www.sciencedaily.com/releases/2026/10/261002080034.htm",
-    "status": "published"
-  },
-  {
-    "slug": "beyond-practice-how-post-learning-nerve-activity-shapes-long-term-skill",
-    "category": "research",
-    "issue": "Vol. 05",
-    "publishedAt": "2026-10-05T12:13:07.000Z",
-    "readingMinutes": 4,
-    "feature": true,
-    "cover": {
-      "src": "https://images.unsplash.com/photo-1532012197267-da84d127e765?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#D9CFE5"
-    },
-    "title": {
-      "en": "Beyond Practice: How Post-Learning Nerve Activity Shapes Long-Term Skill",
-      "ja": "練習後の「脳の定着時間」：迷走神経刺激がスキル習得を強化する可能性"
-    },
-    "dek": {
-      "en": "New research in mice suggests that stimulating the vagus nerve immediately after practice significantly enhances long-term motor skill learning, pointing to a critical biological window for memory consolidation.",
-      "ja": "マウスを用いた最新研究で、練習直後の迷走神経刺激が長期的な運動スキル学習を大幅に向上させることが判明。記憶の定着における重要な生物学的「窓」の存在を示唆します。"
-    },
-    "author": {
-      "en": "WORLD STUDY TOKYO Editors",
-      "ja": "WORLD STUDY TOKYO 編集部"
-    },
-    "location": {
-      "en": "TOKYO, October 2026",
-      "ja": "東京, 2026年10月"
-    },
-    "tags": [
-      {
-        "en": "Brain science",
-        "ja": "脳科学"
-      },
-      {
-        "en": "Learning methods",
-        "ja": "学習法"
-      },
-      {
-        "en": "Memory",
-        "ja": "記憶"
-      },
-      {
-        "en": "Skill acquisition",
-        "ja": "スキル習得"
-      }
-    ],
-    "body": {
-      "en": [
-        "Researchers recently reported a fascinating finding: stimulating the vagus nerve (a major nerve connecting the brain to many organs) immediately after practice significantly improved long-term motor skill learning in mice. Published around October 2026, this study sheds new light on the critical window during which the brain consolidates, or \"locks in,\" newly acquired skills.",
-        "The study's significance lies in identifying a potential biological mechanism that enhances memory consolidation—the process by which unstable new memories are transformed into stable, long-lasting ones. For parents and educators, this research suggests that the period immediately following a learning session might be even more crucial than previously understood for solidifying what has just been learned. The team observed that the enhanced learning effect was linked to rhythmic changes in brain blood vessels, hinting that signals from the body could be actively preparing the brain for lasting changes.",
-        "In their experiments, mice were trained on specific motor tasks, and then a small electrical stimulation was applied to their vagus nerve. The researchers found that mice receiving this post-practice stimulation showed demonstrably stronger and more enduring motor skills compared to control groups. This effect was observed even weeks after the initial training, indicating a profound impact on long-term memory.",
-        "> \"Stimulating the vagus nerve after practice helped mice develop stronger long-term motor learning, revealing a potentially important window when the brain is still locking in a new skill.\"",
-        "While direct vagus nerve stimulation (VNS) is currently an invasive medical procedure used for conditions like epilepsy, the findings open avenues for exploring non-invasive methods that could leverage this post-practice window. Imagine if simple, non-pharmacological interventions could help children retain new skills more effectively, whether it's mastering a musical instrument, learning a new language, or improving athletic performance.",
-        "This research underscores the brain's remarkable plasticity (its ability to change and adapt) and the complex interplay between our nervous system and learning. Future studies will need to explore whether similar mechanisms apply to humans and if non-invasive techniques—perhaps involving specific breathing exercises or auditory cues that influence vagal activity—could achieve comparable results. Understanding this \"locking-in\" window could revolutionize how we approach practice and skill development across all ages."
-      ],
-      "ja": [
-        "2026年10月頃に発表された研究で、練習直後に迷走神経（脳と多くの内臓を結ぶ主要な神経）を刺激することが、マウスの長期的な運動技能学習を大幅に向上させることが明らかになりました。この発見は、脳が新しいスキルを「定着させる」ための重要な時間枠が存在することを示唆しており、学びのメカニズムに新たな視点をもたらしています。",
-        "この研究の意義は、記憶の固定化（新しく不安定な記憶が、安定した長期的な記憶へと変換されるプロセス）を強化する潜在的な生物学的メカニズムを特定した点にあります。保護者や教育関係者にとって、この研究は、学習セッション直後の時間が、学んだ内容を確固たるものにする上で、これまで考えられていた以上に重要である可能性を示唆しています。研究チームは、学習効果の向上が脳の血管におけるリズミカルな変化と関連していることを発見し、身体から脳への信号が、脳を永続的な変化に備えさせる役割を果たす可能性を示唆しています。",
-        "実験では、マウスに特定の運動課題を訓練させた後、迷走神経に微弱な電気刺激を与えました。その結果、練習後にこの刺激を受けたマウスは、対照群と比較して、より強く持続的な運動スキルを示しました。この効果は、初期訓練から数週間後でも観察され、長期記憶に深い影響を与えていることが示されました。",
-        "> 「練習後に迷走神経を刺激することは、マウスがより強力な長期運動学習を発達させるのに役立ち、脳がまだ新しいスキルを定着させている重要な窓口を明らかにしました。」",
-        "迷走神経刺激（VNS）は現在、てんかんなどの治療に用いられる侵襲的な医療処置ですが、今回の発見は、この「定着の窓」を活用できる非侵襲的な方法の探求に道を開きます。もし、非薬理学的な簡単な介入によって、子どもたちが楽器の習得、新しい言語の学習、運動能力の向上など、新しいスキルをより効果的に定着させることができたら、それは大きな進歩となるでしょう。",
-        "この研究は、脳の驚くべき可塑性（経験に応じて変化する能力）と、神経系と学習の間の複雑な相互作用を浮き彫りにしています。今後の研究では、同様のメカニズムが人間にも当てはまるのか、そして迷走神経の活動に影響を与える特定の呼吸法や聴覚刺激といった非侵襲的な技術で同等の結果が得られるのかを検証する必要があります。この「定着の窓」を理解することは、あらゆる年齢における練習とスキル開発のアプローチを根本的に変える可能性を秘めています。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "This research suggests that the moments right after your child practices a new skill — whether it's a tricky piano piece, a challenging math problem, or a new stroke in swimming — are surprisingly important for their brain to truly remember it long-term. Think of it like baking: the ingredients are important, but the cooling process after baking is just as crucial for the cake to set properly. This study in mice hints that there might be a biological switch, the vagus nerve, that helps \"set\" those new memories more firmly.",
-        "For Tokyo families, this finding, if replicated in humans, could influence how after-school activities (習い事) are structured. It might lead to a greater emphasis on what happens immediately after a lesson. For instance, a juku might advise a specific type of short, focused review or even a period of quiet reflection right after a difficult lesson, rather than immediately moving to the next task or rushing home. It could also inform how we approach learning new languages or sports, suggesting that a brief, structured \"cool-down\" period for the brain is key.",
-        "The direct application of vagus nerve stimulation is far off, given it's currently an invasive procedure and has only been studied in mice. However, the *concept* of optimizing the post-practice window could gain traction within 3-5 years, especially in well-resourced private schools or specialized juku that can experiment with pedagogical approaches. Widespread adoption would likely be gated by human trials and then by MEXT's (文部科学省) guidance or inclusion in the national curriculum (学習指導要領) cycle, pushing it out to 5-10 years or more for mainstream impact.",
-        "While there isn't a direct Japanese counterpart for \"vagus nerve stimulation\" in an educational context, the underlying principle resonates with traditional Japanese approaches to mastery. Many martial arts (武道) and artistic disciplines (書道, 華道) emphasize not just active practice, but also the importance of reflection (反省) and quiet consolidation after a session. Similarly, some high-level sports training in Japan already incorporates structured recovery or mental processing time immediately after intense practice, implicitly acknowledging this \"setting\" period. This research provides a scientific lens on why these existing practices might be so effective."
-      ],
-      "ja": [
-        "この研究は、お子さまが新しいスキルを練習した直後の時間――例えば、難しいピアノのフレーズ、解きにくい算数の問題、新しい水泳のストロークなど――が、脳がそれを長期的に記憶するために驚くほど重要である可能性を示唆しています。パンを焼くことに例えると、材料も重要ですが、焼き上がった後にパンがきちんと固まるための冷却プロセスも同じくらい大切です。マウスを使ったこの研究は、迷走神経という生物学的なスイッチが、新しい記憶をよりしっかりと「定着させる」のを助けるかもしれないと示唆しています。",
-        "東京の家庭にとって、もしこの発見が人間にも当てはまるなら、習い事の構成に影響を与えるかもしれません。レッスン直後に何をするか、という点により重点が置かれるようになる可能性があります。例えば、ある塾では、難しい授業の直後に、次の課題にすぐ移ったり急いで帰宅したりするのではなく、短く集中した復習や静かに考える時間を設けるようアドバイスするかもしれません。これは、新しい言語やスポーツの学習においても、脳のための短く構造化された「クールダウン」期間が鍵となることを示唆するでしょう。",
-        "迷走神経刺激の直接的な応用は、現状では侵襲的な処置であり、マウスでの研究に留まっているため、まだ先の話です。しかし、「練習後の定着期間を最適化する」という概念自体は、教育アプローチを試行できる資金力のある私立学校や専門的な塾において、3～5年以内に注目を集める可能性があります。より広範な普及は、人間の臨床試験を経て、文部科学省の指針や学習指導要領への組み込みによって決定されるため、主流となるには5～10年以上かかるかもしれません。",
-        "教育文脈における「迷走神経刺激」に直接対応する日本の取り組みは今のところありません。しかし、この研究の根底にある原理は、日本の伝統的な習熟へのアプローチと共鳴する部分があります。多くの武道や芸術分野（書道、華道など）では、単に積極的に練習するだけでなく、稽古後の反省や静かに記憶を定着させる時間の重要性が強調されます。同様に、日本のハイレベルなスポーツトレーニングの中には、激しい練習の直後に構造化された回復時間や精神的な処理時間を組み込んでいるものもあり、この「定着」期間の重要性を暗黙のうちに認識していると言えるでしょう。この研究は、既存のこれらの実践がなぜ効果的なのかに科学的な光を当てています。"
-      ]
-    },
-    "structured": {
-      "tagline": {
-        "en": "Post-practice nerve stimulation boosts learning in mice.",
-        "ja": "練習後の神経刺激が学習定着を強化。"
-      },
-      "whoForWhat": {
-        "en": "For Tokyo families with children learning new skills like music, sports, or languages, this research highlights the critical importance of the immediate post-practice period for long-term memory.",
-        "ja": "楽器やスポーツ、言語など新しいスキルを学ぶお子さまを持つ東京の家庭にとって、練習直後の時間が長期的な記憶定着に極めて重要である可能性を示唆する研究です。"
-      },
-      "vsJapanContext": {
-        "en": "This research aligns with traditional Japanese emphasis on structured repetition and reflection in disciplines like martial arts or calligraphy, providing a scientific basis for existing practices around post-practice consolidation.",
-        "ja": "この研究は、武道や書道のような日本の伝統的な分野における反復と反省の重視と一致しており、練習後の定着に関する既存の実践に科学的根拠を与えるものです。"
-      },
-      "tokyoNote": {
-        "en": "While direct VNS is not a practical home tool, this finding encourages Tokyo parents to consider optimizing the quiet time immediately after their child's focused practice, perhaps through brief review or rest, to enhance skill retention.",
-        "ja": "迷走神経刺激が家庭で直接使えるわけではありませんが、東京の保護者は、お子さまが集中して練習した直後の静かな時間を、短い復習や休息などで最適化することで、スキルの定着を促せる可能性を示唆しています。"
-      }
-    },
-    "source": {
-      "name": "ScienceDaily — Educational Psychology",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261002080034.htm"
-    },
-    "sourceGuid": "https://www.sciencedaily.com/releases/2026/10/261002080034.htm",
     "status": "published"
   }
 ]
