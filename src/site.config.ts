@@ -105,6 +105,12 @@ export type AffiliateLink = {
    The configuration object itself.
    ------------------------------------------------------------------------- */
 export const siteConfig = {
+  /* -------------------------------------------------------------- ANALYTICS */
+  analytics: {
+    /** GA4 measurement ID (G-XXXXXXXXXX). Empty string = no tag rendered.
+     *  NEXT_PUBLIC_GA_ID, when set, takes precedence. */
+    gaMeasurementId: "G-CMEPVTNRQS"
+  },
   /* ------------------------------------------------------------------ BRAND */
   brand: {
     name: "WORLD STUDY TOKYO",
