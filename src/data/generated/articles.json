@@ -1,5 +1,311 @@
 [
   {
+    "slug": "screen-time-two-critical-windows-for-childrens-learning-identified",
+    "category": "early-childhood",
+    "issue": "Vol. 06",
+    "publishedAt": "2026-11-27T03:56:06.000Z",
+    "readingMinutes": 5,
+    "feature": true,
+    "cover": {
+      "src": "https://images.unsplash.com/photo-1471107340929-a87cd0f5b5f3?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#F8C9D3"
+    },
+    "title": {
+      "en": "Screen Time: Two Critical Windows for Children's Learning Identified",
+      "ja": "子どものスクリーンタイム：学習と記憶に影響する「2つの臨界期」が判明"
+    },
+    "dek": {
+      "en": "New research suggests that infancy and the start of formal schooling are especially sensitive periods when screen exposure may impact a child's academic performance and working memory years later.",
+      "ja": "乳幼児期と小学校入学前後の時期は、スクリーンタイムが子どもの学習能力とワーキングメモリに長期的な影響を与えやすい「特に重要な期間」である可能性が示されました。"
+    },
+    "author": {
+      "en": "WORLD STUDY TOKYO Editors",
+      "ja": "WORLD STUDY TOKYO 編集部"
+    },
+    "location": {
+      "en": "Tokyo, November 2026",
+      "ja": "東京、2026年11月"
+    },
+    "tags": [
+      {
+        "en": "screen time",
+        "ja": "スクリーンタイム"
+      },
+      {
+        "en": "child development",
+        "ja": "子どもの発達"
+      },
+      {
+        "en": "early childhood education",
+        "ja": "幼児教育"
+      },
+      {
+        "en": "cognitive science",
+        "ja": "認知科学"
+      }
+    ],
+    "body": {
+      "en": [
+        "Scientists have identified two specific developmental stages where children may be particularly vulnerable to the effects of screen time on their learning and memory. A recent study revealed that greater screen exposure during infancy and the transition to formal schooling was linked to poorer academic outcomes and weaker working memory in later years.",
+        "The research, conducted by an international team, highlights that these periods are not just any time in a child's development, but rather critical windows where the brain is rapidly forming foundational cognitive abilities. Understanding these sensitive phases can help parents and educators make more informed decisions about screen use, aiming to protect crucial aspects of a child's intellectual growth.",
+        "Working memory (作業記憶 — 情報を一時的に保持し、処理する能力。例えば、指示を覚えて実行したり、計算の途中の数字を記憶したりする力) is fundamental for learning, problem-solving, and executive functions (実行機能 — 目標達成のために行動を計画・実行・管理する脳の能力). If early screen exposure compromises this capacity, the long-term implications for a child's educational journey can be significant. The study tracked hundreds of children over several years, observing their screen habits and cognitive development.",
+        "The first critical period identified is infancy, roughly from birth to 12 months. During this time, infants are developing crucial sensory, motor, and social-emotional skills through direct interaction with their environment and caregivers. Excessive screen time may displace these vital interactions, potentially hindering the development of neural pathways essential for attention and language acquisition.",
+        "The second sensitive window occurs around the start of formal schooling, typically between four and six years of age. This is when children are learning to focus in structured environments, follow complex instructions, and engage in sustained learning tasks. \"Greater screen exposure during these developmental windows was linked to poorer academic performance and weaker working memory years later,\" the researchers noted, suggesting a disruption to the emergent skills required for classroom success.",
+        "The findings do not advocate for a complete ban on screens, but rather a mindful approach, particularly during these identified periods. For infants, limiting screen exposure and prioritizing interactive play and direct communication remains key. For preschoolers entering school, balancing digital engagement with activities that build attention, self-regulation, and hands-on learning experiences appears to be crucial for fostering robust cognitive development.",
+        "While this research offers valuable insights, further studies are needed to understand the specific types of screen content, interactive versus passive viewing, and individual differences that might mediate these effects. The core message for parents is to be especially aware of screen time during these two formative stages, recognizing their profound impact on a child's future learning capabilities."
+      ],
+      "ja": [
+        "科学者たちは、子どもの学習と記憶に対するスクリーンタイムの影響が特に大きくなる可能性のある、2つの特定の発達段階を特定しました。最近の研究では、乳幼児期と小学校入学前後の時期にスクリーンに多く触れることが、数年後の学業成績の低下やワーキングメモリ（作業記憶 — 情報を一時的に保持し、処理する能力。例えば、指示を覚えて実行したり、計算の途中の数字を記憶したりする力）の弱さと関連していることが明らかになりました。",
+        "この国際的な研究チームによる報告は、これらの期間が単なる子どもの成長段階ではなく、脳が急速に基本的な認知能力を形成する「臨界期」であることを強調しています。これらの感受性の高い時期を理解することは、保護者や教育者がスクリーンの利用についてより情報に基づいた意思決定を行い、子どもの知的な成長における重要な側面を保護するのに役立つでしょう。",
+        "ワーキングメモリは、学習、問題解決、および実行機能（実行機能 — 目標達成のために行動を計画・実行・管理する脳の能力）の基盤となります。もし幼少期のスクリーンへの過度な接触がこの能力を損なうとすれば、子どもの教育の道のりにとって長期的な影響は無視できません。この研究では、数百人の子どもたちを数年間にわたって追跡し、彼らのスクリーン習慣と認知発達を観察しました。",
+        "特定された最初の臨界期は、乳幼児期、おおよそ生後から12ヶ月頃までです。この時期、乳幼児は環境や養育者との直接的な相互作用を通じて、重要な感覚、運動、社会情緒的なスキルを発達させています。過度なスクリーンタイムはこれらの不可欠な相互作用を奪い、注意や言語習得に不可欠な神経経路の発達を妨げる可能性があります。",
+        "2番目の感受性の高い期間は、小学校入学前後の、通常4歳から6歳頃に訪れます。この時期は、子どもたちが構造化された環境で集中し、複雑な指示に従い、持続的な学習課題に取り組むことを学ぶ大切な時期です。「これらの発達段階におけるスクリーンへの過度な接触は、数年後の学業成績の低下やワーキングメモリの弱さと関連していました」と研究者たちは指摘しており、これは教室での成功に不可欠な新たなスキルの習得を阻害する可能性を示唆しています。",
+        "この研究結果は、スクリーンの全面的な禁止を推奨するものではなく、特に特定された期間において、より注意深いアプローチを促すものです。乳幼児期には、スクリーンへの接触を制限し、インタラクティブな遊びや直接的なコミュニケーションを優先することが引き続き重要です。小学校入学前の子どもたちには、注意、自己調整、実践的な学習経験を育む活動とデジタルエンゲージメントのバランスを取ることが、健全な認知発達を促す上で不可欠であると考えられます。",
+        "この研究は貴重な知見を提供していますが、スクリーンの具体的なコンテンツの種類、受動的な視聴と能動的な視聴の違い、そしてこれらの影響を媒介する可能性のある個々の違いを理解するためには、さらなる研究が必要です。保護者への主要なメッセージは、これら2つの形成期におけるスクリーンタイムに特に注意を払い、それが子どもの将来の学習能力に深い影響を与えることを認識することです。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "For Tokyo families, this research offers a timely reminder that not all screen time is created equal, especially at different stages of a child's development. Think of it like building a strong foundation for a house: there are certain times when the ground is being prepared and the main beams are being laid, and disrupting that process can have lasting effects. In infancy, the constant back-and-forth of language and interaction with a parent is like the rich soil that allows a tree to grow deep roots. During early schooling, learning to focus on a teacher's voice or a textbook without digital distractions is akin to learning to ride a bicycle — it requires undivided attention and practice.",
+        "The plausible future impact for Tokyo families lies in how this understanding might shape early childhood education choices and daily routines. Parents of young children might increasingly prioritize preschools or kindergartens that emphasize play-based learning and minimize digital tools, especially for children under six. For families navigating the demands of early elementary school, this could mean a more conscious effort to protect after-school hours from excessive screen use, ensuring time for homework, reading, and face-to-face interactions that build crucial cognitive muscles. It might also influence discussions around the use of educational apps, encouraging a focus on truly interactive and developmentally appropriate content rather than passive viewing.",
+        "In terms of timeframe, we might see this awareness grow among Tokyo parents within the next 1-2 years. This will likely be gated by increased coverage in Japanese parenting magazines and media, as well as informal discussions among parent networks. A more formal shift in educational practice, such as changes in 保育園 (daycare) or 幼稚園 (kindergarten) guidelines, or even curriculum recommendations from the 文部科学省 (MEXT – Ministry of Education, Culture, Sports, Science and Technology), would likely take 3-5 years, after domestic replication studies or broader public health campaigns begin to emerge.",
+        "While Japan has a strong culture of early childhood education, with many traditional kindergartens emphasizing play and social development, the increasing presence of digital devices in homes and classrooms is a global trend. Organizations like ベネッセ教育総合研究所 (Benesse Educational Research Institute) already conduct extensive research on child development and technology use. However, specific guidance tailored to these newly identified 'critical windows' for screen time could further refine the advice given to parents, potentially leading to more targeted recommendations for families using educational platforms like こどもちゃれんじ (Kodomo Challenge) or contemplating the role of tablets in early learning."
+      ],
+      "ja": [
+        "東京のご家庭にとって、今回の研究は、スクリーンタイムが子どもの発達段階によってその影響が大きく異なるという、タイムリーな気づきを与えてくれます。これは、家を建てる際に土台をしっかり固める時期と、主要な柱を立てる時期があるようなものです。この重要なプロセスを妨げると、後々にまで影響が残ります。乳幼児期に親との言葉のやりとりや触れ合いが絶え間なく続くことは、木が深く根を張るための豊かな土壌のようなもの。小学校入学前後に、デジタルの邪魔なしに先生の声や教科書に集中して学ぶことは、自転車に乗る練習と同じで、ひたすら集中して実践することが求められます。",
+        "東京のご家庭への将来的な影響としては、この知見が幼児教育の選択や日々の生活習慣にどう影響するかが挙げられます。幼いお子さんを持つ保護者は、特に6歳未満の子どもに対して、遊びを中心とした学びを重視し、デジタルツールの利用を最小限に抑える保育園や幼稚園をより一層優先するようになるかもしれません。小学校入学後の子どもを持つご家庭では、放課後の時間を過度なスクリーン利用から守り、宿題や読書、そして重要な認知能力を育む対面での交流の時間を確保することに、より意識的に取り組むようになるでしょう。また、教育アプリの利用についても、単なる受動的な視聴ではなく、真にインタラクティブで発達段階に適したコンテンツに焦点を当てるよう、議論が深まる可能性もあります。",
+        "タイムフレームとしては、東京の保護者の間でこの認識が高まるのは今後1〜2年以内と考えられます。これは、日本の育児雑誌やメディアでの報道が増え、保護者間のネットワークでの非公式な議論が活発になることで進むでしょう。保育園や幼稚園のガイドラインの変更、あるいは文部科学省（文科省）からの学習指導要領改訂に向けた提言など、より公式な教育実践の変化が起こるには、国内での追試研究やより広範な公衆衛生キャンペーンが展開された後、3〜5年を要する可能性が高いです。",
+        "日本には、遊びや社会性の発達を重視する伝統的な幼稚園が多く、幼児教育の文化が根付いています。しかし、家庭や教室でのデジタルデバイスの普及は世界的な傾向です。ベネッセ教育総合研究所のような機関は、子どもの発達とテクノロジー利用に関する広範な研究をすでに実施しています。今回の研究で特定された「臨界期」に特化した具体的なガイダンスは、保護者へのアドバイスをさらに洗練させる可能性があり、こどもちゃれんじのような教育プラットフォームを利用するご家庭や、早期学習におけるタブレットの役割を検討するご家庭に対し、より的を絞った推奨事項が提供されることにつながるかもしれません。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "Infancy and early schooling are key screen time windows.",
+        "ja": "乳幼児期と小学校入学前がスクリーンタイムの要"
+      },
+      "whoForWhat": {
+        "en": "For a Tokyo family with a toddler or a child approaching elementary school, this research informs decisions about daily screen time limits and the choice of early childhood learning environments.",
+        "ja": "乳幼児や小学校入学を控えるお子さんを持つ東京のご家庭にとって、日々のスクリーンタイムの制限や、幼児期の学習環境を選ぶ上での重要なヒントとなるでしょう。"
+      },
+      "vsJapanContext": {
+        "en": "This research aligns with Japan's traditional emphasis on play-based learning in kindergartens (幼稚園) and daycares (保育園), suggesting a scientific basis for limiting digital exposure during foundational developmental stages.",
+        "ja": "この研究は、日本の幼稚園や保育園が伝統的に遊びを通じた学びを重視してきた姿勢と合致しており、発達の基礎段階におけるデジタル露出の制限に科学的根拠を与えるものです。"
+      },
+      "tokyoNote": {
+        "en": "Tokyo parents often balance rigorous academic preparation with holistic development. This finding reinforces the importance of protecting specific developmental windows from excessive screen time, a challenge in an increasingly digital urban environment where educational apps and online content are prevalent. Consider the balance between early exposure and foundational skill building.",
+        "ja": "東京の保護者は、学力向上と全人的な発達のバランスを常に模索しています。今回の発見は、教育アプリやオンラインコンテンツが普及するデジタル化された都市環境において、特定の重要な発達段階を過度なスクリーンタイムから保護することの重要性を改めて示唆しています。早期のデジタル接触と基礎的なスキル構築のバランスをどう取るか、考えるきっかけとなるでしょう。"
+      }
+    },
+    "source": {
+      "name": "ScienceDaily — Child Development",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261126033220.htm"
+    },
+    "sourceGuid": "https://www.sciencedaily.com/releases/2026/11/261126033220.htm",
+    "status": "published"
+  },
+  {
+    "slug": "critical-screen-time-windows-identified-for-childrens-learning",
+    "category": "early-childhood",
+    "issue": "Vol. 06",
+    "publishedAt": "2026-11-27T03:56:06.000Z",
+    "readingMinutes": 5,
+    "feature": true,
+    "cover": {
+      "src": "https://images.unsplash.com/photo-1485727749690-d091e8284ef3?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#FAD7DD"
+    },
+    "title": {
+      "en": "Critical Screen Time Windows Identified for Children's Learning",
+      "ja": "子どもの学習に影響を与えるスクリーンタイムの「臨界期」が判明"
+    },
+    "dek": {
+      "en": "New research suggests that infancy and the start of formal schooling are two periods when children may be particularly vulnerable to the detrimental effects of screen exposure on memory and academic performance.",
+      "ja": "乳幼児期と小学校入学時が、子どもの記憶力や学業成績にスクリーンタイムが悪影響を及ぼしやすい「臨界期」である可能性が、新たな研究で示されました。"
+    },
+    "author": {
+      "en": "WORLD STUDY TOKYO Editors",
+      "ja": "WORLD STUDY TOKYO 編集部"
+    },
+    "location": {
+      "en": "Tokyo",
+      "ja": "東京"
+    },
+    "tags": [
+      {
+        "en": "screen time",
+        "ja": "スクリーンタイム"
+      },
+      {
+        "en": "early childhood",
+        "ja": "乳幼児教育"
+      },
+      {
+        "en": "cognitive development",
+        "ja": "認知発達"
+      },
+      {
+        "en": "learning",
+        "ja": "学習"
+      }
+    ],
+    "body": {
+      "en": [
+        "Scientists have identified two specific developmental stages where excessive screen time may be particularly detrimental to children's learning and memory: infancy and the period when formal schooling begins. A study, published in late 2026, found that greater screen exposure during these critical windows was linked to poorer academic performance and weaker working memory years later.",
+        "The research highlights that not all screen time is equally impactful, nor are all ages equally susceptible. Instead, it points to specific \"vulnerability windows\" where the rapidly developing brain is more sensitive to environmental factors. During infancy (roughly 0-2 years), foundational cognitive abilities are being established, while at the start of formal schooling (around 5-7 years), children are developing crucial executive functions (計画を立て、注意を集中し、課題を解決する能力) like attention regulation and problem-solving skills, which are vital for classroom success.",
+        "This finding suggests that the timing of screen exposure might be as important as the total amount. While the study did not differentiate between passive viewing and interactive educational content, the implication is that the very early stages of development and the transition into structured learning environments require particular caution regarding digital media use. The brain's architecture for processing information, retaining memories, and sustaining focus is under construction during these times.",
+        "> \"Greater screen exposure during these developmental windows was linked to poorer academic performance and weaker working memory years later.\"",
+        "Working memory (作業記憶 — 情報を一時的に保持し、処理する能力) is fundamental for learning, allowing children to follow instructions, solve math problems, and comprehend complex sentences. If screen time during these sensitive periods interferes with the natural development of these cognitive capacities, the effects could ripple through a child's educational journey, impacting their ability to absorb new information and perform well academically.",
+        "While the study provides a significant correlation, it also opens avenues for further research. Future studies will need to explore the specific types of screen content that are most impactful, the precise mechanisms through which screen time affects brain development during these windows, and whether interventions during these periods can mitigate potential negative effects. For parents, the immediate takeaway is a call for mindful engagement with digital devices, especially during these formative years."
+      ],
+      "ja": [
+        "科学者たちは、子どもの学習と記憶に過度なスクリーンタイムが特に悪影響を及ぼす可能性のある、2つの特定の成長段階を特定しました。それは乳幼児期と、小学校に入学するフォーマルな教育が始まる時期です。2026年後半に発表されたこの研究は、これらの「臨界期」におけるスクリーンへの接触が多いほど、数年後の学業成績の低下やワーキングメモリの弱さと関連していることを示しました。",
+        "この研究は、すべてのスクリーンタイムが同じように影響を与えるわけではなく、またすべての年齢が同じように影響を受けやすいわけでもないことを強調しています。むしろ、急速に発達する脳が環境要因に特に敏感になる特定の「脆弱な期間」があることを指摘しています。乳幼児期（おおよそ0〜2歳）には、基礎的な認知能力が確立されつつあり、一方、小学校入学時（およそ5〜7歳）には、計画を立て、注意を集中し、課題を解決する能力といった、教室での成功に不可欠な実行機能（executive functions）が発達しています。",
+        "この発見は、スクリーンに触れる「タイミング」が、総量と同じくらい重要である可能性を示唆しています。研究では、受動的な視聴とインタラクティブな教育コンテンツを区別していませんが、発達のごく初期段階と、体系的な学習環境への移行期には、デジタルメディアの使用に関して特に注意が必要であるという示唆を与えています。情報を処理し、記憶を保持し、集中力を維持するための脳の構造は、これらの時期に構築されているからです。",
+        "> 「これらの発達期におけるスクリーンへの接触が多いほど、数年後の学業成績の低下やワーキングメモリの弱さと関連していた」",
+        "ワーキングメモリ（作業記憶 — 情報を一時的に保持し、処理する能力）は、子どもが指示に従い、算数の問題を解き、複雑な文章を理解するために不可欠な学習の基盤です。もしこれらの感受性の高い時期のスクリーンタイムが、これらの認知能力の自然な発達を妨げるとすれば、その影響は子どもの学習過程全体に波及し、新しい情報を吸収し、学業で良い成績を収める能力に影響を及ぼす可能性があります。",
+        "この研究は重要な相関関係を示していますが、さらなる研究の道も開いています。今後、どのような種類のスクリーンコンテンツが最も影響を与えるのか、これらの期間にスクリーンタイムが脳の発達に影響を与える具体的なメカニズム、そしてこれらの期間における介入が潜在的な悪影響を軽減できるかどうかを調査する必要があります。保護者にとっての喫緊の教訓は、特にこれらの形成期においては、デジタルデバイスとの関わり方に注意を払うことだと言えるでしょう。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "This research reminds us that a child's brain development is not a linear process, but one with distinct windows of heightened sensitivity. Think of it like a house under construction: the foundation (infancy) and the main framework (early elementary) are laid at specific times, and any disruption during these crucial phases can have long-lasting effects on the overall structure, regardless of how much effort is put into decoration later. For Tokyo families, this means being especially mindful of screen exposure during these two sensitive periods, recognizing their unique importance for cognitive growth.",
+        "For Tokyo families navigating intense educational pathways, this finding could reinforce existing caution around early screen use. Parents preparing for 中学受験 (junior high entrance exams) or considering an インターナショナルスクール often prioritize strong foundational learning and executive functions. This research suggests that limiting screen time in infancy and around elementary school entry could support the development of the very cognitive skills—like sustained attention and working memory—that are crucial for academic success in these competitive environments.",
+        "While direct policy changes from MEXT (文部科学省) or major juku (塾) might take 5-10 years, gated by local replication studies and curriculum reform cycles, the implications for individual family choices are immediate. Many Tokyo parents are already making decisions based on developmental science; this study offers more specific guidance on *when* caution is most warranted. We may see an increased emphasis on screen-free play in early childhood education settings and a conscious effort at home to create focused learning environments during the elementary transition.",
+        "In Japan, many traditional 幼児教室 (early childhood learning centers) and even public 幼稚園 (kindergartens) and 保育園 (daycares) naturally emphasize hands-on play, social interaction, and outdoor activities with minimal screen exposure. Programs like 公文式 (Kumon) or 学研教室 (Gakken Classroom) also focus on paper-based, focused learning from a very young age, implicitly aligning with the idea of protecting these critical periods from excessive digital distraction. This research provides a scientific backing for these established practices, suggesting that a balanced approach, prioritizing real-world interaction during key developmental windows, remains highly valuable."
+      ],
+      "ja": [
+        "この研究は、子どもの脳の発達が直線的なプロセスではなく、感受性が高まる明確な時期があることを私たちに改めて教えてくれます。家を建てることに例えるなら、土台（乳幼児期）と主要な骨組み（小学校入学期）は特定の時期に作られ、この重要な段階でのいかなる妨害も、後からどれだけ装飾に力を入れても、全体の構造に長期的な影響を与える可能性があります。東京で子育てをするご家庭にとって、これは認知発達にとっての独自の重要性を認識し、これら2つの敏感な時期におけるスクリーンへの接触に特に注意を払うことを意味します。",
+        "中学受験やインターナショナルスクールを検討するような、教育に熱心な東京のご家庭にとって、この発見は、幼少期のスクリーン利用に対する既存の注意をさらに強めるかもしれません。多くの保護者は、強固な基礎学習能力と実行機能の発達を重視しています。この研究は、乳幼児期や小学校入学時にスクリーンタイムを制限することが、競争の激しい環境での学業成功に不可欠な、持続的な注意やワーキングメモリといった認知スキルの発達を支援する可能性を示唆しています。",
+        "文部科学省（MEXT）や主要な塾からの直接的な政策変更は、国内での追試やカリキュラム改訂のサイクルを考慮すると、5〜10年かかるかもしれませんが、個々の家庭の選択に対する影響は即座に現れるでしょう。東京の多くの保護者は、すでに発達科学に基づいて意思決定を行っていますが、この研究は「いつ」最も注意が必要かについて、より具体的な指針を提供します。幼少期の教育現場でのスクリーンフリーな遊びの重視や、小学校への移行期における集中できる学習環境づくりへの意識的な努力が増すかもしれません。",
+        "日本では、多くの伝統的な幼児教室や、公立の幼稚園、保育園でさえ、手遊び、社会的な交流、屋外活動を重視し、スクリーンへの露出を最小限に抑える傾向があります。公文式や学研教室のようなプログラムも、幼少期から紙ベースの集中学習に焦点を当てており、過度なデジタルによる注意散漫からこれらの重要な時期を守るという考え方と暗黙のうちに一致しています。この研究は、これらの確立された実践に科学的な裏付けを与え、発達の鍵となる時期に現実世界での交流を優先するバランスの取れたアプローチが、引き続き非常に価値があることを示唆しています。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "Infancy and early school years are critical for screen time.",
+        "ja": "スクリーンタイム、乳幼児期と就学期が鍵。"
+      },
+      "whoForWhat": {
+        "en": "For Tokyo families with young children, this research offers guidance on when to be most mindful of screen time to support foundational cognitive development before elementary school.",
+        "ja": "幼いお子さんを持つ東京のご家庭が、小学校入学前の基礎的な認知発達を支える上で、いつスクリーンタイムに最も注意すべきかを知るための指針となります。"
+      },
+      "vsJapanContext": {
+        "en": "This finding aligns with traditional Japanese early childhood education philosophies and programs like Kumon, which emphasize hands-on, paper-based learning and social interaction over early digital exposure.",
+        "ja": "この発見は、早期のデジタル接触よりも手を使った紙ベースの学習や社会交流を重視する、日本の伝統的な幼児教育や公文式のようなプログラムと方向性が一致しています。"
+      },
+      "tokyoNote": {
+        "en": "Tokyo parents often seek a balance between academic readiness and holistic development. This study suggests that protecting specific developmental windows from excessive screen time can directly support the executive functions crucial for future learning, reinforcing the value of screen-free play and focused activities during these periods.",
+        "ja": "東京の保護者は、学力と全人的な発達のバランスを重視する傾向があります。この研究は、特定の成長期を過度なスクリーンタイムから守ることが、将来の学習に不可欠な実行機能を直接的に支援し、この時期のスクリーンフリーな遊びや集中活動の価値を再確認させます。"
+      }
+    },
+    "source": {
+      "name": "ScienceDaily — Educational Psychology",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261126033220.htm"
+    },
+    "sourceGuid": "https://www.sciencedaily.com/releases/2026/11/261126033220.htm",
+    "status": "published"
+  },
+  {
+    "slug": "prioritizing-curiosity-shifting-early-education-from-3-rs-to-3-cs",
+    "category": "early-childhood",
+    "issue": "Vol. 06",
+    "publishedAt": "2026-11-23T06:00:00.000Z",
+    "readingMinutes": 5,
+    "feature": true,
+    "cover": {
+      "src": "https://i0.wp.com/hechingerreport.org/wp-content/uploads/2026/11/oped-kalil-111726-scaled.jpg?fit=1024%2C683&amp;ssl=1",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "Prioritizing Curiosity: Shifting Early Education from 3 Rs to 3 Cs",
+      "ja": "幼児教育の新たな潮流：読み書き計算から「好奇心、創造性、批判的思考」へ"
+    },
+    "dek": {
+      "en": "A recent opinion highlights the need to cultivate curiosity, creativity, and critical thinking as foundational skills, arguing they should precede a sole focus on traditional reading, writing, and arithmetic.",
+      "ja": "幼児教育において、従来の読み書き計算だけでなく、好奇心、創造性、批判的思考力を土台とすることの重要性が指摘されています。"
+    },
+    "author": {
+      "en": "WORLD STUDY TOKYO Editors",
+      "ja": "WORLD STUDY TOKYO 編集部"
+    },
+    "location": {
+      "en": "November 2026",
+      "ja": "2026年11月"
+    },
+    "tags": [
+      {
+        "en": "early childhood education",
+        "ja": "幼児教育"
+      },
+      {
+        "en": "curiosity",
+        "ja": "好奇心"
+      },
+      {
+        "en": "creativity",
+        "ja": "創造性"
+      },
+      {
+        "en": "critical thinking",
+        "ja": "批判的思考"
+      }
+    ],
+    "body": {
+      "en": [
+        "A recent opinion piece in The Hechinger Report, published in late 2026, has highlighted a growing discussion in early education: the idea that cultivating curiosity, creativity, and critical thinking—often termed the \"3 Cs\"—should take precedence over an exclusive focus on the \"3 Rs\" of reading, writing, and arithmetic. This perspective suggests a re-evaluation of what truly constitutes foundational learning for young children.",
+        "Traditionally, early learning success has often been measured by how quickly children master literacy and numeracy. While these skills are undeniably essential, the argument put forward is that treating the 3 Cs as secondary, or \"nice-to-haves\" after the 3 Rs are mastered, misunderstands the optimal sequence of development. Fostering a child's inherent drive to explore and question can make the acquisition of foundational skills more meaningful and enduring.",
+        "> We often treat the 3 Cs as 'nice-to-haves' after children master reading, writing and arithmetic. But that gets the sequence wrong.",
+        "The piece suggests that when children are encouraged to ask \"why,\" to imagine new possibilities, and to analyze situations from different angles, they develop a deeper engagement with learning. This approach doesn't diminish the importance of learning to read or count; rather, it embeds these skills within a rich context of discovery. For instance, a child driven by curiosity to understand how a story works might grasp reading more organically than one drilled solely on phonics.",
+        "This shift implies a move away from purely didactic teaching methods towards environments that encourage open-ended play, problem-solving activities, and collaborative exploration. The goal is to build a robust internal motivation for learning, equipping children not just with knowledge, but with the intellectual tools to navigate an increasingly complex world where adaptability and innovative thinking are highly valued."
+      ],
+      "ja": [
+        "2026年後半にThe Hechinger Reportに掲載された意見記事は、幼児教育における重要な議論を浮き彫りにしました。それは、従来の「読み書き計算」（3つのR）に専念するのではなく、「好奇心、創造性、批判的思考力」（3つのC）を育むことを優先すべきだという考え方です。この視点は、幼少期の学びの真の土台とは何かを再考するよう促しています。",
+        "これまで、幼児教育の成功は、子どもたちがどれだけ早く読み書きや数を習得できるかで測られることが少なくありませんでした。これらのスキルが不可欠であることは間違いありませんが、記事が提起するのは、3つのCを「読み書き計算の習得後にあれば良いもの」として副次的に扱うことは、発達の最適な順序を誤っているという点です。子どもの持つ探究心や疑問を抱く力を先に育むことで、基礎スキルの習得がより意味深く、持続的なものになる可能性があります。",
+        "> 私たちは、子どもたちが読み書き計算を習得した後に、好奇心、創造性、批判的思考力を『あれば良いもの』として扱いがちです。しかし、その順序が間違っています。",
+        "同記事は、子どもたちが「なぜ」と問い、新しい可能性を想像し、様々な角度から状況を分析するよう促されるとき、彼らは学びにより深く関わるようになると示唆しています。このアプローチは、読み方や数え方を学ぶことの重要性を軽視するものではありません。むしろ、これらのスキルを発見という豊かな文脈の中に組み込むものです。例えば、物語がどのように機能するかを知りたいという好奇心に駆られた子どもは、単に音読練習をさせられるよりも、より自然に読解力を身につけるかもしれません。",
+        "この転換は、純粋に教え込む教育法から、自由な遊び、問題解決活動、協調的な探求を促す環境へと移行することを意味します。目標は、知識だけでなく、適応性と革新的な思考力が高く評価される、ますます複雑になる世界を生き抜くための知的なツールを子どもたちに提供し、学習への強固な内発的動機を築くことです。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "This discussion about prioritizing the \"3 Cs\"—curiosity, creativity, and critical thinking—over solely the \"3 Rs\" of reading, writing, and arithmetic in early education offers a valuable shift in perspective. Imagine a child learning to build with blocks: instead of being shown exactly how to construct a tower (like learning the 3 Rs by rote), they are encouraged to experiment, try different shapes, and figure out why some structures stand and others fall (engaging the 3 Cs). This exploration helps them understand the underlying principles more deeply than simply memorizing instructions.",
+        "For Tokyo families, this perspective could influence several key decisions. It might lead parents to reconsider the balance between highly academic, \"お受験\" (ojuken – entrance exam preparation) focused preschools and those emphasizing free play and inquiry. It could also shift expectations regarding early elementary homework, moving towards tasks that spark imagination and problem-solving rather than repetitive drills. Families might also seek out after-school activities (習い事 – naraigoto) that prioritize creative expression or scientific exploration over pure academic tutoring.",
+        "We might see this trend gaining traction within 3-5 years, particularly in progressive private kindergartens and international schools in Tokyo. Wider adoption across public kindergartens and elementary schools would likely take longer, perhaps 5-10 years, contingent on shifts in MEXT's (文部科学省 – Ministry of Education, Culture, Sports, Science and Technology) curriculum guidelines (学習指導要領 – Gakushū Shidō Yōryō) and teacher training programs. However, individual families can begin integrating these principles into home life immediately.",
+        "While traditional Japanese education often emphasizes foundational skills and discipline, there are strong counterparts embracing the 3 Cs. Montessori and Reggio Emilia-inspired preschools in Tokyo, such as those within the international school network or independent private institutions, already prioritize child-led discovery and creative expression. Additionally, some progressive private elementary schools and even certain public elementary schools are beginning to incorporate more project-based learning and \"探究学習\" (tankyū gakushū – inquiry-based learning) that aligns with fostering curiosity and critical thinking."
+      ],
+      "ja": [
+        "幼児教育において、読み書き計算（3つのR）だけでなく、好奇心、創造性、批判的思考力（3つのC）を優先するという今回の議論は、非常に示唆に富む視点です。これは、子どもがブロックで遊ぶ場面に例えると分かりやすいかもしれません。例えば、ただ「こうやってタワーを作りなさい」と教える（3つのRの詰め込み学習）のではなく、「どうすればもっと高いタワーができるかな？」「なぜこれは倒れてしまうんだろう？」と自分で試行錯誤させる（3つのCを育む）ことで、子どもは構造の原理をより深く理解し、応用する力を身につけます。",
+        "東京で子育てをするご家庭にとって、この考え方はいくつかの重要な選択に影響を与える可能性があります。早期の学力向上を目指す「お受験」に特化した幼稚園と、自由遊びや探求を重視する幼稚園のどちらを選ぶか、というバランスを再考するきっかけになるかもしれません。また、小学校低学年の宿題についても、反復練習だけでなく、子どもの想像力や問題解決能力を刺激するような内容への期待が高まるでしょう。さらに、習い事の選び方においても、純粋な学力強化よりも、創造的な表現や科学的な探求を促すものに目を向ける家庭が増える可能性もあります。",
+        "このトレンドは、今後3〜5年で、特に都内の先進的な私立幼稚園やインターナショナルスクールを中心に浸透していくと予想されます。公立の幼稚園や小学校全体に広がるには、文部科学省の学習指導要領の改訂や教員研修の進展が不可欠であり、5〜10年といったより長い期間を要するかもしれません。しかし、各ご家庭では、今日からでも家庭での対話や遊びの中にこれらの原則を取り入れることができます。",
+        "日本の教育は基礎学力や規律を重視する側面がありますが、3つのCを育むことに注力している実践例も存在します。都内のモンテッソーリ教育やレッジョ・エミリア・アプローチを取り入れた幼稚園、あるいは一部のインターナショナルスクールでは、子ども主導の発見や創造的な表現が既に重視されています。また、近年では一部の私立小学校や、公立小学校でも探究学習やプロジェクト型学習を導入し、子どもの好奇心や批判的思考力を伸ばす教育への関心が高まっています。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "Put curiosity first in early learning.",
+        "ja": "幼児期は好奇心を最優先に。"
+      },
+      "whoForWhat": {
+        "en": "For a Tokyo family with a preschooler considering different kindergarten philosophies, or a parent wondering how to best prepare their young child for elementary school beyond rote memorization.",
+        "ja": "幼稚園選びで教育方針に悩む未就学児の保護者や、小学校入学に向けて詰め込み学習以外の準備を考えているご家庭にとって。"
+      },
+      "vsJapanContext": {
+        "en": "This perspective challenges the emphasis on early academic achievement often seen in some Japanese preschools and early elementary education, aligning more with play-based or inquiry-driven approaches.",
+        "ja": "日本の一部幼稚園や小学校低学年で重視されがちな早期の読み書き計算教育に対し、遊びや探求を通じた学びを重視するアプローチと対比されます。"
+      },
+      "tokyoNote": {
+        "en": "Tokyo parents often face pressure for early academic success. This piece reminds us that developing a child's innate curiosity and critical thinking might be a more sustainable path, even if immediate test scores aren't the sole focus.",
+        "ja": "東京の保護者は早期の学力達成へのプレッシャーを感じがちです。しかし、子どもの内発的な好奇心や批判的思考力を育むことが、目先のテスト結果だけでなく、より持続可能な成長に繋がることを示唆しています。"
+      }
+    },
+    "source": {
+      "name": "The Hechinger Report",
+      "url": "https://hechingerreport.org/opinion-its-time-to-put-curiosity-creativity-and-critical-thinking-first-in-the-early-learning-years/"
+    },
+    "sourceGuid": "https://hechingerreport.org/?p=119139",
+    "status": "published"
+  },
+  {
     "slug": "ai-reveals-distinct-brain-types-underlying-adhd-and-anxiety",
     "category": "research",
     "issue": "Vol. 06",
@@ -6570,8 +6876,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1488998427799-e3362cec87c3?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#D3C7E1"
+      "src": "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#DCD2E7"
     },
     "title": {
       "en": "Youth Protein Shows Promise in Rejuvenating Brain Cells in Aging Mice",
@@ -6872,8 +7178,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1593720213428-28a5b9e94613?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#C9E0CC"
+      "src": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#CDE3CF"
     },
     "title": {
       "en": "Making AI Tutors Transparent: A New Framework for Understanding Educational Dialogues",
@@ -6974,8 +7280,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#DCD2E7"
+      "src": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#D6CDE2"
     },
     "title": {
       "en": "Emotions: More Than Universal? How Culture Shapes What We Feel",
@@ -7180,8 +7486,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1455390582262-044cdead277a?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#D9CFE5"
+      "src": "https://images.unsplash.com/photo-1542621334-a254cf47733d?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#D8CDE3"
     },
     "title": {
       "en": "How Stress Hormones Strengthen Emotional Memories: A Yale Discovery",
@@ -7386,8 +7692,8 @@
     "readingMinutes": 6,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#C8DFCB"
+      "src": "https://images.unsplash.com/photo-1593720213428-28a5b9e94613?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#C9E0CC"
     },
     "title": {
       "en": "AI Tutors Learn to Read Between the Lines of Student Dialogues",
@@ -7592,8 +7898,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1455390582262-044cdead277a?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#D9CFE5"
+      "src": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#D5C9E2"
     },
     "title": {
       "en": "Beyond Reading: The Science of Learning in All Subjects",
@@ -7694,8 +8000,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1561089489-f13d5e730d72?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#D2E4D5"
+      "src": "https://images.unsplash.com/photo-1551434678-e076c223a692?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#CFE3D2"
     },
     "title": {
       "en": "AI-Simulated Students Now Predict Real Learning Patterns",
@@ -7890,314 +8196,6 @@
       "url": "https://psyche.co/guides/how-to-handle-jealous-feelings"
     },
     "sourceGuid": "urn:id:9163",
-    "status": "published"
-  },
-  {
-    "slug": "human-heart-ai-mind-our-unconscious-bias-towards-artificial-consciousness",
-    "category": "ai-edu",
-    "issue": "Vol. 05",
-    "publishedAt": "2026-10-14T01:41:55.000Z",
-    "readingMinutes": 4,
-    "feature": true,
-    "cover": {
-      "src": "https://www.sciencedaily.com/images/1920/human-vs-ai-brain-thinking-understanding.webp",
-      "tone": "#0c0c0c"
-    },
-    "title": {
-      "en": "Human Heart, AI Mind: Our Unconscious Bias Towards Artificial Consciousness",
-      "ja": "人間の心、AIの知性：人工知能への無意識の偏見が明らかに"
-    },
-    "dek": {
-      "en": "Even when AI behaves identically to a human, we perceive a fundamental difference in consciousness, a new study finds. This distinction shapes our trust and interaction with intelligent tools.",
-      "ja": "AIが人間と全く同じように振る舞っても、「意識」の有無に対する認識は大きく異なることが新たな研究で判明。この違いが、私たちがインテリジェントなツールを信頼し、関わる方法に影響を与えます。"
-    },
-    "author": {
-      "en": "WORLD STUDY TOKYO Editors",
-      "ja": "WORLD STUDY TOKYO 編集部"
-    },
-    "location": {
-      "en": "Tokyo",
-      "ja": "東京"
-    },
-    "tags": [
-      {
-        "en": "AI",
-        "ja": "AI"
-      },
-      {
-        "en": "Perception",
-        "ja": "認識"
-      },
-      {
-        "en": "Consciousness",
-        "ja": "意識"
-      },
-      {
-        "en": "Awareness",
-        "ja": "認識能力"
-      }
-    ],
-    "body": {
-      "en": [
-        "A recent study published in ScienceDaily reveals a striking psychological phenomenon: humans draw a surprisingly sharp line between human consciousness and artificial intelligence, even when both exhibit identical behaviors. Researchers found that our perception of \"consciousness\" in AI differs significantly from how we view it in humans, regardless of how responsive or sophisticated the AI appears.",
-        "This finding is particularly relevant as AI tools become increasingly integrated into our daily lives, from educational platforms to personal assistants. The study highlighted that participants consistently rated even the most sophisticated and responsive AI as less conscious than the least responsive human. This suggests an inherent bias, where the biological origin of consciousness holds a unique status in our minds.",
-        "However, the researchers observed a nuanced distinction. When the term \"awareness\" (the capacity to perceive or be cognizant of information) was used instead of \"consciousness\" (implying subjective experience and self-awareness), people judged humans and AI much more similarly. This suggests that while we may grant AI the ability to process and react to information, we are hesitant to attribute to it the deeper, qualitative experience of being alive and having feelings.",
-        "> \"Participants considered even the most responsive AI less conscious than the least responsive human.\"",
-        "This divergence in perception has significant implications for how we design, implement, and trust AI in critical domains like education. If students and parents perceive AI tutors as merely sophisticated tools rather than entities with a form of \"understanding,\" it could affect engagement, the depth of learning, and the acceptance of AI-driven feedback.",
-        "The study underscores the need for careful consideration in how we frame AI's capabilities and limitations. For developers, it suggests that focusing on transparent functionality and clear communication about what AI *does* (its awareness) rather than what it *feels* (its consciousness) might foster greater trust and more effective integration into human systems. For families, it encourages a thoughtful approach to discussing AI with children, differentiating between its impressive information processing abilities and the unique qualities of human thought and emotion."
-      ],
-      "ja": [
-        "ScienceDailyで発表された最近の研究は、興味深い心理現象を明らかにしました。人間は、たとえAIと人間が全く同じように振る舞ったとしても、両者の「意識」に対して驚くほど明確な線引きをするというものです。研究者たちは、AIがどれほど反応が良く、洗練されて見えても、AIの「意識」に対する私たちの認識が、人間に対するそれとは大きく異なることを見出しました。",
-        "この発見は、教育プラットフォームからパーソナルアシスタントまで、AIツールが私たちの日常生活にますます深く組み込まれている現代において、特に重要です。研究では、参加者が最も洗練され、反応性の高いAIでさえ、最も反応の鈍い人間よりも意識が低いと一貫して評価したことが強調されました。これは、意識の生物学的起源が私たちの心の中で特別な地位を占めているという、根深い偏見を示唆しています。",
-        "しかし、研究者たちは微妙な違いも観察しました。「意識」（主観的な経験や自己認識を意味する）という言葉の代わりに、「認識」（情報を知覚したり認知したりする能力）という言葉を使った場合、人々は人間とAIをはるかに似たものとして判断しました。これは、AIに情報を処理し反応する能力は認めるものの、生きていることや感情を持つという、より深く質的な経験をAIに帰属させることにはためらいがあることを示唆しています。",
-        "> 「参加者は、最も反応の良いAIでさえ、最も反応の鈍い人間よりも意識が低いと見なしました。」",
-        "この認識の相違は、教育のような重要な分野でAIを設計し、導入し、信頼する方法に大きな影響を与えます。もし生徒や保護者がAIチューターを、ある種の「理解」を持つ存在としてではなく、単に高度なツールとして認識するなら、それは学習への取り組み、学びの深さ、そしてAIによるフィードバックの受け入れ方に影響を与える可能性があります。",
-        "この研究は、AIの能力と限界をどのように位置づけるかについて、慎重な検討が必要であることを強調しています。開発者にとっては、AIが「何をするか」（その認識能力）について透明な機能性と明確なコミュニケーションに焦点を当てることの方が、「何を感じるか」（その意識）について語るよりも、より大きな信頼と人間システムへの効果的な統合を促進するかもしれません。家庭にとっては、AIについて子どもたちと話し合う際に、その優れた情報処理能力と、人間の思考や感情のユニークな性質を区別する、思慮深いアプローチを促します。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "This study tells us that even if an AI can chat, write, or solve problems just like a person, we still don't feel it has \"consciousness\" in the same way a human does. Think of it like a very advanced talking doll: it can respond to you perfectly, but you know it doesn't *feel* or *think* in the way a friend does. However, we are more willing to say an AI has \"awareness\"—meaning it can process information and react. The core finding is about this subtle but significant difference in our perception.",
-        "For Tokyo families, this finding has implications for how children interact with AI tutors or learning apps. If a child uses an AI language tutor, for example, they might trust its accuracy and effectiveness (its awareness) but not necessarily seek emotional support or deep philosophical discussion from it (its consciousness). This could shape how parents choose between AI tools and human tutors, influencing decisions around supplementary education budgets and the balance between digital and human interaction in learning.",
-        "This shift in perception is already happening today, though its deeper implications for educational design will likely unfold over the next 3-5 years. The gating factor will be how edtech companies and school systems in Japan decide to brand and integrate AI. If they focus on AI as a powerful, aware tool for specific learning tasks, rather than a \"conscious\" companion, it aligns with current public perception and could accelerate adoption.",
-        "In Japan, companies like Atama+ and Classi are already developing AI-powered learning platforms that focus on personalized learning paths and adaptive assessment. Their approach tends to emphasize AI's analytical and adaptive capabilities (its awareness) rather than attempting to mimic human consciousness. This aligns well with the study's findings, suggesting that the current direction of Japanese edtech is already navigating this human perception without explicitly addressing \"consciousness.\""
-      ],
-      "ja": [
-        "この研究が示唆するのは、AIが人間と同じようにチャットしたり、文章を書いたり、問題を解決したりできたとしても、私たちは人間が持つような「意識」をAIには感じない、ということです。まるで非常に高度なおしゃべり人形のようなものです。完璧に反応してくれますが、友人のように「感じたり」「考えたり」しているわけではないと私たちは知っています。しかし、「認識」—つまり情報を処理し反応する能力—については、AIも持っていると考える傾向があります。この微妙だが重要な認識の違いが、この研究の核心です。",
-        "東京のご家庭にとって、この発見は、子どもたちがAIチューターや学習アプリとどのように関わるかに影響を与える可能性があります。例えば、AI語学チューターを使う子どもは、その正確さや効果（AIの認識能力）は信頼するかもしれませんが、そこから感情的なサポートや深い哲学的な議論を求めることはないでしょう（AIの意識）。これは、保護者がAIツールと人間のチューターのどちらを選ぶかに影響を与え、補習教育の予算配分や、学習におけるデジタルと人間との交流のバランスに関する決定に影響を与える可能性があります。",
-        "この認識の変化はすでに今日起こりつつありますが、教育設計へのより深い影響は今後3〜5年で明らかになるでしょう。その鍵となるのは、日本のエドテック企業や学校システムがAIをどのようにブランディングし、統合するかです。もしAIを「意識を持つ」仲間としてではなく、特定の学習タスクのための強力で「認識能力のある」ツールとして位置づけるなら、現在の一般の認識と一致し、普及が加速する可能性があります。",
-        "日本では、Atama+やClassiのような企業が、パーソナライズされた学習パスと適応型評価に焦点を当てたAI学習プラットフォームを開発しています。彼らのアプローチは、人間の意識を模倣しようとするよりも、AIの分析能力や適応能力（その認識能力）を強調する傾向にあります。これは今回の研究結果とよく合致しており、日本のエドテックの現在の方向性が、「意識」を明示的に扱うことなく、この人間の認識の側面をすでに考慮に入れていることを示唆しています。"
-      ]
-    },
-    "structured": {
-      "tagline": {
-        "en": "We see AI's awareness, but not its consciousness.",
-        "ja": "AIの「認識」は認めても、「意識」は認めない私たち。"
-      },
-      "whoForWhat": {
-        "en": "For Tokyo families considering AI tutors or educational apps for their children, this study clarifies how human perception of AI's \"mind\" can influence trust and learning effectiveness.",
-        "ja": "子ども向けAIチューターや教育アプリを検討している東京のご家庭にとって、AIの「心」に対する人間の認識が、信頼や学習効果にどう影響するかを明らかにする研究です。"
-      },
-      "vsJapanContext": {
-        "en": "This research offers a global perspective on how we interact with AI, aligning with Japanese edtech companies like Atama+ and Classi which emphasize AI's functional capabilities (awareness) rather than attempting to replicate human consciousness.",
-        "ja": "この研究は、AIとの関わり方に関する世界的な視点を提供し、Atama+やClassiのような日本のエドテック企業が、人間の意識を再現しようとするよりもAIの機能的側面（認識能力）を強調するアプローチと一致しています。"
-      },
-      "tokyoNote": {
-        "en": "This study is a reminder that while AI is advancing rapidly, our human psychology in interacting with it remains complex. Tokyo parents should focus on AI's practical utility in learning, understanding its strengths in data processing and personalization, rather than expecting it to replace the unique emotional and social aspects of human teaching.",
-        "ja": "AIが急速に進歩する中で、AIと関わる私たち人間の心理が複雑であることを再認識させられる研究です。東京の保護者の方々は、AIのデータ処理や個別化における強みを理解し、学習における実用的な有用性に焦点を当てるべきでしょう。人間による教育が持つ独自の感情的・社会的側面をAIに置き換えることを期待すべきではありません。"
-      }
-    },
-    "source": {
-      "name": "ScienceDaily — Child Development",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261012185017.htm"
-    },
-    "sourceGuid": "https://www.sciencedaily.com/releases/2026/10/261012185017.htm",
-    "status": "published"
-  },
-  {
-    "slug": "beyond-the-frame-the-unspoken-stories-in-family-photo-albums",
-    "category": "early-childhood",
-    "issue": "Vol. 05",
-    "publishedAt": "2026-10-13T10:00:00.000Z",
-    "readingMinutes": 6,
-    "feature": true,
-    "cover": {
-      "src": "https://images.unsplash.com/photo-1485546246426-74dc88dec4d9?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#FFE0E5"
-    },
-    "title": {
-      "en": "Beyond the Frame: The Unspoken Stories in Family Photo Albums",
-      "ja": "写真のその先へ：家族アルバムに秘められた語られぬ物語"
-    },
-    "dek": {
-      "en": "Family photos capture moments, but the true richness of our past often lies in the narratives we construct around them. A reflection on revisiting old albums reveals how storytelling shapes our children's understanding of their history.",
-      "ja": "家族写真は一瞬を切り取りますが、私たちの過去の真の豊かさは、写真の周りに紡がれる物語の中にあります。古いアルバムを再訪する考察から、語り聞かせがいかに子どもの歴史認識を形作るかが浮き彫りになります。"
-    },
-    "author": {
-      "en": "WORLD STUDY TOKYO Editors",
-      "ja": "WORLD STUDY TOKYO 編集部"
-    },
-    "location": {
-      "en": "TOKYO",
-      "ja": "東京"
-    },
-    "tags": [
-      {
-        "en": "family",
-        "ja": "家族"
-      },
-      {
-        "en": "memory",
-        "ja": "記憶"
-      },
-      {
-        "en": "childhood development",
-        "ja": "子どもの発達"
-      },
-      {
-        "en": "parenting",
-        "ja": "子育て"
-      }
-    ],
-    "body": {
-      "en": [
-        "When we open a family photo album, we are often struck by the vividness of past moments. Yet, as one writer reflected upon returning to her mother’s apartment in Japan, the images themselves tell only part of the story. The true depth of our family history often resides in the unspoken narratives, the emotions, and the broader context that the camera did not capture.",
-        "This observation highlights a crucial aspect of how children come to understand their own past and identity. Photos serve as powerful memory cues, but without accompanying stories and shared reflections, they can remain static, presenting an incomplete picture. The gaps in these visual records are where family dialogue becomes essential, helping to weave a richer, more nuanced tapestry of memory.",
-        "For parents, this means that the act of simply looking at old photos with children can be transformed into a profound learning experience. Instead of a passive viewing, it becomes an opportunity for active storytelling and emotional connection. Encouraging children to ask questions about who, what, where, and why, prompts them to engage critically with their own history.",
-        "> The true richness of our family history often lies not in what the camera captured, but in the stories we tell around those images.",
-        "This interactive approach helps children develop a more robust sense of self and belonging. Cognitive science suggests that memory is not a fixed recording but a reconstructive process. When families collectively revisit photos and share anecdotes, they are actively participating in the construction of a shared past, reinforcing emotional bonds and deepening understanding.",
-        "The process involves more than just recalling facts; it’s about imparting values, explaining decisions, and sharing the feelings associated with those moments. This narrative scaffolding allows children to place themselves within a continuous family lineage, understanding not just events, but the human experiences that shaped them. It’s a powerful tool for fostering empathy and historical literacy within the home.",
-        "Ultimately, family photo albums are not just repositories of images, but springboards for conversation. The most enduring lessons and the deepest connections often emerge when we move beyond the visual frame and delve into the narratives that breathe life into our shared memories."
-      ],
-      "ja": [
-        "家族のアルバムを開くと、過去の瞬間が鮮やかに蘇ることがよくあります。しかし、ある筆者が日本の実家で母親のアルバムを再訪した際に気づいたように、写真そのものが語るのは物語の一部に過ぎません。家族の歴史の本当の深みは、カメラが捉えきれなかった語られぬ物語、感情、そしてより広い文脈の中に存在しています。",
-        "この考察は、子どもたちが自身の過去とアイデンティティを理解する上で極めて重要な側面を浮き彫りにします。写真は強力な記憶の手がかりとなりますが、それに伴う物語や共有された振り返りがなければ、静的なままで、不完全な絵を提供しかねません。この視覚的記録の空白こそが、家族の対話が不可欠となる場所であり、より豊かで繊細な記憶のタペストリーを織りなす助けとなります。",
-        "保護者にとって、これは単に子どもたちと古い写真を見るという行為が、深い学びの経験へと変容しうることを意味します。受動的な鑑賞ではなく、能動的な語り聞かせと感情的なつながりの機会となるのです。子どもたちに「誰が」「何が」「どこで」「なぜ」といった質問を促すことは、彼らが自身の歴史に批判的に関わるきっかけとなります。",
-        "「家族の歴史の真の豊かさは、カメラが捉えたものだけでなく、その写真の周りで語られる物語の中にこそある。」",
-        "このような対話的なアプローチは、子どもたちがより強固な自己認識と帰属意識を育むのに役立ちます。認知科学では、記憶は固定された記録ではなく、再構築のプロセスであると示唆されています。家族が一緒に写真を再訪し、逸話を共有する時、彼らは共通の過去の構築に積極的に参加し、感情的な絆を強化し、理解を深めているのです。",
-        "このプロセスは、単に事実を思い出す以上のものです。それは価値観を伝え、決断の背景を説明し、その瞬間に伴う感情を共有することを含みます。この物語の足場が、子どもたちが連続する家族の系譜の中に自分自身を位置づけ、出来事だけでなく、それらを形作った人間の経験を理解することを可能にします。これは家庭内で共感と歴史的リテラシーを育む強力なツールとなります。",
-        "結局のところ、家族のアルバムは単なる画像の保管庫ではなく、会話のきっかけとなるものです。最も永続的な教訓と最も深いつながりは、視覚的な枠を超え、私たちの共有された記憶に命を吹き込む物語を掘り下げるときに生まれるでしょう。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "This insight into how family narratives shape a child's understanding of their past holds particular resonance for Tokyo families. In our busy urban lives, the time dedicated to quiet reflection and shared storytelling can sometimes feel scarce. Yet, the article reminds us that actively engaging with family photos, moving beyond just the visual, offers a powerful way to connect generations and build a child's sense of identity.",
-        "For Tokyo families, this could translate into more intentional \"album time\" — perhaps a dedicated evening each month where digital photos are projected, or physical albums are brought out, not just for viewing, but for active discussion. This practice could be especially valuable for families with children navigating the complexities of their identity, whether they attend local schools or international ones, by providing a strong anchor in their personal history.",
-        "This shift towards more narrative-rich engagement with family history is not about a new policy or curriculum, but rather a change in parenting practice. It's something families can implement today, with immediate benefits. Within the next 1-2 years, we might see a rise in workshops or online resources promoting guided family storytelling around photos, as parents seek practical ways to deepen these connections.",
-        "While there isn't a direct Japanese institutional counterpart focused specifically on this narrative method, the cultural emphasis on preserving \"思い出\" (omoidé — memories) through physical albums and scrapbooks is strong. Services like FujiFilm's photo book creation or even the traditional practice of parents and grandparents recounting family history informally already exist. The key insight here is to elevate these existing practices into more structured, intentional storytelling sessions to fully unlock the developmental benefits for children."
-      ],
-      "ja": [
-        "家族の物語が子どもの過去の理解をどのように形作るかというこの洞察は、東京で子育てをするご家庭にとって特に深く響くでしょう。多忙な都市生活の中で、静かに振り返り、物語を共有する時間は時に不足しがちです。しかし、この記事は、家族の写真に能動的に関わり、視覚的な情報だけでなく、その背景にある物語を語り合うことが、世代をつなぎ、子どものアイデンティティを育む強力な方法であることを教えてくれます。",
-        "東京のご家庭では、これをより意識的な「アルバム時間」として取り入れることができるでしょう。例えば、月に一度、デジタル写真をプロジェクターで映したり、物理的なアルバムを広げたりして、単に眺めるだけでなく、活発な話し合いの場を設けるのです。これは、地元の学校に通う子どもたちにとっても、インターナショナルスクールに通う子どもたちにとっても、自身の個人的な歴史に強力な拠り所を提供し、アイデンティティの複雑さを乗り越える上で特に価値ある実践となる可能性があります。",
-        "家族の歴史との関わり方をより物語豊かなものへと変えるこの動きは、新しい政策やカリキュラムによるものではなく、むしろ子育ての実践の変化です。ご家庭は今日からでも実践でき、すぐにその恩恵を感じられるでしょう。今後1〜2年の間に、保護者がこうしたつながりを深める実践的な方法を求めるにつれて、写真を通じた家族の物語作りのワークショップやオンラインリソースが増加するかもしれません。",
-        "この物語的アプローチに特化した直接的な日本の機関はありませんが、物理的なアルバムやスクラップブックを通じて「思い出」を大切にする文化的な傾向は日本に深く根付いています。富士フイルムの写真集作成サービスや、両親や祖父母が非公式に家族の歴史を語り継ぐ伝統的な慣習もすでに存在します。ここでの重要な洞察は、これらの既存の慣習を、子どもたちの発達上の利点を最大限に引き出すために、より構造化され、意図的な語り聞かせのセッションへと高めることです。"
-      ]
-    },
-    "structured": {
-      "tagline": {
-        "en": "Family photos are just the beginning of our shared stories.",
-        "ja": "家族写真は共有された物語の始まりに過ぎない"
-      },
-      "whoForWhat": {
-        "en": "For Tokyo families with children of all ages, this piece offers a gentle reminder on how to use family photo albums to build stronger intergenerational bonds and a deeper sense of personal history and identity.",
-        "ja": "あらゆる年齢の子どもを持つ東京のご家庭に向けて、家族アルバムを通じて世代間の絆を深め、個人的な歴史とアイデンティティの感覚を育む方法を提案します。"
-      },
-      "vsJapanContext": {
-        "en": "This concept aligns with Japan's cultural emphasis on preserving \"思い出\" (omoidé) through physical albums, yet encourages a more active, narrative-driven approach beyond passive viewing, contrasting with the often quiet and reflective nature of traditional photo album experiences.",
-        "ja": "日本の「思い出」を物理的なアルバムで大切にする文化と合致しつつも、伝統的な静かな鑑賞体験とは異なり、より能動的で物語主導のアプローチを促します。"
-      },
-      "tokyoNote": {
-        "en": "In Tokyo's often compact living spaces, digital photo archiving is common, but this article reminds us of the unique power of physical albums as prompts for conversation. Consider making \"story time with photos\" a regular family ritual, adapting it to your family's rhythm and digital habits.",
-        "ja": "東京の限られた居住空間ではデジタル写真のアーカイブが一般的ですが、この記事は物理的なアルバムが会話のきっかけとなる独自の力を再認識させます。「写真で語る時間」を家族の習慣とし、ご家庭のリズムやデジタル習慣に合わせて取り入れてみてください。"
-      }
-    },
-    "source": {
-      "name": "Psyche",
-      "url": "https://psyche.co/ideas/what-is-hidden-in-the-photographs-we-keep-of-each-other"
-    },
-    "sourceGuid": "urn:id:9018",
-    "status": "published"
-  },
-  {
-    "slug": "daily-routines-build-resilience-a-study-on-stress-and-psychological-flexibility",
-    "category": "research",
-    "issue": "Vol. 05",
-    "publishedAt": "2026-10-13T09:19:27.000Z",
-    "readingMinutes": 4,
-    "feature": true,
-    "cover": {
-      "src": "https://www.sciencedaily.com/images/1920/stress-anxiety-depression-glowing-brain.webp",
-      "tone": "#0c0c0c"
-    },
-    "title": {
-      "en": "Daily Routines Build Resilience: A Study on Stress and Psychological Flexibility",
-      "ja": "日々の習慣が回復力を育む：ストレスと心理的柔軟性に関する研究"
-    },
-    "dek": {
-      "en": "A Binghamton University study reveals how consistent daily habits—from breakfast to sleep—significantly enhance one's ability to adapt to stress, fostering psychological flexibility.",
-      "ja": "ビンガムトン大学の研究が、朝食や睡眠といった一貫した日々の習慣がストレスへの適応能力を著しく高め、「心理的柔軟性」を育むことを明らかにしました。"
-    },
-    "author": {
-      "en": "WORLD STUDY TOKYO Editors",
-      "ja": "WORLD STUDY TOKYO 編集部"
-    },
-    "location": {
-      "en": "TOKYO, October 2026",
-      "ja": "東京、2026年10月"
-    },
-    "tags": [
-      {
-        "en": "well-being",
-        "ja": "ウェルビーイング"
-      },
-      {
-        "en": "stress management",
-        "ja": "ストレスマネジメント"
-      },
-      {
-        "en": "daily routines",
-        "ja": "生活習慣"
-      },
-      {
-        "en": "child development",
-        "ja": "子どもの発達"
-      }
-    ],
-    "body": {
-      "en": [
-        "A recent study from Binghamton University, published in October 2026, suggests that everyday routines significantly influence an individual's ability to handle stress. Researchers found a strong link between consistent healthy habits and improved psychological flexibility (the capacity to adapt to life's challenges), which helps people navigate stressful situations more effectively.",
-        "The study, involving approximately 400 college students, identified several key lifestyle factors. Regular breakfast, consistent exercise, sufficient sleep, and even fish oil supplementation were associated with a greater ability to manage and adapt to stress. Conversely, poor sleep and unhealthy eating habits correlated with reduced resilience and a diminished capacity to respond constructively to challenges.",
-        "Psychological flexibility is not simply about avoiding stress, but about responding to it in a constructive manner. The findings indicate that foundational daily practices build a buffer against daily pressures. These habits create a stable physiological and mental environment, allowing individuals to approach problems with an open mind rather than being overwhelmed by difficulties.",
-        "This research underscores the importance of basic self-care, which is often overlooked in the context of demanding academic or personal lives. It suggests that equipping students with tools to manage stress might begin not with complex psychological interventions, but with reinforcing fundamental routines like starting the day with a nourishing meal or ensuring adequate rest each night.",
-        "> \"Your daily routine could have a bigger impact on your ability to handle stress than you realize.\"",
-        "The study highlights that fostering resilience is a continuous process, built through small, consistent choices rather than grand, occasional efforts. While this research focused on college students, the principles of routine and well-being are fundamental at all ages. Future studies could explore how these habits are best cultivated in younger children and how early interventions might build lifelong psychological flexibility, especially in demanding academic environments."
-      ],
-      "ja": [
-        "2026年10月に発表されたビンガムトン大学の研究は、日々の生活習慣が個人のストレス対処能力に大きく影響するという知見を示しました。研究者たちは、健康的な習慣を継続することが「心理的柔軟性」（しなやかに状況に適応し、困難な状況下でも前向きな行動を選択する能力）を高め、ストレスの多い状況に効果的に対処するのに役立つことを発見しました。",
-        "約400人の大学生を対象としたこの研究では、いくつかの重要なライフスタイル要因が特定されました。具体的には、毎日の朝食、定期的な運動、十分な睡眠、さらには魚油の摂取が、ストレスを管理し適応する能力の向上と関連していました。その一方で、睡眠不足や不健康な食習慣は、回復力の低下や課題に建設的に対応する能力の減退と結びついていたと報告されています。",
-        "心理的柔軟性とは、単にストレスを避けることではなく、ストレスに対して建設的な方法で対応する能力を指します。今回の研究結果は、基本的な日々の実践が、日常のプレッシャーに対する緩衝材となることを示唆しています。これらの習慣は、生理学的および精神的に安定した環境を作り出し、個人が困難に圧倒されることなく、開かれた心で問題に取り組むことを可能にします。",
-        "この研究は、学業や個人的な生活が多忙な中で見過ごされがちな、基本的なセルフケアの重要性を強調しています。学生がストレスを管理するためのツールを身につけることは、複雑な心理的介入からではなく、栄養のある朝食で一日を始めることや、毎晩十分な休息を確保するといった基本的なルーティンを強化することから始まる可能性があることを示唆しています。",
-        "「あなたの毎日のルーティンは、あなたが思っている以上にストレスへの対処能力に大きな影響を与える可能性があります。」",
-        "この研究は、回復力を育むことが、大々的な一時的な努力ではなく、小さな一貫した選択を通じて築かれる継続的なプロセスであることを示唆しています。この研究は大学生に焦点を当てていますが、ルーティンとウェルビーイングの原則はあらゆる年齢層にとって基礎的なものです。将来の研究では、これらの習慣が幼い子どもたちにどのように最も効果的に育まれるか、また早期の介入が、特に要求の多い学業環境において、生涯にわたる心理的柔軟性をどのように構築できるかを探求するかもしれません。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "This study essentially tells us that how we start and end our days, and what we put into our bodies, directly affects our ability to stay calm and adapt when things get tough. Think of it like a child learning to ride a bike: consistent small efforts—balancing, pedaling, falling, and getting back up—build confidence and skill far more effectively than one intense, infrequent lesson. Similarly, daily habits like a regular breakfast or enough sleep aren't just about physical health; they're building blocks for mental resilience, helping children bend without breaking under pressure.",
-        "For Tokyo families, this could subtly shift how we view success and preparation. Instead of solely focusing on academic achievement or exam scores, there might be a growing recognition of the holistic foundation that supports learning. We might see families placing more emphasis on structured family mealtimes, consistent bedtimes even for older children, or incorporating simple physical activity into daily routines, rather than just adding more study hours or cram school sessions. This could influence choices between international schools that often emphasize well-being, and domestic schools with more traditional academic pressures.",
-        "This shift is likely to be gradual, perhaps within 3-5 years, gated by a broader societal understanding and market response. Major juku or international schools might begin to explicitly integrate \"well-being\" or \"resilience-building\" programs that go beyond just academics, potentially influencing their curriculum design or student support services. However, it requires a cultural shift in how parents and institutions perceive the interplay between lifestyle and academic performance, which takes time to permeate.",
-        "While not a direct counterpart in terms of specific programs, some initiatives in Japan already touch on this. For instance, the emphasis on \"早寝早起き朝ごはん\" (early to bed, early to rise, eat breakfast) campaigns promoted by local education boards and some schools aligns with these findings. Additionally, institutions like N高等学校 and S高等学校, known for their flexible learning environments, often encourage students to manage their own schedules, implicitly fostering self-care habits. However, a more explicit integration of \"psychological flexibility\" as a core developmental goal, supported by specific daily routines, is still nascent compared to the traditional focus on academic rigor."
-      ],
-      "ja": [
-        "この研究が教えてくれるのは、私たちが一日をどう始め、どう終えるか、そして何を食べるかが、困難な状況に直面したときに落ち着いて適応する能力に直接影響するということです。これは、子どもが自転車の乗り方を学ぶのと似ています。バランスを取り、ペダルをこぎ、転んで、また立ち上がるという一貫した小さな努力が、一度の集中的なレッスンよりもはるかに効果的に自信とスキルを築きます。同様に、毎日の朝食や十分な睡眠といった習慣は、単に身体の健康のためだけでなく、精神的な回復力の土台を築き、子どもたちがプレッシャーの下で折れることなくしなやかに対応できるよう助けるのです。",
-        "東京のご家庭にとって、これは成功や準備に対する見方を微妙に変える可能性があります。学業成績や試験の点数だけに焦点を当てるのではなく、学習を支えるホリスティックな基盤への認識が高まるかもしれません。家族で食卓を囲む時間を大切にしたり、年長の子どもでも一貫した就寝時間を設けたり、あるいは単に勉強時間を増やしたり塾に通わせたりするだけでなく、日々のルーティンに簡単な身体活動を取り入れたりすることに、より重点を置くようになるかもしれません。これは、ウェルビーイングを重視するインターナショナルスクールと、より伝統的な学業プレッシャーのある国内学校との選択にも影響を与える可能性があります。",
-        "この変化は、より広範な社会の理解と市場の反応に左右され、おそらく3〜5年かけて徐々に進むでしょう。大手塾やインターナショナルスクールが、学業だけでなく「ウェルビーイング」や「回復力育成」プログラムを明確にカリキュラムや生徒支援サービスに組み込み始める可能性もあります。しかし、ライフスタイルと学業成績の相互作用に対する保護者や機関の認識を変えるには、文化的なシフトが必要であり、それには時間がかかります。",
-        "日本には、この研究の知見と完全に一致する特定のプログラムはまだ少ないかもしれませんが、関連する取り組みは存在します。例えば、地方の教育委員会や一部の学校が推進する「早寝早起き朝ごはん」運動は、これらの発見と軌を一にしています。また、N高等学校やS高等学校のような柔軟な学習環境を提供する学校は、生徒自身がスケジュールを管理することを奨励しており、暗黙のうちにセルフケアの習慣を育んでいます。しかし、「心理的柔軟性」を具体的な日々のルーティンで支える中核的な発達目標として明確に統合する動きは、従来の学業重視の姿勢と比較すると、まだ始まったばかりと言えるでしょう。"
-      ]
-    },
-    "structured": {
-      "tagline": {
-        "en": "Daily routines build psychological flexibility, reducing stress.",
-        "ja": "日々の習慣が心理的柔軟性を育み、ストレスに強くする。"
-      },
-      "whoForWhat": {
-        "en": "For Tokyo families with children of all ages, this study offers insights into how consistent daily routines, from breakfast to sleep, can build resilience against academic and life stress.",
-        "ja": "東京で子育てをするご家庭にとって、朝食から睡眠まで一貫した日々の習慣が、学業や生活のストレスに対する回復力をどのように育むかについて示唆を与えます。"
-      },
-      "vsJapanContext": {
-        "en": "While Japan's education system often emphasizes rigorous academic preparation, this research highlights the often-underestimated role of basic lifestyle habits, contrasting with a potential focus on sheer study hours.",
-        "ja": "日本の教育システムが学業の厳しさに焦点を当てがちな中で、この研究は基本的な生活習慣の役割を強調し、単なる学習時間だけではない回復力育成の視点を提供します。"
-      },
-      "tokyoNote": {
-        "en": "Tokyo parents often navigate intense schedules for their children. This finding reminds us that even amid juku and extracurriculars, prioritizing foundational habits like a consistent morning routine and adequate sleep offers a powerful, accessible tool for well-being.",
-        "ja": "東京の保護者は、子どもの多忙なスケジュール管理に日々向き合っています。この研究は、塾や習い事が多い中でも、一貫した朝のルーティンや十分な睡眠といった基本的な習慣を優先することが、子どもの心の健康にとって強力な基盤となることを示唆しています。"
-      }
-    },
-    "source": {
-      "name": "ScienceDaily — Child Development",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261012185023.htm"
-    },
-    "sourceGuid": "https://www.sciencedaily.com/releases/2026/10/261012185023.htm",
     "status": "published"
   }
 ]
